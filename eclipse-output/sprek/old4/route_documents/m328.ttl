@@ -1,0 +1,18 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike328>
+	a	...Thing... ;
+	dct:title				"""Fana Halvmaraton"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Rutebeskrivelse:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Denne ruten følger samme vei som Maratonkarusellen som blir arrangert 5 ganger i løpet av et år.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Både start og målgang er på Fana stadion. Ruten kan derfor forlenges til helmaraton ved å løpe en ekstra gang. Løypen går på asfaltveier som er mer eller mindre helt bilfri.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Tilkomst:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Start fra Fana stadion. Her er det parkering.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Tidsbruk:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Dette avhenger av farten man har. I rolig joggetempo kan man beregne ca 2 timer. &lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Passer
+for:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Denne ruten er beregnet for langdistansejoggere.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Utstyrbehov:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Gode joggesko.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eb1482e24465.jpg> ;
+	<image_credit>		"""BT""" ;
+	<created>		"""2011-11-01 16:49:46""" ;

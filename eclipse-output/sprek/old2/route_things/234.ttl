@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route234>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/234> ;
+	<name>		"""Varderekken Rollandââ‚¬â€œVikinghyttenââ‚¬â€œJordalsvatnet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""9.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-01 13:51:31""" ;
+	<encoded_path>		"""kr~oJclp_@EkAAIh@q@l@a@l@_@n@OdBn@xA?^Jr@U`@e@b@E`@a@v@Cp@Ud@a@f@?XUt@u@x@g@p@kBlAmBVcBh@Z|@[ZmBXqATaBVmBX}@`@wABsC{AaA{CfBm@i@wAHW^c@YIaA[mAIe@VgATYP[Cq@S_EAuELwAPgA@wBNgBGk@PQMkAFsB@qAGwF?e@kBgBi@?HuA^eEn@IbBsBvBeFNw@`@IdAgA`BeFnBgGgBgM~GwGnBoD`B}F?wA^{AN}@d@qAKaBZ?S}Ad@OZwAzBwG|DwFbA}BrATfByCz@mCb@UdB}AzAmC?w@j@gBLa@fA?n@eAd@q@r@w@xB{F|@k@pAgBtA_Dd@{@r@a@Vu@z@Ud@O`@gB?}Aj@mA`DqGbBoEZEZ{@~CoCl@D`AqAnAwArBpBRJhA_@d@a@hCt@v@OxAoD~@oEd@_DtAgCbCaF|FgLtBcCnAyDfCcDjCkJlImNfEyOpFyM?@PqCTWf@RFnBe@|Dl@xEh@jDTbA^hDnALx@tEk@dMGrEnAnATfJhAxHfAnAtHuDb@fAaEtRoCdKUhCqApFeCtB_DhHwCzEoCdLaDpKoH`O{Hha@mEdT""" ;

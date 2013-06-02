@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route334>
+	a	...Thing... ;
+	<name>		"""HelgesÃ¦ter â€“ Ulriken"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;FÃ¸lg grusveien oppover fra HelgesÃ¦ter. Denne grusveien gÃ¥r etter hvert over i sti. Man passer pÃ¥ oversiden av Nubbevatnet, men kan velge Ã¥ fÃ¸lge stien til vannet om man Ã¸nsker det. Videre fÃ¸lger en stien over LandÃ¥seggen mot Ulriken. Stien gÃ¥r over eit parti med myrete omrÃ¥de, sÃ¥ gode sko er en fordel. Stien er noenlunde godt merket hele veien.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Det er en god parkeringsplass rett etter HelgesÃ¦ter.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. 3 timer tur/retur&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret og husk gode sko.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25.000), 7-fjellsturen turkart (1:25 000)."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eb14fcbc22fe.jpg> ;
+	<image_credit>		"""Martin Eilertsen""" ;
+	<created>		"""2011-11-02 15:10:07""" ;

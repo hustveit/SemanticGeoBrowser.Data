@@ -1,0 +1,39 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route227>
+	a	...Thing... ;
+	<name>		"""LyngbÃ¸-Lyderhorn"""@no ;
+	<ingress>		"""Bratt og kort vei opp til Lyderhorn."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra riksvei 555 like bak LyngbÃ¸ pÃ¥ LaksevÃ¥g. FÃ¸lge stien opp
+til hÃ¸yre fra veien og inn mot Banuren. FÃ¸lg stien opp til venstre rett etter
+det store hvite huset. Denne stien gÃ¥r vestover opp StÃ¸labakken mot toppen av Lyderhorn.
+Det er bratt stigning hele veien, sÃ¥ det kan vÃ¦re lurt Ã¥ ta en pust i bakken
+innimellom. Stien er lett Ã¥ fÃ¸lge hele veien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;PÃ¥ toppen er der fantastisk utsikt og fint Ã¥ raste. Man kan returnere samme
+vei, eller gÃ¥r ned til Gravdal, SkÃ¥levik eller KjÃ¸kkelvik. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kjÃ¸rer til LyngbÃ¸ pÃ¥ LaksevÃ¥g. Det er ingen avsatte parkeringsplasser sÃ¥
+utvis hensyn nÃ¥r du parkerer. Det er ogsÃ¥ mulig Ã¥ parkere ved Rema 1000 i
+Gravdal eller ved LaksevÃ¥g videregÃ¥ende utenom skoletid. Herfra tar det ti
+minutter Ã¥ gÃ¥ til startpunktet pÃ¥ riksvei 555. Man kan ogsÃ¥ ta buss nr. 17 fra
+sentrum til LyngbÃ¸lien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt 1 time Ã¥ gÃ¥ opp. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste. Stien er ganske bratt, sÃ¥ hvis man gÃ¥r med
+barn vil jeg heller anbefale Ã¥ gÃ¥ turen opp fra Gravdal/NUTEC. Turen er uegnet
+for bruk av rullestol og trillevogn. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter vÃ¦ret. Gode fjellsko er en fordel. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;
+Tur- og friluftskart for Bergen 1:25 000.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/i&gt;&lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e31530507b32.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-28 13:27:05""" ;

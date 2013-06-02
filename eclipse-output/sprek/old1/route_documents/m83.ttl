@@ -1,0 +1,38 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route83>
+	a	...Thing... ;
+	<name>		"""BÃ¸nestoppen - Gullsteinen - LÃ¸vstakken"""@no ;
+	<ingress>		"""Med variert vegetasjon, terreng og dyre- og fugleliv byr LÃ¸vstakken-omrÃ¥det pÃ¥ bÃ¥de fine tÃ¸ffe naturopplevelser â€“ alt lett tilgjengelig fra Bergen. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;br&gt;&lt;/b&gt;
+
+Hovedstien fra BÃ¸nes gÃ¥r pÃ¥ hÃ¸ydedraget Knultrane mellom BÃ¸nesskogen og 
+BÃ¸nesheia, med tilknyttet sti fra BÃ¸nesparken ved endestoppet pÃ¥ toppen.
+ For Ã¸vrig kryr det av stier pÃ¥ hÃ¸ydedraget Ã¸st for Nordre BÃ¸nes, men 
+dersom man ikke er kjent anbefales det Ã¥ ta utgangspunkt i hovedstien.
+
+&lt;br&gt;&lt;br&gt;Stien fra BÃ¸nes skrÃ¥ner opp mot Gullsteinen. Herfra gÃ¥r stien videre 
+nordover mot LÃ¸vstakken. 
+
+OmrÃ¥det utgjÃ¸r en langstrakt fjellrygg mellom Bergensdalen og 
+Fyllingsdalen pÃ¥ ca. 7 kvadratkilometer. NÃ¥r man nÃ¥r toppen av 
+LÃ¸vstakken, kan man velge Ã¥ gÃ¥ samme vei tilbake, men turen kan ogsÃ¥ 
+kombineres med en av de mange andre turstiene i omrÃ¥det. Se eksempelvis 
+&lt;a href="http://tur.bt.no/tur/69"&gt;Solheimsviken-LÃ¸vstakken&lt;/a&gt; eller &lt;a href="http://tur.bt.no/tur/75"&gt;KrohnegÃ¥rden-LÃ¸vstakken&lt;/a&gt;.
+
+&lt;br&gt;&lt;br&gt;Mot Fyllingsdalen i vest er terrenget til dels meget bratt, med fÃ¥ 
+atkomstmuligheter. Mot Bysiden er fjellsidene bratte nok til at man fort
+ fÃ¥r opp varmen og pulsen nÃ¥r man gÃ¥r opp fra nord eller Ã¸st. Disse 
+oppgangene er de mest brukte.
+
+&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;For Ã¥ komme seg til utgangspunktet kan man ta buss til BÃ¸nestoppen eller kjÃ¸re og parkere langs veien eller ved kjÃ¸pesenteret. &lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Turen er beregnet til Ã¥ ta mellom 2,5-3 timer totalt, hvis man gÃ¥r i vanlig/rolig tempo.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;br&gt;&lt;/b&gt;Turer opp LÃ¸vstakken er absolutt Ã¥ anbefale for alle, ikke minst for Ã¥ oppleve byen fra en 
+ny og spennende vinkel.
+
+Denne turen passer for de fleste, men er ikke egnet for trillevogn og rullestol. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales og ta gjerne med kikkert for Ã¥ kunne nyte utsikten bedre.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt; &lt;br&gt;O-kart LÃ¸vstakken (1:15 000),
+O-kart Langeskogen (1:10 000),
+1115 I Bergen (1:50 000),
+Tur- og Friluftskart Bergen (1:25.000),
+7-fjellsturen turkart (1:25 000).
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4da54c0f37dafjpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-13 09:05:32""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike262>
+	a	...Thing... ;
+	dct:title				"""Fauskanger ââ‚¬â€œ Bekkenes"""@no ;
+	<ingress>		"""Langs vakre steingjerde og kring småbratte fjell."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Stien er tydeleg og går gjennom eit lite skar, og ein kjem opp på høgdedraget. Her møter ein på ein lang steingard som skilde innmark og utmark på lille Fauskanger. Vidare går ein nordover og får Furevatnet ned på austsida. Her kan ein velja om ein vil gå langs vatnet eller over Søre Bekkefjellet. Frå toppen av fjellet er det flott utsyn ned til Bekkenes.&lt;br&gt;&lt;br&gt;Så går ein ned mot Bekkenes sør for Nordre Bekkefjellet. Ein rundar ei lita tjørn og ei myr, og dreiar austover mot Tverrgardtjørna. Her går ein opp i ein liten dal i søraustleg retning, og ser så eit lite skar med gjerde og grind opp til venstre. Vegen vidare er opp her og over åsryggen, og ein kjem ned att i Skitnedalen og ned til Vassenden ved Storevatnet. Her er ingen tydeleg sti, og somme stader litt attgrodd.&lt;br&gt;&lt;br&gt;Stien opp frå Skitnedalen er litt bratt, men når ein kjem opp, er ein på nytt i ope terreng, og en følgjer så ein god sti gjennom Dyrebotnen og fram til riksvegen. Då er det berre nokre hundre meter tilbake til utgangspunktet.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Denne turen startar frå den gamle skuleplassen i Fauskanger, ca. 17 km nord for Kleppestø langs rv. 562. Herifrå følgjer ein vegen mot Lille Fauskanger, ca. Â½ km, og tek av på første gardsvegen til høgre nede på flata. Ein passerer låvebygningen og dreiar til venstre, går gjennom ei grind og kjem til utmarka.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;1,5 time&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lett tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været. Gode tursko anbefales.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Herdla 1116 III&lt;br&gt;&lt;br&gt;Turtipset er hentet fra boken Opptur Hordaland&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-10-11 09:51:16""" ;

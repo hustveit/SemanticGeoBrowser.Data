@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route123>
+	a	...Thing... ;
+	<name>		"""StÃ¸botn - Tellevikafjellet - Hordvik"""@no ;
+	<ingress>		"""Turen tek deg gjennom variert terreng, gjennom kulturlandskap, lauvskog og barskog, og pÃ¥ toppen ser du pÃ¥ klÃ¥re dagar forbi HolsnÃ¸y og AskÃ¸y og like til plattformane i Nord!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Turen tek 
+til pÃ¥ Hitland. FÃ¸rst pÃ¥ asfalt opp til Baugtveit, derifrÃ¥ pÃ¥ kjerreveg og stig 
+opp til toppen og ned att pÃ¥ andre sida, ved SÃ¦tregÃ¥rden. FrÃ¥ SÃ¦tregÃ¥rden tek du 
+Falkangervegen ned til Hordvik, eller du kan gÃ¥ pÃ¥ stig ned til Tellevik.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ta buss til StÃ¸botn og gÃ¥ derifrÃ¥ 
+opp til Hitland, forbi Hitland GjestegÃ¥rd og opp til Baugtveit, der kjerrevegen 
+tek deg ut i terrenget. Du kan ogsÃ¥ kÃ¸yra privatbil og parkera pÃ¥ opparbeidd 
+parkeringsplass pÃ¥ Baugtveit. Men dÃ¥ mÃ¥ du attende til utgangspunktet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tre, fire timar er rikeleg med tid pÃ¥ 
+Ã¥ koma seg frÃ¥ den eine til den andre sida av fjellet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;SmÃ¥ og store greier seg fint i dette 
+terrenget. Oppstigningen er her og der litt bratt, og det same gjeld deler av 
+nedstigninga til SÃ¦tregÃ¥rden. Gjennom barskogen her kan det ogsÃ¥ vera sleipt pÃ¥ 
+vÃ¥te dagar.&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vanleg turutstyr greier seg 
+normalt, ta gjerne med kikkert. Hugs at det kan vera surt pÃ¥ toppen, ha difor gjerne med ein ekstra 
+genser. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bergen (1:50.000).&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4ddbe791067e7.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-24 19:07:03""" ;

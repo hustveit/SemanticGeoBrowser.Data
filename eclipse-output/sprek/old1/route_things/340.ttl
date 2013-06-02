@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route340>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/340> ;
+	<name>		"""Ytre Arna â€“ HetlebakksÃ¥ta"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-07 11:32:45""" ;
+	<encoded_path>		"""s}_pJg_c`@Dj@UlBQrAsApBk@bBWXM?o@|A]p@Op@aAlBYtAYPm@?_AdA{@p@Uv@sAEa@?IZmAvAUpAs@t@o@pAm@vAgA~BoBlB{CtEsBbDoBtDq@nDk@lBeClD]j@gAd@aC`FcAlBsA|BG~DAfB{@jFOpEc@vDy@nDq@~AVj@NzBZ`FLzEPpC""" ;

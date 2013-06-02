@@ -1,0 +1,16 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place32>
+	a	...Thing... ;
+	<name>		"""SmÃ¸rÃ¥sfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;SmÃ¸rÃ¥s og Hamrefjellet ligger i Bergen kommune, Fana bydel. Avgrensing i Ã¸st er mot Kalandsvannet, i sÃ¸r mot Hamrevegen, i vest mot Fanavegen og i nord mot Tranevannet. Turterrenget pÃ¥ SmÃ¸rÃ¥sfjellet ligger som en oase for smÃ¥barnsfamilier og andre som vil ha en sÃ¸ndagstur uten Ã¥ slite seg opp pÃ¥ de hÃ¸yeste tinder. HÃ¸yeste toppen er Hamrefjellet, (250 moh). &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc969299e4f3.jpg> ;
+	<image_credit>		"""Svein Solheim""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e033a3896230.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert pÃ¥ "Syningom". Syningom ligger langs Ytrestien. Merket fra militÃ¦rveg/hovedsti. For innsjekk via Sprek appen vil det vÃ¦re en fordel Ã¥ bevege seg til nordsvest siden av BjÃ¸rnevannet. Det er nemlig her spotet er plassert."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-08-01 08:37:06""" ;
+	<gowalla_name>		"""SmÃ¸rÃ¥s Fjellet"""@no ;
+	<gowalla_description>		"""Tur omrÃ¥det
+"""@no ;

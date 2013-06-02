@@ -1,0 +1,22 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike245>
+	dct:title				"""Riple-Totlandsfjellet"""@no ;
+	sf_ont:ingress			"""Fin og enkel stigning opp til toppen hvor man blir belønnet med flott utsikt."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Riple. Følg stien som går nordvestover mot ÃËœvre Totland. Litt vest for ÃËœvre Totland møter man et stidelet. Her holder man til høyre og går nordover langs stien mot toppen av Totlandsfjellet. Stien er lett å følge og går i jevn stigning oppover mot toppen av Totlandsfjellet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;På toppen, som er 546 meter over havet, er det flott utsikt man kan nyte mens man tar seg en liten rast. Tilbaketuren tas på samme vei.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Riple som ligger på Totland. Det er ingen avsatte parkeringsplasser så ta hensyn når du parkerer. Man kan også ta buss nr. 71 Nesttun terminal &amp;nbsp;til Riple snuplass. For å komme til Nesttun fra Bergens sentrum må man benytte Bybanen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar omrent en time å gå fra Riple og opp til toppen ac Totlandsfjellet. Beregn litt kortere tid på veien ned. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen går på sti så den er ikke egnet for barnevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Fjellsko er anbefalt. &lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e3a8ad586301.jpg> ;
+	sf_ont:image_credit		"""EIVIND A PETTERSEN""" ;
+	dct:created				"""2011-08-04 13:52:09""" .

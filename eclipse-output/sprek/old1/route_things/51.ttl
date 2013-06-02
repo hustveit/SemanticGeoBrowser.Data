@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route51>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/51> ;
+	<name>		"""Sandviksbatteriet - Sandvikspilen - Skredderdalen"""@no ;
+	<length_in_time>		"""105""" ;
+	<length_in_km>		"""4.4""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-17 10:10:37""" ;
+	<encoded_path>		"""}svoJyco_@Sf@Uf@W[A_A??J{@Pw@Vg@Lo@Ls@Iu@[f@U^U^]P]TUZWl@Sp@Yn@Yh@Gv@Sd@Ud@WZ_@FAx@Mp@Av@Un@?|@W\S`@Y`@Ub@[LYP]UUo@Pg@Js@Lm@E}@Jq@@w@XSA_AEw@Aw@Dw@Qo@Jq@Pi@A{@@u@L{@Ks@Re@Tc@Jo@Hu@Te@Lm@Fs@Jq@Nq@Lo@Tc@No@Eu@Jw@Jw@@y@FeAVYNm@Xw@Xm@\GV]\A`@AZGPf@XTT_@XWZDZCVUZEZARa@X[Rg@ZOXFXWVYLo@ZKVO?{@Kq@Gu@Cw@Kq@Qi@Hs@Re@Lw@H{@Nu@@_AEw@Oo@Sc@Ks@Lm@Ti@V_@Ve@Ta@Pm@Js@Js@Hq@Hu@Nu@Jq@Js@Lq@Ju@Lo@Re@Lo@Rw@Py@No@Rg@V[Te@X_@V[XWVe@Re@Te@Jc@Rm@Lq@Ve@V[Pq@Nm@Ve@\a@Nm@Ri@Rg@Rg@T_@XYZGV_@ZAXa@Tc@Ri@Tk@Tm@?w@Nk@XNVZVd@Z@Z?Z@XXPn@Cv@Gt@@z@Ln@Rf@VXXXAfADx@Dv@Lp@?|@@|@C`ABt@B|@Jv@A|@Jp@R|@Ft@P|@EdAMn@\JX]^ER{@XKZRY`@^HPn@T^Lt@VVV\Vb@Pj@Lj@Fv@Bv@JbAHr@Ev@@t@Qj@Wa@]EYXSd@Qj@Mr@Ir@Ex@Kr@Kr@IbAEt@Kr@G`AZ@ZSMl@On@Ir@Ub@YTWZY\Uh@YTQp@Kp@Sf@WXYRSd@Qj@Fz@XVJr@Sh@Ln@ZMNEZKZEZCT`@@v@""" ;
+	<routes_spots>		"""http://__thing_place_uri__165""" ;

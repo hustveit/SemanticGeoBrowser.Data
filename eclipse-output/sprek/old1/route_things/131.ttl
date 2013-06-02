@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route131>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/131> ;
+	<name>		"""Hordnesskogen, 6-kilometers runde"""@no ;
+	<length_in_time>		"""50""" ;
+	<length_in_km>		"""5.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-06-10 08:28:47""" ;
+	<encoded_path>		"""o|{nJuom_@tA`Bv@D|@p@\lCl@fHj@rB|@rBFd@MnCOvGCpBuArCiAp@aAzEi@nEcAnCw@~IVjArBlB^|AWzAiATw@rARjA`A|Bt@vALzETdE`@~DwB`GHZPJz@HbB?r@Tr@mBhAqAvAE`BN\f@\Ep@Zd@Bl@{@h@U`@?f@nCl@z@KpBJrB[vAI`AXN^IrBfB^aA`AUZObB?x@z@b@[RqA\e@d@a@Vu@|@gAdBYp@?b@gAA}A@_@~@k@rB[jAa@j@{@dAEVo@MwA}@}BaAiCu@w@_BTo@?]o@IgBuA?eC~@e@Om@z@M|AUlB]Z}@UaAEuAaAu@Zc@wASsBVwB?wAKsCEsBk@}Aw@{@iBUoBEuAUe@e@OkAu@w@sBDq@Ec@`AOdEYhDkAfBkAPw@wAcDmAn@kAtAe@CeDcAkAsA}ALeE|@gGp@sCjAwG\aBbB}@v@mC?kFN}FAu@k@{@q@iCk@wGa@eEk@[s@U}@Oa@q@]k@""" ;

@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike101>
+	a	...Thing... ;
+	dct:title				"""Mellingen-Rimmaskaret-Veten"""@no ;
+	<ingress>		"""Veten på 486 moh er det høyeste fjellet på den nordlige delen av Bergenshalvøya. På toppen er det en enestående utsikt særlig mot Nordhordland.
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;strong&gt;Rutebeskrivelse: &lt;br&gt;&lt;/strong&gt;Postvegen stiger bratt oppover mot Rimmaskaret. Langs vegen er det flere gamle restaurerte steinløer. På toppen av stigningen er det en alternativ sti til Veten via Håkeberget. Men vi fortsetter videre på Postvegen og kommer snart til en steinløe som ligger på venstre side. Her er det benker og bord med gode muligheter til rasting både ute og inne. Like etter løen tar stien mot Veten av til høyre. Den fortsetter bratt opp mot toppen. Stort sett er det fast og fint å gå, men noen korte partier med myr.&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;Tilkomst: &lt;br&gt;&lt;/strong&gt;Til Mellingen kommer en enklest med privatbil. På motorvegen gjennom Ãâ€¦sane tar vegen til Mellingen og Espelid av på Nyborg ved Gullgruven. Bak det nye bygget til IKEA åpner det seg et gammelt kulturlandskap. Første del av denne turen følger den gamle postvegen som starter rett før gårdene på Mellingen. Det er parkeringsplass litt lenger borte langs bilvegen. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Tidsbruk:&lt;/strong&gt; &lt;br&gt;Turen tar tilsammen omtrent to timer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Passer for:&lt;/strong&gt; &lt;br&gt;Alle som liker å gå tur i variert terreng. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Utstyrsbehov:&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;&lt;p&gt;På tørre dager kan du godt gå med joggesko. Pass på at det kan blåse på toppen og kle deg deretter. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Fakta om turen:&lt;/strong&gt; &lt;br&gt;Navnet Veten finner man igjen på mange fjell. Det har bakgrunn i et eldgammelt varslingssystem, på vetene varslet man om fiender ved å fyre opp bål. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dd51a1986d5e.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-01 17:28:55""" ;

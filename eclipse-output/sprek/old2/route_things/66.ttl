@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route66>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/66> ;
+	<name>		"""Sæterstøl - Håkeberget - Veten"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""2.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-28 10:23:42""" ;
+	<encoded_path>		"""{tepJsis_@??YI]FYOKq@Dy@Hs@Du@W[Sh@On@Qj@It@Ez@Gr@Bv@Ex@U^On@Av@E`AMn@Kr@Gv@Mp@Mp@On@Sh@Ud@?x@G`ACx@Qj@Mn@Sd@Kp@Lj@Ft@Pl@Fr@Jr@Gt@Jr@@v@Cv@Dt@@x@?v@Fx@Ht@Ct@Kp@Bt@Nn@@v@Jr@Bv@Cv@@v@?x@U\[TYLSd@Ub@W\WZ]AUZSj@Mp@WZSf@Ml@W^Ub@Ol@Bx@Ev@Ml@B|@Av@Qj@Qf@Mn@U`@YJYb@WVU`@[GMp@Sb@Sf@On@Mn@Ex@Kn@Kv@Qh@On@[JYJSh@Qh@YVYRSd@WZWVMr@Qh@YTSj@YNUh@WVSf@[?YRYUYGYTIt@Ol@Ud@Sb@Qh@U`@YHc@MYF[LQh@W\YNW\YNYBSh@Ml@YTW`@Uf@Ul@WVOj@??""" ;

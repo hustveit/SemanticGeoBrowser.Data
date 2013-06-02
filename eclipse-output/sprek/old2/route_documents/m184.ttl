@@ -1,0 +1,63 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route184>
+	a	...Thing... ;
+	<name>		"""Ervikane friluftsområde, rundtur"""@no ;
+	<ingress>		"""Ervikane er et idyllisk friluftsområde med gode badeviker, fiskeplasser og oppankringsmuligheter for båt. Ervikane er ypperlig for barn og tilrettelagt for bevegelseshemmede.
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved parkeringsplassen på Lønnevågveien.
+Fra p-plassen er det ca. 600 meter å gå ned til stranden. Her er det stier
+langs vannkanten og gangbro til Vetle Hestholmen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra friluftsområdet går turen videre på
+sti, deretter skogsveg. Stien går på nordvestsiden av ÃËœrnaberget. Fra
+skogsveien går det sti opp til Husfjellet, 121 moh. som man kan velge å ta en
+avstikker opp til. Turen fortsetter så over Storamyra frem til Sørstrøno. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I Sørstrøno møter man vei og litt
+bebyggelse. Følg bilveien et par hundre meter og ta til venstre ved skilt med ulike
+husnr. 145 ââ‚¬â€œ 165. Her kommer man videre på god sti opp Gjelet, som ligger
+omtrent midt på øyen, og går til Nordstrøno. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tidligere var dette skolevei mellom de
+to bygdene. Fra Gjelet er det godt skiltet sti til Hjortåsen, 208 moh. Ved
+Nordstrøno følges bilveien sørover til man tar av mot Ervikane og stranden igjen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For å komme til Ervikane, tar man av fra
+Osvegen ved rundkjøringen mot Stavanger. Etter ny rundkjøring ca. 200 meter
+senere tar man mot Strøno og kjører til Ervikane. God parkering ved friluftsområdet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;En tur på den gamle ferdselsveien fra
+Langetangen til Sørstrøno, Nordstrøno, tilbake til Ervikane tar ca. 1 time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. Ervikane
+er ypperlig for barn og tilrettelagt for bevegelseshemmede.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ingen spesielle utstyr behov. Kle deg etter været. På sommertid holder det
+med joggesko. Ta gjerne med badetøy og nistepakke til dagsturer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Mange regner dette som det fineste
+friluftsområdet i hele Hordaland. Fine sommerdager yrer det av folk her, men
+også ellers brukes området til fiske og turgåing. Her kan man slå opp telt og
+gå turer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Spor fra
+eldre tider&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;I Ervikane finnes det spor fra både nær
+og fjern fortid. I mellomkrigstiden ble det fraktet jord fra en moldmyr sør i
+Ervikane til eiendommen som nå er Kongshaug Folkehøgskule på Lepsøy. Kongshaug var
+den gangen sommerbolig for velstående Bergens-familier. Jorden ble fraktet med
+hest og kjerre ut på Langetangen og lastet over i båt. I Ervikane finner vi
+også to gravrøyser som kan være fra bronsealderen (1500 ââ‚¬â€œ 500 f. Kr.).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veg- og turkart Os (1:25 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e170068005f8.jpg> ;
+	<image_credit>		"""Bergens Tidene""" ;
+	<created>		"""2011-07-08 15:04:40""" ;

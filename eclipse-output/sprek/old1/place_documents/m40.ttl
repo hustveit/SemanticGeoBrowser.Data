@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place40>
+	a	...Thing... ;
+	<name>		"""LÃ¸vstakken"""@no ;
+	<ingress>		"""PopulÃ¦r sentrumsnÃ¦r fjelltur med flott utsikt."""@no ;
+	<description>		"""&lt;p&gt;LÃ¸vstakkenmassivet benyttes i hovedsak av folk som bor i omrÃ¥det, skjÃ¸nt turen dit er absolutt Ã¥ anbefale, ikke minst for Ã¥ oppleve byen fra en ny og spennende vinkel. Turenes lengde varierer mellom 2 og 4 timer. Lengst er turen fra BÃ¸nes i sÃ¸r til en av nedgangene i nord eller omvendt. Kortest og lettest er turen opp til det sÃ¸rlige platÃ¥et, hvor GullstÃ¸len og Gullsteinen er naturlige mÃ¥l.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; Selve LÃ¸vstakken rager 477 moh, men er omgitt av mindre koller i nord, og mot sÃ¸r et Â«platÃ¥Â» der hÃ¸yeste parti er Gullsteinen (354 moh.). Fra Gullsteinen skrÃ¥ner fjellpartiet ned mot Langeskogen, KrÃ¥kenes og BÃ¸nes. OmrÃ¥det utgjÃ¸r en langstrakt fjellrygg mellom Bergensdalen og Fyllingsdalen pÃ¥ ca 7 kvadratkilometer. Mot Fyllingsdalen i vest er terrenget til dels meget bratt, med fÃ¥ atkomstmuligheter. Mot Bysiden er fjellsidene bratte nok til at man fort fÃ¥r opp varmen og pulsen nÃ¥r man gÃ¥r opp fra nord eller Ã¸st. Disse oppgangene er de mest brukte. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;De lavestliggende og mest bedagelige atkomstmulighetene er fra FrydenbÃ¸/ Gyldenpris og Melkeplassen i nord og nordvest, og fra sÃ¸rsiden: strekningen FjÃ¸sangerâ€“Langeskogen til de nye boligomrÃ¥dene pÃ¥ BÃ¸nes. I nordlige delen av LÃ¸vstakkenmassivet er vegetasjonen som vanlig for vÃ¥r region. I lavere deler er det furuskog med islett av plantet gran, mot vest ogsÃ¥ en del blandingsskog. I de Ã¸vrige omrÃ¥dene er det noe glissen furu- og bjÃ¸rkeskog som gÃ¥r over til hedevegetasjon. Den 1,8 km2 store Langeskogen har meget varierende og for vÃ¥r region uvanlige tresorter. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc96dd89c01d.jpg> ;
+	<image_credit>		"""Eivind E. Pettersen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4dfb19f400437.JPG> ;
+	<trimtoppen_description>		"""Skilt plassert ca 50m syd for varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-06-30 13:53:28""" ;
+	<gowalla_name>		"""LÃ¸vstakken"""@no ;
+	<gowalla_description>		"""Varden pÃ¥ LÃ¸vstakken (477 moh)"""@no ;

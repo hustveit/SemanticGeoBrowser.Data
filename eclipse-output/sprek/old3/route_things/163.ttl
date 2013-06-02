@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route163>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/163> ;
+	<name>					"""Knatten-Skomakerdiketââ‚¬â€œBlåmanen"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>			"""4""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-28 15:42:18""" ;
+	<encoded_path>		"""kkqoJ_wu_@?gDSy@KuAs@DMBU[S?AD`@n@Tn@Bn@c@xB_@NA@@WA]MOKJSn@Wi@E??LVl@CFWSA??DRd@ANEBQACFT\BJQ@QYGF?PHPHBPLIVQPe@D?Zb@^?Fs@b@M^AdAGn@[Ne@NYcAQ?eA~AY^Sx@s@dA_@|@EjAF|@S\i@UO_CIY[GCaAEiACgA?YO]yBtCEK?[S{@?aAIYg@TyAvBo@jAcAr@eAxAaBbAaBjBmA`Ei@TcAxAw@g@o@Q[e@y@PwA~CcDgBJcB^eBTy@PqAz@oFN{@jB{EHo@?M^[d@KRUXe@h@]vAKlAm@x@q@t@o@W]Oi@OKO{@WMa@a@]KKIIAM[GS?e@EWOY[SKCQa@Ig@C[Qg@EWC[Y]Kc@i@yA??]Q]SSECgC@@uF}CReEbAiANaBVqBSq@QEwD}CkAk@_A?b@fFs@m@YLA`Ab@rCk@Fk@hAwA{@e@vA?bB^rAq@tBeCpE]UsA|@""" ;
+	<routes_spots>		"""http://__thing_place_uri__47""" ;

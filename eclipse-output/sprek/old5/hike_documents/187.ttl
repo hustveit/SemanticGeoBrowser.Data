@@ -1,0 +1,30 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike187>
+	a	...Thing... ;
+	dct:title				"""Osavatn-Redningshytten"""@no ;
+	<ingress>		"""Flott ettermiddagstur."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starer ved Osavatn. Stien er tydelig å følge. Første del av turen går på grusvei, før veien går over i bred sti med flere små rasteplasser oppover mot Redningshytten. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved Kolabakreset tar stien en 90 graders sving mot høyre opp Kurlakampen på sørvest side av Svartavatnet. Stien går vider over Fallgruvene og Raunboten. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Redningshytten ligger rett ved Store Stuthaugen. Hytten er alltid åpen og har servering på søndager.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Denne turen kan forlenges til Gullfjellstoppen, se: &lt;a href="http://tur.bt.no/tur/60"&gt;Osavatn-Redningshytten-Gullfjellstoppen.&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Atkomst til turen er enklest med bil. Ta av fra rv. 580 sør for Arna, ved skiltet inn til Bjørndalen. Parkering mot avgift på utferdsdager på romslig p-plass ved Osavatn. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Beregn ca. 2 timer. Turen tar en drøy time fra p-plassen. Fra Redningshytten til toppen tar det ytterligere to timer om man holder marsjfart.&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Været i området kan være barskt og skiftende. Velg vind- og vanntett yttertøy, ha lue og votter i sekken, samt kart og kompass/evt. GPS. Blir man overrasket av tåke, kan man miste kontakten med varderekken. Man blir svett på turen opp, så ull innerst mot kroppen anbefales, samt fjellsko. Mobildekningen er dårlig i området.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Bergen 1:50 000.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1c3be6a2e2a.jpg> ;
+	<image_credit>		"""Bergens Tidene""" ;
+	<created>		"""2011-07-12 13:55:00""" ;

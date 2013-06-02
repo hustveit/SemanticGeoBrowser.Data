@@ -1,0 +1,29 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike244>
+	a	...Thing... ;
+	dct:title				"""Haganes-Liatårnet """@no ;
+	<ingress>		"""Fin tur til Sotras høyeste topp."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Haganes i Fjell kommune på Sotra. Følg veien fra Haganes nordover. Etter man har gått et lite stykke langs veien tar man inn på stien som går nordover på høyre side av veien i svingen rett sør for Otrafjellet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Følg denne stien videre nordover. Det er et litt myrlendt området så være obs på at det kan være bløtt etter regnvær. Etter man har fått Skorafjellet (300 moh.) på høyre side vender man opp mot Skogavatnet. Følg stien på nordvest-siden av vannet og gå opp den siste kneiken til Liatårnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Sotras høyeste punkt (341 moh.) er det fint å ta en rast mens man nyter den flotte utsikten. Mot nord kan man se Alden i Sunnfjord, mot øst kan man se Byfjellene og i sør kan man se Tysnessåto, Mehammarsåto og Siggjo. Ut i Nordsjøen kan man se Trollfeltet. Returner via samme trasé.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Haganes, som ligger i Fjell kommune på Sotra. Følg riksvei 555 til Haganes. Det er ingen avsatte parkeringsplasser så ta hensyn når du parkerer. Man kan også ta buss nr. 450 fra Bergen sentrum til Tellnes skule og derfra ta buss nr. 452 fra Tellnes skule til Haganes. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 2 timer.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen går på sti så den er ikke egnet for barnevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Om sommeren går det fint å gå med joggesko. Når det er vått og snø, anbefales det å bruke mer vanntette sko. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Bergen 1115 I, Fjell 1115 IV.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3a587aa3f6b.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-08-04 10:27:10""" ;

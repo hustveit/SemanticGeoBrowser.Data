@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route234>
+	a	...Thing... ;
+	<name>		"""Varderekken Rollandâ€“Vikinghyttenâ€“Jordalsvatnet"""@no ;
+	<ingress>		"""Flott sÃ¸ndagstur for familien. """@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen begynner pÃ¥ Rolland, som ligger Ã¸verst i Rollandsvegen. Det er ikke langt Ã¥ gÃ¥ hit fra Ã…sane senter/Hesthaugen. Man mÃ¥ gÃ¥ gjennom tunet pÃ¥ Rolland gÃ¥rd. Man finner stien mellom en nydelig steinlÃ¸e og et uthus. Turen begynner med en oppstigning pÃ¥ tydelig sti gjennom lÃ¸vskog. Traseen gÃ¥r fÃ¸rst opp pÃ¥ et platÃ¥ som heter Nukane (373 moh). Deretter gÃ¥r den videre opp mot StorsÃ¥ta (435 moh) fÃ¸r den flater ut innover ryggen i retning Vardegga. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Langs hÃ¸ydedraget er utsikten praktfull i alle retninger, og man passerer Vinddalsegga der fjellet gÃ¥r bratt ned mot gÃ¥rden med en av Hordalands stÃ¸rste driftsbygninger. Turen gÃ¥r i flott og variert terreng innover varderekken mot Vikinghytten. Fra eggen er det en lett stigning opp mot Vikinghytten, som er Ã¥pen pÃ¥ sÃ¸ndager. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Vikinghytten fortsetter man vestover ned mot Midtfjellet. er tar man til hÃ¸yre og gÃ¥r nordvestover ned Jordalsskaret. FÃ¸lg stien langs med elven ned til Jordal. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det gÃ¥r kun buss til Rolland pÃ¥ hverdager, men det er mange bussalternativer til Ã…sane Terminal. Herfra tar du fotgjengerundergangen mot Ã…sane Senter, og fortsetter pÃ¥ gangveien i retning rundkjÃ¸ringen ved Hesthaugen. GÃ¥ innover Rollandsvegen og opp Rollandslia nÃ¥r du har passert Kiwibutikken. Turen begynner Ã¸verst ved Rolland GÃ¥rd. Kommer du med bil, er det p-muligheter i RollandsomrÃ¥det.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Beregn anslagsvis 3-4 timer til Jordalen.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;I hovedsak passer turen for alle som liker Ã¥ ferdes i fjellet, ta gjerne med barna. Turen er ikke egnet for trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyr:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;VÃ¦r oppmerksom pÃ¥ at omrÃ¥det er frittliggende og derfor utsatt i dÃ¥rlig vÃ¦r. Man kan oppleve mye vind og liten sikt nÃ¥r skodden senker seg. VÃ¦r pÃ¥passelig og nÃ¸ye med pÃ¥kledningen. Det kan blÃ¥se friskt til tider, sÃ¥ vindtett tÃ¸y er en fordel.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;BR&gt;Varderekken fra Rolland i Ã…sane til Vidden var ferdig i 1983. Det var byfjellsentusiastene Per Bremnes og Ã˜ivind Ã˜vrebotten som sÃ¸rget for 278 nye varder pÃ¥ denne strekningen. Vardene fÃ¸lger markerte hÃ¸ydedrag sÃ¥ mye som mulig, og er derfor lett synlige. Avhengig av terrengforholdene ligger de med 30-60 meters mellomrom. Det er servering i Vikinghytten pÃ¥ sÃ¸ndager.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;O-kart Hjortland (1:10 000), Bergen (1:50.000), 7-fjellsturen turkart (1:25.000), Tur- og Friluftskart Bergen (1:25 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e369343630ab.jpg> ;
+	<image_credit>		"""Paul S Amundsen""" ;
+	<created>		"""2011-08-01 13:51:31""" ;

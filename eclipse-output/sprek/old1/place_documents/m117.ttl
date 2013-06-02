@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place117>
+	a	...Thing... ;
+	<name>		"""LysÃ¸ya"""@no ;
+	<ingress>		"""LysÃ¸en is an island in the municipality of Os, Hordaland, Norway. It was the Norwegian home of the violinist Ole Bull until his death in 1880. Bull built a large villa on the island, inspired by nume"""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-07 15:07:28""" ;
+	<modified>		"""2011-07-22 13:03:53""" ;
+	<gowalla_name>		"""LysÃ¸en"""@no ;
+	<gowalla_description>		"""LysÃ¸en is an island in the municipality of Os, Hordaland, Norway. It was the Norwegian home of the violinist Ole Bull until his death in 1880. Bull built a large villa on the island, inspired by numerous architectural styles, including the Swiss chalet style and Moorish architecture."""@no ;

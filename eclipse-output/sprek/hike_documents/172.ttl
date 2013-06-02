@@ -1,0 +1,37 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike172>
+	dct:title				"""Hegglandââ‚¬â€œMøsnuken"""@no ;
+	sf_ont:ingress			"""Kort, bratt og kjekk tur opp til Møsnuken (640 m.o.h.)."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Heggland i
+Hegglandsdalen. Herfra bærer det bratt oppover til en utsiktsplass som kalles
+Kvilesteinen. Over tregrensen er stien merket med varder opp til
+Hegglandsfjellet. Derfra går sti ned til Runa, en steinhytte satt opp i
+1930-årene samtidig med vardene. Turen går så innover Stemmedalen i nordøstlig
+retning. Det siste stykket er ganske bratt opp til Møsnuken.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Følg samme vei ned igjen til Heggland. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr.
+606 til Heggland (Os).
+Kommer man i bil finnes det et par parkeringsmuligheter på Heggland.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 2-3 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste. Turen går hovedsaklig
+på sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veg- og turkart Os (1:25 000), 1215 IV Samnanger (1:50 000), 1215 III Fusa
+(1:50 000).&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e116912b02ab.jpg> ;
+	sf_ont:image_credit		"""Marita Aarekol""" ;
+	dct:created				"""2011-07-01 15:26:36""" .

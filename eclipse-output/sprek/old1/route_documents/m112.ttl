@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route112>
+	a	...Thing... ;
+	<name>		"""StÃ¸botn -Toppenipa"""@no ;
+	<ingress>		"""Lett trimtur med flott utsikt!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fra busstoppet i StÃ¸botn gÃ¥r en ca 50 meter sÃ¸rover langs
+Salhusvegen og tar av til hÃ¸yre mot Toppe Gartneri. Etter et par hundre meter
+langs Toppevegen tar en veg av knapt mot venstre. Denne gÃ¥r oppover forbi et
+par hus og ender i en vannverkstunnel. Her er det mulig Ã¥ parkere et par biler.
+I steinmuren til hÃ¸yre langs vegen er det en liten trapp. Her starter stien.
+Denne gÃ¥r bratt oppover i skogen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;PÃ¥ toppen er det fin utsikt mot Toppe, MjÃ¸lkerÃ¥en, Hitland og
+utover Herdlafjorden. Det er en varde her.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buss til StÃ¸botn, linje 3 eller 260. Det er ogsÃ¥ parkeringsmuligheter ved vannverkstunnelen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Det tar omtrent en halvtime Ã¥ gÃ¥ opp til varden.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Alle turgÃ¥ere som er klare for Ã¥ forsere en bratt stigning. Er ikke egnet for trillevog eller rullestol. PÃ¥ toppen er det et stup, sÃ¥ vÃ¦r forsiktig, sÃ¦rlig dersom du har med barn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gode sko er en fordel nÃ¥r men skal gÃ¥ i bratt trerreng. En kikkert til Ã¥ se utsikten bedre kan ogsÃ¥ vÃ¦re nyttig Ã¥ ta med.&lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dca8e101d8f7.jpg> ;
+	<image_credit>		"""Odd Mehus""" ;
+	<created>		"""2011-05-11 15:23:27""" ;

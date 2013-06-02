@@ -1,0 +1,20 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place98>
+	a	...Thing... ;
+	
+	dct:title				"""Ulsetvarden"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Ulsetvarden (288 moh.) fjell nr. 3 i turen "De 7 fjell i Ãâ€¦sane". Ulsetvarden kan særlig by på oversikt 
+over utbyggingsområdene på Ãâ€¦sane-myrene, Nyborg og Flaktveit mot øst.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e02e82f8c6c8.jpg> ;
+	<image_credit>		"""Odd Mehus""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e087fad3185a.jpg> ;
+	<trimtoppen_description>		"""Skiltet står ved varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-06-22 22:07:41""" ;
+	<modified>		"""2011-07-11 13:11:34""" ;
+	<gowalla_name>		"""Ulsetvarden"""@no ;
+	<gowalla_description>		""""""@no ;

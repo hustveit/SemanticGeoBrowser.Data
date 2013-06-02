@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route123>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/123> ;
+	<name>					"""Støbotn - Tellevikafjellet - Hordvik"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""6.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-24 19:07:03""" ;
+	<encoded_path>		"""g{dpJuaf_@@KH_@Fa@De@Cg@Ae@Jq@Ja@J_@Hc@Bc@Ac@Dg@Bc@Bg@Dy@De@Dc@Ig@QQO[K]Oi@Mk@Oo@Oq@Qq@Qs@Ss@Qs@Sq@Um@Wi@W[WEYJU`@Ql@Oh@O\UBQKQ_@Sk@So@Um@Wk@Sg@Oa@Gc@Ae@Bo@Hs@Nm@La@?g@SQSP[Z[\[b@]`@Wd@Mf@Dn@Ph@Bj@SRQOS]Wa@Om@Ms@Ku@Ms@Kq@Qo@Sg@S[QUUMYOSKSMQMSOSQYSWWMUOe@Om@Kq@Iu@Iy@K{@I{@G{@G{@Ey@Eq@Co@Cq@Aq@@q@Hm@Fk@Dm@?m@Ck@Mg@SYYKQLQTOZMXSTZDCDQFSJQFQGSESMQBQJQFQNQBQOJ^MTOVQPQHI^M^OKQUEc@Cd@Id@?d@G`@OTEf@QHIb@Ib@KZG`@Cf@H`@H^@f@Eb@Cd@K\QTK^Gb@I`@I`@K\Kd@H`@?d@ONQJK\G^K\Ab@?f@Af@Cd@Ef@Ed@ORI^OJJHGEI_@Ag@?c@K]K[QQK]I_@MWGc@Fa@De@Bg@De@Dc@De@Fa@@c@Dc@SBMb@K^MTMTSLMTI`@QLGb@OTOYI_@SBSBQAQAMXI`@MZOVQLQFQKOQM[QQQLOPQNSHQ@QLSJQFMWOQQMQPQIQJSJQIQJQFSBSAI\QLKXKZQBI^DMESAc@K[K[I]OUQOOSI]MYMUQSKWOSQQOWOUOUK_@I_@?e@?e@Fa@H_@Dc@?g@Fc@Fc@Hc@Dc@H]Bg@Ha@@e@?e@@g@Da@Ic@@e@Be@Dc@Bc@K_@Be@OQI_@Bc@Ae@Ic@Ee@Dc@Ha@J]NWNSNQJ_@QQORS@QIQEQCSKUDQDK[MWOQSOQIQTOLSBK]OYK]K[Ce@J_@JYL[J]Ja@F_@Ha@Bi@Ae@@g@Bq@Ku@@e@Be@Fc@De@Ni@N_@Fc@?o@NMNc@Ha@Ha@Dc@@e@@g@?e@QIMYK_@?g@Fe@J[H_@J_@Fa@?g@Ie@QBSNONONQFQMMYM]I]Ga@Ac@Ei@QKOISCSBQEOQQMMWK[I_@K]OMOSMYQOQGQGQFOLSBSFSHQFQHSFQHMXOXOZMXQTOROPQLAJEPO`@K`@Kf@Mf@Oj@Mj@Mf@Kd@Kl@Kf@If@Of@O`@Sj@Sl@Up@Ur@Un@Uf@Y`@WXYR]L]L]J]J]B]?_@@]A]G[K[WUc@S_@U]YMSCUPUVWRYLUEWQOUOYS_@OQU?QROb@O\Y\[T[PYJWNWTU\W`@UXSXUVSXS^Kb@SRKa@Dg@@m@Gu@Om@Si@Ug@Qc@I_@Ei@UAAf@@n@Ar@Ct@Et@Ap@An@@l@@v@OXMSGe@Mm@Ok@S_@SUW?UFSEQQGa@Ai@@s@@s@Eq@Oc@WMYKWMSI[OWHO\Sb@Uf@Ud@S^UH[C[AYBYJUXWZY\Y\UZSZOXMj@Cr@Cj@If@I\Mh@Mf@""" ;

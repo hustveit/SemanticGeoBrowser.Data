@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route198>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/198> ;
+	<name>		"""Toftøya, rundtur"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""6.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-15 14:22:10""" ;
+	<encoded_path>		"""afbpJwbe]y@bCa@tAl@xD^|Ex@tBt@pAGlE[dBbCjHlCzF~BtEfAnDlDl@tEzNrAnFtBR\Cj@i@HC\rAL`Ap@DjAeAfAw@bCoB|BYhBmA~@{@z@jA`@h@`@B`@cBC}@PCn@YfAjHjAxDt@v@jAwAzCiIt@wAzD}Gj@aAmFgHqC{DkEUe@mC_@eFXgG{BsGoA{F[{E{BaAuDeEe@gGeBeFu@?q@fGo@^eAkAoAyB{@k@oA?kC?{B_AaAw@u@aBJgFn@kAdBcBpA_@tAKEmB@MQ}@Ia@?Al@aAf@mA@{AEExCuBtBaBfBqEzAiABy@DeAm@bBQKkAcAgA?qC|@_@G_@mFGaAcAiAKGo@zAUNwAOUIeAc@Sw@a@iA]q@SSw@WWNWn@o@pDi@`CcCnGiAtEiA`CYhCYvFZfED|@Il@i@^q@?q@t@R~DBbCe@jDl@bBJ~@IpAeA~B??""" ;

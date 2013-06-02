@@ -1,0 +1,32 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place120>
+	a	...Thing... ;
+	<name>		"""Hadlaskard """@no ;
+	<ingress>		"""Hadlaskard ligger Ã¸verst i Veigdalen, pÃ¥ en voll ved elven, sammen med gamle stÃ¸ler og stÃ¸lstufter. """@no ;
+	<description>		"""&lt;p&gt;
+&lt;em&gt;â€&#157;Turen videre er ledsaget av nye fossestryk. Rjotomyrene byr pÃ¥ noen
+ av de vakreste viddeopplevelser, med den meandrerende elven og dens 
+kroksjÃ¸er. Myrull, vier og skrikene fra de mange fugleungene som prÃ¸ver Ã¥
+ oppdage verden pÃ¥ egenhÃ¥nd, holder liv i tanker og samtaler. En 
+fjellkropp mÃ¥ forseres vi kan se etter hytten pÃ¥ Hadlaskardâ€&#157; â€¦ â€&#157;Her mÃ¥ 
+vi simpelthen bare bli noen dager: Her er for mange steiner Ã¥ vende, 
+smÃ¥kryp Ã¥ oppdage, fisk Ã¥ fange, turer Ã¥ gÃ¥, til at vi kan halse videre 
+som om vi hadde futen i hÃ¦leneâ€&#157; â€¦&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+Dette er en fin beskrivelse av et mÃ¸te med Hadlaskard for en far med 
+barn pÃ¥ tur pÃ¥ Hardangervidda vest. OmrÃ¥det har alt en turgÃ¥er kan Ã¸nske
+ seg av kvaliteter, med den hÃ¸yreiste attraksjonen HÃ¥rteigen innen 
+rekkevidde pÃ¥ en dagstur. En annen attraksjon er de meget godt bevarte 
+stÃ¸lene Heimste Hadlaskard, som ligger langs stien fra HjÃ¸lmo, et par km
+ fra hytten. 
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ab19ed1fa2.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-11 10:17:34""" ;
+	<modified>		"""2011-07-11 12:18:12""" ;
+	<gowalla_name>		"""Hadlaskard"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place69>
+	a	...Thing... ;
+	<name>		"""KvitebjÃ¸rnen"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-05-01 17:46:57""" ;
+	<modified>		"""2011-06-21 08:35:57""" ;
+	<gowalla_name>		"""KvitebjÃ¸rnen"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route55>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/55> ;
+	<name>		"""Gravdal-Lyderhorn"""@no ;
+	<length_in_time>		"""100""" ;
+	<length_in_km>		"""3.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-03-22 09:50:38""" ;
+	<encoded_path>		"""{vnoJmz~^??[BWZQl@Qj@YO[G[EMo@U\YX[@YP[KYK[HYJ[A[D[EYXYJSh@U`@YPYT[AYQ[?[NYNYRQj@Ol@Sb@Sb@Ub@Kr@YTWW[?[?WZUd@YPY[Qg@[E[EYJ[JY?]IWVYPYZWXWW[?[LWV[FYRWZW^WX[LWZYOWa@WYYSYCSi@W]Cu@Ks@Is@Si@W[[EU_@[MYH[NY@[?[B[KYQ[AYK[E[BYSWWYWYKYU[BYX[@[JYF[NYM[P[N[GYI[?YJYX[HYZ[PY?]GOk@Um@[K[COo@W_@[[[KU][g@[?YF[H[C]B_@?[F]A[E]A[CYHW^YR[PWZ[P[@[C[J[N[I[O]AYTSh@Qj@Y^UZ[SOq@Si@[EU\On@Uc@@{@?y@Aw@Cy@?y@[QYV[F[@[LW\Or@Mn@W^[L[AMo@Hy@Lq@Js@Fu@Cw@Ew@Ms@Uc@W]YK[CYNYQDu@Lo@Ls@Dy@?w@Cu@Ay@Aw@Ju@Pg@Ti@Pi@Rm@Rk@Ri@Hu@Js@Nq@Lq@Lq@Lq@Lq@Nq@Lq@Js@Hu@Hs@??""" ;

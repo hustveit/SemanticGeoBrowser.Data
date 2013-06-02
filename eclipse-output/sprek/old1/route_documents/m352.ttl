@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route352>
+	a	...Thing... ;
+	<name>		"""Litlere-GrÃ¸nahorgi"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-11-11 15:56:52""" ;

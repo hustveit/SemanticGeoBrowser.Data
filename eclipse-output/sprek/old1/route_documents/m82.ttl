@@ -1,0 +1,17 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route82>
+	a	...Thing... ;
+	<name>		"""Svartediket â€“ VÃ¥kendalen â€“ TarlebÃ¸vannet"""@no ;
+	<ingress>		"""Lett og fin tur i historiske omgivelser. 
+
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FÃ¸lg veien til enden av Svartediket, der man kommer til et kryss med skilting til blant annet Rundemanen. Her tar man opp til venstre og fÃ¸lger veien videre opp VÃ¥kendalen. Traseen er delvis den samme som den gamle bygdeveien som gikk til gÃ¥rdene i omrÃ¥det. Det er en bratt tur pÃ¥ bred og god grusvei. Ved toppen av TarlebÃ¸vannet kan man fylle flaska, snu og gÃ¥ tilbake igjen, man kan fÃ¸lge veien til venstre videre til Rundemanen eller man kan gÃ¥ til hÃ¸yre opp til Langlivannet og SÃ¥tene.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;div&gt;Startsted er Svartediksstemmen. TarlebÃ¸veien langs Svartediket er stengt for motorisert ferdsel med bom. Det er best Ã¥ gÃ¥, sykle eller ta buss til omrÃ¥det, fordi det er begrenset med parkeringsmuligheter.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dette er en enkel tur som du fort kan unnagjÃ¸re pÃ¥ en times tid. Har du imidlertid barnevogn, tar det sikkert oppimot en halvtime Ã¥ nÃ¥ TarlebÃ¸vannet.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hvis man holder seg pÃ¥ grusveien kan turen passe for barnevogn. Grusveien er sÃ¥pass jevn at det kan gÃ¥ Ã¥ komme frem med rullestol, men pÃ¥ visse strekninger er det ganske bratt.&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Navnene Isdalen og VÃ¥kendalen er begge brukt om dalfÃ¸ret mellom Ulriken, BlÃ¥manen og Vidden. GÃ¥rdsdriften her kan spores tilbake til 1200-tallet. Antall gÃ¥rdsbruk i dalen har variert noe gjennom tidene. PÃ¥ det meste har det vÃ¦rt i alle fal 12 medregnet husmannsplassene. 
+
+Ivrige turgÃ¥ere vil kjenne igjen steds â€“ og gÃ¥rdsnavnene Kobbeltveit, TarlebÃ¸, Hardbakka og Garmannslund. GÃ¥rdene hadde store husmurer som vernet bygninger mot regn og vind. Uthus av stein, stÃ¸ttemurer, steingarder og et nett av hoved â€“ og markaveier finnes overalt. 
+
+De fleste gÃ¥rdene ble kjÃ¸pt ut av kommunen i perioden 1900-1930 for Ã¥ hindre forurensing av vannet i Svartediket. 
+
+Hvis man Ã¸nsker Ã¥ se de best bevarte restene etter gÃ¥rdsdrift i VÃ¥kendalen, er et alternativ Ã¥  ta avstikkeren til hÃ¸yre over broen midt i dalen og gÃ¥ opp gÃ¥rdsveien Kringlen til TarlebÃ¸. Derfra kan man gÃ¥ gjennom Gjeilen, en 500 meter lang fe-gate med steingjerder pÃ¥ begge sider.  En annen mulighet er Ã¥ fÃ¸lge den gamle gÃ¥rdsveien til Hardbakkahaugen og tilbake til TarlebÃ¸trÃ¦et, fÃ¸r man fortsetter pÃ¥ stien mot TarlebÃ¸vatnet. Spesielt ruinene pÃ¥ Hardbakkahaugen er verdt et besÃ¸k.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;O-kart Isdalen (1:10 000), 1115 I Bergen (1:50 000), Tur â€“ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000)&lt;/div&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4da4523ea0baajpg> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-04-12 15:15:45""" ;

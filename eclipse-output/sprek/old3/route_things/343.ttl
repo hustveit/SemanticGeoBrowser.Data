@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route343>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/343> ;
+	<name>					"""Myrdalskogen ââ‚¬â€œ Geitanuken ââ‚¬â€œ Ulsetvarden"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""1""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-11-08 13:02:41""" ;
+	<encoded_path>		"""ewapJmmi_@m@_@c@?[QW_@Yq@WIg@EG|A@^Tp@?t@AlAK`A[X[|AODY?Y[YfAWt@SfAObBK~@MvAEvAi@Iy@a@g@o@QU]wA_@}BGEk@{@s@aAk@k@QUSgAGgA@kAXqALg@bAwADYe@k@m@aAK[IaA""" ;

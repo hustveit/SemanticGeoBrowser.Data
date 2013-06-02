@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route322>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/322> ;
+	<name>		"""RÃ¸dsfjell"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""2.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-01 13:39:48""" ;
+	<encoded_path>		"""owtnJan{`@MlDJjBC`BUjBCdAKdAtApEjBjF^XlAfC\`GTpCPvA@d@Cb@m@tBG`@Mp@GxBGf@MZG^M~@u@|ASh@c@nA?jAZhA`@~@@fAKpBc@_AURUv@_@`A}@rAOn@{BpDgCzCwBb@s@wDCmFfAwHgDqSwDsJoEmDkCrAg@pB}@tBgBrAwAG{B_BiBoF_Au@gAeB}AsDiEmCu@sBe@sB""" ;

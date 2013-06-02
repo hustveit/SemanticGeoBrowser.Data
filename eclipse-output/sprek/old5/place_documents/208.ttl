@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place208>
+	a	...Thing... ;
+	
+	dct:title				"""Oksneskletten"""@no ;
+
+	<ingress>		""" """@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-10-20 14:30:27""" ;
+	<modified>		"""2011-10-20 14:30:27""" ;
+	<gowalla_name>		"""Oksneskletten"""@no ;
+	<gowalla_description>		""" """@no ;

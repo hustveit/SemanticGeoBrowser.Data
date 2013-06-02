@@ -1,0 +1,79 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place157>
+	a	...Thing... ;
+	
+	dct:title				"""Selhamar"""@no ;
+
+	<ingress>		"""Selhamarhytten er Bergen Turlags største hytte i Stølsheimen. Den ligger ved utløpet av Selhamarvatn og nås fra Eksingedalen og Vikafjellet. Hytten er stor og egnet til opphold over flere dager fo"""@no ;
+	<description>		"""
+&lt;p&gt;Bergen Turlag anbefaler Selhamarhytten for turer med barn. Selv om man 
+ikke er fjellvant, er det lett å komme seg inn hit, og man får gode tur-
+ og naturopplevelser i flott høyfjellsterreng. Og om man er fjellvant, 
+er Selhamar alltid en grei hytte å komme til, den ligger høyt i 
+terrenget med god utsikt over landskapet. Hytten er godt egnet til fast 
+opphold over noen dager, og man behøver ikke bestille på forhånd. Hytten er åpen og ulåst&amp;nbsp;hele året. Det er mulig å kjøpe proviant som 
+hermetikk, posemat, pålegg osv - på hytten. Det finnes knekkebrød, 
+havregryn og ingredienser til baking. Ta med lakenpose. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;
+For den som ønsker seg videre inn i fjellet, er Selhamar sentral både 
+fra Vikafjellet og Eksingedalen. Den kan være første eller siste hytte 
+på turen enten man går gjennom hele Stølsheimen, eller man velger 
+rundtur. Den er også en viktig hytte på ruten fra Voss, og ligger i ca 5
+ timers avstand fra Torvedalshytten (Voss Utferdslag). På Selhamar det 
+gode senger, god plass, mat i proviantlageret og trivelig interiør. 
+Hytten har ikke strøm. Hundebur plassert i&amp;nbsp;eget rom i sikringshytten. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+
+&lt;h4&gt;Botanikk rundt Selhamar &lt;/h4&gt;
+&lt;p&gt;
+Sommerstid er det i Raudbergdalen og rundt Raudberget er der mye å finne
+ for den som er interessert i botanikk. Floraen er artsrik og variert. 
+På stølsvollen i Raudberdalen er plantedekket preget av kultivering og 
+beite fra gammel tid, og fremdeles trekker beitedyr til de frodige 
+markene ved stølshusene. På stølsbøene har gressorter som sølvbunke, 
+fjelltimotei og gulaks tradisjonelt vært dominerende. Men en finner også
+ urter som engsyre, marikåpe, harerug og forglemmeiei. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Ved&amp;nbsp; Gryteberget er det et klebersteinsfelt. Berget inneholder mineraler
+ som olivin, pyroksen og amfibol i flere farger, og dessuten magnesium 
+og silisium. Den spesielle &amp;nbsp;mineralsammensettingen gjør at også floraen 
+blir spesiell. Fjelltjæreblom, fjellarve og den vesle bregneplanen 
+grønnburnke, alle tre ââ‚¬&#157;olivinspesialisterââ‚¬&#157;, er vanlige her. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+I sørskråningen mot Raudberget fier det godt med plantenæringsstoff i 
+jorden, og sildrende vann. &amp;nbsp;Noen av plantene er vanlige, mens andre er 
+typiske fjellplanter. I sprekkene finner vi igjen olvinspesialistene fra
+ Gryteberget; fjelltjæreblom, fjellarve og grønnburkne. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;Fiske rundt Selhamar&lt;/h4&gt;
+&lt;p&gt;
+Det selges fiskekort ved innkjørselen til anleggsveien, og på hytten. 
+Fiskekvaliteten i et område, henger nøye sammen med berggrunnen. Her øst
+ i stølsheimen har man lokale soner med fyllitt og glimmerskifer, som er
+ frodige og gir god PH-verdi i vannene, og gode levekår for fisken. 
+Raudbergvatnet, Selhamarvatnet og Kvilesteinsvatnet (ved Bjergane) har 
+slike kvaliteter. Det er kanskje best mulighet for å få storfisken fra 
+båt, men fjellvandreren som fisker fra land, får også fine fangster og 
+ørret i pannen til middag. Og ut på sensommeren finnes både blåbær og 
+multer, som smaker godt til dessert.&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;Kanopadling&lt;/h4&gt;
+&lt;p&gt;
+Den som har kano og vil ta den med til Selhamar, kan vente seg mye god 
+padling. Der er relativt lett å bære båten fra anleggsveien og ned til 
+Selhamarvatnet, hvor man kan padle fine turer og gjerne kombinere med 
+tur til Raudbergsdalen. Nedenfor ligger imidlertid også Raudbergvatnet 
+og Vassøyane. Det er kort vei å bære kanoen ned hit fra hytten, og 
+området man kan padle i er relativt stort. Har man med telt kan man ta 
+overnattingsturer fra kanoen og finne nydelige plasser langs bredden av 
+vatnet. &amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;(Kilde: &lt;a href="http://www.bergen-turlag.no/cabin.php?ca_id=151&amp;amp;fo_id="&gt;Bergen-Turlag&lt;/a&gt;)&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e2e72385c566.jpg> ;
+	<image_credit>		"""Bergen Turlag""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		"""Skiltet henger på veggen i den første gangen gjestene kommer inn i på hytten."""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-26 09:52:24""" ;
+	<modified>		"""2011-07-26 09:52:24""" ;
+	<gowalla_name>		"""Selhamar"""@no ;
+	<gowalla_description>		"""Bergen Turlags største turisthytte i Stølsheimen"""@no ;

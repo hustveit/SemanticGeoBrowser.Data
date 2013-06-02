@@ -1,0 +1,30 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike213>
+	a	...Thing... ;
+	dct:title				"""Anekletten, rundtur"""@no ;
+	<ingress>		"""Ta en av de fine Nordsjøløypene i ÃËœygarden!"""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter ved veikrysset til Torsvik, langs riksvei 561. På østsida av veien er det satt opp en tavle med informasjon på flere språk om denne Norsdjøløypen. Turen er merket med nordsjøløype-logoer. Følg stien østover ut i Ãâ€¦rdalsåsen. Deretter dreier man sørover og gå opp på utsiktspunktet Anekletten, (60 moh.). Her kan en se en uendelig horisont i vest, Alden i Sunnfjord i nord og Ulriken og Fløyen i sørøst. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien kommer etterhvert&amp;nbsp;inn i et hyttefelt innenfor Breivika og går nord for Norlavatnet. Norlavatnet er godt egnet for bading. Ute på riksveien følger en gangstien ca. 1,5 km tilbake til utgangspunktet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Torsvik på Toftøyna i ÃËœygarden kommune. Man kan parkere på vestsiden av veien utenfor Torsvik elektriske. Man kan også komme ved buss. Ta buss nr. 479 fra Bergen sentrum til Torsvik. Bussturen tar rundt 1 time.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 1 time.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Stien er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Langs Anekletten tursti har Toftøy nærmiljøutvalg restaurert to torvhus. Langs denne stien, som så mange steder langs kysten, kan en se rester etter torvtaking - torven var en viktig ressurs i et tidligere treløst kystlandskap. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;(Kile: ÃËœygarden kommune).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e293c54d01f2.jpg> ;
+	<image_credit>		"""ÃËœygarden kommune""" ;
+	<created>		"""2011-07-22 11:01:08""" ;

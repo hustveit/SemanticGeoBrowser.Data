@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route322>
+	a	...Thing... ;
+	<name>		"""RÃ¸dsfjell"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-11-01 13:39:48""" ;

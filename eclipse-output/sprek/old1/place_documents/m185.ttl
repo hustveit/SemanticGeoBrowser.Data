@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place185>
+	a	...Thing... ;
+	<name>		"""Storaskjenet"""@no ;
+	<ingress>		"""Fjelltopp i Sund Kommune, 175 m.o.h. Tursti fra SkogsvÃ¥g skule"""@no ;
+	<description>		"""&lt;P&gt;&amp;nbsp;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-09-02 11:13:05""" ;
+	<modified>		"""2011-09-02 11:13:05""" ;
+	<gowalla_name>		"""Storaskjenet"""@no ;
+	<gowalla_description>		"""Fjelltopp i Sund Kommune, 175 m.o.h. Tursti fra SkogsvÃ¥g skule"""@no ;

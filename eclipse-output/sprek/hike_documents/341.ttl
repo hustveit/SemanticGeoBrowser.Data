@@ -1,0 +1,28 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike341>
+	dct:title				"""Breistein-Hetlebakksåta"""@no ;
+	sf_ont:ingress			""""""@no ;
+	sf_ont:description		"""&lt;div class="ingress"&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class="ingress"&gt;&lt;p&gt;Turen starter fra Breistein. Etter litt stigning kommer du til Fjellvatnet. En idyll som 
+blir brukt til badeplass om sommeren og skøyteis om vinteren når isen er
+sikker. Vannet ble i sin tid demmet opp for å skaffe vann til Garveriet
+på Breistein samt drikkevann til beboerne i området. Videre går stien 
+på vestsiden av vannet og fortsetter i lett stigning oppover mot. De 
+siste par hundre meterne stiger stien brattere mot toppen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Fra
+Hetlebakksåta (334 moh.) er det god utsikt mot fjellene i sør, Ulriken 
+og nordover mot Høgstefjellet og Veten. Du kan velge mellom flere ruter 
+når du skal ned. Foruten å gå tilbake den samme veien som du kom, kan du
+følge en sti sørover som etter hvert dreier vest og ender opp i 
+Hetlebakka. Herfra er det rundt 1,5 km til Arnavegen der det er 
+bussforbindelse. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Vil du forlenge turen kan du gå 
+over til Breisteinsåta, ned i Ervikskaret, opp på Erviknipa ved 
+høyspentledningene og videre sørøstover til Ytre Arna. Herfra går det 
+buss, eller du kan gå videre til Indre Arna og ta toget til sentrum. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Tilkomst:&lt;/strong&gt;&lt;br&gt;For
+å komme til turens startpunkt, kan du ta bussen mot Breistein, eventuelt finne et sted å parkere i nærheten. &lt;br&gt;&lt;strong&gt;&lt;br&gt;Tidsbruk:&lt;br&gt;&lt;/strong&gt;Beregn ca 45 minutter til toppen.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Passer for: &lt;br&gt;&lt;/strong&gt;Dette er en tur som passer for hele familien.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Utstyrsbehov: &lt;br&gt;&lt;/strong&gt;Om sommeren går det bra med joggesko. På vinterstid kan det være noen glatte partier, brodder vil gi bedre grep over isen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Kart:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kartblad: 1115 I Bergen (1:50.000)&lt;/p&gt;
+&lt;p&gt;Tur og friluftskart Bergen (1: 25 000)&lt;/p&gt;&lt;/div&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4eb8fb444a592.JPG> ;
+	sf_ont:image_credit		"""BT""" ;
+	dct:created				"""2011-11-08 10:49:37""" .

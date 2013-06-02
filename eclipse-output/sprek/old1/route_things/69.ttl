@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route69>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/69> ;
+	<name>		"""Solheimslien-LÃ¸vstakken"""@no ;
+	<length_in_time>		"""75""" ;
+	<length_in_km>		"""4.1""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-30 09:37:05""" ;
+	<encoded_path>		"""odooJwho_@Tm@BcALs@Tq@^IVe@Js@J{@Lq@Xc@Tc@Xq@ZPC|@Mn@Qx@Nx@Ol@Gv@Gv@XOTc@DfAGv@?v@Nn@Xp@V]Rc@Lw@Pi@\g@XQ\KZDZDT`@\RRh@XZXMZ?\A\B\CHD^B\@Z?\DZOFKVYZCXNV\Rf@ZP`@AQz@AfAU^`@@^XVXRf@T^XX`@EZE^?XZZDZ@ZGZBXCZD\FXGZ@ZNXLXTZ@XP^TZHZNXR`@L\@`@LXD`@VZLZJZBZLXJ\D\DZCZCZBXL`@AX^V\Pf@HdAPj@Ft@ZHXPZLT\ZET`@VXXXXPVZPh@T\Tb@V`@T`@Nj@Pj@VZZB[GYOSg@Mm@Qg@Ya@Sc@Uc@Qm@Om@W[[Q[C[UWYYCW]YU[CU_@Is@Kq@Eu@Uc@YOQk@[H[@[IYH[A[D[EYOYU[?YW]?[KYU[Q[?[A]IYQ[QYO[Q[IY[YG[M[E[@[G]AYH]C[?]H[CWa@[EYA[C[B[GW]Qm@U_@W[[?Sg@Mo@R_@V[Kq@a@I]c@[C]O[A]NYJ]F[@][[L[H]E[J[?a@L_@WSg@[M[]W[YSYXWVSf@W`@Kt@Ol@[BUk@Qs@@aA@eA_@V[YPo@Ju@E}@PyBJs@[C""" ;

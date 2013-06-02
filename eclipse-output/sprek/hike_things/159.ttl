@@ -1,0 +1,36 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+sf_ont:hike159
+	a						sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""450""" ;
+	] ;
+
+	sf_ont:Length [
+		sf_ont:Kilometer	"""15.9""" ;
+	] ;
+
+	sf_ont:degree_of_difficulty			"Hard"@en ;
+	sf_ont:referedBy					<http://tur.bt.no> ;
+	
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""wkdpJ_xe_@cAzAeB`B_@OMgBGiB@kACmBVq@Nk@tAo@xCsIx@cEOaEh@wIrAuJfAsDlAIzBxCbANnA|AEj@RDN?@dDV?Lj@OlIXPlAq@jAxBf@lBT?ZrAExCH`BZj@DbBD`A?^l@xBh@xBlBnDvBnDx@Ip@}Bh@_Eh@aBh@k@NgB@{DByD`AeFlAuF~A_EzAoDhBgDrAaGb@wG~@wHp@yH`@uFo@fGmBcAaBkFo@iBiBmBi@}BA}Ab@sBfA}BiAsB]eETsBF{DUmB?eGZmGTcJS_DkAwAaDgFwBkDcCoDqB{Bw@yAeAgGImBOaAoArCaApFy@bEyBtDi@h@SlBa@DDeBKq@Ck@L{@RaBK}@FeAAUOUQUBq@CgAEaAO}BOgALq@Ek@GUG_@Jk@Ee@W?U[?a@m@Uu@e@a@}A_A}@cAmBs@K_Ap@e@pBkAEuBaAkCsAyAzA_DnDiFlFmEdEwFtBkBvCmAbDaAz@mApFaBrCY`CaDzFoBjFaBpCsAD}BcBiCeCwDMwA^eCqJL_FXiCnA_E`CwIhCyJvC{Kp@gB?@OOWNw@f@u@p@]\\iBmDc@k@s@cBw@eDoBeEq@aAYwA{@?c@sAYU[?O?]UGa@k@??e@Kw@c@eAe@gBQe@[y@QUoAU}Am@q@Um@Lg@xCMlBPwATmBVwAj@?b@d@?j@CzBHtBBvAQlBuAjBZj@l@FTj@Hj@InAo@r@IxCVfAFjCU`BKZMlB]`AWpAQfA?t@Hd@Mv@a@^Od@Kz@I`@K`A?ZWh@APM`A@TBXYj@UZIt@M^_@`@e@N[p@m@XAZ]?ANUZG?UXUDGNAJ??]AKG[MODKKEFCLBJ@RB^Q?M?QTGPSFIBCXEr@Cv@a@~@KBGPMLK@IVGTQBE^CZ?h@NNt@[l@Uf@Ar@?Zr@\\HV\\?j@DTLXFHb@\\r@XH?ZBFT?j@?j@\\j@Jj@RANBVQ\\c@L?JJDL@T?f@Wj@a@`B?z@@l@[z@[j@{@l@g@nAUn@XhDRdCH`APt@^xAGz@UTCh@Qn@c@j@Fr@LHDNBPD|@ZFXCRMHALEZDNHBNJl@D?F?PENCNFZHRHR@TIR@NM[v@_@`@Wn@Q`BNx@@XE~@XN?|@Ft@OzA@p@?t@EhBMjB_@xBAdA]pABdA?p@^`@x@zANPJdAh@f@n@r@dApAZK`@QVETCXId@KVQX@bATp@U\\AXg@\\EHb@PXf@HPI\\aAVy@JEHHJ@p@@Rd@JGFWh@mAd@c@^}@B_@HMD?D@BNDd@]fBG`@WdD_@xCl@rB`@EXC\\TC|@VpBBr@C~BArBLd@h@Hd@B^n@h@tBXBLf@XeAh@I^`@XYZ?BXAhAKrBa@zCNbAElAFTXf@TCRJNn@V`ADThAr@FhA@lAJVf@r@`@j@L\\P`AD`@JDKlACjA?n@G`AArA[`ABXQx@k@BO?LfAz@`Hr@zATT|@c@dB}@lAeBdAyB`AYdA{BFs@Fm@p@qCxAFKfAB`@I~BHPTk@RLf@Jr@oDd@mDBo@z@eBt@}CLyAZuBf@q@t@oCf@cDTo@VBXLf@F`@o@R}AZwAXs@zAtBaBhMLPOjDl@|C^dAA~CZjCD~Bv@MpAuAp@_Bp@_@bAmB""" ;
+	] ;
+	
+	owl:sameAs				<http://tur.bt.no/tur/159> ;
+	
+	sf_ont:Indexcard [
+		dct:created				"""2012-02-01T14:38:56.462+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

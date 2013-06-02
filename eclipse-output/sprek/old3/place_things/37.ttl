@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place37>
+	a						...Thing... ;
+	<name>					"""Rundemanen"""@no ;
+	<altitude>				"""568""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/437023> ;
+	<gowalla_lng>			"""5.3665316105""" ;
+	<gowalla_lat>			"""60.4132749543""" ;

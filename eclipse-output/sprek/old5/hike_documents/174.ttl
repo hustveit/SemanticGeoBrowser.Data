@@ -1,0 +1,63 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike174>
+	a	...Thing... ;
+	dct:title				"""Haugland ââ‚¬â€œ Vardegga ââ‚¬â€œ Vikinghytten"""@no ;
+	<ingress>		"""En middels tung tur gjennom et pent område, først gjennom skog og siden i høyfjellsterreng."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter på Hauglandsskiftet på Gaupås. Herfra går
+man sørvestover ca. 600 meter på vei til Haugland og fram til Haugland skole. Fra
+skolen følges vei sørover forbi gården Botn, og bratt opp til Syrevadskaret. &lt;/p&gt;
+&lt;p&gt;Man fortsetter videre sørover forbi
+myrområdene Nedste og ÃËœvste Ãâ€¦reina. Gjennom dette partiet renner bekken fra Hauglandsdalen
+i fine slynger. Ved vestsiden av myrene kommer man inn øverst i Simsedalen og
+møter stien fra Hjortland se: &lt;a href="http://tur.bt.no/tur/114" target="_blank"&gt;Hjortland-Simsedalen-Vikinghytten&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Stien dreier nordvest et lite stykke,
+siden vest og sørvest, og man kommer inn på varderekken fra Rolland. Følg denne
+fram til Vikinghytten, som er åpen i helgene.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Turen kan også gåes motsatt vei, og kan fint gåes på ski om vinteren.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr. 270 til Kvamsvegen (Bergen) og gå 15 minutter til Haugland herfra. Det er
+også mulig å komme med bil. Det er parkeringsmuligheter
+ved Haugland skole i helgene.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 4-5 timer tur/retur. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen går
+hovedsaklig på sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk å ta med nok mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br style=""&gt;
+&lt;br style=""&gt;
+&lt;/p&gt;
+&lt;p&gt;Vikinghytten er åpen på søndager. Her er det mulig å få kjøpt
+drikke og sjokolade.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;i&gt;Kolbrenning&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;I utmarken til Kvamme og
+Hauglands-gårdene, i et område med stor bjørkeskog, ble det drevet
+trekolbrenning i århundrer fram til 1900-tallet. Man
+har sikre opplysninger tilbake til 1500-tallet. Kolbrenningen må ses i
+sammenheng med den gamle ferdselen over fjellet. Folk på Kvamme og Haugland
+gikk over Rundemanen eller ned til Tarlebø under sine byturer. Kolet ble
+fraktet til Bergen i tønner og brukt som betalingsmiddel for bl.a. korn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Bjørken ble stablet som vedstabler og
+dekket med f.eks. torv eller lagt ned i en høle i bakken og satt fyr på. Veden
+skulle bare ulme, og hver mile brant i dagevis. Rester av slike kolmiler finnes
+fortsatt i området der stiene fra Kvamme og Haugland møtes på Nedste Ãâ€¦reina,
+men kan være litt vanskelige å finne.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Hjortland (1:15.000), 1115 I
+Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25 000), 7-fjellsturen
+turkart (1:25 000).&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e12d81f955e8.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-05 11:11:04""" ;

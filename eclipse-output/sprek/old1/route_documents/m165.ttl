@@ -1,0 +1,49 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route165>
+	a	...Thing... ;
+	<name>		"""NordnÃ¦sdalen â€“ DamsgÃ¥rdsfjellet"""@no ;
+	<ingress>		"""Her kan du kjapt komme til topps og nyte utsikten. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Der veien svinger rett vestover, gÃ¥r tydelig sti mot
+nord opp dalen mot DamsgÃ¥rdsfjellet. Man gÃ¥r pÃ¥ Ã¸stsiden av NordnÃ¦shytten. Oppe
+pÃ¥ myren gÃ¥r man Ã¸st for Holafjellet og til venstre for Olsokfjellet (353 m.o.h.)
+FÃ¸lg stien opp pÃ¥ DamsgÃ¥rdsfjellet. PÃ¥ toppen er det flott utsikt mot sentrum
+og Byfjorden.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stisystemet kan vÃ¦re litt uoversiktlig om man ikke er
+kjent i omrÃ¥det. Husk derfor Ã¥ ta med kart, evt. benytt BT sin &lt;a href="http://itunes.apple.com/no/app/bt-sprek/id439293777?mt=8#" target="_blank"&gt;Sprek-app for iPhone.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veien til NordnÃ¦sdalen er stengt for vanlig bilkjÃ¸ring, kun kjÃ¸ring til
+eiendommene er tillat. Det er derfor best Ã¥ parkere lenger unna og heller gÃ¥
+til utgangspunktet. Et annet alternativ er Ã¥ kjÃ¸re til Melkeplassen og parkere
+der. Det er lett Ã¥ gÃ¥ opp grusveien til NordnÃ¦shytten fra Melkeplassen. Ã˜nsker
+man Ã¥ ta buss, gÃ¥r buss nr. 19 til Melkeplassen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 1 og 2 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer
+for de fleste og er sÃ¦rlig godt egnet for turer med barn, ettersom det er Ã¥pne hytter og
+forholdsvis kort vei til toppen av fjellet. Turen gÃ¥r hovedsaklig pÃ¥ sti, og er derfor uegnet for barnevogner
+eller rullestoler. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. Turen gÃ¥r gjennom et noe myrlendt terreng, sÃ¥ vanntette sko etter regn vil vÃ¦re en fordel. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;NordnÃ¦sdalen er en mye brukt innfallsport til dette
+turomrÃ¥det. Opp mot turomrÃ¥det ligger eiendommen til NordnÃ¦s Batallion, med
+blant annet idrettsbane. LaksevÃ¥g Turn- og idrettslagshytte ligger like ved i
+et skogholt. Denne er Ã¥pen pÃ¥ sÃ¸ndager. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1115 I
+Bergen (1:50&amp;nbsp;000), Tur â€“ og Friluftskart Bergen (1:25 000), 7-fjellsturen
+turkart (1:25 000).&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e0b12b9b7ef6.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-29 13:55:37""" ;

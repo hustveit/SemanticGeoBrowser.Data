@@ -1,0 +1,32 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike186>
+	dct:title				"""Myrdalen, rundtur"""@no ;
+	sf_ont:ingress			"""Perfekt familietur!"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Ulsmåg skole på Totland, Nesttun. Her er det lett å parkere utenom skoletid. Gå inn Totlandsveien. Her kan man enten følge bilveien eller ta til høyre ned en liten grusvei. Det anbefales å velge grusveien, da det ikke er fortau langs veien. Man kan ikke følge grusveien hele veien, så det siste stykke bort til Myrdalsvannet går langs Totlandsveien.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er også mulig å droppe strekingen fra Ulsmåg skole og starte turen fra Myrdalsvannet. Det er ingen parkeringsmuligheter her, men mange velger å parkere langs veien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ta til venstre ned på grusveien ved myrdalsvannet. Veien er lett å følge med nydelig utsikt utover Myrdalsvannet. Her kan man både spasere, jogge, trille og sykle. Følg veien rett frem mot venstre når du ser en avstikker opp til høyre. Denne er kjent som ââ‚¬&#157;kubakkaneââ‚¬&#157; fra gammelt av. Det var her de førte kyrne opp til Totland. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved neste veiskille holder man til høyre opp bakken til Myrdalskogen. På toppen er det fint å raste, enten ved benkene eller i gapahuken. Her er også en slengdisse barna kan leke med. Følg veien nedover til du kommer tilbake til stiskillet. Herfra følger du grusveien tilbake til Totlandsveien og videre til Ulsmåg skole.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr. 70 og 71 fra Nesttun går til Ulsmåg skole. Kommer man via bil er det greit å parker på skolen utenom skoletid. ÃËœnsker man å starte turen fra Myrdalsvannet, må man parkere langs veien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Starter man turen fra Ulsmåg skole tar turen 1,5 til 2 timer. Starter man fra Myrdalsvannet tar den 1-1,5 timer.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. Det er tilrettelagt for bruk av trillevogn og rullestol hele veien. Flere steder er det satt opp benker, så det er storsett alltid mulig å ta en rast dersom man har behov for det. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Det holder med joggesko.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Myrdalsvatnet ââ‚¬â€œ perle mellom Nesttun og Totlandsvegen&lt;/i&gt;&lt;br&gt;Ved Myrdalsvatnet like sørøst for Nesttun er det anlagt skogs-/turvei. En del av traseen går langs vatnet. Løypen begynner på østsiden av Totlandsvegen 102, like ved er også et lite friluftsområde med badeplass. Skogs-/turveien går i hovedsak i skogen øst for vatnet. Den er særdeles mye benyttet og godt egnet til turer med barnevogn, sykling, jogging og turer der man vil gå med lett skotøy. &lt;br&gt;&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e1c0e512867f.jpg> ;
+	sf_ont:image_credit		"""Christina Laastad""" ;
+	dct:created				"""2011-07-12 10:58:17""" .

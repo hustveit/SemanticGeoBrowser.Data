@@ -1,0 +1,22 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route63>
+	a	...Thing... ;
+	<name>		"""Montana-Skiveien-Ulriken"""@no ;
+	<ingress>		"""Skiveien er flott mÃ¥te Ã¥ komme seg til topps pÃ¥ byens hÃ¸yeste fjell ved hjelp av egen muskelkraft. Turen passer bra ogsÃ¥ for barn. 
+
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;div&gt;Ulriken (643 moh.) er det hÃ¸yeste av byens fjell. Den enkleste mÃ¥ten Ã¥ komme seg hit pÃ¥ er Ã¥ ta Ulriksbanen, men det er ogsÃ¥ mulig for hele familien Ã¥ komme seg opp til fots. 
+
+Da er Skiveien et greit utgangspunkt. Traseen starter ved Montana. For Ã¥ seg hit kan man enten ta buss til Haukeland Universitetssykehus og fÃ¸lge Johan Blytts vei forbi sykepleierskolen og opp til Montana, eller ta bussen mot Montana Vandrerhjem til Skiveien. 
+
+&lt;br&gt;&lt;br&gt;Skiveien (Johan Blytts vei) starter ved Montana Vandrerhjem. FÃ¸lg denne oppover forbi â€&#157;Steinenâ€&#157; til veien gÃ¥r over i terreng. Her fÃ¸lger man sti som tar av i sÃ¸rsÃ¸stlig retning. Oppe pÃ¥ flaten der lyslÃ¸ypen fortsetter mot sÃ¸r, tar man av Ã¸stover mot LandÃ¥seggen (Lorthaug). 
+
+Traseen gÃ¥r delvis pÃ¥ trapper. Det gÃ¥r an Ã¥ her om vinteren ogsÃ¥, men det kan tidvis vÃ¦re iset og glatt. Hvis man gÃ¥r pÃ¥ ski om vinteren kan det vÃ¦re et godt alternativ Ã¥ gÃ¥ rundt eggen og opp Korketrekkeren. 
+
+&lt;br&gt;&lt;br&gt;PÃ¥ toppen fÃ¸lger man nordover mot Ã…rstadhytten. Ved stiskillet tar man av nordvestover mot Ulriksmasten. 
+
+Like nord for Ã…rstadhytten ligger unnarennet etter Ã…rstadbakken, som i likhet med andre hoppbakker pÃ¥ Byfjellene var dÃ¥rlig egnet pÃ¥ grunn av vindforholdene. OmrÃ¥det rundt hyttene er fint for turer med barn. 
+&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ta buss fra sentrum, linje 31 (Vardene - LÃ¦gdene). Parker langs veien eller ved Montana Vandrerhjem.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Beregn ca. to timer pÃ¥ turen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer for de fleste med normal kondis. Oppstigningen er litt bratt, sÃ¥ turen passer ikke for de aller minste brana. Turen er uegnet for trillevogn og rullestol.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Gode fjellsko anbefales. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d89e21194a82> ;
+	<image_credit>		"""Benjamin A. Ward""" ;
+	<created>		"""2011-03-23 13:01:45""" ;

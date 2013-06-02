@@ -1,0 +1,20 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route64>
+	a	...Thing... ;
+	<name>		"""Montana â€“ Turnerhytten â€“ Vidden â€“ FlÃ¸yen"""@no ;
+	<ingress>		"""Over Vidden fÃ¥r man opplevelsen av ekte hÃ¸yfjell, Ã¥ret rundt. Dette er en av de mest kjente turene pÃ¥ Byfjellene. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;div&gt;Skiveien (Johan Blytts vei) starter ved Montana Vandrerhjem. FÃ¸lg denne oppover forbi â€&#157;Steinenâ€&#157; til veien gÃ¥r over i terreng. Her fÃ¸lger man sti som tar av i sÃ¸rsÃ¸stlig retning. Oppe pÃ¥ flaten der lyslÃ¸ypen fortsetter mot sÃ¸r, tar man av Ã¸stover mot LandÃ¥seggen (Lorthaug). Traseen gÃ¥r delvis pÃ¥ trapper. Det gÃ¥r an Ã¥ gÃ¥ her om vinteren ogsÃ¥, men det kan tidvis vÃ¦re iset og glatt. Hvis man gÃ¥r pÃ¥ ski om vinteren kan det vÃ¦re et godt alternativ Ã¥ gÃ¥ rundt eggen og opp Korketrekkeren. &lt;br&gt;&lt;br&gt;PÃ¥ toppen fÃ¸lger man nordover mot Ã…rstadhytten. Ved stiskillet tar man sÃ¸rover mot Turnerhytten. Her kan man i helgene kjÃ¸pe en sjokolade eller kaffekopp. Stien fortsetter mot Isldalen, forbi Smedmyra og langs vardene. Inne pÃ¥ Storfjellet passerer man varden pÃ¥ Storhaugn (662 moh.) Ta en avstikker bort hit; utsikten er storslÃ¥tt med de hÃ¸ye og dramatiske fjellsidene ned mot Isdalen i kombinasjon med utsyn mot byen og videre mot Ã¸yene i havet i vest. Mot nord ser man landemerket Eldsfjellet pÃ¥ HolsnÃ¸y, fra Ã¸st mot sÃ¸r ser man fra Bergsdalsfjellene til Folgefonna. &lt;br&gt;&lt;br&gt;Traseen over Trappefjellet er den mest benyttede og korteste traseen over Vidden. Stien gÃ¥r slakt nedover fra Borgavardegga (637 moh.) til Trappefjellet. Det er bratt og hÃ¸yt mot TarlebÃ¸vatnet pÃ¥ venstre side, hold stien og gÃ¥ gjerne litt innpÃ¥. FÃ¸lg stien pÃ¥ vestsiden av Ã˜vre Jordalsvatnet og til toppet av Jordalsskaret. Herfra gÃ¥r man Hyttelien, til Rundemanen. FÃ¸lg Rundemansveien forbi Store Tindevatnet, sÃ¥ BlÃ¥mansveien fra Brushytten og til Ã¸vre stasjon pÃ¥ FlÃ¸ibanen.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Tilkomst:&lt;/b&gt; 
+&lt;div&gt;For Ã¥ komme seg til Montana kan man enten ta buss til Haukeland Universitetssykehus og fÃ¸lge Johan Blytts vei forbi sykepleierskolen og opp til Montana, eller ta bussen mot Montana Vandrerhjem til Skiveien.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;Her er det store variasjoner, avhengig av hvor fort du gÃ¥r. Beregn opp mot 6 timer.&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;O-kart Ulriken (1:10 000), 1115 I Bergen (1:50 000), Tur â€“ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000)&lt;/div&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d8af5e45f2ad> ;
+	<image_credit>		"""Rune SÃ¦vig""" ;
+	<created>		"""2011-03-23 13:48:03""" ;

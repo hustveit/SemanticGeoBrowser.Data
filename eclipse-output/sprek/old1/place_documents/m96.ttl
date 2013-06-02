@@ -1,0 +1,17 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place96>
+	a	...Thing... ;
+	<name>		"""Hauggjelsvarden"""@no ;
+	<ingress>		"""Viddens hÃ¸yeste punkt (673 moh.)."""@no ;
+	<description>		"""&lt;P&gt;&lt;SPAN id=LongDescription&gt;Hauggjelsvarden er det hÃ¸yeste punktet pÃ¥ "vidden" og ligger mot sÃ¸r-Ã¸st. I nÃ¦rheten av toppen ligger hytten "Valhall",&amp;nbsp; som er den eldste av hyttene pÃ¥ byfjellene. &lt;BR&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN id=LongDescription&gt;&lt;BR&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN id=LongDescription&gt;Det er flere mÃ¥ter Ã¥ nÃ¥ toppen pÃ¥, man kan gÃ¥ bÃ¥de fra SÃ¦dalen, Isdalen eller ta en liten avstikker pÃ¥ turen langs varderekken fra FlÃ¸yen til Ulriken.&lt;/SPAN&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1acd6f3188d.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e0db688ac1c8.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert ved selve Hauggjelsvarden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-06-17 14:09:13""" ;
+	<modified>		"""2011-07-21 14:45:54""" ;
+	<gowalla_name>		"""Hauggelsvarden"""@no ;
+	<gowalla_description>		""" """@no ;

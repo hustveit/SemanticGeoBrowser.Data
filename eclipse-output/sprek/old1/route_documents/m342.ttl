@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route342>
+	a	...Thing... ;
+	<name>		"""Fjellveien"""@no ;
+	<ingress>		"""Den mest kjente turveien i Bergen?"""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Fjellveien starter fra krysset mellom Munkebotn og Amalie Skramsvei i Sandviken. Store deler av den 4.632 meter lange veien er uten trafikk og passer for alle. PÃ¥ enkelte steder i veien er det litt stigning, ellers er den mer eller mindre helt flat. Det er delvis gruslagt og delvis asfalt, sÃ¥ her passer det bra for bÃ¥de joggere, familier med barnevogn og rullestolbrukere. Hele veien er opplyst sÃ¥ her kan man gjerne ta seg en tur seint pÃ¥ kvelden ogsÃ¥.&lt;br&gt;&lt;br&gt;Fjellveien er en av de mest kjente turveiene i Bergen og gÃ¥r forbi blant annet Stoltzekleiven, lysthuset Mon Plaisir, Tippetue og FlÃ¸ysvingene. Her fÃ¥r man fin utsikt over innseilingen til Bergen. Fjellveien fortsetter forbi Skansen mot Kalfaret og stopper ved Bellevue.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start fra Sandviken eller Bellevue.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. en time dersom man gÃ¥r hele veien.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en tur som passer for alle, fra familier med barnevogn til langdistanselÃ¸pere. Man kan velge en kortere ettermiddagstur dersom man Ã¸nsker det.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret. Gode joggesko og lette treningsklÃ¦r anbefales pÃ¥ varmere dager."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eb90b35e7361.jpg> ;
+	<image_credit>		"""Marita Aarekol""" ;
+	<created>		"""2011-11-08 11:57:57""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route67>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/67> ;
+	<name>		"""Munkebotn-Sandviksfjellet-FlÃ¸yen"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""6.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-28 12:33:10""" ;
+	<encoded_path>		"""{iwoJ{em_@??YUUe@Oi@Mo@Ku@Sc@Uk@Oq@Wk@Uc@Mu@Mm@]Bc@Pe@GQM[S@}@Rs@Rg@BeAHy@EkABYJq@Ri@J[ZSZJTb@Jr@Dv@Ph@Lo@C{@B_AKs@M}@Ww@g@YYWYPa@RUZEgATo@b@c@\Q\EXVVd@VVTd@Rn@Tb@Rd@Fu@CUMs@Q}@O_AS}@Sg@c@c@[Ea@KMCYVWd@Yv@WX]d@MT[@Yr@WR]KO}@Om@W_@Ym@Wq@Iu@E{@Ew@?w@F}@Fs@Ru@Tk@Pm@Tg@\e@Vi@`@o@Te@F{@V]Tk@Pk@Rg@Rs@Lw@Lu@?r@\FZc@Zg@Pq@Pq@Va@Vq@D}@E{@Ku@@w@Du@Fw@Ns@By@Kq@Cw@Fy@DgAAgA??By@Cw@Aw@XWh@B\AV`@Rg@Hu@C}@HcAZK\l@Rd@ZL`@E\GVm@Vq@Tk@`@EZPXOXYXUZU??Ti@\]`@?`@B^FZKZCHAZW\@`@Rf@f@\K^SXW\SRm@^WPi@Rc@Nq@T_@ZKAy@Nq@Lm@Xe@XUZ_@Nq@Jq@Fy@Dw@No@Nm@Jq@Nm@Lm@Ri@Ti@DcAHu@Lq@Nk@N{@Py@Rg@N[ZY`@MXW`@]P_AFg@Lo@V]Re@Nk@NcAJs@Re@BGTm@Z]Lo@Ps@Vg@^a@Z[ZBXP\GXc@Zs@\_@Vc@Va@Za@JQGu@ZQZLZHZLXDZCZ?V^Ix@Qh@K`A?v@Pn@VZZFZSR[XUT]Nm@Rg@V_@RY\g@XY`@O\KZYZ]^FZRV^I|@Oj@Bz@ZIZSXOZIFaANl@\A^H\VXX\@XOZMVWVe@Po@Po@Te@ZUXK^KXKZGZAZMZ?XRPl@Rh@Nl@Jp@Jr@Nl@Pn@Nl@Ph@XZb@QVe@Te@Te@Te@Nk@Rm@Ra@ZAZMTg@Pq@Jq@Dy@Ls@Pi@ZDDx@Ir@@v@Fv@Ln@Ev@Mr@Kv@Gt@Fz@Fv@jAtCbBCjAj@z@mCDrEh@vDiAPe@p@eAdBhCp@vCYdB`@""" ;

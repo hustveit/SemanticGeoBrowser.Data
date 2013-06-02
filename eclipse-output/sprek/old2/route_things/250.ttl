@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route250>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/250> ;
+	<name>		"""Lone-Skåldalsnipa"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-05 12:13:00""" ;
+	<encoded_path>		"""mtnoJ}{j`@vDgGfBmIx@}BSoCa@}A]e@g@I}@Qc@?o@?}@P{AUMa@Yu@FcB~@kGr@a@zAuFzAaEt@gC]k@e@k@]Ko@UKeAaAk@~AuDhBqFbB}H@sBt@k@r@e@b@yCDyC_B[sA?{@PgBiCsANsA[_@TkA_@sEt@cAzDyAUo@`B{AyDi@e@aAmAe@eA_@Q}@qBuAiBwBDcA?eAbBeAKUq@NcCHqABe@Nk@OgA?aA}@o@kA`Aw@vBe@t@k@gBgCo@qCw@gClCW`@""" ;

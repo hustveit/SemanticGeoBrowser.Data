@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route218>
+	a	...Thing... ;
+	<name>		"""Byrkeland-Stongfjellet"""@no ;
+	<ingress>		"""En fin og litt bratt fjelltur som passer spesielt bra for spenst og kondisjon. Flere lokale bruker denne ruten til å trene. """@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter ved Byrkeland. Følg veien sørøstover et lite stykke før man tar av på stien til venstre. Følg stien oppover mot Grasdalen. Stien er enkel å følge, men litt bratt og svingete. På toppen er det et par små tjern, her er det flott å ta en rast mens man nyter utsikten. Utsikten fra Stongfjellet er flott og du kan skue ut over flere andre fjell på øyen.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Returner samme vei. man kan også fortsette ned til østsiden om gå rundt Storavatnet på veien tilbake til Byrkeland. Se: &lt;A href="http://tur.bt.no/tur/219"&gt;Stongfjellet, rundtur&lt;/A&gt;.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Byrkeland som ligger i Osterøy kommune. Det er ingen avsatte parkeringsplasser, så utvis hensyn når du parkerer. Det går ingen busser til Byrkeland.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 1 time. De raskeste løper opp på 30 minutter.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste, ta gjerne med barna. Turen er ikke tilpasset bruk av trillevogn eller rullestol. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. Benytt gjerne gode fjellsko. Skal man løpe opp vil det være bedre å benytte robuste joggesko.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2e7e716d9a8.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-26 10:32:29""" ;

@@ -1,0 +1,28 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike219>
+	a	...Thing... ;
+	dct:title				"""Stongfjellet, rundtur """@no ;
+	<ingress>		"""Flott tur med nydelig utsikt fra Stongfjellet (640 moh.)."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter ved Byrkeland. Følg veien sørøstover et lite stykke før man tar av på stien til venstre. Følg stien oppover mot Grasdalen. Stien er enkel å følge, men litt bratt og svingete. På toppen er det et par små tjern. Her er det fint å ta en rast mens man nyter utsikten. Utsikten fra Stongfjellet er flott og du kan skue ut over flere andre fjell på øyen.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Turen fortsetter ned østsiden av fjellet. Stien går ned til Innsetberget (505 moh.) før den dreier østover mot Vokhaugane (360 moh.). Følg stien videre sørover til Tverrelven. Etter man har krysset elven vender stien mot høyre. Stien går videre vestover langs med Storavatnet. Det er fint å bade i Storavatnet. Mange familier tar turen hit for å kose seg i vannet. Vær obs på at det kan det være bløtt å gå på stien ved Storavatnet ettersom området er noe myrlendt. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Stien følger Hovdaelven nordvestover til Hovda, her når man bilveien. Følg denne veien tilbake til Byrkeland. ÃËœnsker man ikke å følge bilveien fram til Byrkeland kan man velge å følge stien som går til venstre ved det andre stiskille etter Storavatnet. Denne stien går gjennom Bukkedalen, krysser broen over Gjerståfossen og går videre til Byrkeland. &lt;/P&gt;
+&lt;P&gt; &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Byrkeland som ligger i Osterøy kommune. Det er ingen avsatte parkeringsplasser, så utvis hensyn når du parkerer. Det går ingen busser til Byrkeland.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar mellom 4-5 timer.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste. Turen kan bli litt bratt og lang for de minste barna. Større barn skal fint kunne klare å gå turen. Turen er ikke tilpasset bruk av trillevogn eller rullestol. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. Benytt gjerne gode fjellsko. Ta med nok mat og drikke.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2eab83624e9.jpg> ;
+	<image_credit>		"""Ostranett""" ;
+	<created>		"""2011-07-26 12:53:40""" ;

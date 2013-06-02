@@ -1,0 +1,38 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route68>
+	a	...Thing... ;
+	<name>		"""Spelhaugen-Tennebekktjørna"""@no ;
+	<ingress>		"""Om sommeren er turen perfekt å trimme først, slik at man så kan avkjøle seg i et av tjernene."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;br&gt;&lt;/b&gt;Følg veien Spelhaugen til ende, hvor det  går turvei innover til 
+Tennebekktjørna. Vannet er nå tilrettelagt for bading og fiske, og 
+forvaltes av Bergen og omland
+Friluftsråd. 
+
+Turen går gjennom et fint område med storvokst skog ââ‚¬â€œ hovedsakelig furu,
+ men med innslag av eik. Fortsett forbi Tennebekktjørna (her er er det 
+tilrettelagt som badeområde med parkeringsplass) og ta av på sti mot sør
+ der veien dreier nordvestover i en krapp sving. Fra Svartatjørna går 
+mange stier; hovedtraseen for denne turen går til Krokatjørna og dreier i
+ østlig retning mot Spelhaugen.&lt;br&gt;&lt;br&gt;Tennebekk er et mye brukt utgangspunkt for turer i Kanadaskogen.
+
+Kanadaskogen ligger som en grønn lunge mellom bydelene Fyllingsdalen, Laksevåg og Loddefjord. &lt;br&gt;&lt;br&gt;Spelhaugen er også utgangspunkt for turer til Gravdalsfjellet og 
+Damsgårdsfjellet.
+
+Turene går hovedsakelig i frodig, småkupert terreng med mange 
+naturperler. Noen av disse er Krokatjørna og Svartatjørna, der det er et
+ yrende badeliv i sommerhalvåret. Stedvis myrlendt.
+
+ &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Det er også mulig å komme til rundturen rundt Tennebekktjørna fra Laksevågsiden. Kjør da opp i Nipedalen og start turen fra parkeringsplassen rett ved badeplassen.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Ta linje 9 til endestoppet eller linje 31 til krysset Spelhaugen/Fyllingsdalsveien. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tidsbruk:&lt;/span&gt;&lt;br&gt;Rundturene fra Tennebekk og Spelhaugen går i den sørlige delen av Kanadaskogen og er 5-6 km lange. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Passer for:&lt;/span&gt;&lt;br&gt;
+Området er godt egnet som turterreng for trimmere og turgåere på alle ambisjonsnivå. Det er også fint å jogge denne løypen.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;På sommerstid holder det lenge med joggesko og vannflaske. Etter regnvær kan det midlertidig være en fordel å bruke vanntette sko.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Kart:&lt;/span&gt; &lt;br&gt;1115 I Bergen (1:50 000),
+Tur- og Friluftskart Bergen (1:25 000).
+
+
+
+
+
+
+
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d909299dcc33> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-03-28 15:48:43""" ;

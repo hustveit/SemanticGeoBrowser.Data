@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route216>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/216> ;
+	<name>					"""Kvitursvika, rundtur om Flesland"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""2.2""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-25 11:04:25""" ;
+	<encoded_path>		"""ejboJ{kx^hEsCpAaBzB_BbBEdAa@tFf@`ClBfB`EhCfCx@pChBjBtDnAbLZfAmCvCsDsDoAsDsAeAmE_@cGiCmBiE?{B~@oA~@SrGb@rH""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route37>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/37> ;
+	<name>					"""Stoltzekleiven opp"""@no ;
+	<length_in_time>		"""25""" ;
+	<length_in_km>			"""0.9""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-03-07 10:09:20""" ;
+	<encoded_path>		"""g|uoJmxo_@A@s@j@A@AFMHUn@ABKLWJCAGDI?MDMLK?YOWMA?MBULOAQ@@?CWSQEgA`@i@`@w@?OAs@BBPGJ@@MGUKEOBA[GSI@@UFU?M@EBk@?AHMDO@]JQLBAM????PF?W@WDo@FG\LBW?IBOFUJMF?CQCA??AJA?CBA@C@AA??Em@?S?C?UV[BEAYEAIc@Bc@?CD[@OCUBKFQ?QFO?@CEHWCUDMAOAIAQAE@[?U@GGSEO?YDa@@IORSDGBIRCFEAKBG@EK?MECEG@Z?AMEMBG?SSMQMSEI[G?@??A???""" ;

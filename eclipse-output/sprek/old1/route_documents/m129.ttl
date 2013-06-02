@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route129>
+	a	...Thing... ;
+	<name>		"""HamlagrÃ¸ - Vending"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dfb307612090.jpg> ;
+	<image_credit>		"""Helge Sunde """ ;
+	<created>		"""2011-06-05 19:32:24""" ;

@@ -1,0 +1,46 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route205>
+	a	...Thing... ;
+	<name>		"""HjelmÃ¥s-Gjerdfjellet"""@no ;
+	<ingress>		"""Turen over gjerdfjellet (279 moh.) er spesielt fin en sein sommerkveld, men er ogsÃ¥ godt egnet som en sÃ¸ndagstur med hele familien. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter pÃ¥ HjelmÃ¥s. FÃ¸lg fv 391 nordover mot Fylingen.
+NÃ¥r man har nÃ¥dd Fylingen tar man av pÃ¥ den andre veien til venstre, nordover. Veien
+deler seg etter et lite stykke, hold da rett frem mot hÃ¸yre. FÃ¸lg veien til
+endes. Stien begynner bak det siste huset. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;FÃ¸lg stien oppover GrÃ¸nÃ¥sen og opp til Eikhovden. PÃ¥ dette
+platÃ¥et kan det vÃ¦re litt blÃ¸tt. FÃ¸lg stien videre nordover til Austrinden.
+Stien er lett Ã¥ fÃ¸lge og tar det innom Hestnipa fÃ¸r man er pÃ¥ toppen av
+Gjerdfjellet (279 moh.). Her er det fin utsikt innover Osterfjorden, og
+nordover mot HÃ¸yland/Fammestad. Det er myrlendt det siste stykke, sÃ¥ vÃ¦re obs
+dersom det har regnet mye, for da kan det bli en blÃ¸t tur. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Returner samme vei eller gÃ¥ ned pÃ¥ nordsiden til SÃ¸reide.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til HjelmÃ¥s i LindÃ¥s kommune. Det er ingen oppsatte
+parkeringsplasser, sÃ¥ ta hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 320
+fra Bergen sentrum til Knarvik, ta
+sÃ¥ buss nr. 353 videre til HillesvÃ¥g. Fra HillesvÃ¥g mÃ¥ man Ta buss nr. 361 til HjelmÃ¥s. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar omtrent 2 timer. Har du med barn mÃ¥ du beregne litt lenger tid.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for alle, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti sÃ¥ den er ikke
+tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter vÃ¦ret. Fjellsko anbefales. LindÃ¥skartet er nyttig Ã¥ ha med.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;LindÃ¥s og RadÃ¸y Turkart, SÃ¦bÃ¸ 1116 II,
+Herdla 1116 III.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e36964e65670.jpg> ;
+	<image_credit>		"""Erlend Spurkeland""" ;
+	<created>		"""2011-07-20 09:40:51""" ;

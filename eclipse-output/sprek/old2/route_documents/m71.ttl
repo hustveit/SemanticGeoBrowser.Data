@@ -1,0 +1,42 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route71>
+	a	...Thing... ;
+	<name>		"""Nøttveit rundt Smøråsen"""@no ;
+	<ingress>		"""Flott turområde for barn, godt tilrettelagt med turveier og rasteplasser. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Fra Nøttveitvegen følg turvei mot Bjørnevatnet og videre mot Vardamyra og Torneberget og Byledstølen. 
+
+&lt;br&gt;&lt;br&gt;Smøråsen er en fredelig plett i Fana bydel. Området er nå 
+tilrettelagt med blant annet turveier og benker rundt Bjørnevatnet.
+
+Smøråsen har alltid vært et populært turområde i Fana. Det ligger 
+sentralt og er velegnet for ettermiddagsturer eller oppdagelsesferd med 
+de minste. Sommerstid kan man bade i Bjørnevatnet. Terrenget er skogkledd og idyllisk.&lt;br&gt;&lt;br&gt;Det er tre ulike løypealternativer. Denne turen følger det 
+lengste alternativet. Følg hovedløypen, en gammel mililtærvei, når du 
+tar sørover fra Bjørnevatn. Etter drøye 500 meter kan du ta av til 
+Syningom hvor du har flott utsikt over Fanafjorden. Herfra følger du 
+Ytrestien, en lengre tur rundt Smøråsen på god sti. 
+
+Høyeste topp er Hamrefjellet, 280 moh. sørøst for Bjørnevatnet. Både 
+herfra, og fra Prestningshaugen (Syningom) mot sørvest, er det fin 
+utsikt. &lt;br&gt;I hovedløypen kan man bruke joggesko. Utenfor opparbeidede 
+stier er terrenget bløtt. 
+
+Langs hovedløypen er det mange gode rasteplasser som er tilrettelagt for
+ de små. Her er Eventyrskogen med Smøråsheksen og Smøråstrollet, og 
+Vallebu med Vallekoen og Smøråshuldra. 
+
+&lt;br&gt;&lt;br&gt;Mer om Smøråsen og flere turforslag kan du finne på nettsiden til Smøråsfjellets venner: &lt;a href="http://smoraasfjellet.no/"&gt;smoraasfjellet.no&lt;/a&gt;.
+&lt;br&gt;&lt;b&gt;&lt;br&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;For å komme seg hit kan man ta buss fra Nesttun til Smørås eller parkere ved parkeringsplassen til krysset ved Nøttveit gård.  Det er også en liten parkeringsplass i Nøttveitvegen. Man kan også gå inn i området fra gårdene nesten øverst i Smøråsvegen, Turvei opp Stemmedalen går forbi gårdene på høyre side ved snuplassen. Her er ikke
+tilrettelagt parkering.
+
+&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Tidsbruk:&lt;br&gt;&lt;/b&gt;Turen er 3,5 km lang, og tar ca. 2 timer.&lt;b&gt;&lt;br&gt;&lt;br&gt;Passer for:&lt;/b&gt;&lt;br&gt;Deler av området er tilrettelagt for turer med barnevogn.
+
+&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Kart:&lt;/b&gt; &lt;br&gt;O-kart Smøråsen (1:15 000),
+1115 I Bergen (1:50 000)
+
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d9b148c51366jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-01 11:46:06""" ;

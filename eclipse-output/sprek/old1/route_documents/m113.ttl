@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route113>
+	a	...Thing... ;
+	<name>		"""Hjortland - Nordhytten - Vikinghytten"""@no ;
+	<ingress>		"""Kjekk familietur hvor man gÃ¥r innom Nordhytta og Vikinghytta."""@no ;
+	<description>		"""&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br style="font-weight: bold;"&gt;Turen starter fra parkeringsplassen pÃ¥
+Hjortland. FÃ¸lg skogsbilvegen til enden, her tar en av pÃ¥ stien nedover mot
+venstre. I bunnen av dalen rett etter broen over elven tar stien av til hÃ¸yre.
+VinterlÃ¸ypen gÃ¥r rett fram. Stien fortsetter oppover pÃ¥ venstre siden av
+dalen og etterhvert ser en Nordhytta rett i mot pÃ¥ en hÃ¸g fjellknaus. Hytta er
+Ã¥pen for severing sÃ¸ndager.&lt;br&gt;&lt;br&gt;&lt;p&gt;Fra hytta forsetter en innover dalen og krysser
+etterhvert over og gÃ¥r opp skrÃ¥ningen pÃ¥ andre siden. Her kan stien vÃ¦re
+vanskelig Ã¥ se, men det er bare Ã¥ gÃ¥ oppover under kraftlinjen til en kommer
+opp pÃ¥ ryggen og mÃ¸ter varderekken pÃ¥ Vardeggen. Denne fÃ¸lger en nordover og
+ned mot Vikinghytten. OppÃ¥ ryggen er det fast og fint Ã¥ gÃ¥ med flott utsikt i
+alle retninger.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Om vinteren er her oppe et flott skiterreng, og
+det er mulig Ã¥ fortsette over Vidden mot Ulriken (se turen: Vidden, fra FlÃ¸yen til Ulriken), eller mot Rundemanen og
+FlÃ¸yen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr 4 til krysset
+Flakveitsvingane/Hjortlandsvegen. Her er det ca 2,5 km Ã¥ gÃ¥ langs
+Hjortlandsvegen&amp;nbsp; til turstart. Parkering langs veiene.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Tid opp ca 2 timer. De fÃ¸rste to km langs
+skogsbilvegen er egnet for barnevogn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Turen passer for mosjonister i alle aldre.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Det er flere blÃ¸te partier nede i dalen sÃ¥
+gummistÃ¸vler eller gode fjellstÃ¸vler er Ã¥ foretrekke i vÃ¥te perioder.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dca92830e793.jpg> ;
+	<image_credit>		"""Jan M. LillebÃ¸""" ;
+	<created>		"""2011-05-11 15:41:34""" ;

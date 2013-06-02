@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route202>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/202> ;
+	<name>		"""Knarvik-Indregardsfjellet"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""1.9""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-19 12:17:31""" ;
+	<encoded_path>		"""asqpJufg_@QHu@lAEcBq@aFSoAC_BNaB`@yBHqBLyCu@qDaAqA?QMc@OB?Ya@uBs@qCUY?cAG]Yo@?UWUiAyCQYMyAiAo@c@Xq@Ls@n@s@Tu@rAa@B@?WBe@DIaAc@Y?m@OUS@q@m@q@a@uAoAWy@?a@U]_@s@{@P_@t@cA^k@fAMBOX]\ID]PONUZEISZYD{@`AQl@WHGJUCSM[NU`@_@r@u@xAQ`@e@~@SdAMt@C\Sd@I`@Wp@IbAa@rAWjB""" ;

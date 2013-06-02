@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place213>
+	a	...Thing... ;
+	
+	dct:title				"""Valestrand"""@no ;
+
+	<ingress>		""" """@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-10-26 14:59:17""" ;
+	<modified>		"""2011-10-26 14:59:17""" ;
+	<gowalla_name>		"""Ferjekaien På Valestrand"""@no ;
+	<gowalla_description>		""" """@no ;

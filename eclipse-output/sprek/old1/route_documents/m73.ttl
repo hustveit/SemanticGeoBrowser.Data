@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route73>
+	a	...Thing... ;
+	<name>		"""StÃ¸botn-Nordgardsfjellet"""@no ;
+	<ingress>		"""Nordgardsfjellet kan skilte med strÃ¥lande utsikt for liten og stor."""@no ;
+	<description>		"""&lt;STRONG&gt;Rutebeskrivelse:&lt;/STRONG&gt;&lt;BR&gt;Bratt oppstigning frÃ¥ StÃ¸born blir avlÃ¸yst av rolegare terreng nÃ¥r du kjem opp over skoggrensa. Nordgardsfjellet ligg som ein rygg mot vest og sÃ¸rvest, og byd pÃ¥ framifrÃ¥ utsikt. FÃ¸rst over Byfjorden og Herdlefjorden, sidan mot bustadfelta langs fjorden sÃ¸rover mot byen. Her er ogsÃ¥ kulturminne i form av tuftene etter fleire gamle torvhus og stemmer som i si tid sytte for vassforsyninga til Salhus og tekstilindustrien der. &lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tilkomst: &lt;BR&gt;&lt;/STRONG&gt;Det gÃ¥r buss til StÃ¸botn med jevne mellomrom, men du kan ogsÃ¥ parkere bilen der. &lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tidsbruk: &lt;BR&gt;&lt;/STRONG&gt;Ruta med start og slutt i StÃ¸botn mÃ¥ du rekna rundt to timar pÃ¥. Men det finst tallause ruter Ã¥ gÃ¥, eller avstikkarar Ã¥ ta. Eit anna alternativ er Ã¥ ta bussen til Salhus og fÃ¸lge turstien opp Salhussvingene mellom nr. 23 og 25.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Passar for:&lt;/STRONG&gt;&lt;BR&gt; Oppstigninga er bratt, men det gÃ¥r an Ã¥ ta seg sÃ¥ mange pustar i bakken som ein treng. Elles er turen etter mÃ¥ten lettgÃ¥tt for bÃ¥de liten og stor. Siste delen, frÃ¥ Baugtveit til StÃ¸botn, gÃ¥r pÃ¥ asfalt.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Utstyrsbehov:&lt;/STRONG&gt; &lt;BR&gt;Det skal godt gjerast Ã¥ bli overraska av ruskevÃªr pÃ¥ ein sÃ¥pass kort tur. Det er heller ikkje typisk hÃ¸gfjell vi snakkar om. 355 meter over havet er hÃ¸gaste punktet pÃ¥ Nordgardsfjellet.&lt;BR&gt;&amp;nbsp;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d9b144e81f95jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-05 11:09:41""" ;

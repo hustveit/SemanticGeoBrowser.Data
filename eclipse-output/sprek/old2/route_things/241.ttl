@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route241>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/241> ;
+	<name>		"""Munkebotn-Sandvikspilen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.2""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-03 13:42:04""" ;
+	<encoded_path>		"""{iwoJ{em_@??YUUe@Oi@Mo@Ku@Sc@Uk@Oq@Wk@Uc@Mu@Mm@]Bc@Pe@GQM[S@}@Rs@Rg@BeAHy@EkABYJq@Ri@J[ZSZJTb@Jr@Dv@Ph@Lo@C{@B_AIs@O}@Ww@g@YYWYPa@RUZEgATo@b@c@\Q\EXVVd@VVTd@Rn@Tb@Rd@Fu@CUMs@Q}@O_AS}@Sg@c@c@[Ea@KMCYVWd@Yv@WX]d@MT[@Yr@WR]KO}@Om@W_@Ym@Wq@Iu@E{@Ew@?w@F}@Fs@Ru@Tk@Pm@Tg@\e@Vi@`@o@Te@F{@V]Tk@Pk@Rg@Rs@Lw@Lu@?r@\FZc@Zg@Pq@Pq@Va@Vq@D}@E{@Ku@@w@Du@Fw@Ns@By@Kq@Cw@Fy@DgAAgA??By@Cw@Aw@XWh@B\AV`@Rg@Hu@C}@HcAZK\l@Rd@ZL`@E\GVm@Vq@Tk@`@EZPXOXYXUZU??Ti@\]`@?`@B^FZKZCHAZW\@`@Rf@f@\K^SXW\SRm@^WPi@Rc@Nq@T_@ZKAKb@hC@fGBfC@xB@vAIvA""" ;

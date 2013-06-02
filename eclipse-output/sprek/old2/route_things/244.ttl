@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route244>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/244> ;
+	<name>		"""Haganes-Liatårnet """@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""4.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-04 10:27:10""" ;
+	<encoded_path>		"""i{|nJoje^qAjF_HrJmBz@cCbFkAzEcBdEYlCFfAu@ZMaAe@EoBhCcAvAcEtFq@lAoBbCiChDNO{BjCkDbCuChAaEhFy@lBwDdB_Cc@}AaAeEMoB?iDDmCd@yCj@kCh@oCvAqFEuAUyAUsFb@wC\gA?sCaAwA?a@eEB_J[_GG}GBeJIoGiBoAeAmByAgDm@kCUiAaCyCcA?cBr@kBeBeC?u@\""" ;

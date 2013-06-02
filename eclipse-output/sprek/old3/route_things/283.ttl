@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route283>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/283> ;
+	<name>					"""Rundløype i Telavåg"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""5.9""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 15:14:59""" ;
+	<encoded_path>		"""}ownJm{n]?g@Gk@Ew@Gz@K`ASnBYpAUjAe@r@g@f@g@n@iAxAsAdAcAdAwAjAuAtAm@bAm@~Ak@rAS\u@b@wA?w@MkAe@}@c@aA]gA[o@Qu@CYjAo@fCo@lCYvAa@bCi@bCWhAUtCBxCn@bC`AlCl@pBh@xCz@dEv@|D^pAb@v@\VhAQvAeA`A[R?b@HXv@IYXzBPbBE~BUrBIhAXrAl@Pn@_@v@eAv@{B^cBd@}@NBfBPl@n@z@Pf@Cj@IL|@FlBp@fA`ArAtAlB^XEbDVvBBfB?nB\fC?j@R~EIdAFxA`@hARtB?`A?f@Ej@?|GBnAH|C`@fEHrCVnAF~BWdB_@|@VzAEpCY~EEb@s@fDMj@u@rCa@x@[k@e@\Kb@Of@iArACrAEf@Qd@Sb@s@T_AwA}@u@sB}F{AwFsAoCqAoDWqC_ByGUIoAUmAxAuAtA[Hi@wAWIy@Zc@Jk@XQDg@dAe@j@Y?OsAKf@F{ADmAPsA@c@GmB?[?sB@wBHi@?YJ_A?e@@_AXqAZsBN}A@QKi@?y@LgCXqBr@iK@}@Ng@f@_AZ}B`C_ILa@VsAFqA?wAG}@?yA?mAb@}Bh@wBCcBG}A""" ;

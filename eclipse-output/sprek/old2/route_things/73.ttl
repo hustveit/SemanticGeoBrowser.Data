@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route73>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/73> ;
+	<name>		"""Støbotn-Nordgardsfjellet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""4.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-05 11:09:41""" ;
+	<encoded_path>		"""moepJw`e_@??YSQg@[M]^]^aArBSl@[RWYS}@Oq@YI]TU^]J_@R[P[LSf@Sj@Op@Wt@Sf@Ub@Qh@Un@Qf@[OYOYJ[B[FYP[HYTW[W_@YKW_@Wa@W[Kq@Z?XSXUNm@Te@Cy@Js@XKXMZCZERe@Lm@Pk@Tc@By@Hq@No@Js@XCZATc@Cw@No@Bu@Fs@Dw@Ls@Cw@Fu@Iq@Mo@Mq@W_@Sg@Y_@Ua@Ks@?w@Gu@Gu@Iw@Dw@Mm@Iu@YWYLQm@Ms@Ks@Mq@Is@Gu@Dy@@y@Ay@YO[JYLWYW^Oj@Ok@]ESc@Ua@Oq@W_@YO]EW]Gs@Cw@Dw@@w@Cw@Cw@Mq@Ay@Fu@Rk@Lo@Fu@@w@@y@Fw@Lq@T_@Ti@Fu@Lo@Hu@Hu@Pi@Te@Fu@?{@Cu@Ay@Ds@No@To@Jo@Tc@Dw@Du@T^XLRi@Tc@XUV]XQZOXOZIZCZBZGXSVc@T]ZKT`@Rl@@~@A|@Mp@Iv@@z@@x@Dz@Bz@Dt@Dt@Jz@Hr@Fx@Jt@Hx@Jp@Pr@Tf@V^XVXXZVVTXTZRXVXTXVRf@Hp@Lp@Lp@Nr@Lj@Td@T`@V`@ZMXUTq@ZDVZNj@Rh@Tf@XVZVVf@Rf@XFPq@Lq@Zu@\UXB\VVh@Tn@\pANl@Pr@Np@Nl@Pj@Nl@Np@Rh@Pj@Ht@Ub@Sh@Kr@Mp@Sj@W\[GYY[FWb@Qj@Kp@Mp@Mp@Ml@Qh@W`@Qh@Mn@Or@It@Gt@Mr@Sh@Ml@Uf@Qh@Qj@Ev@Kr@Ml@Iv@Mt@Ol@Qh@YT[EW\Gv@?z@Ex@Gt@??""" ;

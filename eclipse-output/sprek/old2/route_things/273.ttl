@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route273>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/273> ;
+	<name>		"""Glesnes ââ‚¬â€œ Telavåg"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 10:51:24""" ;
+	<encoded_path>		"""""" ;

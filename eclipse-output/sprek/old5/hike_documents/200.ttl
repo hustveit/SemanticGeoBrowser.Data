@@ -1,0 +1,40 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike200>
+	a	...Thing... ;
+	dct:title				"""Gaustad-Gaustadfjellet"""@no ;
+	<ingress>		"""Fin topptur på Meland. Fra toppen av Gaustadfjellet (317 moh.) er utsikten fantastisk."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+starter på Gaustad, Meland. Følg stien til venstre for hovedveien opp til
+Reftskar. Ta av mot venstre på stien like etter Postkassestativ ved vei til
+Refskar kai. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Følg stien opp til toppen av Gaustadfjellet (317 moh.). Stien kan
+være litt bratt til tider, men det er fantastisk utsikt når man kommer opp. Her
+er det fint å ta en rast før man returner ned samme vei.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;ÃËœnsker
+man bare å gå selve toppturen, kan man starte fra Refskar å gå opp til Gaustadfjellet
+derfra.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør mot Meland, til Gaustad. Det er ingen avsatte
+parkeringsplasser, så vær fornuftig når du velger parkering. Man kan også ta
+buss nr. 320 fra Bergen sentrum til Flatøy og ta nr. 346 videre til Gaustad.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1,5-2 timer i sin helhet. Selve oppgangen fra Reftskar tar
+rundt 30 minutter i vanlig gange.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, men vil nok være
+for tøff for de minste. Deler av oppstigningen er ganske bratt og krever nok en pust
+i bakken for mange. Turen er uegnet for bruk av trillevogn eller
+rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Gode fjellsko anbefales.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2540464b6ad.jpg> ;
+	<image_credit>		"""MARGITH SKURTVEIT """ ;
+	<created>		"""2011-07-19 10:07:46""" ;

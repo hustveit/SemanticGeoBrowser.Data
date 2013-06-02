@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route168>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/168> ;
+	<name>		"""Store Lungegårdsvannet, rundtur"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""3.7""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-18 11:49:42""" ;
+	<encoded_path>		"""wdqoJc|n_@lAwA|AyCr@aC\Kj@oAhAiC`@]pBgB`Ac@l@{@z@aBp@}BZ}BU}BK{ELEZ_A@w@?w@DE?WGaBFcBFmCBO^@RMJaCUu@}@o@]aBs@uCk@gBiAaAaAO[oASEqA`AGBgAsACe@mAsKY{CBi@l@kAj@gEAmFReGl@_Gv@{EL}Ab@iAb@mDvAwC|@{@r@w@hAwCbAY^kAR_@lAXlAc@v@E?zBFnA`@lAl@\Nf@nBnKAl@{@fAIZB\DLPb@VjFR`CRXMxAr@zFb@nFHfJUvFa@rDGhECjFAzD{AfB{@tBsBpDsBnCy@R{Bf@""" ;

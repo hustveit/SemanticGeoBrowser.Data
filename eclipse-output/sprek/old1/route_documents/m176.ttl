@@ -1,0 +1,58 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route176>
+	a	...Thing... ;
+	<name>		"""Lono â€“ Borgadalen â€“ Vikinghytten"""@no ;
+	<ingress>		"""En variert og spennende tur."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Lone camping, og man
+gÃ¥r inn Langedalen. Dette er en lite beferdet bygdevei. FÃ¸lg denne veien
+nordvestover i ca. 2,5 kilometer til gÃ¥rdene pÃ¥ Borgo. Fra bygdeveien fÃ¸lger
+man vei til BorgatrÃ¦et ca. 100 meter. Deretter gÃ¥r man i nordlig retning bratt
+opp markene pÃ¥ Ã¸stsiden av Borgadalen. GÃ¥ pÃ¥ Ã¸stsiden av elven. Stien kan
+stedvis vÃ¦re noe utydelig. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;NÃ¥r dalen flater ut fÃ¸lger man stien i
+nordvestlig retning forbi Borgesetra. GÃ¥ sÃ¥ opp Borgakleivane til Borgavatnet
+(556 m.o.h.). Ved hytten GjÃ¸ken tar man bratt opp pÃ¥ Ã¸stsiden av vannet og gÃ¥r
+videre nordover til GrÃ¸netua (642 m.o.h.) og fÃ¸lger vardene til Vikinghytten. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Man kan ogsÃ¥ fÃ¸lge Borgavatnets vestside
+og gÃ¥ inn pÃ¥ varderekken til Vikinghytten Ã¸verst i Histeinsdalen. FÃ¸lger man
+varderekken mot vest, kommer man inn pÃ¥ stakingen over Vidden. Vikinghytten er
+Ã¥pen og har servering i helgene (unntatt i ferier). Turen kan ogsÃ¥ gÃ¥es motsatt vei. Fra Borge kan skiene brukes
+nÃ¥r snÃ¸en ligger.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ettersom det er mange
+returmuligheter, vil bruk av kollektivtransport til utgangspunktet vÃ¦re Ã¥
+anbefale. Se retur muligheter mot Arna og Haugland: &lt;a href="http://tur.bt.no/tur/175" target="_blank"&gt;Arna â€“
+BjÃ¸rndalssÃ¥ta â€“ Vikinghytten&lt;/a&gt; og &lt;a href="http://tur.bt.no/tur/175" target="_blank"&gt;Haugland â€“ Vardegga â€“ Vikinghytten&lt;/a&gt;.&lt;br style=""&gt;
+&lt;br style=""&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kommer man i bil finnes det parkeringsmuligheter ved Haugo, rett nordvest for Lono. Det er ogsÃ¥ mulig Ã¥ ta tog fra
+Bergen til Arna stasjon, ta buss eller taxi derfra til Lono. Tar man buss, gÃ¥r nr. 90 fra Arna stasjon til Espeland. Fra Espeland kan man gÃ¥ langs hovedveien sÃ¸rover til Lono. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 4-5 timer tur/retur. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste med middels turkondisjon. Turen gÃ¥r
+hovedsaklig pÃ¥ sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk Ã¥ ta med nok mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br style=""&gt;
+&lt;i&gt;Vikinghytten&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Vikinghytten eies og drives av Turn- og
+Idrettsforeningen Viking. Den ble bygget i 1913 og er Ã¥pen hver sÃ¸ndag fra ca. kl.
+10.30 til 14.30 (unntatt i ferier). Hytten drives pÃ¥ dugnad av Vikings
+medlemmer, og der er salg av sjokolade og forfriskninger. Hvert Ã¥r er ca. 4.000
+personer innom hytten, som ligger 590 m.o.h. og har en praktfull utsikt i alle
+retninger, bÃ¥de mot havet og langt innover mot Hordalands fjellheim.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1115 I Bergen (1:50 000), Tur- og
+Friluftskart Bergen (1:25 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1427ac1773d.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-06 10:42:33""" ;

@@ -1,0 +1,29 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route252>
+	a	...Thing... ;
+	<name>		"""Tysse-Burlifjellet"""@no ;
+	<ingress>		"""Flott tur for de som liker Ã¥ gÃ¥ hÃ¸yt og langt i fjellet."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra ungdomsskolen som ligger i Tysse. GÃ¥ opp stien som tar av fra BoligomrÃ¥det sÃ¸r for skolen. FÃ¸lg stien opp mot SjÃ¥heim. Her er det satt opp benker for Ã¥ nyte utsikten. Navnet â€&#157;SjÃ¥heimâ€&#157; kommer av at man her sitter Ã¥ ser hjem. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Det er en god, men bratt sti som gÃ¥r oppover mot SmÃ¥dalen. Videre oppover mot toppen av Burlifjellet blir stien mer utydelig. Det viktigste er Ã¥ huske at man skal bevege seg sÃ¸rover mot toppen hele veien.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien gÃ¥r videre opp til Onnebokemannen. Etter gammel overtro bÃ¸r man her ofre en kvist eller et blad til â€&#157;Underbuksemannenâ€&#157; slik at det gÃ¥r bra pÃ¥ turen. Videre kommer man til SmÃ¥dalen (370 moh.). Stien opp mot Burlifjellet gÃ¥r videre pÃ¥ Ã˜stsiden av SmÃ¥dalsvatnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;FÃ¸lg stien videre oppover til Tongane. Her blir stien dÃ¥rligere, man bÃ¸r gÃ¥ sÃ¸rover langs fjellet og dermed ta stigningen til toppen mer gradvis. PÃ¥ toppen av Burlifjellet (855 moh.) er det flott utsikt.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til Tysse i Samnanger kommune. Man kan parkere pÃ¥ parkeringsplassen som ligger ved skolen. Man kan ogsÃ¥ ta buss nr. 925 fra Bergen busstasjon til BjÃ¸rkheim. Fra BjÃ¸rkheim gÃ¥r buss nr. 934 videre til Tysse. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det tar omtrent tre timer Ã¥ gÃ¥ fra Tysse og opp til toppen av Burlifjellet, beregn litt kortere tid pÃ¥ veien ned. Hele turen bÃ¸r da ta mellom 4-5 timer. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti sÃ¥ den er ikke egnet for barnevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter vÃ¦ret. Fjellsko er anbefalt. Husk Ã¥ ha med nok mat og drikke. Det er ogsÃ¥ en fordel med vindtette klÃ¦r. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Samnanger 1215 IV, Bergsdalen-Kvamskogen.&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;&lt;/I&gt;&amp;nbsp;&lt;/P&gt;&lt;I&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/I&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3bf108df7eb.jpg> ;
+	<image_credit>		"""Anna Rehnberg""" ;
+	<created>		"""2011-08-05 15:32:56""" ;

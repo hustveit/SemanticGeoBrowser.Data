@@ -1,0 +1,34 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route161>
+	a	...Thing... ;
+	<name>		"""Gullbotn-Gullfjelltoppen -Redningshytten"""@no ;
+	<ingress>		"""Flott og luftig tur til Bergens høyeste fjell."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter ved Gullbotn friluftsområde (vis-à-vis turistheimen). Her er det parkering og busstopp. Gå inn turveien (lysløypen) og følg den lengste traséen av lysløypen mot høyre. Alternativt kan sti langs bekken mellom den korte og lange lysløypen velges. I øvre del av lysløypen, rett før broen, tar du til høyre opp en turvei som vil føre deg til starten av varderekken. Fra enden av turveien fortsetter du på stien videre oppover langs varderekken. Følg varderekken i sørvestlig retning, først gjennom glissen skog, siden bratt oppover Gullfjellhalsen mot Gullfjellstoppen (987 m.o.h.). &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Følg stien videre ned i Middagsdalen. Da vil du ha Midtrinden på høyre side. Stien går videre gjennom Korketrekkeren før man kommer opp til Redningshytten. På vei tilbake kan man enten fortsette mot Osavatn, se turen &lt;A href="http://tur.bt.no/tur/60"&gt;Osavatn-Redningshytten-Gullfjellstoppen,&lt;/A&gt; eller gå samme vei tilbake til Gullbotn. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Området mellom Redningshytten og Gullfjellstoppen er mye brukt på ski om vinteren. Oppe på Gullfjellsplatået kan de ivrigste finne fine skiforhold til helt ut i mai. Fra Redningshytten er det flere valgmuligheter. Man kan følge varderuten til Osavatnet, Bontveit, Totland eller på sti ned mot Samdalen/Hauglandsdalen. Blant de vanligste turene i området er ruten fra Osavatnet via Korketrekkeren til Gullfjelltoppen (987 moh.). &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Fra Bergen er du avhengig av bil eller rutebuss i retning Kvamskogen og Hardanger. Tilkomst med bil fra Bergen tar 30-45 minutter. Du kjører til Trengereid, der du tar av mot Kvamskogen i rundkjøringen. Etter rundt en kilometer ser du parkeringsplasser både på høyre og venstre side av riksveien. Når du kommer fra Bergen ligger løypene til høyre for veien. Parkeringsavgiften er på 50 kroner dagen, og 30 kroner etter klokken 16:00.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen tar mellom 3 og 4 timer, avhengig av tempo.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Alle som er i normalt god form kan klare turen til Gullfjellstoppen, men er du helt uvant med fjellvandring, bør du kanskje starte med en litt lettere topp. Spreke unger over syv år klarer fint å komme seg opp på egne bein. Turen er ikke egnet for trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Gullfjellet kan være barskt. På toppen kan det være atskillig kaldere og surere enn nede i dalen. Husk derfor varmt og vindtett tøy. I dårlig vær og tåke må man være påpasselig å følge varderekken ââ‚¬â€œ husk at pilen på hver varde peker mot den neste. &lt;BR&gt;På vinterstid kan det bli isete på toppen. Blir du overrasket av dårlig vær, kan det være lurt å ha en GPS evt. kart og kompass i sekken. Flere steder i fjellet er mobildekningen dårlig. Husk mat og drikke. Gode fjellsko er også anbefalt. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Gullfjellet er et meget populært turområde både sommer og vinter. Gullfjellstoppen, som rager 987 meter over havet, er høyeste fjellet på Bergenshalvøya. Turen fra Gullbotn over toppen er en klassiker. Området er velegnet for skibruk om vinteren.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Gullfjellsvannverket Svartavatnet på Gullfjellet er hovedmagasin for Bergen kommunes nye hovedvannverk med uttak til Landås, Fantoft, Fjøsanger, Fyllingsdalen og Loddefjord. Vannet fra Svartavatnet føres i rør og tunneler over Arnadalen, gjennom Ulriken, over Bergensdalen, gjennom Løvstakken, Gravdalsfjellet og Lyderhorn.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Gullfjellet Turkart (1:25 000), 7-fjellsturen turkart (1:25 000), 1215 IV Samnanger (1:50 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e087477ea34d.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-27 14:15:36""" ;

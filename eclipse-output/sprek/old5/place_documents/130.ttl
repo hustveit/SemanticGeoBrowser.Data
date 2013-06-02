@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place130>
+	a	...Thing... ;
+	
+	dct:title				"""Stegane, Knarvik"""@no ;
+
+	<ingress>		"""Nordøst for Knarvik Stadion"""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-14 12:24:53""" ;
+	<modified>		"""2011-07-14 12:24:53""" ;
+	<gowalla_name>		"""Stegane"""@no ;
+	<gowalla_description>		"""Nordøst for Knarvik Stadion"""@no ;

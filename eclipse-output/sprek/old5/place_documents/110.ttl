@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place110>
+	a	...Thing... ;
+	
+	dct:title				"""Møsnuken """@no ;
+
+	<ingress>		"""Møsnuken er mye brukt og veldig populær blant beflokningen i Os. Toppen rager 639 moh. over har flott utsikt!"""@no ;
+	<description>		"""&lt;p&gt;Fra toppen kan man se Liafjellet på Sotra, Marsteinen fyr, Austevoll, Fusa, Stord og Tveitkvitingen i Kvamskogen.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e37b9514b876.jpg> ;
+	<image_credit>		"""Marita Aarekol""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-01 09:47:43""" ;
+	<modified>		"""2011-12-05 12:16:22""" ;
+	<gowalla_name>		"""Møsnuken"""@no ;
+	<gowalla_description>		"""640m.o.h"""@no ;

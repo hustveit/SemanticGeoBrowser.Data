@@ -1,0 +1,40 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route154>
+	a	...Thing... ;
+	<name>		"""Sandviken sykehus-Orrtua"""@no ;
+	<ingress>		"""Kjekk tur til flott utsikt fra Orrtua."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;
+Turen starter opp Munkebotn. Fra Sandviken sykehus følger du asfaltveien
+som svinger seg gradvis oppover. Disse svingene er mye brukt av syklister og av
+ivrige joggere som kjører intervalltreninger opp den jevne stigningen i bakken.
+Når man kommer opp til Munkebotnvannet følger man veien til venstre. Denne veien
+fortsetter man nordover til man kommer til vann nummer to; Langevatnet. Ved
+demningen i nordenden av vannet går en jerntrapp over elven og opp i fjellsiden.
+Gå over denne og følg stien som slynger seg opp mot Orrtua. Stien er lett å
+følge, men stedvis ganske bratt. Vær forberedt på litt klatring. Det er lagt opp
+tau og stiger for å hjelpe turgåere oppover. &lt;br&gt;
+&lt;br&gt;
+Orrtua (350 m.o.h.) er et supert utsiktspunkt, og en fin plass å raste. Man kan
+enten gå samme veien ned igjen, eller se &lt;a href="http://tur.bt.no/tur/102"&gt;Orrtua ââ‚¬â€œ Ravneberghytten&lt;/a&gt;  for en
+alternativ rute ned.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;
+Det går mange busser til Sandviken sykehus, man kan for eksempel ta linje
+4, 9 eller 20. Gå av på busstoppet ved Sandviken sykehus. Her er det også parkeringsplasser
+hvis du kommer i bil. Det går en stikkvei fra parkeringen til Munkebotn.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;br&gt;
+I normalt tempo bruker man omtrent en time på denne turen. &lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Passer for: &lt;/b&gt;&lt;br&gt;
+Denne turen passer for de fleste. Det er noen bratte partier, så turen kan
+fort bli for vanskelig for de aller minste. Turen er i hovedsak uegnet
+for trillevogn og rullestol, men det er mulig å følge asfaltveien til
+Munkebotnvannet og Langevatnet.&lt;br&gt;
+&lt;b&gt;&lt;br&gt;
+Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Ikke annet enn gode sko og klær du kan røre deg i.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dff226ca581c.jpg> ;
+	<image_credit>		"""Bjørn Erik Larsen""" ;
+	<created>		"""2011-06-20 12:35:24""" ;

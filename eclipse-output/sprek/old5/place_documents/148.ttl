@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place148>
+	a	...Thing... ;
+	
+	dct:title				"""Arboretet"""@no ;
+
+	<ingress>		"""Mer  enn 5000 forskjellige planteslag. Arboretet har Nordens største rhododendronsamling."""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-21 09:22:43""" ;
+	<modified>		"""2011-07-22 12:38:24""" ;
+	<gowalla_name>		"""Arboretet"""@no ;
+	<gowalla_description>		"""Mer  enn 5000 forskjellige planteslag. Arboretet har Nordens største rhododendronsamling."""@no ;

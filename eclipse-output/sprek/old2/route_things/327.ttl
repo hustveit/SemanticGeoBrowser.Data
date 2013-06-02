@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route327>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/327> ;
+	<name>		"""Bergsdalen opp"""@no ;
+	<length_in_time>		"""0""" ;
+	<length_in_km>		"""3.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-01 15:59:05""" ;
+	<encoded_path>		"""w_ypJkbqb@GcC@gBBe@Dq@V}@x@mAdAiAt@Ql@Dj@D^@Pc@Py@f@m@x@_Aj@q@bA_Af@i@\Ul@KvAe@t@W~@Yh@]`@k@PiADaCIs@[m@]qASsAKwAEqAWiAU{AUiBEq@?[Fs@No@d@mAJe@?e@Ei@e@w@{@oBg@qAWcAm@gBQqBEyAG}@CqA?]?iAV}A@e@?Y?WEYWqAM{@Em@Wy@W_AIkAGY[wBM{@S_BOaDK_CEuD?gA?a@Xe@l@gA^y@j@q@d@[j@_@Vi@PqABo@BYHm@Ta@`@M^KrAIZALIF@DUEgBIcB?a@FyACgA?s@Pg@x@kAn@qAp@}@f@u@TIVA`@GXa@TcA?eACsAGqAB_@?k@DuACoAJqAToBTcAJS^Cj@CzAB`@?X?Pv@VpANj@RJb@GlAUj@@T?HAj@o@TEVX^@|@a@T{@Bg@Vq@f@Wt@Mf@]PSPq@IaC?i@Zs@LmADuA?_@IQMCM?Ib@?^Dp@Ab@[b@_@ZAf@BTR|@BXD^El@MXQ]C_@As@Eo@Ki@Es@?a@NiAHo@?Y?GGgBE}@?[?[@[""" ;

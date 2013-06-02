@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route210>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/210> ;
+	<name>		"""Myrtveit-Brakstadfjellet """@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-21 13:54:21""" ;
+	<encoded_path>		"""{aqpJahh^\UJu@Jw@Fu@Fw@Nu@Lq@Nk@Lq@YYBw@Du@Hw@Oq@Bu@Nk@@u@Ug@YP]KGu@[QLo@Tq@XETu@o@mAScC}@mB[IJq@K[EYGa@_@IUQY?qATO`@c@?g@NYe@[KKe@?{@?aA[q@Gk@o@k@??t@{Bd@wA|@s@Vy@q@y@?s@Qs@mDX_@Qy@B[LkAtBgAt@i@`A_BhEkBrBqBrCc@HIqC_A{AMsB]{Ek@{@""" ;

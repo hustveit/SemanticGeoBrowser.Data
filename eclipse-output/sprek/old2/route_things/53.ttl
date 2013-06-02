@@ -1,0 +1,13 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route53>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/53> ;
+	<name>		"""Sandviksfjellet ââ‚¬â€œ Rundemanen ââ‚¬â€œ Blåmanen - Fløyen"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>		"""8.4""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-22 09:11:52""" ;
+	<encoded_path>		"""s~toJenp_@SEMSAi@RYrAaBt@aB`C_Gt@uBEUOBQTO?IO@q@J}@RyAJeANuAXuAZ{ATaA^YXLRJR{@KiBDiBOf@EaA?_Ag@_B_@[oAoCm@u@Gg@e@OIJU^A\_@?MNGWKoBQm@C}@[yAGgBGyCDgCCa@UWAaBAeAX]OUm@g@g@q@I[LsAF{AW_AQI}AGaAu@g@o@P|AS`A{AvD[l@i@Ok@ViBbEyBzEi@hCMd@OgA_@m@OiBe@gBSCY[C[QIk@Se@k@E]m@]I@]`@e@P{@Tm@j@MB{@dAoA_Cw@CsBr@_@XkAk@g@SOu@R{@t@{@Pq@De@PS?o@Jo@AYNc@[u@[iCi@mBSwAVuAb@kDJkASsASsAFu@?k@EaAIs@Bg@BgAJaA?cADwD`@wAHcAzAeAfAk@v@uBb@sA^}@H}Bx@kAtCQtA}@h@qCp@eCdBe@zBfAt@DvAmCb@k@J}A|@mCAuAT]JABILCTM^a@j@eBbAm@~A_@L|@WpBH~BN\fA?l@g@j@?Vu@~AwDhA^d@Bd@l@x@R\FRAF`@Pd@Tx@XpBx@xBR~@x@?jAs@hAUbAm@`BhAvAuAjBkDn@kACyAYuA@uAh@kAM_Ad@`@bB|Ab@k@?y@`@~@PMy@}EDo@PBb@`@^^PUMq@YqAc@k@?i@`BEz@bAp@HnAtBdA\k@tF_AtAQdCM~F]vAyA`AgAlCw@dDcArA_A\k@zAeBlDm@hAIbBd@zAFhFN^r@?r@h@`B?dBj@l@LFnAh@tBUnC}AnA_BhAIZVRbBb@n@~AX^@[Sc@RGz@tAvAbAf@jEJfFSdCPxBIvBQ~Dn@vB^|@jA_@jAp@n@D^wCVLIpG^dBIv@_CpAUx@hCZrATn@a@`AGf@p@NtB""" ;
+	<routes_spots>		"""http://__thing_place_uri__38""" ;
+	<routes_spots>		"""http://__thing_place_uri__30""" ;

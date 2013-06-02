@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route261>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/261> ;
+	<name>		"""Davanger â€“ Skottnes â€“ Breivik"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 09:49:23""" ;
+	<encoded_path>		"""""" ;

@@ -1,0 +1,67 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike226>
+	a	...Thing... ;
+	dct:title				"""Fløisvingene-Fløyen"""@no ;
+	<ingress>		"""Denne turen er en av de mest populære løypen opp til Fløyen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Fløibanestasjonen. Følg veien opp trappene på venstre
+siden av inngangen til stasjonen. Veien går svingete oppover mot til gamle
+Skansen brannstasjon. Brannstasjonen ble bygd etter bybrannen i 1901. Her satt
+det en utkikksvakt i tårnet. Fra skansen følger man veien til høyre gjennom
+Skanseparken og frem til et område som heter ââ‚¬&#157;Hesten trenger kvileââ‚¬&#157;. Fra
+gammelt av var dette en plass hvor hesten kunne får drikke vann. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Veien svinger seg videre mot venstre før den svinger mot høyre igjen forbi
+ÃËœvre Bleken og frem til Skansemyren. Her kan man også se Fløibanen stoppe. Følg
+veien opp til venstre for Fløibanen. Herfra går man opp Fløisvingene. Etter man
+har forsert alle svingene går veien til venstre fortsetter opp til Fløipilen.
+Herfra følger man bare veien sørøstover frem til Fløyen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;På selve Fløyen er det fint å raste. Her er det fantastisk utsikt over
+Bergen sentrum. Det er også både kiosk og restaurant. På vinterstid er det
+veldig populært for barn og unge å ake ned fra Fløyen. De har gjerne Fløibanen
+opp og aker hele veien ned. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fra Fløyen kan man returnere via samme trasé
+eller fortsette turene innover i byfjellene. Herfra kan man nå mange
+forskjellige mål.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fløibanestasjonen ligger midt i Bergen sentrum, nær bryggen. Kommer man i
+bil finnes det forskjellige parkeringshus i sentrum man kan benytte. Det
+nærmeste ligger i Rosenkrantzgaten, kun 3 minutter fra Fløibanestasjonen. Man
+kan også lett komme seg til sentrum via buss, tog, båt eller Bybanen.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt 1 time å gå opp. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de alle, ta gjerne med barna. Turen følger gode
+asfalt- og grusveier hele tiden så man kan benytte trillevogn og rullestol. Vær
+forøvrig obs på at man hele tiden går oppover, så det kan muligens bli litt
+tungt. Det er også mulig å ta Fløibanen opp til toppen, denne er tilpasset bruk
+av trillevogn og rullestol&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter været. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+Fløibanen ble offisielt åpnet 15. januar 1918.
+Tanken om et transportmiddel til Fløyen ble luftet så tidlig som i 1895 av
+stortingsmannen og bergenseren John Lund. Arbeidet med å bygge Fløibanen
+begynte høsten 1914. Banen var klar til oppstart i januar 1918. Fløibanens øvre
+stasjon ligger 320 m.o.h. Høydeforskjellen mellom nedre og øvre stasjon er 302
+meter.&lt;br&gt;
+&lt;br&gt;
+Fløibanens trasé har en lengde på 844 meter med en stigning som øker fra 15 grader
+til 26 grader på det bratteste. To baner, Rødhette
+og Blåmann, hver med plass til 100
+passasjerer, kjører mellom sentrum, de tre mellomstasjonene (Promsgate,
+Fjellveien og Skansemyren) og Fløyen hver dag hele året. I september til april
+til kl.23:00, og til kl.24:00 fra mai t.o.m. august. Fløibanen kjører i en fart
+av 4,0 m/sek. Turen tar vanligvis 5 - 6 minutter. Fløibanen er en meget
+miljøvennlig transportbedrift, da banen drives med elektrisitet og ikke
+forurenser.&lt;br&gt;&lt;br&gt;(Kilde: Opptur Hordaland og &lt;a href="http://www.floibanen.no/historie/"&gt;Fløibanen.no&lt;/a&gt;)."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e313794c90e1.jpg> ;
+	<image_credit>		"""Rune Sævig """ ;
+	<created>		"""2011-07-28 12:19:00""" ;

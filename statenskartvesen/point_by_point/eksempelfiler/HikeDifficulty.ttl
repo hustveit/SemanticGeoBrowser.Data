@@ -1,0 +1,31 @@
+
+
+
+
+
+<...HikeDifficulty>
+	a				Class
+	a				measurement
+	label			"""Hike difficulty"""@en
+	domain			Tourism
+	
+	measurementOf			http://data.sognefjord.vestforsk.no/resource/ontology#Hike
+	measuredIn				Level
+	
+	measuredBy [
+		sf_ont:rdfTriple [
+			sf_ont:predicate	... ;
+			sf_ont:object		... ;
+		] ;
+	]
+	
+	level [
+		label			Easy
+		
+		sf_ont:rdfTriple [
+			sf_ont:predicate	... ;
+			sf_ont:object		... ;
+		] ;
+	
+	
+	]

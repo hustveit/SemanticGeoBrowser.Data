@@ -1,0 +1,40 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike123>
+	a				sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""180""" ;
+	] ;
+
+	sf_ont:length [
+		sf_ont:kilometer	"""6.8""" ;
+	] ;
+
+	sf_ont:rate [
+		sf_ont:degree_of_difficulty		sf_ont:average ;
+		sf_ont:Referee					<http://tur.bt.no> ;
+	] ;
+
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""g{dpJuaf_@@KH_@Fa@De@Cg@Ae@Jq@Ja@J_@Hc@Bc@Ac@Dg@Bc@Bg@Dy@De@Dc@Ig@QQO[K]Oi@Mk@Oo@Oq@Qq@Qs@Ss@Qs@Sq@Um@Wi@W[WEYJU`@Ql@Oh@O\UBQKQ_@Sk@So@Um@Wk@Sg@Oa@Gc@Ae@Bo@Hs@Nm@La@?g@SQSP[Z[\[b@]`@Wd@Mf@Dn@Ph@Bj@SRQOS]Wa@Om@Ms@Ku@Ms@Kq@Qo@Sg@S[QUUMYOSKSMQMSOSQYSWWMUOe@Om@Kq@Iu@Iy@K{@I{@G{@G{@Ey@Eq@Co@Cq@Aq@@q@Hm@Fk@Dm@?m@Ck@Mg@SYYKQLQTOZMXSTZDCDQFSJQFQGSESMQBQJQFQNQBQOJ^MTOVQPQHI^M^OKQUEc@Cd@Id@?d@G`@OTEf@QHIb@Ib@KZG`@Cf@H`@H^@f@Eb@Cd@K\QTK^Gb@I`@I`@K\Kd@H`@?d@ONQJK\G^K\Ab@?f@Af@Cd@Ef@Ed@ORI^OJJHGEI_@Ag@?c@K]K[QQK]I_@MWGc@Fa@De@Bg@De@Dc@De@Fa@@c@Dc@SBMb@K^MTMTSLMTI`@QLGb@OTOYI_@SBSBQAQAMXI`@MZOVQLQFQKOQM[QQQLOPQNSHQ@QLSJQFMWOQQMQPQIQJSJQIQJQFSBSAI\QLKXKZQBI^DMESAc@K[K[I]OUQOOSI]MYMUQSKWOSQQOWOUOUK_@I_@?e@?e@Fa@H_@Dc@?g@Fc@Fc@Hc@Dc@H]Bg@Ha@@e@?e@@g@Da@Ic@@e@Be@Dc@Bc@K_@Be@OQI_@Bc@Ae@Ic@Ee@Dc@Ha@J]NWNSNQJ_@QQORS@QIQEQCSKUDQDK[MWOQSOQIQTOLSBK]OYK]K[Ce@J_@JYL[J]Ja@F_@Ha@Bi@Ae@@g@Bq@Ku@@e@Be@Fc@De@Ni@N_@Fc@?o@NMNc@Ha@Ha@Dc@@e@@g@?e@QIMYK_@?g@Fe@J[H_@J_@Fa@?g@Ie@QBSNONONQFQMMYM]I]Ga@Ac@Ei@QKOISCSBQEOQQMMWK[I_@K]OMOSMYQOQGQGQFOLSBSFSHQFQHSFQHMXOXOZMXQTOROPQLAJEPO`@K`@Kf@Mf@Oj@Mj@Mf@Kd@Kl@Kf@If@Of@O`@Sj@Sl@Up@Ur@Un@Uf@Y`@WXYR]L]L]J]J]B]?_@@]A]G[K[WUc@S_@U]YMSCUPUVWRYLUEWQOUOYS_@OQU?QROb@O\Y\[T[PYJWNWTU\W`@UXSXUVSXS^Kb@SRKa@Dg@@m@Gu@Om@Si@Ug@Qc@I_@Ei@UAAf@@n@Ar@Ct@Et@Ap@An@@l@@v@OXMSGe@Mm@Ok@S_@SUW?UFSEQQGa@Ai@@s@@s@Eq@Oc@WMYKWMSI[OWHO\Sb@Uf@Ud@S^UH[C[AYBYJUXWZY\Y\UZSZOXMj@Cr@Cj@If@I\Mh@Mf@""" ;
+	] ;
+	
+	owl:sameAs [
+		rdf:resource		<http://tur.bt.no/tur/123> ;
+	] ;
+	
+	sf_ont:indexcard [
+		dct:created				"""2012-01-09T13:39:12.274+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

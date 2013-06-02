@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place190>
+	a	...Thing... ;
+	<name>		"""Svinningen"""@no ;
+	<ingress>		"""Os' høyeste fjell 843 m.o.h."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-09-15 09:17:48""" ;
+	<modified>		"""2011-09-15 09:17:48""" ;
+	<gowalla_name>		"""Svinningen"""@no ;
+	<gowalla_description>		"""Os' høyeste fjell 843 m.o.h."""@no ;

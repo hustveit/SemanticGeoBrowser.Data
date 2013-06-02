@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route289>
+	a	...Thing... ;
+	<name>		"""Ãâ€¦gotnes ââ‚¬â€œ Solsvika"""@no ;
+	<ingress>		"""Fleire flotte steingardar."""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Nordsjøløypa er godt opptrakka og går inn i skogen bak skulen. Her er det ein fin og stelt fureskog og etter kvart litt gran. Ein kryssar eit steingjerde som var skilje mellom Ãâ€¦gotnes og Vindnes, og held fram gjennom skogen. Stien er merkt og går på austsida av Angeltveitvatnet.&lt;br&gt;&lt;br&gt;Når ein kjem ut av skogen, ser ein Bleiavatnet mot nord og igjen ein stor og flott steingard som var skilje mellom Vindnes og Angeltveit. Løypa går vidare langs ein annan steingard i nordvestleg retning. På vestsida av Bleiavatnet går ein gjennom lynghei og ser Spjeldsfjellet mot sør. Vidare nordover kryssar stien bilvegen i Landrodalen og held fram på austsida av Fuglavatnet. Fleire stader får ein utsikt ut i havet på denne strekninga langs vatnet. Mot nord ser ein endå ein steingard, som var utmarksskilje mellom gardane på Landro og Solsvika.&lt;br&gt;&lt;br&gt;På nordsida av vatnet kjem ein inn på den gamle skulevegen som gjekk på vestsida av Fuglavatnet ned til Solsvika.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start turen frå busshaldeplassen ved Ãâ€¦gotnes skule og Ãâ€¦gotneshallen.&lt;br&gt;&lt;b&gt;&lt;br&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;1,5 time&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lett tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;br&gt;&lt;/b&gt;Kle deg etter været.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Fjell 1115 IV&lt;br&gt;&lt;br&gt;Turtipset er hentet fra boken Opptur Hordaland"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-10-12 12:51:12""" ;

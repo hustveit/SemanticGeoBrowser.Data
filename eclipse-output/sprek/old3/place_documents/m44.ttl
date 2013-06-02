@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place44>
+	a	...Thing... ;
+	<name>		"""Høgstefjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Høgstefjellet er etter manges mening det mest majestetiske fjellet i ytre Ãâ€¦sane, med særlig luftig utsikt mot sør og vest. Stupene ned mot Baugtveit og Baugtveitstemma kan gi noen hver et sug i magen. Granitten i nordre delen av Bergensbuen bremser for vegetasjonen og gir god høyfjellsstemning. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1acedc9c276.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e1acedc9c343.jpg> ;
+	<trimtoppen_description>		"""Plassert ved varden på toppen."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-03-09 13:37:53""" ;
+	<modified>		"""2011-07-11 12:22:20""" ;
+	<gowalla_name>		"""Høgstefjellet"""@no ;
+	<gowalla_description>		"""480 moh"""@no ;

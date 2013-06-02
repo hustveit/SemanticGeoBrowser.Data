@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route162>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/162> ;
+	<name>		"""Montana-Landåsfjellet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""3.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-28 11:19:05""" ;
+	<encoded_path>		"""gpnoJwxw_@???y@Lq@Tm@XUb@[V_@Te@Te@Tg@V[XUTe@Ta@Ny@Tm@J{@Ns@Rw@Ls@Nm@No@Nq@Ls@Pk@Ve@Vg@Ry@Ts@Pg@@y@Dy@Dw@?y@@{@Cy@Ns@Ns@Rs@Va@Tg@Ps@Mq@YY[M_@I_@Iq@aAa@WYS[Q[G]?Y?Y[Ri@V_@T_@X[XSZKZQ\KZIXWZITa@XSZWXURk@Lq@Rm@Ri@AcAGu@Du@Bw@Bu@Hu@?w@Iu@Fu@@_ACw@Cw@Rg@Po@Po@Nq@Nm@T{@V[Ju@ZKXMZMXSKq@WWYWW_@WWOm@Iq@Gw@??FQCS]m@\GPYLo@\YHa@NEZN|AkA\g@\YNaA~@k@r@ATENJTATB|@Sh@SFSLDNB^q@d@o@PJT@P?T?VJh@p@V\\FTEHJ^EP@n@?PRDb@NPTEXc@Tq@NI@n@BPHX|@lBT|@Vp@t@pCz@iANo@^c@NSXv@Dl@JF^`@Hf@DBNB|@ETFP@NJVD^SdAAPHf@?`A`@tB\""" ;

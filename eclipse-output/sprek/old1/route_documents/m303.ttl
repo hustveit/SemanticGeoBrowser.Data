@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route303>
+	a	...Thing... ;
+	<name>		"""Hananipa"""@no ;
+	<ingress>		"""Barnevenleg topptur."""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Ein fÃ¸lgjer fÃ¸rst vegen som gÃ¥r opp til demninga pÃ¥ Skulstadvatnet. HerifrÃ¥ gÃ¥r ein inn pÃ¥ stien som gÃ¥r pÃ¥ venstre sida, nordover langs vatnet. Stien er ikkje merkt, men han er tydeleg heile vegen opp.&lt;br&gt;&lt;br&gt;Ein gÃ¥r langs vatnet til ein kjem til dalen som fÃ¸rer til Hananipa. Her byrjar oppstigninga. PÃ¥ veg oppover blir det tidleg flott utsyn over store omrÃ¥de, og nÃ¥r ein kjem pÃ¥ toppen av Hananipa 722 m.o.h., kan ein i godt vÃªr sjÃ¥ til Folgefonna i aust og langt ut i havet. PÃ¥ toppen stÃ¥r ein rett over Stavenestunnelen, og terrenget gÃ¥r ganske bratt ned i SÃ¸rfjorden mot vest.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;PÃ¥ Trengereid, i rundkÃ¸yringa, tek ein nedover mot Trengereid og svingar deretter inn pÃ¥ fÃ¸rste veg til hÃ¸gre, mot Skulstad, til p-plassen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Ca. 2 timer tur/retur&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Samnanger 1215 IV&lt;br&gt;Turkart: Fiske- og friluftskart for Osterfjord&lt;br&gt;&lt;br&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-10-17 14:36:30""" ;

@@ -1,0 +1,60 @@
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ucum:		<http://purl.oclc.org/NET/muo/ucum/> .
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix owl-time:	<http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix foaf:		<http://xmlns.com/foaf/0.1/> .
+
+sf_ont:hike105
+	a								owl:Individual ;
+	a								geo:SpatialThing ;
+
+	owl-time:duration [
+		owl-time:minute				"""240""" ;
+	] ;
+
+	sf_ont:Length [
+		sf_ont:Kilometer			"""11.2""" ;
+	] ;
+
+	sf_ont:minimumElevation [
+		ucum:meter					"""295.257088662""" ;
+	] ;
+
+	sf_ont:maximumElevation [
+		ucum:meter					"""654.275929471""" ;
+	] ;
+
+	sf_ont:differenceInElevation [
+		ucum:meter					"""359.018840809""" ;
+	] ;
+
+	sf_ont:heightIncrease [
+		ucum:meter					"""599.523933136""" ;
+	] ;
+
+	sf_ont:heightDecrease [
+		ucum:meter					"""296.620116753""" ;
+	] ;
+
+	sf_ont:StartOf [
+		geo:lat						"""60.39304""" ;
+		geo:long					"""5.34914""" ;
+		geo:altitude				"""295.257088662""" ;
+	] ;
+
+	sf_ont:EndOf [
+		geo:lat						"""60.37733""" ;
+		geo:long					"""5.3818""" ;
+		geo:altitude				"""598.160905045""" ;
+	] ;
+
+	sf_ont:Path [
+		sf_ont:GoogleEncodedPath	"""ooroJcws_@??aJoLiUwV}KcNEy@EoAKw@Qk@aj@qWw@iJcC~Fi@UYSc@s@yDkAmBiHsDmAgBmHmDeDByS{DmERmJ??_BSuBkHwCeFa@eJmAwIcDsHw@_^fAuIrAyI|BcHdCkH`DwDdHuMnC}E|Di@|CqEbBkIbCgG`CyGxC}EtC_G??|@}@rJaX|BgG??`CiGzG_KlSyAtInGlDhBfDvDxFrB~DlApD|@fJzCrDrArDz@zD{@xD?rFmAzDb@nDsBvOqI??zDNjLbArDPtLzGbCtGhBpH??dCjG}A|U_CbGg@hL_CrGoAfI{@nJ~FtW{@~IuB`IaCbG_BxHuBtGYvC_@p@??""" ;
+	] ;
+
+	sf_ont:Profile					<http://sognefjord.vestforsk.no/resource/route-graph/hike105.png> ;
+
+	foaf:isPrimaryTopicOf			<http://sognefjord.vestforsk.no/page/hike/105> ;
+
+	owl:sameAs						<http://tur.bt.no/tur/105> .

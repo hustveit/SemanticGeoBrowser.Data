@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route208>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/208> ;
+	<name>		"""Turøyvarden"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""1.3""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-21 10:55:19""" ;
+	<encoded_path>		"""ae~oJwu_]d@bBfBvBg@ZQ`AATI|BSnCJz@Rt@zApEH|CGhDgAtDeAZyB}AmA[yAaAoAmBk@_A[iBa@cDOqFAwFQcEp@gAjBO|Bg@vAIdAK""" ;

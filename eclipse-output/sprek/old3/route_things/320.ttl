@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route320>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/320> ;
+	<name>					"""Kvamskogen ââ‚¬â€œ Byrkjefjellet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""3.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-31 15:52:17""" ;
+	<encoded_path>		"""ifroJu~lc@k@g@UOeAlABgAAcCYyCKUI?OZ[p@u@?SNa@KYU?aAHo@?q@KaABqAA}A@q@FwALk@]_@Ie@_@aA^wFx@cC?sB?kGJk@d@_DGqB?mB?k@@cCQsB}@sCkA~@sB~BYrCuBpGwE~FcEQyCzEgAhA{FfEeAlB}B{A{A_AeAtBwAzEqAhCkCzEyAvAqApAwDdBoBT{Bc@iCsCuAkEi@sCGq@m@p@q@d@}@b@yBbCcB\""" ;

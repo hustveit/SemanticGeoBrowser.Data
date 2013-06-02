@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route57>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/57> ;
+	<name>					"""Bjargløypen fra Fanafjellet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""4.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-03-22 16:11:42""" ;
+	<encoded_path>		"""o}wnJumv_@pCtB?rAdAhBr@Xn@c@D|@]`Ew@xFv@rAnAtCXlB`A`BdAf@Xf@l@?f@Wn@D~CkAbA{@rAuAj@KdAt@XdA^nCr@w@j@Ct@bBRpCh@fCl@n@f@fC~@hChAlF|@pE?p@^r@l@Xd@dCCrCRzE\rB^hAZQBCD^^\`AfCDb@V_@f@C\HRpA@tALfB^rAv@\\YBqA`@oAf@qBVuC^kAp@s@ZkAEuBs@uBYyAu@a@oAf@cABoAaBs@kDOoD}@}C_@aBuAeD}@gAgBe@qB?eAPkAiC{@w@WmBQ_COaAk@cACMe@A]Lc@ZQ]_@mDCgAD{CIaDo@aAgCwB]cB{AcCc@g@UkB[{AIk@WaC}AU]jBOhBIJBp@eAuAMI}AbBOd@Sx@""" ;

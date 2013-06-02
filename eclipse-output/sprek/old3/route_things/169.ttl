@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route169>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/169> ;
+	<name>					"""Os-Borgafjellet-Møsnuken"""@no ;
+	<length_in_time>		"""300""" ;
+	<length_in_km>			"""7.4""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-01 10:07:22""" ;
+	<encoded_path>		"""ozinJopk`@{DgAMj@?vAoG`AuEcDaFeDo@_@@yB}BDyD^mBZ_@d@cBJaCq@kBp@cCgAcDsCs@oA_@sCSy@c@CQd@Ej@DvACj@[Vw@_@Cg@@eAZaAXg@Fg@Y{@sBUoAk@{@aBaDaDs@hA]vBgAr@{@UPs@AU}AoBFa@G_@a@k@iAB}@eAsDyGWb@aAeAGc@W?S?SBUn@Cj@WVM?uCwBqBwD}AoBeCs@kABaAb@sAUgBsBa@{AI{@c@_AEa@Fc@GiASy@QmAMg@k@o@E_@i@eASwBSKQQAMW?SKE?E]G_@EQ[QWg@Us@C]AEUSGEi@o@_@GS?W[WDOJYg@AUWDKP@JMCG_@O{@u@oBKe@g@J{@ZQUyAuC_AmFiAeEi@mCgAqC{CwA{DMgA?oBYsA}@sAkBwA{@u@gBwA]uCc@g@_BmAc@k@f@UAc@Nw@V_BvA??MqBc@aEyC{Lq@}I{@_HkCeD_BiCoEIcB}Bw@qByAcCiAb@o@]gAwD??mBPkGaAkB}Ay@wAk@wBo@fBUdAD|@X~E_@aG`AiEi@kD_@k@g@cCk@oJOaBe@gACgBm@mGiFmIgGcNsBwG""" ;
+	<routes_spots>		"""http://__thing_place_uri__111""" ;

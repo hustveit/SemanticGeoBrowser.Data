@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route278>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/278> ;
+	<name>					"""Oksneskletten"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>			"""1.7""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 11:02:33""" ;
+	<encoded_path>		"""cfnpJaxm]lBhAhDlBxBnAz@r@v@fAJ|@@jC[lAMf@cArB{@fCc@rA_@Ly@z@UB]Yq@g@IC{@OcA\gBpCmBzAu@hAwBbCqAt@YLw@l@]Ag@SQs@Ig@?eA`@oD\cB\gAt@iBtAgDv@_Bf@sAz@kBx@{BFU^iCj@qBR_Bd@mAx@b@""" ;

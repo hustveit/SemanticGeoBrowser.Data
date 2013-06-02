@@ -1,0 +1,21 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place125>
+	a	...Thing... ;
+	<name>		"""Redningshytten"""@no ;
+	<ingress>		"""Redningshytten (610 moh.) ligger rett ved Store Stuthaugen. Hytten er alltid Ã¥pen og har servering pÃ¥ sÃ¸ndager."""@no ;
+	<description>		"""&lt;p&gt;Redningshytten ble laget som en direkte konsekvens av at
+det var en redningsaksjon for en kvinne som kom til skade i Gullfjellet. Den
+fÃ¸rste hytten, som er lagt av stein, kom opp i 1929. Det ble fort klart at man
+trengte en stÃ¸rre hytte og i 1935 sto det klar en to etg. hytte klar.&amp;nbsp; Det
+var Anton Berge som var initiativtakeren til byggingen avhytten. Han satt i
+bystyre og var aksjemegler.&amp;nbsp;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e37c06e7d907.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-12 14:47:32""" ;
+	<modified>		"""2011-08-02 11:16:30""" ;
+	<gowalla_name>		"""Redningshytten"""@no ;
+	<gowalla_description>		""" """@no ;

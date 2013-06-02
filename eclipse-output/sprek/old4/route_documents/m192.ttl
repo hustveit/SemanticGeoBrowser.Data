@@ -1,0 +1,61 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike192>
+	a	...Thing... ;
+	dct:title				"""Kolltveitmarka, rundtur"""@no ;
+	<ingress>		"""Flott familietur i Kolltveitmarka."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Beste atkomst fra Kolltveit er vestover
+fra barnehagen, selv om parkeringsmulighetene er dårlige. Ved
+Kolltveittunnelens vestende går en gammel driftsvei sørover og vestover i
+tunnel under riksvei 555. Følg stien sørøstover
+mot Skjenhaugen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved stiskille tar man til venstre inn på
+stien som går sørover. Da vil du ha Eidesvatnet, hvor det er mulig å både fiske
+og bade, på venstreside. Stien er godt oppbygget. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved neste stiskille tar man til høyre og
+går nordover. Stien fortsetter nordvestover til Morland. Fra Morland følges
+bilveien til høyre i et T-kryss. Fortsett opp noen skarpe svinger til du kommer
+til en liten myr på høyre side. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Den gamle arbeiderstien fra Morland til
+kornmøllen (senere hermetikkfabrikken) på Kolltveit kai går i østlig retning
+over myren. Turen fortsetter så langs vestsiden av Storavatnet. I
+frikantkrysset fortsetter man rett frem, sørover og får straks Mjåvatnet opp på
+høyreside.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Følg stien til sørenden av Storavatnet
+og ta inn på den samme stien du kom fra mot Kolltveit. Før du går tilbake til
+Kolltveit kan man ta avstikkeren sørover&amp;nbsp;
+til demningene ved Halvgjevatnet. Demningene ble bygget som nødsarbeid
+like etter forrige århundreskifte for å lede vann til en kornmølle ved Kolltveit
+kai. De ble aldri tette. Demningene er en severdighet, og avstikkeren kan
+anbefales.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For å komme tilbake til Kolltveit følger
+man bare stien som man kom inn på tilbake under riksvei 555 og opp til
+barnehagen. Rundturen kan gås begge veier. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kommer man i privat bil, kan man se etter parkering ved barnehagen. Det er ikke avsatt noen plasser, så utvis hensyn.&amp;nbsp; Man
+kan også ta buss nr.468 fra Bergen sentrum til Kolltveit sentrum.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 2-3 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Turen går
+mest på sti så den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Det holder med joggesko på tørre dager, men vær obs på at det kan være noen bløte partier på turen.&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1115
+IV Fjell (1:50 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1e94bbc22f0.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-14 09:03:23""" ;

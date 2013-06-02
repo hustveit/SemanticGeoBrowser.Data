@@ -1,0 +1,14 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route70>
+	a	...Thing... ;
+	<name>		"""KjÃ¸kkelvik - Lyderhorn"""@no ;
+	<ingress>		"""Klyv opp pÃ¥ Lyderhorn!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Startsted er ved KjÃ¸kkelvik skole, der man fÃ¸lger KjÃ¸kkelvikveien ca. 150 meter fÃ¸r man tar av opp Lyderhornslien til hÃ¸yre. I fÃ¸rste kryss fÃ¸lger du vei opp til hÃ¸yre. Det er det skiltet mot Lyderhorn. Stien videre gÃ¥r jevnt oppover til SmÃ¥lyderhorn og videre mot toppen mot Lyderhorn. Det er den bratteste og korteste veien opp til Lyderhorn. Det er litt klatring og klyving.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst: &lt;/b&gt;&lt;br&gt;Man kan ta buss til KjÃ¸kkelvik skole eller man kan parkere ved skolen. Derfra er det merket med turskilt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;br&gt;PÃ¥ tÃ¸rt fÃ¸re kan man bruke 40-45 minutter pÃ¥ en treningstur tur-retur. Beregn en time tur-retur dersom man gÃ¥r i rolig tempo.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Passer bÃ¥de for deg som vil ha en rask treningstur og fin sÃ¸ndagstur. &lt;br&gt;Fint ogsÃ¥ for barn, fordi det er mye Ã¥ se underveis og forholdsvis lett terreng. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov: &lt;/b&gt;&lt;br&gt;Det kan vÃ¦re blÃ¸tt enkelte steder sÃ¥ det kan vÃ¦re en fordel med solide fjellsko.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen: &lt;/b&gt;&lt;br&gt;Lyderhorn er det vestligste av Bergens sju fjell og rager 397 meter over havet. Kjent for at det er mye orrfugl der. Uansett angrepsvinkel er fjellet relativt lett Ã¥ bestige. Noen bratte partier sÃ¦rlig mot toppen og oppgang fra sÃ¸r-sÃ¸rvestsiden fÃ¥r fart pÃ¥ kroppens sirkulasjonssystem. Vel oppe er man pÃ¥ et av byens luftigste utsiktspunkter, med nydelig rundskue og upÃ¥klagelig oversikt over skipsleden til Bergen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;br&gt;O-kart Lyderhorn (1:10 000), 1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000).&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d95755d94211jpg> ;
+	<image_credit>		"""Roar Christiansen""" ;
+	<created>		"""2011-04-01 08:45:31""" ;

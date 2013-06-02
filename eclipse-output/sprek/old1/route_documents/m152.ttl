@@ -1,0 +1,35 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route152>
+	a	...Thing... ;
+	<name>		"""Svartediket â€“ Isdalen â€“ Hauggjeldsvarden"""@no ;
+	<ingress>		"""Spennende og sentrumsnÃ¦r sÃ¸ndagstur for familien."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved bommen pÃ¥ TarlebÃ¸veien. FÃ¸lg grusveien oppover langs Svartedike. Ved enden av Svartediket kommer man til et kryss med skilting til blant annet Rundemannen. Her holder man til hÃ¸yre og fÃ¸lger grusveien rundt toppen av Svartediket. Ved enden av grusveien tar man til venstre og fÃ¸lger stien opp Isdalen. FÃ¸lg stien oppover, du skal da ha HÃ¸kerelven pÃ¥ hÃ¸yre side. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Rett fÃ¸r Trolldalen vil du se at HÃ¸kerelven deler seg. Her vil stien krysse elven og fortsette Ã¥ fÃ¸lge den elven som kommer fra sÃ¸r-Ã¸st, fra din hÃ¸yre hÃ¥nd. I Trolldalen er det er stidele, begge stier vil fÃ¸re deg til varderekken. FÃ¸lger du stien videre langs elven, tar du en 90 graders sving til venstre nÃ¥r du kommer til Varderekken, (som er hovded traseen over Vidden). FÃ¸lg Varderekken et lite stykke mot FlÃ¸yen. Like fÃ¸r du fÃ¥r et lite vann pÃ¥ hÃ¸yre side, mÃ¸ter du et firkantkryss. Her fÃ¸lger du stien til hÃ¸yre mot Hauggjeldsvarden.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er flere veier ned igjen. Man kan gÃ¥ tilbake til veiskille og fortsette videre pÃ¥ varderekken mot Ulriken, eller man kan gÃ¥ samme veien ned igjen. Alternativt kan man se &lt;a href="http://tur.bt.no/tur/153"&gt;Svartediket- Vidden- Hauggjeldsvarden&lt;/a&gt; og ta denne veien ned.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Startsted er Svartediksstemmen. TarlebÃ¸veien langs Svartediket er stengt for motorisert ferdsel med bom. Det er best Ã¥ gÃ¥, sykle eller ta buss til omrÃ¥det, fordi det er begrenset med parkeringsmuligheter.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen er rimelig lang og vil avhengig av tempo, rastetid og veivalg tilbake ta mellom 4-6 timer i sin helhet. Beregn ihvertfall at det vil ta rundt 2,5 timer Ã¥ gÃ¥ opp til Hauggjeldsvarden. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste. Det er en lang tur som passer godt som en sÃ¸ndagstur for familien. Stien er stort sett lett Ã¥ gÃ¥ pÃ¥, men Trappefjellet kan dog vÃ¦re noe bratt Ã¥ forsere.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen er hovedsaklig uegnet for trillevogn og rullestol. Hvis man holder seg pÃ¥ grusveien langs Svartediket kan turen passe for barnevogn. Grusveien er sÃ¥pass jevn at det kan gÃ¥ Ã¥ komme frem med rullestol, men pÃ¥ visse strekninger er det ganske bratt.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Vanlig turutstyr og bruk av gode fjellsko er anbefalt. Det er en lang tur, sÃ¥ ta med nok mat og drikke. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Navnene Isdalen og VÃ¥kendalen er begge brukt om dalfÃ¸ret mellom Ulriken, BlÃ¥mannen og Vidden. GÃ¥rdsdriften her kan spores tilbake til 1200-tallet. Antall gÃ¥rdsbruk i dalen har variert noe gjennom tidene. PÃ¥ det meste har det vÃ¦rt i alle fal 12 medregnet husmannsplassene. Ivrige turgÃ¥ere vil kjenne igjen steds â€“ og gÃ¥rdsnavnene Kobbeltveit, TarlebÃ¸, Hardbakka og Garmannslund. GÃ¥rdene hadde store husmurer som vernet bygninger mot regn og vind. Uthus av stein, stÃ¸ttemurer, steingarder og et nett av hoved â€“ og markaveier finnes overalt. De fleste gÃ¥rdene ble kjÃ¸pt ut av kommunen i perioden 1900-1930 for Ã¥ hindre forurensing av vannet i Svartediket. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Hvis man Ã¸nsker Ã¥ se de best bevarte restene etter gÃ¥rdsdrift i VÃ¥kendalen, er et alternativ Ã¥ ta avstikkeren til hÃ¸yre over broen midt i dalen og gÃ¥ opp gÃ¥rdsveien Kringlen til TarlebÃ¸. Derfra kan man gÃ¥ gjennom Gjeilen, en 500 meter lang fe-gate med steingjerder pÃ¥ begge sider. En annen mulighet er Ã¥ fÃ¸lge den gamle gÃ¥rdsveien til Hardbakkahaugen og tilbake til TarlebÃ¸trÃ¦et, fÃ¸r man fortsetter pÃ¥ stien mot TarlebÃ¸vatnet. Spesielt ruinene pÃ¥ Hardbakkahaugen er verdt et besÃ¸k.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Isdalen (1:10 000), 1115 I Bergen (1:50 000), Tur â€“ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000).&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dfb4b8a1dfba.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-17 14:40:55""" ;

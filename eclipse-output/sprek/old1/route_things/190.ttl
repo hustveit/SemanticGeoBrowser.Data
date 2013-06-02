@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route190>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/190> ;
+	<name>		"""BildÃ¸ybakkenâ€“LiatÃ¥rnet, rundtur"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>		"""11.5""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-13 10:50:01""" ;
+	<encoded_path>		"""cxioJmdc^TF|Ai@x@@tBxBPFt@w@x@qAlB{B~@m@Ve@AqA?aADa@PQN?LRPZJ?b@e@|@aB`AeBb@CjADrACR\zB^zBHtBT`CaBpEt@nBk@pD`@fDa@tAwBnAaAvCk@dD{FjA}FdBnD|FlAzBlCdCdEfBzFdB_@t@mAp@mChAeD`AaCjE_InAaA`AaAnAmBzDgIj@cC`AoCdBmBZIRcCt@`A^cBp@THyCz@lBToE^`BnBaBjCoEdAaA????pAC`DsAzC?`D?`DWhAJzAaAdBU|C`BdC?jBlApBvB~AxBtBxDzCzDj@vBEvB^bCpAlM`B{F~Aw@fB?dAzDnAvAd@`BXxBJjBNxCI|F?bCNjAh@fGdAnDd@jATxCNpFXxBt@vBCzFOzD^vBTnCEzFKbDc@xBG|CqA?_BnAgAoAsB|AgClBoArEyAwFw@k@mE`ABcFmA}DUoIc@mBaB{Do@aBo@w@{Au@}FeDeDcCkBwCmDqEeAwB_DcByGoD_Ck@qB?{DUmEkAeBvB{ElB}CwAkAJ_C?wB^qDj@oBv@kBj@aC^iATcDzDoBjA}CdDeEbDqA`B{DxBkDpGkBfGaATeE^sGSmGmAo@u@kBUaBKyAIgBUoBUeArIeA^gE??wCuBcBy@`A{BbD{BT{AaB{Cj@""" ;

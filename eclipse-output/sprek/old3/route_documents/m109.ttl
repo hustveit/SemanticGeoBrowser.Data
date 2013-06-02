@@ -1,0 +1,25 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route109>
+	a	...Thing... ;
+	<name>		"""Kokstad - Storrinden"""@no ;
+	<ingress>		"""Fint turterreng for de yngste, hvor fly og bunkerser venter på toppen. """@no ;
+	<description>		"""&lt;B&gt;&lt;BR&gt;Rutebeskrivelse: &lt;/B&gt;
+&lt;P&gt;Følg Storrinden, gå forbi barnehagen og følg grusveien oppover. Du fortsetter forbi en bom. Turveien svinger seg oppover. Her hører du ingen biler, bare fuglekvitter. Underveis er det mulig å ta flere avstikkere. Det siste stykket før toppen er det litt bratt. Fra toppen ser du ut mot Flesland, Liatårnet, ÃËœygarden og Bjorøy. Her oppe er det mange fine steder å raste, hvor man kan se på flyene. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kommer du fra byen, kjører du gjennom Knappetunnelen og tar deretter til høyre i første rundkjøring.Det er ingen avsatte parkeringsplasser så ta hensyn når du parkerer.&amp;nbsp;Følg Storrinden forbi Energiparken barnehage og du er ved turveien. Hvis du tar buss går du av på stoppet etter rundkjøringen, følger veien litt tilbake, svinger inn til venstre og krysser veien. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Man kan parkere etter arbeids- og åpningstid ved Kia Motors, Vestrheim eller Fjordkraft på Kokstadvegen. Disse ligger rett etter avkjørslen til Storrinden hvis man kommer fra Søreide eller Knappetunnelen.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;For familier med vogn ââ‚¬â€œ en halvtime i rolig tempo. Halve tiden om du løper eller går fort. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen er velegnet for barnevogn og småbarnsfamileier. Turen er ikke egnet for rullestoler da det er bratt og steinete mot toppen. Toppen er godt egnet for piknikturer og oppdagelsesferder i en rekke rester etter ett forsvarsanlegg fra 2.verdenskrig som det er kjekt og klatre og leke i. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Flott å bruke sykkel om våren, og ski eller akebrett om vinteren.&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Storrinden er den høyeste toppen i Kokstadmarka som er skogområdet avgrenset av Kokstadveien, Flyplassveien og Flesland Lufthavn.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Storrinden er ett godt utgangspunkt for og utforske mylderet av stier løpende eller gående i Kokstadmarka. Da kan det være en fordel med ett orienteringskart over området. IL Gneist har både kart og turorientering på Kokstad:&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;1115 I Bergen (1: 50&amp;nbsp;000)&lt;/P&gt;&lt;BR&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4decc8faa4694.storrinden> ;
+	<image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-05-10 19:10:00""" ;

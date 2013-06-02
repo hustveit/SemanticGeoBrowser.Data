@@ -1,0 +1,28 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route214>
+	a	...Thing... ;
+	<name>		"""TjeldstÃ¸-Hovden, rundtur"""@no ;
+	<ingress>		"""Helt nordvest i Ã˜ygarden er det en flott NordsjÃ¸lÃ¸ype man bÃ¸r fÃ¥ med seg."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter pÃ¥ TjeldstÃ¸. PÃ¥ hÃ¸yre side av veien ser du et busstopp, inni busstoppet finner du en informasjonstavle over flora og fauna i omrÃ¥det. PÃ¥ andre side av veien ser du rett pÃ¥ inngangen til NordsjÃ¸lÃ¸ypa, her er ogsÃ¥ en informasjonstavle over stien (inngangen til lÃ¸ypen er ogsÃ¥ vist pÃ¥ bildet).&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Den merkete stien gÃ¥r i nordvestlig retning til et utkikkspunkt ved Beinbrottet. Flott utsikt mot havet i vest. Man gÃ¥r videre i nordlig retning, forbi Gullhaug og snart over en liten bro i nordvestre delen av Pardalsmyra. Stien gÃ¥r sÃ¥ over en haug som blir kalt Pardalsfjellet og videre ned til et skogholt. Herfra gÃ¥r fÃ¸lger man veien ca. 200 meter vestover frem mot Alvheim. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Ta inn pÃ¥ avkjÃ¸rselen mot Storavatnet. Her stÃ¥r det en tavle merket Alvheim. Den merkete stien gÃ¥r pÃ¥ vestsiden av Storavatnet. Fortsetter forbi Nordre Kvalvik og gjennom furuskogen til Kvednane. Her ser man fremdeles rester etter en kvern ved bekken fra vannet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Kvednane gÃ¥r stien i Ã¥pent terreng og dreier etter hvert i nordÃ¸stlig retning. Man kommer frem til to gamle utegjerder. Dette er to innmarksarealer pÃ¥ mellom 6 og 8 mÃ¥l hver. De er gjerdet inn med steingjerde som man ogsÃ¥ mÃ¥ komme seg over. Stien gÃ¥r videre frem til fylkesveien i Hovden. Herifra er det ca 3,5 km tilbake langs veien til TjeldstÃ¸.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til TjeldstÃ¸ pÃ¥ AlvÃ¸yna i Ã˜ygarden kommune. Man kan parkere ved bedehuset pÃ¥ TjeldstÃ¸. Det ligger 100 meter nord for veikrysset til TjeldstÃ¸. Man kan ogsÃ¥ komme ved buss. Ta buss nr. 479 fra Bergen sentrum til TjeldstÃ¸. Bussturen tar litt over 1 time.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar mellom 2,5-3 timer.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de aller fleste. Stien er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter vÃ¦ret. &lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e296463552e8.jpg> ;
+	<image_credit>		"""Ã˜ygarden kommune""" ;
+	<created>		"""2011-07-22 13:52:03""" ;

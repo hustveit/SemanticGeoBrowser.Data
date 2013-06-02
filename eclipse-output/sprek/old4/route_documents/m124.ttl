@@ -1,0 +1,33 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike124>
+	a	...Thing... ;
+	dct:title				"""Salhus - Milastemma - Tellavikafjellet"""@no ;
+	<ingress>		"""Flott tur opp til fin utsikt!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Denne turen starter på kaien i Salhus, og første delen går
+gjennom den gamle bebyggelsen i det tidligere handels- og industristedet.
+Omkring kaien er det gammel fin trehusbebyggelse. Den store murbygningen er
+tidligere Salhus Væverier, nå ombygget til leligheter. Gå forbi bygningen og
+fortsett forbi småbåthavnen til museet som ligger i tidligere Salhus
+Tricotagefabrik. Ved inngangen til museet, fortsett opp trappene til høyre. Gå
+forbi den gamle skolebygningen og flere trapper oppover forbi gamle og nyere
+boliger bygget for fabrikkarbeiderene. Når du kommer opp i Tellevikveien,
+forsett denne opp til Slettebakken gård og ta til høyre vegen like etter løa.
+På enden av bilvegen starter stien som går bratt oppover Miladalen. Etter en
+stund kommer du opp til Milastemma. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Demningen ble bygget i 1923 for å sikre vannforsyningen
+til trikotasjefabrikken. Ta til venstre for vannet, snart deler stien seg, kanskje
+litt vanskelig å oppdage, men det står skilt på et tre i småskogen. Stien til
+venstre går bratt opp på Tellevikafjell. Stien rett fram fortsetter oppover Miladalen
+om Salhusskaret til Tellevikafjellet. Dette alternativet er noe lenger, men
+ikke så bratt.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;På toppen er det flott utsikt. Skal du tilbake til Salhus, anbefales det å gå over Nordgardsfjellet og ned ved Jürgenstemma. Det er stort sett faste og fine stier, men kortere
+strekninger med myr kan være bløte etter regnvær.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Biler kan parkere i Salhus på kaien eller ved Salhushallen. Buss nr 260 (ikke søndag) eller nr 3 som har enkelte
+avganger til og fra Salhus, særlig søndag. Buss nr 280 går om Tellevik (ikke
+søndag). Kommer du med denne så gå av på Slettebakken.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Turen tar rundt 1,5 time opp til Tellavikafjellet. &lt;/p&gt;&lt;b&gt;&lt;br&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer for de fleste, men det er ikke tilpasset barnevogn og rullestol.&lt;br&gt;&lt;b&gt;&lt;br&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Vanlig turutstyr. Det kan være bløte strekninger etter regnvær, så det anbefales å benytte vanntette sko under slike forhold.&lt;br&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4df7180842766.jpg> ;
+	<image_credit>		"""Silje Katrine Robinson""" ;
+	<created>		"""2011-05-25 14:25:40""" ;

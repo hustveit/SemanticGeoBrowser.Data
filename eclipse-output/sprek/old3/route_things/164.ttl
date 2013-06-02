@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route164>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/164> ;
+	<name>					"""Bontveit ââ‚¬â€œ Hausdalshorga ââ‚¬â€œ Redningshytten"""@no ;
+	<length_in_time>		"""360""" ;
+	<length_in_km>			"""12""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-29 12:43:14""" ;
+	<encoded_path>		"""izgoJkkp`@]AsA?uC[sF}EyBcA{AmB}GkCiDeCaAOq@H_FuCmB[Wk@G{@EwAg@aAaB}C}Aq@q@q@eAQuAaAaAgAOk@aHsF{@eCcB{EqF}JyAsMmAyC_NmL_IiAoEq@{CoBkCKqAt@uAvAwGeBEeE_CiIeAmAuB?oAmB}CmAoEkHqCwLgGkDuB}Fi@kK?uKpAeEdAyCjA{GtKmPpDoGjA}HjDoE`C_AtAoC@oEc@wBuAqEaBaK_@eE_A{Ft@yCzLkDvIs@xIaCrKn@jJjTdAzEvCnC|FbFzDzBjCdEn@bBtA`BdAl@Tj@Dt@~AxBdCfFzAfFHnDzBfGt@`@tAnDXbC~@bCjBpF~AVtA|FoA_HeBKaDgHs@}E{@cDkEiHoByL{EgGEoD{CmA{D_IiPqLaCsHkJuSqKaA}IlEwIMuLlDoAa@}C~AaCcBeAk@iB_JEmAU_@PoDoBoOE{De@cCeAu@?mAs@oD_@cBUqFe@oEi@TU^EvA""" ;

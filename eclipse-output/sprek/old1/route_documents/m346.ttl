@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route346>
+	a	...Thing... ;
+	<name>		"""Fyllingsdalen â€“ Olsokfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Olsokfjellet er en av de mindre kjente fjelltoppene i BergensomrÃ¥det. Mange tar heller turen til Gravdalsfjellet eller DamsgÃ¥rdsfjellet som ligger like i nÃ¦rheten. Navnet Olsokfjellet stammer trolig fra hytteeiere i Nordnesdalen, som hadde tradisjon for Ã¥ brenne olsokbÃ¥l pÃ¥ toppen.&lt;br&gt;&lt;br&gt;Ruten starter fra Betanien i Fyllingsdalen, og fortsetter over grusplassen. Stien gÃ¥r opp i dalen der man treffer pÃ¥ myromrÃ¥der. Deretter fortsetter man opp til hÃ¸yre og toppen. Fra Olsokfjellet 354 m.o.h., har du utsikt mot blant annet Bergen, LÃ¸vstakken og Fyllingsdalen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Fjellet ligger Ã¸verst i Fyllingsdalen og har lett adkomst fra LaksevÃ¥g, Melkeplassen og Fyllingsdalen. Denne ruten starter fra Hospitalet Betaninen i Fyllingsdalen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. 1,5 time tur/retur.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret. Husk gode sko."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-11-09 11:51:12""" ;

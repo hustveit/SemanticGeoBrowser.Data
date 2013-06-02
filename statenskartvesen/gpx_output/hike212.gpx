@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="lonvia.de" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+	<metadata>
+		<name>Test</name>
+		<link href="http://test.no">
+			<text>Test</text>
+		</link>
+	</metadata>
+
+	<trk>
+		<trkseg>
+			<trkpt lat="60.34736" lon="5.81843"/>
+			<trkpt lat="60.34873" lon="5.81821"/>
+			<trkpt lat="60.34933" lon="5.81799"/>
+			<trkpt lat="60.35039" lon="5.81788"/>
+			<trkpt lat="60.35116" lon="5.81722"/>
+			<trkpt lat="60.3521" lon="5.81631"/>
+			<trkpt lat="60.35243" lon="5.81638"/>
+			<trkpt lat="60.35273" lon="5.81612"/>
+			<trkpt lat="60.35401" lon="5.81579"/>
+			<trkpt lat="60.35519" lon="5.81598"/>
+			<trkpt lat="60.35564" lon="5.81587"/>
+			<trkpt lat="60.35608" lon="5.81543"/>
+			<trkpt lat="60.35764" lon="5.8148"/>
+			<trkpt lat="60.35778" lon="5.81512"/>
+			<trkpt lat="60.35773" lon="5.81561"/>
+			<trkpt lat="60.35765" lon="5.81588"/>
+			<trkpt lat="60.358" lon="5.81594"/>
+			<trkpt lat="60.35832" lon="5.81567"/>
+			<trkpt lat="60.35891" lon="5.81643"/>
+			<trkpt lat="60.35964" lon="5.81825"/>
+			<trkpt lat="60.36031" lon="5.81847"/>
+			<trkpt lat="60.36075" lon="5.81841"/>
+			<trkpt lat="60.36099" lon="5.81847"/>
+			<trkpt lat="60.36188" lon="5.81913"/>
+			<trkpt lat="60.3622" lon="5.81847"/>
+			<trkpt lat="60.36366" lon="5.81973"/>
+			<trkpt lat="60.3639" lon="5.81913"/>
+			<trkpt lat="60.36471" lon="5.81951"/>
+			<trkpt lat="60.3651" lon="5.81898"/>
+			<trkpt lat="60.36519" lon="5.81805"/>
+			<trkpt lat="60.36477" lon="5.81849"/>
+			<trkpt lat="60.36436" lon="5.81819"/>
+			<trkpt lat="60.36436" lon="5.8172"/>
+			<trkpt lat="60.36415" lon="5.8161"/>
+			<trkpt lat="60.36427" lon="5.81515"/>
+			<trkpt lat="60.36426" lon="5.81416"/>
+			<trkpt lat="60.36411" lon="5.81263"/>
+		</trkseg>
+	</trk>
+</gpx>

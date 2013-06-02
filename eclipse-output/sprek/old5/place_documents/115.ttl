@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place115>
+	a	...Thing... ;
+	
+	dct:title				"""Træet Gård, Osterøy"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Træet gård&lt;/b&gt;&lt;br&gt;Ca. 500 meter fra parkeringen ved Blomdal ligger Bergen Turlags hytte Træet. Dette er et gammelt gårdbruk som er restaurert og tatt i bruk spesielt med tanke på barn. Det er mye benyttet av både Barnas Turlag, skoler og barnehager, og man kan bestille opphold som privatpersoner. Det er båt og kano ved hytten. Det er også en fin tur å spasere på den gamle kjerreveien som fører helt ned til fjorden. Der var båtforbindelse før i tiden, og kaien er i fin stand. Man kan også sykle langs denne veien. Passer fint for barn.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1590cda6016.jpg> ;
+	<image_credit>		"""Torill R Aase""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-07 10:58:56""" ;
+	<modified>		"""2011-07-11 13:12:18""" ;
+	<gowalla_name>		"""Treet gård på Osterøy"""@no ;
+	<gowalla_description>		""""""@no ;

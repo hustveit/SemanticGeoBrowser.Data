@@ -1,0 +1,25 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike123>
+	dct:title				"""Støbotn - Tellevikafjellet - Hordvik"""@no ;
+	sf_ont:ingress			"""Turen tek deg gjennom variert terreng, gjennom kulturlandskap, lauvskog og barskog, og på toppen ser du på klåre dagar forbi Holsnøy og Askøy og like til plattformane i Nord!"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Turen tek 
+til på Hitland. Først på asfalt opp til Baugtveit, derifrå på kjerreveg og stig 
+opp til toppen og ned att på andre sida, ved Sætregården. Frå Sætregården tek du 
+Falkangervegen ned til Hordvik, eller du kan gå på stig ned til Tellevik.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ta buss til Støbotn og gå derifrå 
+opp til Hitland, forbi Hitland Gjestegård og opp til Baugtveit, der kjerrevegen 
+tek deg ut i terrenget. Du kan også køyra privatbil og parkera på opparbeidd 
+parkeringsplass på Baugtveit. Men då må du attende til utgangspunktet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tre, fire timar er rikeleg med tid på 
+å koma seg frå den eine til den andre sida av fjellet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Små og store greier seg fint i dette 
+terrenget. Oppstigningen er her og der litt bratt, og det same gjeld deler av 
+nedstigninga til Sætregården. Gjennom barskogen her kan det også vera sleipt på 
+våte dagar.&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vanleg turutstyr greier seg 
+normalt, ta gjerne med kikkert. Hugs at det kan vera surt på toppen, ha difor gjerne med ein ekstra 
+genser. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bergen (1:50.000).&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4ddbe791067e7.jpg> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-05-24 19:07:03""" .

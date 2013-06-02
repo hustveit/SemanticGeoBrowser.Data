@@ -1,0 +1,34 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route225>
+	a	...Thing... ;
+	<name>		"""Titlestad-SmÃ¸rÃ¥sfjellet"""@no ;
+	<ingress>		"""Fin tur opp pÃ¥ SmÃ¸rÃ¥sfjellet."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Kvernabekkveien pÃ¥ Titlestad. FÃ¸lg veien til Klokkarvannet
+og ta fÃ¸rste sti til venstre. FÃ¸lg stien opp bakken til SÃ¸re Ã…sen. Herfra gÃ¥r
+stien i nordÃ¸stlig retning mot Orrhaugane. Her mÃ¸ter man stien fra Hamre. Stien
+fortsetter Ã¥ gÃ¥ i nordligretning. OmrÃ¥det er myrlendt, sÃ¥ vÃ¦r obs pÃ¥ at det kan
+vÃ¦re blÃ¸tt her. FÃ¸lg stien videre til Syningom. Her er det flott utsikt og fint
+Ã¥ raste pÃ¥ benkene som er satt opp her. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen forstsetter sÃ¥ litt videre nordover til BjÃ¸rnevannet. Man kan returene
+samme lÃ¸ype eller gÃ¥ ned til NÃ¸ttveit. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kan kjÃ¸re til Titlestad. Det er ingen avsatte parkeringsplasser, sÃ¥
+utvis hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta Bybanen til Nesttun og buss nr. 60
+fra Nesttun til Titlestad. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1 time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen gÃ¥r pÃ¥
+sti og er derfor uegnet for bruk av trillevogn eller rullestol. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter vÃ¦ret. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3120b145183.jpg> ;
+	<image_credit>		"""TRUDE HAUG """ ;
+	<created>		"""2011-07-28 10:16:44""" ;

@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route125>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/125> ;
+	<name>		"""Lysekloster - Lyshornet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-03 10:24:20""" ;
+	<encoded_path>		"""icrnJys~_@??MIYEMA[CKQA[MEMCMHYHKJKDM@YLQ`@WUWj@?ZVXHVFPHVHNJPNl@Y?MGUQKJKGo@SEYM?WSc@_@WMKUa@a@[@w@GMAM@WI[FMA[@KEMEKC{@JKDM?Sa@K?IPU`@m@x@Cv@Qn@CZAXETIPKVSr@ERAZAXGp@GPG\IXIf@MAg@e@C{@?YGU?YFUAYMm@[WKKEWEUWS[YOg@MIKGSSKQKKMGWWIMWPq@s@K?a@i@?f@JAA[MAKGMCa@c@[c@OEIMF[G[]]EYIYKK?YO{@KMKASBKAK?KOc@i@GSKIIYM?k@MYDKIMGe@QMEM?OEEUMCg@SIQKMW]MEGSME[[KIIOMAMCKGKMYOCWMCMCM?KKaBw@IKa@RKBC[KRK_@Se@KOGUUYKQUGMGIVe@l@MEi@DIU[RKJKNEVCXAr@Nl@LFJINp@Rf@J@@r@EV?ZAXFTLDJNHPFRFRBX@ZBXFR??""" ;
+	<routes_spots>		"""http://__thing_place_uri__118""" ;

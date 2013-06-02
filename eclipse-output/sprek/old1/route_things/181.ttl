@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route181>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/181> ;
+	<name>		"""Bahus-Lysekloster-RÃ¸ykeneset"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>		"""8.9""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-07 15:08:50""" ;
+	<encoded_path>		"""aoxnJ}vd`@^z@N|@bAh@fAxCb@fAAp@rC[vBe@z@a@j@qB|@d@vA~D~AxCbDrCzBbBd@fCjBfAvCtDbB`Bx@[Zu@~A|BzB~DtG|GhCxClBxCt@fBjDbD|BhBdChDdC~EpHbH~BnDfErIz@rAbA^f@lA`Ad@r@jAZbBArCXvAdB`B|ExH|BxDlAhCJhD|AxB\TRjC`C`DrDhCx@xC~AmBT?I|BPlBV~FJ|Af@Ep@s@VT?`AI`A`B|GV~CbAlBnFhDZUQaAcByCU{BXwAh@{@xAz@`@DVM?iA_AgAcAk@s@aAA_Bv@{B`BaAdGUjD~CxBFuB_GbAb@hC}AcCxAcAc@oB{EyCcH_GaLW}DeBcFe@kEQgBsAeBgB_G_AqC}BqIgAoAyB{BaAgBu@EcAaA?aA`As@nDuBRuAi@uB_@uBg@wAk@[u@s@{@iA]Nm@zB}@G_A}Aa@wAkCmBeIkHkCmEcAsEcCuBQ?u@]aByEkAuBqBsHaF_Rg@q@cC?oAyC_@gBq@FaEgDcBs@kB?gBgAu@uBWaAwCmEkEsBq@aA""" ;

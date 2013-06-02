@@ -1,0 +1,23 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route232>
+	a	...Thing... ;
+	<name>		"""Nordvik-Lysskarfjellet"""@no ;
+	<ingress>		"""Kjapp og bratt treningstur til flott utsikt."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Nordvik. FÃ¸lg Nordvikveien nordover og ta av pÃ¥ stien som gÃ¥r opp pÃ¥ hÃ¸yre side av veien. FÃ¸lg stien oppover Moldstigen mot toppen.&amp;nbsp;Ruten er lett Ã¥ fÃ¸lge, man beveger seg hele tiden oppover i nordlig retning. Ved stidelet neden for toppen av Lyseskarfjellet fÃ¸lger man stien helt til venstre opp til toppen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Herfra er det god utsikt og man kan se utover bÃ¥de Fanafjorden og Lysefjorden. Returner via samme traseÃ¨. Man kan ogsÃ¥ fortsette videre mot Fanafjellet og besÃ¸ke FanastÃ¸len. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r over Fanafjellet til Nordvik. Ta av pÃ¥ en vei til hÃ¸yre nÃ¥r man har kommet over fjellet. Det er ingen avsatte parkeringsplasser, sÃ¥ utvis hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 62 fra Lagunen storsenter (RÃ¥dalen) til Nordvik.&amp;nbsp; &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 45 minutter. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de aller fleste. Turen gÃ¥r pÃ¥ sti og er derfor uegnet for bruk av rullestol og trillevogn. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;Kle deg etter vÃ¦ret. Gode fjellsko er en fordel. &lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e32aaf692a11.jpg> ;
+	<image_credit>		"""Marita Aarekol """ ;
+	<created>		"""2011-07-29 14:43:34""" ;

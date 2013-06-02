@@ -1,0 +1,19 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place73>
+	
+	dct:title							"""Vikinghytten"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;P&gt;Vikinghytten ligger på Vareggen (590 moh) og er et populært turområde i Bergen.&lt;/P&gt;
+&lt;P&gt;Vikinghytten er åpen hver søndag hele året gjennom fra 10.30-14.30 unntatt i juli. &lt;/P&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1ad9a52efc0.jpg> ;
+	sf_ont:image_credit					""" Helge Sunde""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e03372584dd1.jpg> ;
+	sf_ont:trimtoppen_description		"""Skilt satt opp ved inngangsdøren."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Bjarte Eikanger""" ;
+	dct:created							"""2011-05-07 15:03:15""" ;
+	sf_ont:modified						"""2011-08-02 12:34:01""" ;
+	sf_ont:gowalla_name					"""Vikinghytten"""@no ;
+	sf_ont:gowalla_description			""" """@no .

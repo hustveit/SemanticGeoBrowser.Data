@@ -1,0 +1,50 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route199>
+	a	...Thing... ;
+	<name>		"""Ã…dland-BÃ¥rafjellet/Ã˜yjordsfjellet """@no ;
+	<ingress>		"""Flott ettermiddagstur med nydelig utsikt fra BÃ¥rafjellet eller Ã˜yjordsfjellet (227 moh.) som de lokale kaller det. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r
+til snuplassen for bussen pÃ¥ Ã…dland. GÃ¥ deretter 20 meter og ta grusvei opp til
+venstre. FÃ¸lg grusveien til den deler seg. Ta da grusvei opp bakken til hÃ¸yre
+og igjennom gÃ¥rdstundet. GÃ¥ opp pÃ¥ hÃ¸yre siden av lÃ¸en og gÃ¥ 50 meter til du
+kommer til en grind. Etter grinden ta til venstre over jordet til du kommer til
+en falleferdig steinbu. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;FÃ¸lg
+stien videre innover noen hundre meter. Ta da til hÃ¸yre over myrene mot
+Ã˜yjordsfjellet. Her ble det i gamle dager tatt ut torv og du kan se noen av de
+gamle husene der innmarken slutter. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;FÃ¸lg
+stien som stiger relativt bratt oppover fjellsiden. Fra toppen pÃ¥ 227 meter er
+det fantastisk utsikt over Nordhordland, Ã˜ygarden og Fedje og innover mot
+Bergen. FÃ¸lg stien videre over ryggen pÃ¥ fjellet mot nordvest. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Nedturen
+gÃ¥r pÃ¥ venstre side av et lite fjellvann som tidligere var vannforsyningen til
+en del av gÃ¥rdene. Deretter litt bratt nedover til hÃ¸yre. Stien er merket med
+varder her. Stien gÃ¥r ned i klÃ¸ften ned mot Ã˜yjorden og kommer etter hvert ned
+i bjÃ¸rkeskog. Etter Ã¥ ha kommet igjennom bjÃ¸rkeskogen kommer du ut til et lite
+gÃ¥rdsbruk. Hold pÃ¥ venstre side av lÃ¸en og ned pÃ¥ grusveien. Ta til hÃ¸yre her
+og fÃ¸lg veien tilbake til snuplassen for bussen. &amp;nbsp;&lt;/p&gt;&amp;nbsp;
+&lt;br&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r mot Meland, til Ã…dland. Det er ingen avsatte parkeringsplasser, sÃ¥ vÃ¦r fornuftig. Man kan ogsÃ¥ ta buss nr. 320 fra Bergen sentrum til FlatÃ¸y og ta nr. 346 videre til Ã…dland.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1,5 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, men vil nok vÃ¦re
+for tÃ¸ff for de minste. Deler av oppstigningen er ganske bratt og krever nok en pust
+i bakken for mange. Turen er uegnet for bruk av trillevogn eller
+rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. Gode fjellsko anbefales. Det
+er for det meste tÃ¸rr sti, men kan vÃ¦re vÃ¥tt i myren fÃ¸r oppstigningen begynner
+til Ã˜yjordsfjellet. &lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e24144490c85.jpg> ;
+	<image_credit>		"""Arne-Christian Haukeland""" ;
+	<created>		"""2011-07-18 13:08:15""" ;

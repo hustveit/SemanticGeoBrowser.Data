@@ -1,0 +1,56 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike203>
+	dct:title				"""Eikeland-Gladihaug"""@no ;
+	sf_ont:ingress			"""Flott tur til nydelige Gladihaug (431 moh.)."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter på Eikeland. Stien begynner bak en gård helt
+ved veiens ende. Følg stien sørøstover. Stien er litt svingete i starten, men
+retter seg kjapt ut igjen. Stien følger elven sørover mot Sandbrekkena og over
+eggen til Vestefjellet. Her er det tørt og fint å gå.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stien går videre mot et myrområdet, Breimyra. I enden av myren
+ligger muren etter et helt tun av gamle torvhus. Stien går på østsiden av myra.
+Ved stidele etter myren hold til høyre, sørvest og opp til Gladihaug (431 moh.)
+På Gladihaug har man vid utsikt i alle himmelretninger. Etter en liten pause her,
+kan man enten returnere samme vei eller velge å gå videre til Krossane. Se &lt;a href="http://tur.bt.no/tur/193"&gt;Rundtur
+via Gladihaug og Krossane&lt;/a&gt;  .&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Eikeland i Lindås kommune. Det er ingen oppsatte parkeringsplasser,
+så ta hensyn når du parkerer. Man kan også ta buss nr. 320 fra Bergen sentrum
+til Knarvik, ta så buss nr. 300
+videre til Vatne. Fra Vatne må man gå ti minutter tilbake til Eikeland. Følg
+veien til Herland og ta derfra opp til Eikeland.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar omtrent 2 timer i sin helhet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for alle, ta gjerne med barna. Turen går på sti så den er ikke
+tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter været. Fjellsko anbefales. Lindåskartet er nyttig å ha med.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta
+om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gladihaug
+(431 moh.), er ââ‚¬&#157;heimefjelletââ‚¬&#157; til beboerne i tettstedet Knarvik i Lindås.
+Fjellet er et av de vanligste turmålene i den sørlige delen av Lindås
+kommune. Fjellet
+har flere oppganger, er lett tilgjengelig og benyttes hele året. Det er også populært
+for skigåere, særlig fra området Hopsdalen, som har en vel 3 km lang lysløype.
+Det er merket ca. 10 km løyper rundt hele fjellplatået.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Lindås og Radøy Turkart, Sæbø 1116 II,
+Herdla 1116 III.&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e2586a4acda6.jpg> ;
+	sf_ont:image_credit		"""Roar Christiansen """ ;
+	dct:created				"""2011-07-19 14:42:10""" .

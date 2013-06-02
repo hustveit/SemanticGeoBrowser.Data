@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route205>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/205> ;
+	<name>		"""HjelmÃ¥s-Gjerdfjellet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""3.7""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-20 09:40:51""" ;
+	<encoded_path>		"""c}ypJwzu_@}@vB{@bBsAjAmBZ{@nD}C~CoEhDoEjFkArCiHfG_B`AqDZqAiDkBaAk@XaArAcAv@eC`ByBbBUOy@R{Ab@]pBy@rA}@hC@r@EzA@b@D`A_A`Au@Tc@pBQBQ@QJwA~AiBZyBEeBbAwAlAWj@aA`AgApF_@t@w@lA[zCa@xBI`FRpBA`AWrAcBvAc@zAaAhBuG`GyB~Fd@p@gEnGqHjHcCzE}CdEaFnI""" ;

@@ -1,0 +1,30 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route217>
+	a	...Thing... ;
+	<name>		"""Ormhilleren friluftsomrÃ¥de"""@no ;
+	<ingress>		"""Nydelig friluftsomrÃ¥det i Ã˜ygarden. Ta med barna og kombiner turen med strandaktiviteter. """@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter pÃ¥ parkeringsplassen ved Ormhilleren friluftsomrÃ¥de. FÃ¸lg skjellsandveien sÃ¸rover mot stranden. Her er det klar og tydelig sti helt ned til strandomrÃ¥det. Her kan det vÃ¦re fint Ã¥ tilbringe litt tid med Ã¥ raste, bade og la barna leke i vannkanten. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien gÃ¥r sÃ¥ til venstre langs med strandlinjen mot broen som gÃ¥r over til ToftÃ¸y. NÃ¥r man kommer frem til broen tar man igjen til venstre og fÃ¸lger stien langs fv 561. NÃ¥r man kommer frem til innkjÃ¸rselen til Ormhilleren friluftsomrÃ¥det gÃ¥r man tilbake til parkeringsplassen.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til Ormhilleren friluftsomrÃ¥de som ligger pÃ¥ RognÃ¸yna i Ã˜ygarden kommune. Det er mange avsatte parkeringsplasser ved inngangen til friluftsomrÃ¥det man kan benytte seg av. Det er ogsÃ¥ mulig Ã¥ parkere pÃ¥ den gamle ferjekaien ved Rongesundet.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Man kan ogsÃ¥ komme ved buss. Ta buss nr. 479 fra Bergen sentrum til Raudhammaren. Herfra mÃ¥ man gÃ¥ et lite stykke til Ormhilleren friluftsomrÃ¥de. Det er ogsÃ¥ mulig Ã¥ komme via bÃ¥t, det er satt opp fortÃ¸yningsbolter langs svabergene.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Rundturen tar rundt 40 minutter. Det anbefales Ã¥ bruke litt tid pÃ¥ strandomrÃ¥dene. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for alle, ta gjerne med barna. Stien frem til strandomrÃ¥det er tilpasset bruk av trillevogn og rullestol. Resten av turen gÃ¥r pÃ¥ sti sÃ¥ her er det ikke tilpasset vei for bruk av trillevogn og rullestol. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter vÃ¦ret.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Romslig omrÃ¥de med stor barnevennlig badeplass og fine svaberg. Det er ogsÃ¥ mulig Ã¥ fiske her. Det er en god gangveg (500 m) fra parkeringsplassen til badefjÃ¸ra, som er tilrettelagt med skjelland. Toalett og informasjonstavle ved parkeringsplassen. OmrÃ¥det er egnet for Ã¥ overnatte i telt. &lt;/P&gt;
+&lt;P&gt;(Kilde: &lt;A href="http://www.bof.no/Omrader/Oygarden/751_ormhilleren.htm%C2%A0"&gt;Bergen og Omland FriluftsrÃ¥d&lt;/A&gt;)&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2d50f78dfa8.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-25 13:18:15""" ;

@@ -1,0 +1,30 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike211>
+	dct:title				"""Gjøn-kikedalen-Holmane"""@no ;
+	sf_ont:ingress			"""Fantastisk dagstur gjennom Kikedalen."""@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Gjøn. Følg turstien opp til høyre fra nordsiden av Gjøn. Stien er litt svingete i starten før den vender nordvestover og strekker seg innover i dalen. Gjønvatnet ligger på venstre siden langs starten av turen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Ved enden til Gjørnvatnet går stien inn i Kikedalen. Her her det stort fjordhest-slipp hver sommer. Dersom du går denne turen på sommerstid vil du kunne se flotte fjordinger gå på beitet. &lt;/P&gt;
+&lt;P&gt;Stien går videre innover dalen langs med Kikedalselva og opp Seterhaugskåra.&amp;nbsp; Her må man gå forsiktig fordi stien er veldig bratt. Man går på venstre side av Seterhaugstjørna. Ved vannet er det fint å ta seg en liten rast. Det er også mulig å bade. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien strekker seg videre nordover, gjennom Stolaboten og opp Skorabakkene. Nå nærmer man seg kommunegrensen til Samnanger. Ved Skarafloten møter man en elv fra høyre side som kommer fra Skoratjørn. Når man har krysset elven, går man oppover Vetlamjellskora. Kikedalens høyeste punkt er ved kommunegrensen mellom Samnanger og Fusa. Så nå stien begynner å gå ned igjen vet man at man er kommet inn i Samnanger. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien møter et lite vann som man går forbi på venstre side. Følg elven nedover dalen til man møter Kikedalsvatet. Her er det veldig fint å raste. Det er satt opp border og benker man kan benytte seg av. Det er også mulig å fiske i vannet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Kikedalsvatnet ned til Holmane er det fint å gå. Man følger stien langs med elven, til det kommer et stidele. Her tar man til høyre og følger stien ned til en bro. Man krysser broen og kommer inn til Holmane.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Gjøn i Fusa kommune. Det er få parkeringsmuligheter på Gjøn, så ta hensyn når du parkerer. Det er vanskelig å ta buss til Gjøn fra Bergen. Det anbefales å benytte bil transport. Er man flere som går turen vil det beste være å kjøre to bilder. Parker en bil på Holmane og den andre på Gjøn. Det er parkerinsplass ved broen på Holmane.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar mellom 5-6 timer. Det er også mulig å ta med telt å bruke to dager på turen. Det er et fint område, så en overnatting vil være å anbefale.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;Denne turen passer for de som liker lange turer i flott terreng. Stien er stedvis veldig bratt på Fusa siden. Her er det ikke anbefalt å ta med små barn. Tar man med større barn må de være fjellvant og passes godt på. Samnanger-siden er mindre bratt, så her kan man absolutt ta med barna. Stien er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;BR&gt;&lt;BR&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Benytt gode fjellsko. Det er en lang tur så ha med nok mat og drikke. &lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e2828e15e139.jpg> ;
+	sf_ont:image_credit		"""Jan M Lillebø""" ;
+	dct:created				"""2011-07-21 15:19:15""" .

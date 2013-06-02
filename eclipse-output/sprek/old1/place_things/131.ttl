@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place131>
+	a	...Thing... ;
+	<name>		"""Krossane, Knarvik"""@no ;
+	<altitude>		"""NULL""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/7466195> ;
+	<gowalla_lng>		"""5.316428733""" ;
+	<gowalla_lat>		"""60.59514145""" ;

@@ -1,0 +1,54 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route62>
+	a	...Thing... ;
+	<name>		"""SÃ¦dalen-Turnerhytten"""@no ;
+	<ingress>		"""PÃ¥ en kald vinterdag, nÃ¥r skaren bÃ¦rer og solen skinner, er turen over Vasslifjellet til Turnerhytten en flott opplevelse. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Start turen fra parkeringsplassen i Indre SÃ¦dalen,
+og gÃ¥ grusveien opp til GlÃ¸vrevatna. Turen gÃ¥r opp fra vannrenseanlegget
+innerst i SÃ¦dalen. Her er det bygget en trapp som tar deg opp den fÃ¸rste
+kneiken. Fortsett oppover til SÃ¸re GlÃ¸vrevatnet og gÃ¥ langs vannet til 
+du mÃ¸ter
+veien som gÃ¥r opp til Stemmevatnet. Her kan du velge om du vil gÃ¥ pÃ¥ 
+veien til
+du treffer stien pÃ¥ nordsiden av Nordre GlÃ¸vrevatnet fÃ¸r du gÃ¥r mot Ã¸st,
+eller
+du kan krysse over broen ved demningen mellom de to vannene (anbefales).
+Turen fortsetter opp Soleibakkane til Vasslifjellet. Herfra er det ren 
+parademarsj inn
+til Turnerhytten.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra Turnerhytten kan du enten gÃ¥ tilbake den veien
+du kom, eller du kan forlenge turen og gÃ¥ videre mot Ã…rstadhytten, ned
+korketrekkeren, over Gomershaugane og videre sÃ¸rÃ¸stover til sÃ¸renden av
+Stemmevatnet der finner igjen grusveien. Ruten som gÃ¥r ned Indianerstien
+anbefales ikke om vinteren pÃ¥ grunn av is og glatt sti.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr. 62 inn i SÃ¦dalen og gÃ¥ opp SÃ¦dalsvingene
+til det kommunale vannrenseanlegget. Parkering er mulig ved vannrenseanlegget,
+men husk at bommen kan stenges uten forvarsel, sÃ¥ det er lurt Ã¥ holde seg pÃ¥
+riktig side.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 2-3 timer. Fra Vannrenseanlegget til
+Turnerhytten bÃ¸r du regne et par timer med normal gange.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dette er en flott tur for hele familien. Det er ingen
+vanskelige partier. Turen gÃ¥r hovedsaklig pÃ¥ sti og er derfor ikke egnet
+for barnevogner eller rullestoler. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Om sommeren gÃ¥r det bra Ã¥ gÃ¥ turen med joggesko. PÃ¥ vinterstid
+trenger du fjellstÃ¸vler eller annet solid fottÃ¸y. Det kan vÃ¦re noen glatte
+partier sÃ¥ brodder er til god hjelp.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart
+Ulriken (1:10 000), 1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25
+000), 7-fjellsturen turkart (1:25 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d89dc1e1ba49> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-03-23 12:37:27""" ;

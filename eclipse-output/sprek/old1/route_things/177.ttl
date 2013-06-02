@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route177>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/177> ;
+	<name>		"""NjÃ¥stad-Bruviknipa"""@no ;
+	<length_in_time>		"""300""" ;
+	<length_in_km>		"""8.4""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-06 13:17:04""" ;
+	<encoded_path>		"""{lmpJ{w_a@vA}DdAaHd@kD@gAKiAFc@TYJBNo@`@Yr@gAzA_BrAkChCgD??L_@j@y@`@w@Zc@v@y@p@g@d@s@\s@d@oAr@sAL_@?UXk@^On@N\L`@Bd@w@R[XCbAg@d@C\QZUZs@\c@RQJCXCTKd@W^k@Ti@Nq@LO^B`@MRUX?h@GHUHEPGPCHCt@MRUNG\I`@]JILCj@YT]HWW_ACoARc@LY@qCGs@Hg@BUEa@CeBMeAA}ACg@FSBQT_@LQX]@g@Ng@`Ae@TB`@ULJPOb@j@XILa@L?FWHGPGb@k@RE\e@TEX?\?RYXTRGPUXCNILPJj@t@jAxAR~Ao@ZHlA[DuANK]{@Kq@X{@J{@W[gAsCDu@ZQRqAf@k@T?PJLk@Ve@\?TUn@TV^v@D\^P_@V?T?d@q@Lq@ZC`@k@f@?XcBz@}BNkAWgAVsB@wAwAgCNsA@oDDsDHuEWyB\OT[OqAOe@KEFgBp@gANq@HaBl@[bB}HlA}Gv@gAr@qAf@k@Pu@p@Qt@k@|@gCLg@VOj@mB`Ae@pAaA|@aB^aApBwAp@sBh@}Ad@U^gBLyCN}AX{ANq@jAcCZ{@dAw@P{@b@e@?w@EaBGIFq@LcBMqB?wAMaA?E?D?WJIBKLGTUTm@Do@XWXKl@Qf@o@\Q\G~@EPDRQTBXCh@d@XPXw@CqBb@uALYHqAfAyA`@K@s@FEf@t@TkAVmARQJYNU^?X_@PCPXTs@zBcDBqBLiA\oAb@aAn@{B|@b@p@c@z@y@b@Sh@UNM^b@P?t@j@^JPU^Tr@}@b@U\}@^@z@aAn@_@d@Un@Cf@Ch@|@\fBV`AlDLzBUzDmCpD^lGk@jDqFzEu@fGeEp@cOKaLTcOvEwK`A_@t@{Dn@yDn@oE{@yBu@yDy@qE""" ;

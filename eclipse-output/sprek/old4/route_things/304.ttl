@@ -1,0 +1,40 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike304>
+	a				sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""420""" ;
+	] ;
+
+	sf_ont:length [
+		sf_ont:kilometer	"""7.5""" ;
+	] ;
+
+	sf_ont:rate [
+		sf_ont:degree_of_difficulty		sf_ont:hard ;
+		sf_ont:Referee					<http://tur.bt.no> ;
+	] ;
+
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""gqeqJmtdf@O`AIZu@D_@?[j@OzA?bB^z@FlAG`AKn@KvAAxBXpAWfA_AX}@TW|@k@fCcAfAs@lB]fA]fCg@j@e@z@{@`@Y|AUn@c@f@I`A@n@NvALz@\Pj@^^v@HvAD`A?pB?bCKrBOz@_@t@Y`AU`A?|@?z@HpAGz@e@nBQp@UlBCpBEpBBpBMnB?hABrAChAX|@NnAQbDc@nD?ZcAj@u@}A]p@EbCZhAgAhA{@`A}@T{@{@yAj@o@oAw@?]nAJdEg@dBc@~DyA{@Y|B?fAWvDoATcBG_AlEoAhCgAj@q@q@y@gG[k@aBbCu@b@a@yCUyC?oAy@cC[Ga@dEe@pCy@jC_AzBy@FY{B_@aAm@Dy@gAu@Oy@eBiEyC}Az@_CvAwAjB{Br@mDLcANsBs@kAk@q@NcAFgAoAYwA}AaDIgDg@cCu@}DEmBRqAnAc@jAy@b@wD^qCg@mBu@{B_@}DIqAu@[K?oDwAEqAwA}Aw@?YwAgAiAcAqCqAoDsAqCgCsHyBqFkA{B}D_RyBUuB?u@?sDp@}@\{BvAkAtBiDpCkCzE{E|D}@GmAr@aBFyC]{@s@_CeBmAiAiCwCkB_BgAsESsCK}DIqNCwF""" ;
+	] ;
+	
+	owl:sameAs [
+		rdf:resource		<http://tur.bt.no/tur/304> ;
+	] ;
+	
+	sf_ont:indexcard [
+		dct:created				"""2012-01-09T13:39:12.274+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

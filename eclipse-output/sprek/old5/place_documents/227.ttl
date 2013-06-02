@@ -1,0 +1,21 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place227>
+	a	...Thing... ;
+	
+	dct:title				"""Viggohytten"""@no ;
+
+	<ingress>		""" """@no ;
+	<description>		"""&lt;p&gt;Viggohytten er et populært turmål for beboere både i Fyllingsdalen, Laksevåg og Nipedalen/Gravdal. Den ligger på Gravdalsfjellet over Nipetjørna. Her har man 180 graders utsikt mellom Løvstakken og Lyderhorn. På finværsdager kan du se helt til Folgefonna, Tysnes, Stord og Sotra&lt;br&gt;&lt;/p&gt;&lt;p&gt;Viggoytten ble bygget i 1915. Etter mye forfall ble det gjort omfattende arbeid med hytten på slutten av 90-tallet. Med hjelp fra sponsorer ble det "nyåpning" høsten 98. Hytten drives nå av interessegruppen Viggohyttens venner. Den er åpen for publikum hver søndag mellom 10 og 15 og her selges det vafler, kaffe og annen drikke. I desember og januar er den åpen fra 10 til 14. Den er også brukt av foreninger, lag 
+og skoleklasser for overnatting. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4eaff685abaef.jpg> ;
+	<image_credit>		"""Anders Waage Nilsen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-11-01 14:27:34""" ;
+	<modified>		"""2011-11-04 10:47:33""" ;
+	<gowalla_name>		"""Viggohytten"""@no ;
+	<gowalla_description>		""" """@no ;

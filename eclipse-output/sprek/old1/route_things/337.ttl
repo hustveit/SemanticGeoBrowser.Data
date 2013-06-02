@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route337>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/337> ;
+	<name>		"""Tysse â€“ HÃ¸gafjellet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""7.4""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-03 14:44:26""" ;
+	<encoded_path>		"""ki}pJuqda@TsBC_B?wAJyCBk@]{Bq@s@c@oAk@wAu@wA[y@P{@?k@U}AWk@?uBPUGy@Ec@V_BCs@WgAo@iAw@eBa@s@q@yCMaFm@iAgA_Dc@s@GUQ{BJ_GKqAc@uDm@qA_@k@K[QqCIuBCk@Ty@|@j@bAThAOr@q@lBxC|@nAh@TNqCYwGp@oFEwGtAiFQcKGiA_@iClAsS`A}OKyHJcCBiAZgDHiCEuBb@gIZaATkC^_BLwArAuDbAmBb@aADqCPaAPiALgAf@_Bb@oAX_Bl@k@x@]fAgAx@qAh@UXc@p@k@l@eBf@aAz@UBaAIiAc@Ey@`Ay@x@u@]AoAoAoDu@gA_@L}AaAkBoA_AYmALgAgA]{BJaACkCk@wATqCT_BQaAYsBu@eEqAmEq@?C\Q?CaA_@Tm@]c@?oAeE{@MuAb@UEh@_B?mBQk@AsBZs@CuBIiC?}AUy@Qs@p@kC?mBx@gDp@]pAEb@iA`@cCh@q@|@eE@cCr@s@l@Mb@Tz@{E|@yC^k@x@?Pc@p@Gx@MfAUp@Z~@`Af@|BXb@v@GxAk@|@FlAFx@s@x@T~@Lb@Ej@Od@oAr@r@pBZnAk@zA[p@`AVdBf@vAb@Ld@Fr@`A~@|At@vAz@EP_BEqCUiAf@oA~@gD~@wAb@?`AoDx@?rAs@b@y@`@aDTaA^wAjAmBxAeBLq@""" ;

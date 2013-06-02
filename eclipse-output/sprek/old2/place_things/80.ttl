@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place80>
+	a	...Thing... ;
+	<name>		"""Lien, Ask"""@no ;
+	<altitude>		"""15""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/1520597> ;
+	<gowalla_lng>		"""5.199567083""" ;
+	<gowalla_lat>		"""60.4712305""" ;

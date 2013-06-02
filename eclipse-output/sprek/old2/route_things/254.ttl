@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route254>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/254> ;
+	<name>		"""Lyngveien-Eidsvågsfjellet"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""1.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-09-11 15:20:00""" ;
+	<encoded_path>		"""yy{oJa`h_@??H_AFu@Fu@Ay@Fu@V[\IVVZFm@e@rBzANo@Ti@Tc@Rc@Pk@XOZU^UZEJq@Pq@To@Ti@Re@V_@Re@Ly@F_@ZKXMZ?Jr@Ll@V\T]\FT]ZHXATa@XWXKZGZ@Rg@V]Ta@VS\E\OXQXMHu@Fs@Rg@Nm@Xe@Cu@Is@Sk@Lm@Tq@Nk@Is@Du@Bu@V[Pg@Jq@Fs@Rg@b@IXRXI\HZJZIXMTa@Tc@Re@T_@V]Nm@XUXONq@??""" ;

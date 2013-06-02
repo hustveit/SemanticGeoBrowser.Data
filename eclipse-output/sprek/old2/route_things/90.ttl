@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route90>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/90> ;
+	<name>		"""Melkeplassen-Løvstakken"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-26 15:49:04""" ;
+	<encoded_path>		"""saooJ{|k_@??Ds@Rm@@GFw@]GJq@Xc@Re@\e@V[Tw@Rc@b@@XO\H`@N^DZA\?ZFRh@VZZIb@?ZB^[XB`@AXOXU^a@`@DRi@Lo@Ra@Ta@T_@Z@XSV[Re@\GZANk@Tc@Lq@Po@XS\GRe@Rc@Jq@?w@Eu@Lo@Pi@Tc@T_@ZWZQXK^FZ]`@ARg@FgADu@?u@M_AE}@Cw@XE\MXI^L\AXKXQRc@Bw@Aw@JcAPg@Ri@XWVWRg@DcAFs@Re@V[X@ZCZEXWZIZBXQXOXKXTZJXLXIZDXMXSZDXSZKVSZYZBZAZCXTVPLn@Ph@Hr@X^XOXTLt@Pf@XTXTDz@Ph@Rf@VT??""" ;

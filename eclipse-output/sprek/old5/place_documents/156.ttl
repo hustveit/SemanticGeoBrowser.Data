@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place156>
+	a	...Thing... ;
+	
+	dct:title				"""Ormhilleren friluftsområdet"""@no ;
+
+	<ingress>		"""Flott lagune ute i ÃËœygarden. Svaberg, (strand), gressplen og buldring."""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-25 13:25:36""" ;
+	<modified>		"""2011-07-25 13:25:36""" ;
+	<gowalla_name>		"""Ormhilleren"""@no ;
+	<gowalla_description>		"""Flott lagune ute i ÃËœygarden. Svaberg, (strand), gressplen og buldring."""@no ;

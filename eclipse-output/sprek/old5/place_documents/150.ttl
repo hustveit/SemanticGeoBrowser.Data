@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place150>
+	a	...Thing... ;
+	
+	dct:title				"""Brakstadfjellet """@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Brakstadfjellet (318 moh.) ligger i Meland kommune og er et populært fjell blandt lokal befolkningen. Det er mange veier opp til toppen, hvor utsikten er fantastisk.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e2952644f498.jpg> ;
+	<image_credit>		"""Tor Høvik""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-21 13:15:59""" ;
+	<modified>		"""2011-07-22 12:37:20""" ;
+	<gowalla_name>		"""Brakstadfjellet"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route213>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/213> ;
+	<name>		"""Anekletten, rundtur"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-22 11:01:08""" ;
+	<encoded_path>		"""_|bpJa|e]c@{H?eEq@{EK{Bi@wAq@MQ{@c@y@gA?aC[gBkCaBk@uBUoFGsDr@y@s@mBU}ApAsBe@gATcAk@eBgAg@_BeAs@kA[aC?cBLsCvA{B~AcB?gBtDUrE_@zEHlJi@rC}AD_AvACxCpBnGt@xCfAzEf@~Cj@fD??RDv@a@t@m@xAu@dBqAlAq@xFkC~EeAvC_@hI]dBBtEeB|FiAlLaBlGoC""" ;

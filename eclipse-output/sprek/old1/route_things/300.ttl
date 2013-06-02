@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route300>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/300> ;
+	<name>		"""Bergsdalen â€“ Storafjellet â€“ Vaksdal"""@no ;
+	<length_in_time>		"""360""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-17 12:53:01""" ;
+	<encoded_path>		"""""" ;

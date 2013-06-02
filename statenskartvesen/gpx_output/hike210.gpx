@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="lonvia.de" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+	<metadata>
+		<name>Test</name>
+		<link href="http://test.no">
+			<text>Test</text>
+		</link>
+	</metadata>
+
+	<trk>
+		<trkseg>
+			<trkpt lat="60.54958" lon="5.12657"/>
+			<trkpt lat="60.54943" lon="5.12668"/>
+			<trkpt lat="60.54937" lon="5.12695"/>
+			<trkpt lat="60.54931" lon="5.12723"/>
+			<trkpt lat="60.54927" lon="5.1275"/>
+			<trkpt lat="60.54923" lon="5.12778"/>
+			<trkpt lat="60.54915" lon="5.12805"/>
+			<trkpt lat="60.54908" lon="5.1283"/>
+			<trkpt lat="60.549" lon="5.12852"/>
+			<trkpt lat="60.54893" lon="5.12877"/>
+			<trkpt lat="60.54906" lon="5.1289"/>
+			<trkpt lat="60.54904" lon="5.12918"/>
+			<trkpt lat="60.54901" lon="5.12945"/>
+			<trkpt lat="60.54896" lon="5.12973"/>
+			<trkpt lat="60.54904" lon="5.12998"/>
+			<trkpt lat="60.54902" lon="5.13025"/>
+			<trkpt lat="60.54894" lon="5.13047"/>
+			<trkpt lat="60.54893" lon="5.13074"/>
+			<trkpt lat="60.54904" lon="5.13094"/>
+			<trkpt lat="60.54917" lon="5.13085"/>
+			<trkpt lat="60.54932" lon="5.13091"/>
+			<trkpt lat="60.54936" lon="5.13118"/>
+			<trkpt lat="60.5495" lon="5.13127"/>
+			<trkpt lat="60.54943" lon="5.13151"/>
+			<trkpt lat="60.54932" lon="5.13176"/>
+			<trkpt lat="60.54919" lon="5.13179"/>
+			<trkpt lat="60.54908" lon="5.13206"/>
+			<trkpt lat="60.54932" lon="5.13245"/>
+			<trkpt lat="60.54942" lon="5.13311"/>
+			<trkpt lat="60.54973" lon="5.13366"/>
+			<trkpt lat="60.54987" lon="5.13371"/>
+			<trkpt lat="60.54981" lon="5.13396"/>
+			<trkpt lat="60.54987" lon="5.1341"/>
+			<trkpt lat="60.5499" lon="5.13423"/>
+			<trkpt lat="60.54994" lon="5.1344"/>
+			<trkpt lat="60.5501" lon="5.13445"/>
+			<trkpt lat="60.55021" lon="5.13454"/>
+			<trkpt lat="60.55034" lon="5.13454"/>
+			<trkpt lat="60.55075" lon="5.13443"/>
+			<trkpt lat="60.55083" lon="5.13426"/>
+			<trkpt lat="60.55101" lon="5.13426"/>
+			<trkpt lat="60.55121" lon="5.13418"/>
+			<trkpt lat="60.55134" lon="5.13437"/>
+			<trkpt lat="60.55148" lon="5.13443"/>
+			<trkpt lat="60.55154" lon="5.13462"/>
+			<trkpt lat="60.55154" lon="5.13492"/>
+			<trkpt lat="60.55154" lon="5.13525"/>
+			<trkpt lat="60.55168" lon="5.1355"/>
+			<trkpt lat="60.55172" lon="5.13572"/>
+			<trkpt lat="60.55196" lon="5.13594"/>
+			<trkpt lat="60.55196" lon="5.13594"/>
+			<trkpt lat="60.55169" lon="5.13656"/>
+			<trkpt lat="60.5515" lon="5.137"/>
+			<trkpt lat="60.55119" lon="5.13726"/>
+			<trkpt lat="60.55107" lon="5.13755"/>
+			<trkpt lat="60.55132" lon="5.13784"/>
+			<trkpt lat="60.55132" lon="5.1381"/>
+			<trkpt lat="60.55141" lon="5.13836"/>
+			<trkpt lat="60.55228" lon="5.13823"/>
+			<trkpt lat="60.55244" lon="5.13832"/>
+			<trkpt lat="60.55273" lon="5.1383"/>
+			<trkpt lat="60.55287" lon="5.13823"/>
+			<trkpt lat="60.55325" lon="5.13764"/>
+			<trkpt lat="60.55361" lon="5.13737"/>
+			<trkpt lat="60.55382" lon="5.13704"/>
+			<trkpt lat="60.5543" lon="5.13603"/>
+			<trkpt lat="60.55484" lon="5.13545"/>
+			<trkpt lat="60.55541" lon="5.13471"/>
+			<trkpt lat="60.55559" lon="5.13466"/>
+			<trkpt lat="60.55564" lon="5.13539"/>
+			<trkpt lat="60.55596" lon="5.13585"/>
+			<trkpt lat="60.55603" lon="5.13643"/>
+			<trkpt lat="60.55618" lon="5.13753"/>
+			<trkpt lat="60.5564" lon="5.13783"/>
+		</trkseg>
+	</trk>
+</gpx>

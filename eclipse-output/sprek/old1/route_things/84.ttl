@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route84>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/84> ;
+	<name>		"""FlÃ¸yen-Brushytten-Storediket-FlÃ¸yen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""4.7""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-04-14 15:17:45""" ;
+	<encoded_path>		"""uzroJkvr_@HG??E]??UYe@Gm@Fc@Z_@Dm@G}@e@_BB??@[Zi@zBiANa@EYYc@Ee@?eFDy@CMICMTObBENQHoBy@_@De@Z[_Ai@aAKm@A_B^sDAi@QkA@uALgABu@IwAAqBIiB]uAWi@yAcAg@aAMHBXRXCNE@QS_@gAa@i@q@a@m@?MS?KDEd@MtCqCPk@Hu@As@g@gBKkAKOeB_@q@YkAB}@o@o@@I[BoBEuAEc@K[??M_EiAhD[nA_BrBuBfBq@pAm@M]@{@dAWNqBH]NwBbDw@d@y@hAS`@]rA{@zBoAl@{@|@s@?o@VYAk@YwARcABw@cAW_AUGGJo@`D{@fDG`@A~@Vt@bBHpChBt@XFNPdBt@pA??zA|Ap@N~@?XZJl@CdASfB@Ll@~@r@l@RMFOp@_CrAuBtByAv@w@^?b@l@DRCh@_@\An@FPNFv@k@dASBKCQUq@DMF?LZrAhBb@AlAc@XYn@yB^m@rCiAf@Ex@j@Zv@lAzGZr@b@\??p@dAjBHpA_@\?JDr@`A??PUAY""" ;

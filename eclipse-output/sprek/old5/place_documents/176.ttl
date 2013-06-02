@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place176>
+	a	...Thing... ;
+	
+	dct:title				"""Veten, Steinsland"""@no ;
+
+	<ingress>		"""Høgste toppen i Sund kommune"""@no ;
+	<description>		"""&lt;p&gt;Frå Veten, høgste toppen i Sund kommune sør på Sotra, 284 moh., er det utsyn til "sju kyrkjesogn". Men ivrige turgåarar hevdar dei i godt vêr kan sjå 11 kommunar. Men ser ein vestover, er det mest stein og hav i sikte.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e5a2d7db158a.veten> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-08-28 13:37:10""" ;
+	<modified>		"""2011-10-06 12:59:26""" ;
+	<gowalla_name>		"""Veten"""@no ;
+	<gowalla_description>		"""284 moh"""@no ;

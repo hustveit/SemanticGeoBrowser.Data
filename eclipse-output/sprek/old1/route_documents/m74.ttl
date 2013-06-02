@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route74>
+	a	...Thing... ;
+	<name>		"""Stendafjellet rundt"""@no ;
+	<ingress>		"""Fin treningslÃ¸ype pÃ¥ skogsvei og asfalt."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;div&gt;Start fra Laguneparken og fÃ¸lg Ã˜vre KrohnÃ¥sen opp til Stendafjellet. Her er det relativt bratt, og du gÃ¥r i en tettpakket skog. GÃ¥r du her nÃ¥r det er mÃ¸rkt bÃ¸r du ha med lommelykt eller hodelykt. 
+
+Stien gÃ¥r videre fra toppen av Stendafjellet ned til Stend jernbanestasjon. Derfra kan du fÃ¸lge sykkelveien langs Fanavegen tilbake til Stend, slik blir det en fin og variert rundtur.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tilkomst:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Du kommer deg til Laguneparken bÃ¥de med bil og buss. Gratis parkering ved Lagunen storsenter.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Du bruker fort en time pÃ¥ denne turen, gjerne mer om du har med barn.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Passer for:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Turen passer for alle. SÃ¦rlig hundeeiere liker denne turen fordi de kan slippe hundene lÃ¸s i skogen.&amp;nbsp;LÃ¸ypen egner seg ikke for barnevogner/rullestoler, men er en super kondisjonstur hvis man vil ha stigninger. &lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;PÃ¥ sommerstid gÃ¥r det fint Ã¥ bruke joggesko. VÃ¦r oppmerksom pÃ¥ at det kan vÃ¦re veldig isete her om vinteren, sÃ¥ pigger/brodder til skoene er Ã¥ anbefale.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ved Stend jernbanestasjon stÃ¥r det en gammel togvogn som er Ã¥pen. Det kan vÃ¦re spennende for barn Ã¥ gÃ¥ inn og titte. Det er ogsÃ¥ mulig Ã¥ stikke innom Hordamuseet og kafeen der. Ved museet ligger ogsÃ¥ badestranden Melkeviken.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1115 I Bergen (1:50 000).&lt;/div&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4df9ef2b6cd8b.jpg> ;
+	<image_credit>		"""TIF Viking""" ;
+	<created>		"""2011-04-06 09:22:07""" ;

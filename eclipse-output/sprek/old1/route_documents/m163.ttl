@@ -1,0 +1,35 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route163>
+	a	...Thing... ;
+	<name>		"""Knatten-Skomakerdiketâ€“BlÃ¥manen"""@no ;
+	<ingress>		"""Nydelig og lett tur som passer hele Ã¥ret, gÃ¥r vekselsvis pÃ¥ sti og vei. """@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;FÃ¸lg Starefossveien "i retning Ulriken" og gÃ¥ opp til venstre mellom husene like fÃ¸r svingen mot Nystuveien. Veien herfra og opp til Knatten ble gjort ferdig i 1985. Knattenveien svinger seg oppover og gÃ¥r senere over i SÃ¸re Kamveien, og deretter Kamveien. Fra Kamveien tar du til hÃ¸yre opp Skomakerdiksveien til Skomakerdiket (317 m.o.h.). &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra den sÃ¸rÃ¸stlige enden av diket fÃ¸lger man stien nordover inn i Skomakerdalen. Ca. midt i dalen er det et stiskille hvor man holder til hÃ¸yre. Denne stien fÃ¸lger man videre oppover kammen til SÃ¸re Midtfjell. Man passerer Fjellhytten som har en usedvanlig flott beliggenhet og fin utsikt. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Fjellhytten fortsetter man pÃ¥ sti nordÃ¸stover. Stien krysser Kviturbekken, som renner ned fra BlÃ¥mannsvatnet. FÃ¸lg stien videre opp til BlÃ¥mannsveien.. FÃ¸lg denne rundt svingen og ta av til venstre mot BlÃ¥manen i fÃ¸rste stikryss. FÃ¸lg stien til venstre i svingen opp mot varden, sÃ¥ er du pÃ¥ toppen av BlÃ¥mannen.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Herfra er det mulig Ã¥ gÃ¥ videre til Rundemannen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det er best Ã¥ komme seg hit med buss, for det er begrenset med parkeringsplasser i omrÃ¥det. Buss nr. 11 gÃ¥r til Starefossen.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar mellom 3 og 4 timer.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste. Turen gÃ¥r hovedsaklig pÃ¥ sti og er derfor ikke egnet for barnevogner eller rullestoler. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Gode fjellsko anbefales.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Skomakerdiket er tilrettelagt som bade-&amp;nbsp; og rasteplass. Det er satt opp grillplass, rastehytte og gapahuk, som er flittig i bruk hele Ã¥ret. Av og til er det arrangementer der man kan lÃ¥ne kanoer og kajakker Ã¥ padle. I kalde perioder blir isen fort trygg. Om sommeren kan det vÃ¦re et flott sted Ã¥ sole seg og ta et lite bad. &amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Diket fikk det navnet det har i dag, fordi skomakerne i det gamle Bergen hadde omfattende vannrettigheter pÃ¥ Byfjellene. Demningen i Skomakerdiket kom omkring 1645, ifÃ¸lge Bergensernes Fjellverden. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;O-kart FlÃ¸ien (1:10 000), 1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e09da3ae9969.jpg> ;
+	<image_credit>		"""Jan M LillebÃ¸""" ;
+	<created>		"""2011-06-28 15:42:18""" ;

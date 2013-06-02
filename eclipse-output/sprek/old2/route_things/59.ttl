@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route59>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/59> ;
+	<name>		"""Skinstø-Geitanuken"""@no ;
+	<length_in_time>		"""12""" ;
+	<length_in_km>		"""0.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-22 16:56:46""" ;
+	<encoded_path>		"""{mapJwri_@??Ub@[?W[YU[E[BYKYT]F[AWh@Lo@Ko@[S?x@Fv@F|@BfAHr@FhA@x@It@Wf@XFBx@Bv@Iv@Mn@@v@Cz@W\[?YQ[@YC[M[A[A[RU_@U_@Ew@Fs@Cu@Aw@Ue@[FSd@Ip@Cx@It@??""" ;

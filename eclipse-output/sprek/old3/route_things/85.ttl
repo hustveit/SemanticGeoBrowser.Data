@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route85>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/85> ;
+	<name>					"""Fjell - Liatårnet"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""2.5""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-04-17 16:25:24""" ;
+	<encoded_path>		"""wqboJso_^?@??AF?E?KAe@CMGa@Mg@AGIYEYCk@C_AF[DQRi@Jg@BEXw@Vy@Tw@@GPa@@ENa@BMHIBONk@?GNq@Re@Nk@F[HYD_@BKBUBo@B{@AoA?EQmA?EGm@EW?MCYE]FOCIK[GWMk@Y}@?AUm@ACUUs@UMBY?Q@g@FA@g@LC?WDQk@AECe@Am@?q@?YASSu@IUCGUk@CSAW?SHk@FOJSBIFK\]\e@b@[Xi@DU?cACWEa@AGG]G[IICEOEMIUQA?CAw@k@MOQ[Sc@I_@Kc@?C?ACIOLBF?EU}ACIGUa@iAACKSI[A[C{@@eAAgA?MAi@@KEg@CO@?DKRSLMNSJ@V@JOBGPe@PQN@@?HCD?BALEJOFCJUNOBSJE@AJK??@A??BAPG@MAK@C?A@@FKJQJAFWBK@KFBH?FKAKIQDKMC@A@?BMCF?ATUR@POFSLON[LaATg@?[FULGDIN?DEAIDK@YKKMGHQCIAOJQHGLGRWCW@CLWJCE@B???BA@?GWA]@EFINS@QA?ACMOGW?Y@OFKBKCSG[COHGDOJU@AAUCc@Ee@@c@EWUUOUE]DW@?ES?a@@[@_@Ce@QOSIMEKBOAABCAMCKBMDMICAMGKMKOOYICIKK?GFICMOKEMAWEUUK]?UDMLDNNDGFWXFPRHJT?J@NH??""" ;

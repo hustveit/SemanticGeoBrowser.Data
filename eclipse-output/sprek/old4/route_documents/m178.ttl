@@ -1,0 +1,53 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike178>
+	a	...Thing... ;
+	dct:title				"""Båtaleitet-Brukvinipa"""@no ;
+	<ingress>		"""Tur med bratt stigning, men med fjordutsikten fra Bruviknipa som belønning!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Båtaleitet ovenfor
+Bruvik på Osterøys østside. Ved Båtaleitet er stor parkering, og herfra går sti
+som gir en effektiv stigning til Bruviknipa. Det er en fin vei fra fjorden og
+opp til Bruviknipa (også kalt Brøknipa). Stien er mye brukt, og på toppen er
+det besøksbok. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra toppen er det et vidstrakt rundskue
+over Osterøy, i øst Bergsdalsfjellene, i sørvest Gullfjellstraktene med
+fjellområder. Rett ned og dypt under; Sørfjorden med kirkestedet Bruvik. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det anbefales kun å gå på ski opp hit
+for de spesielt interesserte.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta toget til Arna stasjon og buss nr. 200 videre til Kvisti (Osterøy), hvor en ny buss nr. 201 vil føre deg til Bruvik.
+Kommer man i bil følger man Fv 360 mot Bruvik. Båtaleitet ligger før man kommer til selve nedkjørselen mot Bruvik. Båtaleitet har en stor p-plass som kan benyttes.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt
+2 timer. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de med middels turkondisjon og som liker å gå i bratte stigninger. Den kan bli noe bratt å gå for barna. Særlig hvis man går med små bør man velge en annen rute. Turen går
+hovedsaklig på sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Osterøy er 330 kmÂ² stor og er Nord-Europas
+største innlandsøy. ÃËœyens størrelse og topografi gjør den særlig egnet for
+turutflukter, og mulighetene er mange. Osterøy har mange severdigheter for dem
+som har et våkent øye for øyens mangfold. Kvisti bru har gjort Osterøy lett
+tilgjengelig.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Bruviknipa rager 822 meter opp over
+Sørfjorden helt sør på Osterøy.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1215 IV Samnanger (1:50 000),
+1216 III Stanghelle (1:50 000), Osterfjord fiske- og friluftskart (1:75 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e156c903c42b.jpg> ;
+	<image_credit>		"""Karl H. Olsen""" ;
+	<created>		"""2011-07-07 10:21:36""" ;

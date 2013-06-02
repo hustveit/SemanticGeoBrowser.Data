@@ -1,0 +1,23 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike255>
+	dct:title				"""Stoltzekleiven-Brushytten-Skansen"""@no ;
+	sf_ont:ingress			""""""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;strong&gt;Rutebeskrivelse:&lt;br&gt;&lt;/strong&gt;Oppgangen til Stoltzekleiven ligger
+ i den nordlige delen av Fjellveien, ca. 1 km nord for Mulen. Dersom man
+ kommer fra Munkebotnsveien, er det like forbi sekundærstasjonen. 
+Oppgangen er godt skiltet. Stien slynger seg bratt opp gjennom skogen og
+ går etter hvert over i steintrappper. Stoltzekleiven ender ved 
+Sandvikspilen,&amp;nbsp; ca. 300 meter over Fjellveien. Under 
+oppstigningen har man nesten hele tiden en praktfull utsikt over 
+Sandviken og Byfjorden. 
+Fra Sandvikspilen følges tydelig sti mot øst i ca. 5 minutter før man
+ ender ved Storevatnet (374 moh.) på Sandviksfjellet. Ta til høyre og 
+følg veien til den deler seg i et tydelig veikryss etter ca. 1 km. Der tar man til venstre opp til Storediket, går over demningen, og følger grusveien til Brushytten. Fra Brushytten er det uendelig med muligheter, men turen på grusvei helt ned til Skansen brannstasjon er en fin og lett avslutning etter å ha startet med Stoltzekleiven.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tilkomst:&lt;br&gt;&lt;/strong&gt;Det går buss til Mulen, og det er parkeringsmuligheter langs veiene.&lt;br&gt;&lt;strong&gt;Tidsbruk: &lt;br&gt;&lt;/strong&gt;Beregn
+ ca 2 timer på rundturen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Det er en tøff tur å gå 
+opp Stoltzen. Man kan så klart gå i sitt eget tempo, men vær obs på 
+motbakkeløpere i trening slik at de kan komme forbi. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Utstyrsbehov:&lt;br&gt;&lt;/strong&gt;Du kommer langt med gode joggesko. Ta gjerne med en vannflaske for pausen på toppen av Stoltzen. &lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e7b9f75754e5.jpg> ;
+	sf_ont:image_credit		"""Rune Sævig""" ;
+	dct:created				"""2011-09-22 22:37:14""" .

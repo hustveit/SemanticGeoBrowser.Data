@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike353>
+	a	...Thing... ;
+	dct:title				"""Ulriken-Vidden-Svartediket"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-12-05 12:04:25""" ;

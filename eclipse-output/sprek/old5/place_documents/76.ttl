@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place76>
+	a	...Thing... ;
+	
+	dct:title				"""Tarlebøvannet"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		""""""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-05-08 21:03:52""" ;
+	<modified>		"""2011-05-08 21:03:52""" ;
+	<gowalla_name>		"""Tarlebøvannet"""@no ;
+	<gowalla_description>		""" """@no ;

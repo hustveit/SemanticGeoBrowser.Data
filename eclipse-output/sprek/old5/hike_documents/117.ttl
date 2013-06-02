@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike117>
+	a	...Thing... ;
+	dct:title				"""MC App test 2"""@no ;
+	<ingress>		"""test"""@no ;
+	<description>		"""&lt;p&gt;&lt;span class="Apple-tab-span" style="white-space: pre;"&gt;	&lt;/span&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-05-20 12:16:37""" ;

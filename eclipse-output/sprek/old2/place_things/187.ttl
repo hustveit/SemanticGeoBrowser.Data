@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place187>
+	a	...Thing... ;
+	<name>		"""Såta (Kvamskogen)"""@no ;
+	<altitude>		"""802""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/7624147> ;
+	<gowalla_lng>		"""5.9665310383""" ;
+	<gowalla_lat>		"""60.3371608257""" ;

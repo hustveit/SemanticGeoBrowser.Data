@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route87>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/87> ;
+	<name>		"""Ekerhovd - Liatårnet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-25 21:49:22""" ;
+	<encoded_path>		"""kqboJcq_^??SeASe@Mq@Gu@@g@Jw@Lm@Na@Te@Ri@Tk@Ti@Re@Ve@P_AHs@F_@Ju@Js@Hs@Du@Ju@Jw@Fw@IcAAuAMeAQo@K_@[a@Ya@Uc@W]YS[K[G_@C[?[D[KMo@Ey@Gy@Us@Ug@Qm@Kg@?w@Fw@F}@Pi@VUXWTg@Zy@Nk@Aw@W]Y_@W[YYYW]]Mm@WYSi@Qk@Mo@Oq@Ug@Ue@Sm@CaAA{@?y@?{@Au@Dy@Rm@VYZCXULo@`@M\EVUVe@XYZUX]\]Rk@Nk@Te@XYPi@Lo@Nm@Hu@\g@ZSLq@Ta@Pi@Bu@Cw@Fs@?y@@u@Tc@Gu@Hu@Aw@Cw@Ms@Qk@Ok@Ay@@w@Jq@Oq@[?[C[@[IUc@[UYQYUYO[IU[[_@""" ;

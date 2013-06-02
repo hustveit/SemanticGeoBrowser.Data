@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route101>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/101> ;
+	<name>					"""Mellingen-Rimmaskaret-Veten"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""2.5""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-01 17:28:55""" ;
+	<encoded_path>		"""e}dpJu}o_@OTOZBd@NXLZNJNVJZLVH`@H`@F`@J^LXJ\LXNTNPLXSCSCSBQ@QIUCQAQGSAQDQDQHQNOPQLOVM\I`@KXMXOXQLQLMTSNOLORMXQLOJOXMTMVOPOXOPOROTMXMTOTMVQROVMVOVMZMXMTK\K`@Ib@UHIl@OXOXMb@MXOTORQNMVORQTORMXMXOZMVMZKZMTOPORQLM\K\I\MVMZM\KZIb@Af@I`@QRQJQNOPK\Gj@K\ONOTQPM\G`@KZGb@M^QLOXMZOROJS@SBUBSFWTSNQJONOXQMQPMTQIOPOROTMVQGSEQAS?QKM[SAIa@Be@Ae@MYSBQ@QJOJS@SLK^O`@QH?e@G_@Gc@Ce@Ka@QMNQ?g@Cc@MYH_@Ek@@c@Ae@Ga@Cc@?e@Ec@Bg@?e@OQOSQKEg@OQQ?KXSDM[KYK]MQK[M[QISFS?QAOUQMQKI_@Ga@KYEg@Cc@OWQMQEQCS?QBQ?QKMVONQDQCQMK]Ea@SFMROVMVOXSKQKMVQFQOAH""" ;

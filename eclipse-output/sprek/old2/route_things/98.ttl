@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route98>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/98> ;
+	<name>		"""Sætre - Veten"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""1.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-29 09:38:59""" ;
+	<encoded_path>		"""augpJcen_@VaAPGREPARFQXOTMd@K\@h@Ab@Bd@Cf@K\OTOLMVNTNRAd@G`@OTI`@NLNTG^RCJXCd@K^Eb@H`@@d@@d@Bf@@b@Cf@LVAf@Cd@Ch@G^G`@I\Af@KZI\I\Cd@KZI\Gb@Ab@Db@I^MZOVK\@f@K^MVAb@?f@I\QNE`@Af@G^@b@MXMZOTIZCf@MTQLQFQLQ@QHOVKXOTIZS@MTQPOFSHQPKXOTSIOESMG`@Eb@M\SGSDOLQNG`@I^Cf@G`@I`@MVQHQNQFMVI^OJMXMVAf@BV""" ;

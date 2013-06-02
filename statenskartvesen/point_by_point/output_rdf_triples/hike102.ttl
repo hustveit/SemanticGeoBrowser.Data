@@ -1,0 +1,60 @@
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ucum:		<http://purl.oclc.org/NET/muo/ucum/> .
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix owl-time:	<http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix foaf:		<http://xmlns.com/foaf/0.1/> .
+
+sf_ont:hike102
+	a								owl:Individual ;
+	a								geo:SpatialThing ;
+
+	owl-time:duration [
+		owl-time:minute				"""100""" ;
+	] ;
+
+	sf_ont:Length [
+		sf_ont:Kilometer			"""4.3""" ;
+	] ;
+
+	sf_ont:minimumElevation [
+		ucum:meter					"""42.0897043675""" ;
+	] ;
+
+	sf_ont:maximumElevation [
+		ucum:meter					"""324.697134541""" ;
+	] ;
+
+	sf_ont:differenceInElevation [
+		ucum:meter					"""282.6074301735""" ;
+	] ;
+
+	sf_ont:heightIncrease [
+		ucum:meter					"""357.2405602963""" ;
+	] ;
+
+	sf_ont:heightDecrease [
+		ucum:meter					"""250.8734696708""" ;
+	] ;
+
+	sf_ont:StartOf [
+		geo:lat						"""60.41799""" ;
+		geo:long					"""5.31528""" ;
+		geo:altitude				"""42.0897043675""" ;
+	] ;
+
+	sf_ont:EndOf [
+		geo:lat						"""60.4231""" ;
+		geo:long					"""5.32242""" ;
+		geo:altitude				"""148.456794993""" ;
+	] ;
+
+	sf_ont:Path [
+		sf_ont:GoogleEncodedPath	"""mkwoJocm_@??^GTe@\\CXS]C[CYOc@UOm@Om@Kq@Ku@Qm@Qg@Qk@Qo@Om@Ko@Ug@Mm@Mo@Qk@Mq@Mo@C{@Bu@HaAF}@Rm@ZGNl@Rf@Nr@Dx@Hv@Fw@Gy@Iq@Ku@Gy@Iw@GeAYW[GYTWZWRYXNq@V_@Tc@T_@Va@ZKTZV`@Ph@Vf@Rj@Tj@Eu@Os@Ku@Gu@Gw@Ks@Ua@[DYNWZ[RW\\Y`@W\\UZ[EYSYOYI]O[QW[Y]Sm@Si@YS[F[P[NYL[?_@C[HYLYR[PYN[PQk@YpAYRYTYTWTYZU`@W\\Wb@U`@W^S`@Sd@U`@Ud@Uf@Sh@Sh@W\\S`@Sf@Sh@Ud@U^W^WP[RYZUd@WXWb@YRYR[ZUZYf@Y\\U`@W`@W\\Qj@W`@Qf@Uf@????AOUb@????STwGlA??[S[MYL[D]@[DYOYYBw@No@XUVWDw@Nm@Ok@@u@WY[HYKGu@Nq@Mu@Iw@Lo@Y[Mo@Jq@Qm@Oo@WSOo@ZQV[Re@Ls@Nq@Lm@Nk@V]Fu@XQVWV]XQZCXGX]V_@XSV_@L{@Pi@Ta@V]T_@Va@T]V_@Ra@Pi@No@Te@Rc@Nk@ZCZQXWV]Lq@Nm@Ta@Nm@VSV]V[ZMT[ZMXH\\AXTV^XTZHVXTd@Zg@ZLAz@Gr@Kp@Ln@T`@XXXRXSRg@Va@Va@XCZFJz@Ex@Ov@Et@Cx@Gt@Av@It@At@Tb@XTxBtB""" ;
+	] ;
+
+	sf_ont:Profile					<http://sognefjord.vestforsk.no/resource/route-graph/hike102.png> ;
+
+	foaf:isPrimaryTopicOf			<http://sognefjord.vestforsk.no/page/hike/102> ;
+
+	owl:sameAs						<http://tur.bt.no/tur/102> .

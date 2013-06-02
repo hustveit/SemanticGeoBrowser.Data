@@ -1,0 +1,33 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike96>
+	dct:title				"""Rolland - Storsåta"""@no ;
+	sf_ont:ingress			"""Tur som gir flott utsikt mot sentrale deler av Ãâ€¦sane, Eidsvågneset og Byfjorden. 
+"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Rutebeskrivelse:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;
+Stien starter ved Rolland gård, som ligger øverst i Rollandsvegen. Man 
+går gjennom tunet og finner stien mellom en nydelig steinløe og et 
+uthus. 
+
+Traseen som er godt vardet, går først opp på et platå som heter Nukane. 
+Her er det flott utsikt mot sentrale deler av Ãâ€¦sane, Eidsvågneset og 
+Byfjorden. På klare dager er det mulig å se langt ut i Nordsjøen. Stien 
+fortsetter ned i skaret bak Nukane før det går oppover igjen mot mot 
+Storsåta (435 moh.). Fra toppen er det vardet sti videre mot Vardeggen.
+
+&lt;br&gt;
+&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tilkomst:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;For å komme seg hit kan man ta buss til Ãâ€¦sane terminal. Til Rolland går det buss kun hverdager. Fra Ãâ€¦sane terminal krysser man motorvegen og fortsetter opp Rollandslia og Rollandsvegen. Det er parkeringsmuligheter langs Rollandslia og i helgene ved skolen. 
+
+&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tidsbruk: &lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Beregn to timer for å komme deg til toppen av Storsåta.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Utstyrsbehov:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Oppgangen her er lite egnet for skigåing. 
+
+Vær oppmerksom på at området er frittliggende og derfor utsatt i dårlig vær. Man kan oppleve mye vind og liten sikt når skodden sender seg. Vær påpasselig og nøye med påkledningen, særlig er det viktig med vindtette klær. 
+
+&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Fakta om turen:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Varderekken fra Rolland i Ãâ€¦sane til Vidden var ferdig i 1983. Det var byfjellsentusiasten Per Bremnes og ÃËœivind ÃËœvrebotten som sørget for 278 nye varder på denne strekningen. Vardene følger markerte høydedrag så mye som mulig og er derfor lett synlige. Avhengig av terrengforholdene ligger de med 30-60 meters mellomrom. 
+
+&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Kart: &lt;br&gt;&lt;/span&gt;O-kart Hjortland (1:10 000), 1115 I Bergen (1:50 000), Tur ââ‚¬â€œ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000)
+
+&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4db824399b346.jpg> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-04-27 16:10:55""" .

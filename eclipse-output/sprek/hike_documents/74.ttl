@@ -1,0 +1,12 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike74>
+	dct:title				"""Stendafjellet rundt"""@no ;
+	sf_ont:ingress			"""Fin treningsløype på skogsvei og asfalt."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;div&gt;Start fra Laguneparken og følg ÃËœvre Krohnåsen opp til Stendafjellet. Her er det relativt bratt, og du går i en tettpakket skog. Går du her når det er mørkt bør du ha med lommelykt eller hodelykt. 
+
+Stien går videre fra toppen av Stendafjellet ned til Stend jernbanestasjon. Derfra kan du følge sykkelveien langs Fanavegen tilbake til Stend, slik blir det en fin og variert rundtur.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tilkomst:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Du kommer deg til Laguneparken både med bil og buss. Gratis parkering ved Lagunen storsenter.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Du bruker fort en time på denne turen, gjerne mer om du har med barn.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Passer for:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Turen passer for alle. Særlig hundeeiere liker denne turen fordi de kan slippe hundene løs i skogen.&amp;nbsp;Løypen egner seg ikke for barnevogner/rullestoler, men er en super kondisjonstur hvis man vil ha stigninger. &lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;På sommerstid går det fint å bruke joggesko. Vær oppmerksom på at det kan være veldig isete her om vinteren, så pigger/brodder til skoene er å anbefale.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ved Stend jernbanestasjon står det en gammel togvogn som er åpen. Det kan være spennende for barn å gå inn og titte. Det er også mulig å stikke innom Hordamuseet og kafeen der. Ved museet ligger også badestranden Melkeviken.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1115 I Bergen (1:50 000).&lt;/div&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4df9ef2b6cd8b.jpg> ;
+	sf_ont:image_credit		"""TIF Viking""" ;
+	dct:created				"""2011-04-06 09:22:07""" .

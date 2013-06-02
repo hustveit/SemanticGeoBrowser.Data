@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route314>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/314> ;
+	<name>		"""Tennebekk-Kanadaskogen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.2""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-28 12:50:54""" ;
+	<encoded_path>		"""izloJwfa_@\e@p@q@p@q@b@Sl@_@^a@Jw@?]YY]s@a@m@a@w@K_@@{@Vs@f@i@Zm@XkADW@sABaAViADo@f@gCXkBX_@d@e@\}@?s@Uo@_@[S_@Km@GYW[]UG_@AYD}@VmB`@mAf@}@^_A\o@`@s@d@i@`@o@^oA@[[GM?o@C_Aj@k@NKFM@y@Jo@z@w@Jw@BMHiAPwAd@e@NgAk@aA_B]i@i@@c@Ls@n@U~@AvASx@KHc@t@a@l@]r@X\`@^b@p@XZLX@`@O|Ag@jBAr@Qb@[zAs@ZKNU@k@XgA`ASPGh@JD\LTv@TGD_@Rx@f@h@d@v@n@fAJlBfAJb@t@NHPVp@Rf@`@p@Er@K^s@r@uBHUVDd@_@Ns@n@c@z@c@`@Ib@EZLHR@R?fAEx@Al@GVE`@c@zAq@v@Yx@C~@Zt@t@`AZx@ZX?X?BSx@a@`@aAb@g@j@iAdAo@bA""" ;

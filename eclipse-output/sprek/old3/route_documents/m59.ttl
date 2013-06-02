@@ -1,0 +1,20 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route59>
+	a	...Thing... ;
+	<name>		"""Skinstø-Geitanuken"""@no ;
+	<ingress>		"""En kjapp tur med moderate utfordringer og super utsikt."""@no ;
+	<description>		"""&lt;div class="gridUnit span5 pre1 pushUp lastChild"&gt;
+&lt;div class="bodyText widget storyContent bodyText" data-widget-id="1"&gt;
+&lt;p&gt;&lt;strong&gt;Rutebeskrivelse:&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Om vinteren kan det være en del is i bakkene det kan derfor være hensiktsmessig å gå i lyngen på siden av stien. Når du har passert skoggrensen som ligger vel 200 moh. er det lettere terreng inn mot masten på toppen av Geitanuken som ligger 305 moh. Herfra har du fin utsikt sørover mot Ulriken og resten av Byfjellene. I vest ser du Askøy og videre ut mot ÃËœygarden og storhavet, i øst Flaktveit og Langavatnet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;En alternativ rute er å følge veien til endes og gå ut i terrenget til venstre for tunnelinngangen. Gå femti meter mot vest før stien dreier nordover. Oppe på ryggen kommer du inn på stien som fører frem til mastene på toppen. Denne ruten er brattere og kan være glatt om vinteren, men for den sporty familien kan den være en spennende utfordring med rask løsning og positiv mestring for barna.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tilkomst:&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Ta bussen til Skinstø. Fra endestoppet går du ca. 100 meter tilbake og inn første vei til venstre. Stien til Geitanuken går til høyre opp mot Riveskaftet, om lag 100 meter før veien slutter. Parkering langs offentlig vei.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tidsbruk:&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Fra busstoppet kan du regne rundt en halv time opp til toppen. Tar du med barna må du beregne noe lengre tid.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Passer for:&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Fin tur for hele familien, ta med 
+bestemor og bestefar. Bortsett fra stigningen opp mot Riveskaftet er 
+turen lett å gå. Passer ikke for barnevogn og rullestol. Den alternative
+ ruten kan være for krevende for de som er dårlig til bens.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Utstyrsbehov:&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Om sommeren går det bra med joggesko, men fjellsko kan være til god hjelp i de bratte partiene. På vinterstid vil brodder gi bedre grep over isen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kart:&lt;br&gt;&lt;/strong&gt;1115 I Bergen (1:50.000), Tur og friluftskart Bergen (1: 25 000). &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d88c7642c4aa> ;
+	<image_credit>		"""Leif Gullstein""" ;
+	<created>		"""2011-03-22 16:56:46""" ;

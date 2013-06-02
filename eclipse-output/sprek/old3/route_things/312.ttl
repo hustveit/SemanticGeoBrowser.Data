@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route312>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/312> ;
+	<name>					"""Lometjørna"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""4.2""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-27 14:51:36""" ;
+	<encoded_path>		"""}uiqJw`p]_@e@qAo@m@?o@a@i@Ii@_CIgBMqEAsBOy@c@KOHS{C@s@_@p@Sf@{@nAoBpC]`@m@KaBaAcBZo@IIy@WqDk@iC}AcCg@eAWyCIsAq@s@m@q@u@iAByA@iBEYQ{A}@uE[{@YyA_@eB]gBWaAkAa@aAj@g@l@e@Hg@`B[zAUDa@Y]QY^i@`Be@HUq@e@Va@Ds@z@g@Pi@O[T[f@SD[jB]@YYIEYe@QkB@qBGuAR{@[g@u@GOYWmAb@wB`@gAX_@v@kATiAB{BH_Af@}@j@w@PsBBsBEy@EmD[c@_@c@Y{@@i@Sk@WGGu@MyC]sA]DMm@Qi@Mm@s@eDK_@ZkAXg@NIr@o@j@_@j@y@LgBFcACIg@yAIaCFk@d@gCPyCAw@CiBAgBAwAn@iAb@_Bb@gA^Uj@R|@@^cAN}@\mAX{A?uA@oA^q@h@c@v@g@NcAPk@DMjA}BZIBmAT}A~AkDnAwCfBiDf@c@h@oB""" ;

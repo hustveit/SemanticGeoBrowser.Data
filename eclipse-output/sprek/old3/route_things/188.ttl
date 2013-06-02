@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route188>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/188> ;
+	<name>					"""Fauskanger, rundtur"""@no ;
+	<length_in_time>		"""280""" ;
+	<length_in_km>			"""5.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-12 15:01:51""" ;
+	<encoded_path>		"""ybkpJmzt]eAoAq@uC}@yC}A}@cCt@cEIoB?mA|@mBnEsB|DkA`@gBw@u@[mCx@cA~AeA^gC`Di@zAw@hGuAhFBhA_@P_@|@WpAMjAUvA_@[_@f@iBpCWMeAjEdFnJdCt@pA|HaB~Hj@lCz@wAdAoDb@aAp@TdA`Ad@|G[zFeBlA_@wAo@j@u@`Lh@vBZxBk@nFnAbBvAKEbCdCnC^HzAkA^qEPmB~AwCn@mAjCmC`Bj@dBoDtBmAvBUdB?~A?p@k@MsI?wBYmBq@cCIw@`ByCnAkAn@yB?oFzBuJZwA~@{D^UzBuAYmAUkAkAa@UITw@Nk@aEyC{ByC?kAt@mAjAcD~AsHPmB""" ;

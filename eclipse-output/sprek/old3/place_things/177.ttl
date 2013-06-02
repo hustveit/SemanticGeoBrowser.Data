@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place177>
+	a						...Thing... ;
+	<name>					"""Gullsteinen"""@no ;
+	<altitude>				"""352""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/5193032> ;
+	<gowalla_lng>			"""5.312453785""" ;
+	<gowalla_lat>			"""60.34563977""" ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place114>
+	a	...Thing... ;
+	<name>		"""Bruvik, OsterÃ¸y"""@no ;
+	<altitude>		"""NULL""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/1499222> ;
+	<gowalla_lng>		"""5.67982575""" ;
+	<gowalla_lat>		"""60.48415575""" ;

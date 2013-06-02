@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place94>
+	a	...Thing... ;
+	<name>		"""Gullfjellstoppen"""@no ;
+	<ingress>		"""Gullfjellstoppen er Bergens høyeste punkt, 987 moh."""@no ;
+	<description>		"""Gullfjellet (Gullfjelltoppen) er det høyeste fjellet i Bergen (987 moh).
+Grensen mellom Bergen og Samnanger kommuner går rett gjennom 
+Gullfjelltoppen. Fjellet er populært som turterreng for mange 
+bergensere. Det finnes mange ulike turalternativer i dette flotte 
+området. &lt;br&gt;&lt;p&gt;Gullfjellsvannverket 
+Svartavatnet på Gullfjellet er hovedmagasin for Bergen kommunes nye 
+hovedvannverk med uttak til Landåsââ‚¬â€œFantoftââ‚¬â€œFjøsanger, Fyllingsdalen og 
+Loddefjord. Vannet fra Svartavatnet føres i rør og tunneler over 
+Arnadalen, gjennom Ulriken, over Bergensdalen, gjennom Løvstakken, 
+Gravdalsfjellet og Lyderhorn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Trimtoppen: Det ikke satt ut skilt på Gullfjellstoppen, så registrering av høydemeter skjer via Sprek sin turregistrering. &lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e36647d27b0c.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		"""Her er det ikke satt ut skilt, så registrering av høydemeter skjer via Sprek sin turregistrering. """@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-06-11 16:51:31""" ;
+	<modified>		"""2011-08-01 10:39:49""" ;
+	<gowalla_name>		"""Gullfjellstoppen"""@no ;
+	<gowalla_description>		""" """@no ;

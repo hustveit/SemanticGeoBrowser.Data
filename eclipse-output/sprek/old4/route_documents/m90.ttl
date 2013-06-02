@@ -1,0 +1,46 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike90>
+	a	...Thing... ;
+	dct:title				"""Melkeplassen-Løvstakken"""@no ;
+	<ingress>		"""En lettere tur på på sentrumsnær fjellrygg. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Riplegården ligger ovenfor Melkeplassen, nordvest for
+Løvstakkområdet. Herfra går turvei
+med trapp opp til ÃËœvre Riplegården, hvorfra opparbeidet sti til venstre fører
+opp mellom husene til terrenget. Stien tar av ved en brannhydrant og overbygget
+bekkeløp. Det er en liten fotballbane med hvor stien begynner. Så er det bare å følge stien oppover første knaus. Når man kommer ned til myren med tretrappene er det skilting mot Løvstakken, og om det er fint vær ser man varden på toppen med en gang man kommer opp i høyden, og kan orientere seg etter den. Om man går denne turen ned igjen fra Løvstakken, følg skiltingen mot "Rett vest" nedenfor Løvstakken. Etter dette kan det være en fin huskeregel å ta til høyre der hvor stiene deler seg, om man ikke har lyst til å klatre ned en bratt knaus.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kan kjøre, gå, sykle eller ta buss nummer 19 til
+Melkeplassen. Følg skilting videre mot Løvstakken, du skal sørover. Utenom
+åpningstider er det mulig å parkere ved butikk eller på stor parkering ved
+Damsgård barnehage.&lt;/p&gt;&lt;p&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;En halv til en hel time fra Melkeplassen til varden på Løvstakken.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dette er en av de roligere oppgangene til Løvstakken
+og passer både for de som vil trene og de som vil gå søndagstur. Passer bra
+også for barn.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr, hvis det er vått er det en fordel med solid fottøy.&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Selve
+Løvstakken rager 477 meter over havet, men er omgitt av mindre koller i nord,
+og mot sør et Â«platåÂ» der høyeste parti er Gullsteinen (354 moh.). Fra
+Gullsteinen skråner fjellpartiet ned mot Langeskogen, Kråkenes og Bønes.
+Området utgjør en langstrakt fjellrygg mellom Bergensdalen og Fyllingsdalen på
+ca. 7 kvadratkilometer. Mot Fyllingsdalen i vest er terrenget til dels meget
+bratt, med få atkomstmuligheter. Mot Bysiden er fjellsidene bratte nok til at
+man fort får opp varmen og pulsen når man går opp fra nord eller øst. Disse
+oppgangene er de mest brukte.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart: 
+&lt;/b&gt;&lt;/p&gt;&lt;p&gt;O-kart
+Løvstakken (1:15 000), 1115
+I Bergen (1:50 000), Tur-
+og Friluftskart Bergen (1:25.000), 7-fjellsturen
+turkart (1:25 000)&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dc7ef480d8e7.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-26 15:49:04""" ;

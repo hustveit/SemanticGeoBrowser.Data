@@ -1,0 +1,40 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place38>
+	
+	dct:title							"""Blåmanen"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;Blåmanen
+ligger 552 moh. Man kan komme hit fra flere retninger. Den lettest tilgjengelige
+traseen er å gå fra Fløyen via Brushytten og deretter følge skilting til høyre
+for hytten,&amp;nbsp; følge skogsvei og deretter
+sti rundt til venstre og så opp på Blåmanen. Det er også mulig å komme fra
+Svartediket og Tarlebøvatnet, eller fra Rundemanen. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Den
+eldste brushytten man kjenner til i Byfjellene, lå på Blåmanen. Den het
+Haarklauboden og serverte brus, egg, appelsiner, kaker og kaffe. Det åpnet trolig
+allerede i 1909. &lt;/p&gt;
+&lt;p&gt;På
+Byfjellene ser man ofte rester etter militæranlegg. Med unntak av
+Sandviksbatteriet, Kvarven, Lyderhorn og Hellen er samtlige militæranlegg
+bygget av tyskerne under okkupasjonen i perioden 1940ââ‚¬â€œ45. De tunge batteriene
+ble etablert på Blåmanen, Fagerdalen, Fantoft, Kleppe, Krokås, Løvås, Olsvik og
+Storrinden. Batteristillingene ble bygget som små festninger, omgitt av
+piggtrådgjerder og minefelt. Innefor gjerdene var det brakkebyer for
+betjeningen. Ammunisjonsbunkere ble sprengt inn i fjellet, og
+mitraljøsestillinger sikret veien inn mot områdene. Under luftangrepene mot
+bl.a. Blåmanen og Fløyen hendte det ofte at hytteeierne på Ulriken var under
+beskytning av luftskytset på Knappen og Storrinden. De søkte tilflukt i
+kjelleren eller under hytten. (Kilde: Bergensernes Fjellverden)&lt;/p&gt;
+"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4dc96d5f6f9d9.jpg> ;
+	sf_ont:image_credit					"""Jan M. Lillebø""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""NULL""" ;
+	sf_ont:modified						"""2011-05-31 13:14:52""" ;
+	sf_ont:gowalla_name					"""Blåmanen"""@no ;
+	sf_ont:gowalla_description			""" """@no .

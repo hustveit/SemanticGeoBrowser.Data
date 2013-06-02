@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route265>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/265> ;
+	<name>		"""Hovlandsnuten"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""2.7""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 10:14:02""" ;
+	<encoded_path>		"""e`jmJyqua@?d@Ut@m@lAa@lBu@hDPz@T`@l@jA^^l@Tr@DZJp@XB?pADT?x@v@jAd@\THp@WTNj@?dAIJW?Uz@ElBUfAGxCAjA[Dc@fC[f@A`BGxC?lBO`A?`BPxBDpAE|AGdANhC?bDJdEJtCJvBHZ?zAVr@Jz@?vAHTDhCFfAC^p@p@nAvBn@Pp@QtAu@p@ElAgAdAiDVeAt@gAv@eDz@kAnAk@tAwBv@k@Xa@x@_DhAwBpAcDj@gA`@kF`@cC\eEHiCSgBu@{@cAe@yA?""" ;

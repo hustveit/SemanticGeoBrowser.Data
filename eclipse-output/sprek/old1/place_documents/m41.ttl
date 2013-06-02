@@ -1,0 +1,21 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place41>
+	a	...Thing... ;
+	<name>		"""Brushytten"""@no ;
+	<ingress>		"""Brushytten ligger sentralt plassert pÃ¥ byfjellene nedenfor Rundemanen og BlÃ¥manen."""@no ;
+	<description>		"""&lt;P&gt;Fra FlÃ¸ybanens Ã¸vre stasjon kommer du hit pÃ¥ en halvtimes gange pÃ¥ grusveier og det er mulig Ã¥ gÃ¥ med barnevogn. PÃ¥ Brushytten finner du toalett og varmestue og hver sÃ¸ndag mellom kl 11:00 og 16:00 selger Skanseguttene kaffe, brus, is og vafler.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Brushytten ble bygget i 1931 av Georg Nilsen med god hjelp fra Hansa bryggeri. I september 2007 ble den revet og en ny hytte oppfÃ¸rt. Det var bryggeriet som pÃ¥ 30-tallet engasjerte FlÃ¸ien Folkerestaurants arkitekt, Einar Oscar Schou til Ã¥ tegne salgsboden. For en stor del bergensere er Brushytten forbundet med den salgsboden som ligger ved foten av Rundemansveien. Den ble snart et populÃ¦rt turmÃ¥l ikke minst for familier pÃ¥ sÃ¸ndagstur. Under den andre verdenskrig ble hytten brukt av personer som sÃ¸kte dekning i den. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;I 1951 overlot Georg Nilsen av helsemessige grunner Brushytten til datteren Ingrid Margrethe Foss. Hun og ektemannen Fritz drev hytten frem til 1979. Brushytten ble kjÃ¸pt av Skanseguttenes Forening 1. mai 1980, etter initiativ av skansesjef 1969 og 1970, Jan Skulstad. Den har siden da vÃ¦rt drevet av Skansens Bataljon sammen med Skanseguttenes forening. Den gamle brushytten var i en dÃ¥rlig forfatning og en Ã¸nsket Ã¥ bygge en ny. Derfor ble den gamle hytten revet i september 2007. 18. mai 2008 ble en nybygget brushytte innviet. Den nye hytten inneholder oppholdsrom med serveringsdisk, et offentlig toalett og stellerom. Bygget er tegnet av Mette Rakner i arkitektfirmaet Tippetue. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Kilde: Wikipedia/Trimtoppen&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc96e0c81411.jpg> ;
+	<image_credit>		"""Helge Skodvin""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e1acbf44434b.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert pÃ¥ infotavle"""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-07-14 12:56:47""" ;
+	<gowalla_name>		"""Brushytten"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,30 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike169>
+	dct:title				"""Os-Borgafjellet-Møsnuken"""@no ;
+	sf_ont:ingress			"""Oppgangen til Møsnuken fra Osøyro via Borgafjellet er relativt lett og mye brukt."""@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Borgafjellet (353 m.o.h.) er et turmål som er svært mye brukt av folk på Os, og passer for barnefamilier. Turene går stort sett på gode stier og karakteriseres som noe krevende. Ta av fra Osøyro på den gamle riksveien, og fortsett over den gamle broen over Oselva til venstre mot Lund og Borgabygda. Gå opp fra Borgen på stien som fører forbi Gletten og opp til toppvarden på Borgafjellet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien passerer på venstre siden av Idlakleivtjørn og går videre i nordøstlig retning opp Gryteskaret mot Hegglandsfjellet. Derfra går sti ned til Grytestølen. Her ligger Runa, en steinhytte satt opp i 1930-årene, på samme tid som vardene ble bygget. Turen går så innover Stemmedalen i nordlig retning. Det er en bratt stigning opp til Møsnuken. Ta gjerne en avstikker innom Storafjellet (602 m.o.h.) som ligger rett vest for Møsnuken. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Retur samme vei, man kan også ta en av nedgangene mot Heggland, Gåssand eller Ulven.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Ta buss nr. 600 til Os sentrum. Kommer man i bil finnes det et par parkeringsmuligheter i Os sentrum.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 5 timer, avhengig av rastetid og tempo. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste. Den kan bli litt lang for de aller minste, men større barn vil fint kunne klare å gå turen. Turen går på sti, og er derfor uegnet for trillevogn og rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk å ta med nok mat og drikke. &amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Veg- og turkart Os (1:25 000), 1215 IV Samnanger (1:50 000), 1215 III Fusa (1:50 000).&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e0d8f50ec11a.jpg> ;
+	sf_ont:image_credit		"""Marita Aarekol""" ;
+	dct:created				"""2011-07-01 10:07:22""" .

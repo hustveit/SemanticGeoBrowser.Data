@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route102>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/102> ;
+	<name>					"""Orrtua - Ravneberghytten"""@no ;
+	<length_in_time>		"""100""" ;
+	<length_in_km>			"""4.3""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-01 17:50:28""" ;
+	<encoded_path>		"""mkwoJocm_@??^GTe@\CXS]C[CYOc@UOm@Om@Kq@Ku@Qm@Qg@Qk@Qo@Om@Ko@Ug@Mm@Mo@Qk@Mq@Mo@C{@Bu@HaAF}@Rm@ZGNl@Rf@Nr@Dx@Hv@Fw@Gy@Iq@Ku@Gy@Iw@GeAYW[GYTWZWRYXNq@V_@Tc@T_@Va@ZKTZV`@Ph@Vf@Rj@Tj@Eu@Os@Ku@Gu@Gw@Ks@Ua@[DYNWZ[RW\Y`@W\UZ[EYSYOYI]O[QW[Y]Sm@Si@YS[F[P[NYL[?_@C[HYLYR[PYN[PQk@YpAYRYTYTWTYZU`@W\Wb@U`@W^S`@Sd@U`@Ud@Uf@Sh@Sh@W\S`@Sf@Sh@Ud@U^W^WP[RYZUd@WXWb@YRYR[ZUZYf@Y\U`@W`@W\Qj@W`@Qf@Uf@????AOUb@????STwGlA??[S[MYL[D]@[DYOYYBw@No@XUVWDw@Nm@Ok@@u@WY[HYKGu@Nq@Mu@Iw@Lo@Y[Mo@Jq@Qm@Oo@WSOo@ZQV[Re@Ls@Nq@Lm@Nk@V]Fu@XQVWV]XQZCXGX]V_@XSV_@L{@Pi@Ta@V]T_@Va@T]V_@Ra@Pi@No@Te@Rc@Nk@ZCZQXWV]Lq@Nm@Ta@Nm@VSV]V[ZMT[ZMXH\AXTV^XTZHVXTd@Zg@ZLAz@Gr@Kp@Ln@T`@XXXRXSRg@Va@Va@XCZFJz@Ex@Ov@Et@Cx@Gt@Av@It@At@Tb@XTxBtB""" ;

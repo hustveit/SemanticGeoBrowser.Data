@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route200>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/200> ;
+	<name>		"""Gaustad-Gaustadfjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-19 10:07:46""" ;
+	<encoded_path>		"""crupJqcr^JvB{@`@{@jAg@j@mAbC_AnCMzA_@|@Kt@XlBH|B[ZGZgAXoArBiAhCm@t@Qv@mBxCsBvBk@j@_Bj@}@|AgBfBw@lBaBjGu@hDq@hBqAjFkAxDqExIwEtJkCjF}@~CcEnDcEzFA?eB~Bi@fA}@jCJj@r@hAv@|@`@b@r@hAPTLZLXJ`@H^H`@NVNTLXH`@F^H`@Nb@Nj@J\PLPHPJPHPNPLRJRLRBPHPNPLPLPJPHRFHCPLNRNRNRNVLTNTNTNRNTNPNPLXLZNXPLRBTJV?TBR?V?VORUTQRQNUNQNUNYN]H_@Hg@Fe@H_@H_@Fe@Bc@Bc@""" ;

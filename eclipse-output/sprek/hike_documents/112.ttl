@@ -1,0 +1,20 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike112>
+	dct:title				"""Støbotn -Toppenipa"""@no ;
+	sf_ont:ingress			"""Lett trimtur med flott utsikt!"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fra busstoppet i Støbotn går en ca 50 meter sørover langs
+Salhusvegen og tar av til høyre mot Toppe Gartneri. Etter et par hundre meter
+langs Toppevegen tar en veg av knapt mot venstre. Denne går oppover forbi et
+par hus og ender i en vannverkstunnel. Her er det mulig å parkere et par biler.
+I steinmuren til høyre langs vegen er det en liten trapp. Her starter stien.
+Denne går bratt oppover i skogen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;På toppen er det fin utsikt mot Toppe, Mjølkeråen, Hitland og
+utover Herdlafjorden. Det er en varde her.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buss til Støbotn, linje 3 eller 260. Det er også parkeringsmuligheter ved vannverkstunnelen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Det tar omtrent en halvtime å gå opp til varden.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Alle turgåere som er klare for å forsere en bratt stigning. Er ikke egnet for trillevog eller rullestol. På toppen er det et stup, så vær forsiktig, særlig dersom du har med barn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gode sko er en fordel når men skal gå i bratt trerreng. En kikkert til å se utsikten bedre kan også være nyttig å ta med.&lt;br&gt;&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4dca8e101d8f7.jpg> ;
+	sf_ont:image_credit		"""Odd Mehus""" ;
+	dct:created				"""2011-05-11 15:23:27""" .

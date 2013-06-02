@@ -1,0 +1,27 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike201>
+	dct:title				"""Lona, rundtur (Brekkeløypa)"""@no ;
+	sf_ont:ingress			"""Kjekk liten rundtur i Lona, kun 5 minutter fra Knarvik sentrum. Tilpasset for bruk av rullestol og trillevogn."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra idrettsanlegget. Gå til den bakerste, store fotballbanen og ta til venstre på veien du kommer inn på. Følg veien langs våtmarksområdet. Vannet i midten heter Lona. Følg veien helt til stiskille. Her går du til høyre inn på gangveien som krysser en elv. Den fortsetter ned våtmarksområdet på motsatt side. Følg stien helt veien til du kommer frem til Idrettsanlegget igjen. Det er plassert ut benker langs hele ruten og det er mulig å fiske i Lona.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Knarvik i Lindås kommune. Parker ved idrettsanlegget. Man kan også ta buss nr. 320 fra Bergen sentrum til Knarvik.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 30 minutter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. Turen er tilrettelagt for bruk av trillevogn og rullestol. Denne turen passer for alle aktiviteter, man kan sykle, jogge eller spasere.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kvassnesstemma er et våtmarksområde sentralt i Knarvik, kun 5 minutter fra Knarvik Senter. Rundt vannet er det laget en sti som er fremkommelig for rullestolbrukere. Området har et rikt fugleliv, og det skal være mulig å få fisk for de som er tålmodige. Det er satt opp benker rundt vannet.&lt;/p&gt;
+&lt;p&gt;(Kilde: Samnanger kommune).&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e254903e9b94.jpg> ;
+	sf_ont:image_credit		"""Odd E Nerbø""" ;
+	dct:created				"""2011-07-19 10:59:03""" .

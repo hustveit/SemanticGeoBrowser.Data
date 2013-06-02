@@ -1,0 +1,42 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place121>
+	
+	dct:title							"""Hallingskeid Turisthytte"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;
+Hallingskeid Turisthytte ligger ved Bergensbanen, ca. 200 meter fra 
+jernbanestasjonen. Hytten ligger i et åpent høyfjellsterreng egnet for 
+besøk til alle årstider. Mange turmuligheter i området. Rallarvegen går 
+like forbi. Fiskemuligheter. Fin fjellflora. Flotte skiforhold. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Hytten er åpen og ulåst&amp;nbsp;hele året, så det er ikke nødvendig med 
+DNT-nøkkel. Hytten har innlagt vann og strøm, og det er mulig å kjøpe 
+proviant som hermetikk, posemat, pålegg osv på hytten. Kjøkken med 
+komfyr. Deler av sommeren vil det være hyttevakt på hytten som selger 
+ferskt brød. Lakenpose må medbringes. 
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Skal du sykle Rallarvegen og overnatte på 
+Hallingskeid? Det er ikke mulig å booke plass på Hallingskeid i 
+forbindelse med sykling på Rallarvegen. Alle kan overnatte, men
+medlemmer av DNT og Bergen Turlag får rabatt. Er hytten full må du i 
+verste fall overnatte på en madrass på gulvet. Det finnes ekstra 
+ulltepper, så det holder å ta med lakenpose. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Hallingskeid Turisthytte er nyrestaurerte bygninger bestående av 
+Steinboligen (hovedhytten) og Lokalet (annekset) fra Bergensbanens 
+annleggstid rundt forrige århundredeskifte. Hovedhytten (Steinboligen) 
+var ingeniørbolig og sikringshytten (Lokalet) var forsamlingslokalet på 
+Hallingskeid. 
+&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1ac71dc5340.jpg> ;
+	sf_ont:image_credit					"""Odd Mehus""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e1ac81c9b71a.jpg> ;
+	sf_ont:trimtoppen_description		"""Skilt plassert på hytta."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Odd Mehus""" ;
+	dct:created							"""2011-07-11 11:49:17""" ;
+	sf_ont:modified						"""2011-07-11 11:53:32""" ;
+	sf_ont:gowalla_name					"""Hallingskeid Turisthytte, DNT"""@no ;
+	sf_ont:gowalla_description			""" """@no .

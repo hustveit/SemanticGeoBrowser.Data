@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route193>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/193> ;
+	<name>					"""Rundtur via Gladihaug og Krossane"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""6.7""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-14 11:08:47""" ;
+	<encoded_path>		"""e}vpJgdo_@t@CR^Td@Vf@ZTXNZTXNZJZHZNXTZTXNZDXIZ[Va@Pi@Nk@J}@@u@Lw@Lo@Nk@Hw@?u@?w@Fu@Lw@Lu@Jq@Fu@Y?[NKq@Hu@Dw@So@Oq@Wa@WY?w@Nq@Nk@Ro@Pk@Hw@Au@PwAZq@OUYe@XgB`@sB@mAH{@TeA@gAAUb@mAXo@Rw@Z{@zAyDtA{DlAiDViCf@gCCg@YU[?AYPa@F_@o@NsAp@c@EIe@Pw@`@{@b@k@X{@VgANu@m@a@Io@A_CR_@BmAEUYOa@p@_@rBeAvB_ArC{@z@q@bCw@fAq@Zm@X[Im@IgAHeATU[Io@[k@IEaC|CWf@Qz@ObC?j@Ip@oAj@e@pAe@rCY`Bs@xBm@`Cc@dEcB~Cu@fBoAfDoC`F_C`DyBzEyAdE]~C[|DQ|B_@?Y?Sj@OZINm@j@}B~By@lBsBdB[nAsB`D{BpCeCxC{@~AgAOwBjCyCnAY\WvAUnAu@~A{@La@~AcA`Ac@|Aq@dBxAkEjBcDn@?~A}FpAaBzBa@~@i@?`CNbBt@jAz@k@jDcDfFsHjBwA\TKj@SxB[jAUbCD`An@vAfB?dA?dAUb@`Bt@cCJyCHwB?aBdAcBp@u@h@aAn@w@j@kAt@a@t@Uh@aAt@u@p@w@h@aAn@_At@Kp@aAt@Tr@?t@Iz@?N@TFj@U`Aa@""" ;
+	<routes_spots>		"""http://__thing_place_uri__131""" ;

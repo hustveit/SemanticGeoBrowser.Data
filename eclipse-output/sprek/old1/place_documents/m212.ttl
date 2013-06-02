@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place212>
+	a	...Thing... ;
+	<name>		"""Sjusete"""@no ;
+	<ingress>		"""Firmahytta til Fykse salat."""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-10-26 14:12:11""" ;
+	<modified>		"""2011-10-26 14:12:11""" ;
+	<gowalla_name>		"""Sjusete"""@no ;
+	<gowalla_description>		"""Firmahytta til Fykse salat."""@no ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route301>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/301> ;
+	<name>		"""Dale ââ‚¬â€œ Vatnastølen ââ‚¬â€œ Helle"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-17 14:11:11""" ;
+	<encoded_path>		"""""" ;

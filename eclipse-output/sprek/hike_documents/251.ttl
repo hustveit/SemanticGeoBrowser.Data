@@ -1,0 +1,29 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike251>
+	dct:title				"""Bjørkheim-Nordvikasetret"""@no ;
+	sf_ont:ingress			"""Ta med familien på tur til Nordvikasetret."""@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra riksveien i Bjørkheim. Gå ca. 1 kilometer på skiltet vei mot Nordvika. Etter en motbakke flater veien ut og etter ca. 100 meter går man inn på&amp;nbsp;stien mellom to bekker. På motsatt side av veien ligger det en gammel årestove som delvis er&amp;nbsp;restaurert. Stien går først over et jorde før den går bratt oppover i østlig retning. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Stien flater ut når man kommer til myren. Her svinger man østover, og man møter også stien som kommer opp fra Haukanes. Følg stien nordover til Fitjavatnet. Her går man langs den høyre siden av vannet mot Nordvikasetret, som ligger på motsatt enda av Fitjavatnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Ved Nordvikasetret (340 moh.) er det fint å ta en rast før man fortsetter runden rundt Fitjavatnet og kommer tilbake til stien man gikk opp fra Bjørkheim. Gå tilbake samme veien.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Bjørkheim i Samnanger kommune. Man kan parkere ved det nye eller gamle grendahuset. Man kan også ta buss nr. 930 fra Bergen busstasjon til Bjørkheim. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det tar omtrent to timer å gå fra Bjørkheim og opp til Nordvikasetret, beregn litt kortere tid på veien ned. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen går på sti så den er ikke egnet for barnevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. Fjellsko er anbefalt. Vær obs på at det er litt myrlendt i området, så det kan være noe bløtt å gå her etter det har regnet.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Samnanger 1215 IV, Orienteringskartane Fitjavatn Aust og Vest. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/I&gt;&lt;BR&gt;&lt;BR&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e3bd6473ea00.jpg> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-08-05 13:25:01""" .

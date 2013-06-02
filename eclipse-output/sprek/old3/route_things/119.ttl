@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route119>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/119> ;
+	<name>					"""Baugtveit - Baugtveitstemma - Tellevikfjell """@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""1.6""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-23 16:09:18""" ;
+	<encoded_path>		"""}bfpJk`i_@QBQFSAOQSCOGSFOTONQNSJOPORQPQJQPK\QRSKGc@Mi@Ce@QKSISGQKOUOSOOGc@Gc@OYM[K[K]K[ACQFQBSCQEMUSCQ?SBOOQBSAQIS@QIAe@QISGQHSBMTQLQPOROTONMVWJQLWYOMOWSMUIQIS@SAQGYAM[SIMWOQSMOUSEQGS?WLQMMYOMSDQUMUQHQBWGQNS@QBQRONOTKXM\K\Ed@Cd@D`@H^Ed@?d@PLFd@Ad@Fb@Eb@Ed@Ad@Bf@?d@Cd@Cb@Af@G`@Ab@I^Cf@Gb@E`@I^Ed@@b@KZGb@Cd@Bb@@f@H^LXNRL^NLNTNPLTNTLXJXNTNPLVLXJ\Bf@H^@X""" ;

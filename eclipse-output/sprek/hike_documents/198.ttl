@@ -1,0 +1,28 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike198>
+	dct:title				"""Toftøya, rundtur"""@no ;
+	sf_ont:ingress			"""Særdeles nydelig tur for å se sommersolen gå ned i havet! For de som vil se ekte kystlandskap, blir det ikke mye bedre enn dette. """@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;For å komme til turens startpunkt, går man fra ÃËœygarden teknologisenter 300 meter nordover på riksvei 561 langs gang- og sykkelstien. Kryss&amp;nbsp;riksveien, og gå inn en traktorvei som er sperret med en bom. Dette er veien til pumpestasjonen til Stegeviksvatnet. &lt;BR&gt;&lt;BR&gt;Turen er en del av Nordsjøløypa, og er godt merka. Du får først oppleve et gammelt stølsområde med restaurerte skjeneflorar (uthus for dyr). Deretter går løypen til utsiktspunktet Vikåsen, hvor du har flott utsikt over Hjeltefjorden i øst, havet i vest, Sotra i sør og resten av ÃËœygarden med Kollsnes i nord.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;Frå Vikåsen går du gjennom marka til Balsvågen og veien ut til Turøy. Du går langs Turøyvegen, før du går inn i marka og opp på Jurafethaugen ââ‚¬â€œ turens flottaste punkt. Her er utsikten fantastisk alle veier, og du kan ta inn over deg havet, som var arbeidsplassen for de som bodde her før i tiden. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Deretter går du til Vadet. Her er det er fint for barna å bade og fange krabber. Her ligger også det ødelagte bølgekraftverket. Ved Pardalsmyra i starten av turen er det flott å leika og grilla med barn. Til slutt går turen langs lite trafikkert veg gjennom bygdene Toft og Vik og tilbake til utgangspunktet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Fra Bergen er det 35 km til Toftøy. Man kan parkere ved ÃËœygarden teknologisenter. Man kan også ta buss nr. 479 fra Blidøy til Vik på Toftøy.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar mellom 2-3 timer. Selv om selve turen er nokså kort, gjør omgivelsene og friluftsområdet den velegnet som søndagsutflukt, ikke minst for småbarnsfamilier. De spreke kan tilbakelegge turen på halvannen time.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for alle, ta gjerne med barna. Turen går på sti så den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. Det er fint å bade her, så på fine dager kan det være kjekt å ta med badetøy. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Statens Kartverks kart over Fjell 1:50.000.&lt;BR&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e2030f23eb90.jpg> ;
+	sf_ont:image_credit		"""Silje Katrine Robinson""" ;
+	dct:created				"""2011-07-15 14:22:10""" .

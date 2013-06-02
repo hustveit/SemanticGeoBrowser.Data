@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route318>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/318> ;
+	<name>					"""Kjepsostølen"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>			"""6.3""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-31 13:36:17""" ;
+	<encoded_path>		"""_kzoJqwgf@o@Q}C_DeEkCu@aAc@qDe@gAuDoJmB}GmAuCm@}Cm@iCE[e@cDeAgGYiDk@cCSkB_BwAsANqB?kAuBm@cC}@wAgA{Ew@y@sCkCeDyC}CkE[{BiEwLgAqAmBwFgB_BeAuAuAeD[mCJw@k@}HEyBz@{Ft@wADaBNmB}DaLYyCqB{Eu@eE_AmCu@oDNyCoAuKKoCo@mCqBwMOcBCUaAaAI{Fe@yD_@cBoAsIE{D{@u@kAsHeBsIu@mBe@mBDyBN_A??O~@ExBd@lBt@lBdBrIjArHz@t@DzDnArI^bBd@xDHzF`A`ABTNbBpBvMn@lCJnCnAtKOxCt@nD~@lCt@dEpBzEXxC|D`LOlBE`Bu@vA{@zFDxBj@|HKv@ZlCtAdDdAtA""" ;

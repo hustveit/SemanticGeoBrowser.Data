@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike54>
+	a	...Thing... ;
+	dct:title				"""Salhusvegen - Høgstefjellet"""@no ;
+	<ingress>		"""Turen opp Høgstefjellet kan by på en majestetisk utsikt med skikkelig høyfjellsfølelse og bratte stup. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse: &lt;/b&gt;&lt;br&gt;Stien går opp langs kammen på østsiden av Mardalen. Pass på å holde deg på vestsiden, går du får langt mot øst er det vanskelig å komme tilbake til stien igjen. Følg stien videre opp på Vardfjellet (356 moh.). Herfra går turen videre langs kammen mot nordvest. Fremme ved Midtfjellet kan du enten gå opp på toppen eller følge det lille dalføret på østsiden. Det er en bratt stigning opp mot platået før toppen av Høgstefjellet (464 moh.). Her kan det være glatt og vanskelig å gå, så brodder er til god hjelp når det er is. Gå videre et par hundre meter mot nordvest og opp en liten bakke for å komme til toppen. Utsikten er fantastisk og stupene ned mot Baugtveit og Baugtveitstemma gir skikkelig sug i magen. Nå kan du velge om du vil gå samme veien tilbake eller legge turen om Baugtveitstemma og så gå ned til Hitland. Vil du forlenge turen kan du gå videre til Tellevikafjellet (391 moh.) og Nordgardsfjellet (355 moh.) før du går ned Hitlandsbakkane til Hitland.&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;br&gt;Tilkomst:&amp;nbsp;&lt;/b&gt;&lt;br&gt;Ta bussen mot Salhus og gå av ved BIR sin gjenvinningsstasjon på Salhusvegen. Stien går inn ved innkjøringen på nordsiden av stasjonen. Parkering langs vei. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;br&gt;Fra Salhusvegen kan du på vinterstid regne rundt to timer opp til toppen. Tar du med barn må du beregne noe lengre tid.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;Passer for: &lt;/b&gt;&lt;br&gt;Turen er fin for familien med litt større barn. Bortsett fra den siste stigningen slynger stien seg relativt moderat oppover med flatere mellompartier. &lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Om sommeren går det bra med joggesko, men fjellsko kan være til god hjelp i de bratte partiene. På vinterstid vil brodder eller stegjern gi bedre grep over isen. &lt;br&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4df74d261a55e.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-03-22 09:40:34""" ;

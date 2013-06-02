@@ -1,0 +1,40 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route154>
+	a	...Thing... ;
+	<name>		"""Sandviken sykehus-Orrtua"""@no ;
+	<ingress>		"""Kjekk tur til flott utsikt fra Orrtua."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;
+Turen starter opp Munkebotn. Fra Sandviken sykehus fÃ¸lger du asfaltveien
+som svinger seg gradvis oppover. Disse svingene er mye brukt av syklister og av
+ivrige joggere som kjÃ¸rer intervalltreninger opp den jevne stigningen i bakken.
+NÃ¥r man kommer opp til Munkebotnvannet fÃ¸lger man veien til venstre. Denne veien
+fortsetter man nordover til man kommer til vann nummer to; Langevatnet. Ved
+demningen i nordenden av vannet gÃ¥r en jerntrapp over elven og opp i fjellsiden.
+GÃ¥ over denne og fÃ¸lg stien som slynger seg opp mot Orrtua. Stien er lett Ã¥
+fÃ¸lge, men stedvis ganske bratt. VÃ¦r forberedt pÃ¥ litt klatring. Det er lagt opp
+tau og stiger for Ã¥ hjelpe turgÃ¥ere oppover. &lt;br&gt;
+&lt;br&gt;
+Orrtua (350 m.o.h.) er et supert utsiktspunkt, og en fin plass Ã¥ raste. Man kan
+enten gÃ¥ samme veien ned igjen, eller se &lt;a href="http://tur.bt.no/tur/102"&gt;Orrtua â€“ Ravneberghytten&lt;/a&gt;  for en
+alternativ rute ned.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;
+Det gÃ¥r mange busser til Sandviken sykehus, man kan for eksempel ta linje
+4, 9 eller 20. GÃ¥ av pÃ¥ busstoppet ved Sandviken sykehus. Her er det ogsÃ¥ parkeringsplasser
+hvis du kommer i bil. Det gÃ¥r en stikkvei fra parkeringen til Munkebotn.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;br&gt;
+I normalt tempo bruker man omtrent en time pÃ¥ denne turen. &lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Passer for: &lt;/b&gt;&lt;br&gt;
+Denne turen passer for de fleste. Det er noen bratte partier, sÃ¥ turen kan
+fort bli for vanskelig for de aller minste. Turen er i hovedsak uegnet
+for trillevogn og rullestol, men det er mulig Ã¥ fÃ¸lge asfaltveien til
+Munkebotnvannet og Langevatnet.&lt;br&gt;
+&lt;b&gt;&lt;br&gt;
+Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Ikke annet enn gode sko og klÃ¦r du kan rÃ¸re deg i.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dff226ca581c.jpg> ;
+	<image_credit>		"""BjÃ¸rn Erik Larsen""" ;
+	<created>		"""2011-06-20 12:35:24""" ;

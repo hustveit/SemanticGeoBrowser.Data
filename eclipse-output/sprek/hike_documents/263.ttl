@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike263>
+	dct:title				"""Fromritoppen og Storevardhaugane"""@no ;
+	sf_ont:ingress			"""Til gammel samlingsstad på jonsokaftan."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Det er Fromreide Velforening som har rydda og merkt stien som raskt fører opp til Stølhaugen. Her er ein alt komen så mykje opp at ein har eit framifrå utsyn i alle himmelretnignar. Dette er staden der det tidlegare var vanleg å samlast til bålbrenning jonsokaftan. Løypa går vidare på god sti i ett lett kupert terreng fram til Storevardhaugane, 92 m.o.h. Her er det tilrettelagt med benker og besøksbok. Spesielt mot sørvest er det godt utsyn.&lt;br&gt;&lt;br&gt;Stien held fram i nordvestleg retning parallelt med det langstrakte dalføret Leirdalen, som strekkjer seg frå Frommereidpollen til Fauskangerpollen. Snart kjem ein til eit stikryss der løypa går vidare rett fram til Pehøyen. Denne turen dreiar av mot venstre og følgjer stien sørover til riksvegen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start frå Fromritoppen, ved rv. 562, der turgåarar kan parkera bilane sine (på kvardagar) medan dei er på tur. Herifrå går ein ca. 200 m søraustover langs bilvegen og finn ei grind i gjerdet ved Kuhaugen, der stien startar.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;1 time&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lett tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været. Gode tursko anbefales.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Herdla 1116 III&lt;br&gt;&lt;br&gt;Turtips kommer fra boken Opptur Hordaland&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/> ;
+	sf_ont:image_credit		"""""" ;
+	dct:created				"""2011-10-11 09:55:48""" .

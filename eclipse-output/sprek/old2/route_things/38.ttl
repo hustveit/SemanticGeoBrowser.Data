@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route38>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/38> ;
+	<name>		"""Stoltzekleiven-Sandvikspilen-Skredderdalen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.7""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-07 10:10:32""" ;
+	<encoded_path>		"""g|uoJmxo_@A@s@j@A@AFMHUn@ABKLWJCAGDI?MDMLK?YOWMA?MBULOAQ@@?CWSQEgA`@i@`@w@?OAs@BBPGJ@@MGUKEOBA[GSI@@UFU?M@EBk@?AHMDO@]JQLBAM????PF?W@WDo@FG\LBW?IBOFUJMF?CQCA??AJA?CBA@C@AA??Em@?S?C?UV[BEAYEAIc@Bc@?CD[@OCUBKFQ?QFO?@CEHWCUDMAOAIAQAE@[?U@GGSEO?YDa@@IORSDGBIRCFEAKBG@EK?MECEG@Z?AMEMBG?SSMQMSEI[G?@??A???A@Bp@Jh@@B?r@ABCNCFAh@APCL?TB?C@C???@A@CFIFA?AFSDGM[@OKGDWBO?W?OEOGOAK@SGm@_@k@G[HMLOPa@FU@Q?e@@y@FcA@UDk@Ey@Ok@CMGGIOAHIFDI@B??CQ?MCKNgAZe@X]Zc@JOPy@Lu@By@F{@Lq@T_AVwARcA^sAXu@ZoAP_A^kAb@m@v@eA`@]Xo@b@iAJk@Pq@Ry@h@gAd@gAZu@Zs@b@kAb@aA\[f@Mj@@Zm@\w@Zu@Tq@Ne@BCFu@EYCOCI?EDCT^TR^ZPAVLl@BZ?LPLhAG~@E`@CXARB^R`@^d@TPHJFDDD?TCr@BVCZBx@Dl@Ll@@vABp@A~A@P?l@?\Jj@@DBN?NAZ@NBJBLHb@D\@VNn@B\DN@P?T?NDND??A@?BCJ@F@?AHe@JKLYDARE@?LDBB?ZNNLLNFDRJXHFDFDHFL@?JTJL@BN^P^BDXl@JZHJ@RAl@@JDZBP?p@FdA?nAIr@G@OGIGm@GQj@K^Eh@MfAGJYfBMdAEn@Ch@G^Ij@Eh@CN@V@NPENQXP@PCNCJEFCHGHId@ETK^AHGLCHKb@En@ADCb@?DCL?BCNEb@Ed@Ej@CRMXABG`@?D?HFFD???AA????GHe@RYRKJERA?A?E?_@R""" ;

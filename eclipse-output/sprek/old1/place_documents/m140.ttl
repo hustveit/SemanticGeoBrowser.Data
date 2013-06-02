@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place140>
+	a	...Thing... ;
+	<name>		"""Gaustadfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&amp;nbsp;Gaustadfjellet ligger nord pÃ¥ Meland og er 317 meter over havet. &lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e29550d84a1b.jpg> ;
+	<image_credit>		"""Margith Skurtveit""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-19 10:19:57""" ;
+	<modified>		"""2011-07-22 12:46:37""" ;
+	<gowalla_name>		"""Gaustadfjellet (317 moh.)"""@no ;
+	<gowalla_description>		""""""@no ;

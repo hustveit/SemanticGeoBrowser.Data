@@ -1,0 +1,24 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike232>
+	dct:title				"""Nordvik-Lysskarfjellet"""@no ;
+	sf_ont:ingress			"""Kjapp og bratt treningstur til flott utsikt."""@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Nordvik. Følg Nordvikveien nordover og ta av på stien som går opp på høyre side av veien. Følg stien oppover Moldstigen mot toppen.&amp;nbsp;Ruten er lett å følge, man beveger seg hele tiden oppover i nordlig retning. Ved stidelet neden for toppen av Lyseskarfjellet følger man stien helt til venstre opp til toppen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Herfra er det god utsikt og man kan se utover både Fanafjorden og Lysefjorden. Returner via samme traseè. Man kan også fortsette videre mot Fanafjellet og besøke Fanastølen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør over Fanafjellet til Nordvik. Ta av på en vei til høyre når man har kommet over fjellet. Det er ingen avsatte parkeringsplasser, så utvis hensyn når du parkerer. Man kan også ta buss nr. 62 fra Lagunen storsenter (Rådalen) til Nordvik.&amp;nbsp; &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 45 minutter. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de aller fleste. Turen går på sti og er derfor uegnet for bruk av rullestol og trillevogn. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;Kle deg etter været. Gode fjellsko er en fordel. &lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e32aaf692a11.jpg> ;
+	sf_ont:image_credit		"""Marita Aarekol """ ;
+	dct:created				"""2011-07-29 14:43:34""" .

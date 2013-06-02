@@ -1,0 +1,46 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route243>
+	a	...Thing... ;
+	<name>		"""Davanger-Skottnes, rundtur"""@no ;
+	<ingress>		"""Nydelig tur pÃ¥ steinsatt sti i idyllisk terreng."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rundturen starter fra Davanger
+idrettsplass. FÃ¸lg stien som gÃ¥r nordover mot Kvernhusfjellet. Kryss kanalen
+som gÃ¥r imellom Hamyrsvatnet og SkogstjÃ¸rna. FÃ¸lg stien videre i nordlig
+retning. Man fÃ¥r fÃ¸rst FurukamtjÃ¸rna deretter TrÃ¦svatnet opp pÃ¥ hÃ¸yre side.
+Dette omrÃ¥det kan vÃ¦re litt myrlendt. Videre kommer Kremmarvatnet opp pÃ¥
+venstre side og Lindebotn pÃ¥ hÃ¸yre side. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stien fortsetter helt ut pÃ¥ toppen av
+Skottnes. Her er det fint Ã¥ ta en rast og nyte utsikten mot Kjerrgardsosen.
+FÃ¸lg den samme stien tilbake til stidelet like nord for Kremmarvatnet. Her tar
+man stien som gÃ¥r til hÃ¸yre pÃ¥ vestsiden av Kremmarvatnet. FÃ¸lg stien videre
+sÃ¸rover mot Breivik. Stien gÃ¥r mellom Maridalsvatnet
+og Rotevatnet fÃ¸r den strekker seg pÃ¥ vestsiden av BjÃ¸llevÃ¥gstjÃ¸rna og opp mot
+bebyggelsen pÃ¥ Vardefjellet. FÃ¸lg veien ned riksveien og ta til venstre opp mot
+Davanger idrettsplass igjen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Davanger skole/idrettsplass, som
+ligger 2,5 km fra krysset ved riksvei 562. Her kan man parkere. Man kan ogsÃ¥ ta buss nr. 485 fra Ravnanger terminal til Davanger skole. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 2 timer. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;
+Denne turen passer for de aller fleste, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti
+sÃ¥ den er ikke egnet for barnevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Om sommeren gÃ¥r det fint Ã¥ gÃ¥ med
+joggesko. NÃ¥r det er vÃ¥tt og snÃ¸, anbefales det Ã¥ bruke mer vanntette sko. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Bergen 1115 I, Fjell 1115 IV.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;i&gt;Turtipset
+er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og
+Bergen Turlag.&lt;/i&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3a441fa496d.jpg> ;
+	<image_credit>		"""Jan M. LillebÃ¸ """ ;
+	<created>		"""2011-08-03 15:57:10""" ;

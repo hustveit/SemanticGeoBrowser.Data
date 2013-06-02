@@ -1,0 +1,32 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike92>
+	dct:title				"""Skansemyren - Fløyen - Rundemanen"""@no ;
+	sf_ont:ingress			"""Lett tur som passer for hele familien hele året. 
+"""@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;Fra Skansemyren er det flere mulige veier opp til Fløyen. Du kan følge Kamveien, som går opp fra østsiden av Skansemyren idrettsplass eller du kan følge Fløysvingene oppover fra Skansemyren stasjon. Fra Fløyen følger du Blåmansveien til Brushytten på Midtfjellet.&amp;nbsp;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Veien til Rundemanen går rett frem, forbi Brushytten og så går det gradvis oppover. Ved Store Tindevatnet (520 m.o.h.) holder du til høyre og så følger du veien det siste stykket mot Rundemanen. Om vinteren er det mulig å gå på ski ved fra Fløyen til Rundemanen, men det anbefales ikke å renne nedover Rundemansveien fordi her går det bratt ned på den ene siden.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;For å komme seg til Skansemyren kan man enten ta Fløibanen, sykle, gå eller kjøre bil. Det er parkeringsmuligheter i nærheten av idrettsanlegget.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Tur-retur ca 3 timer.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&lt;SPAN style="FONT-WEIGHT: normal" class=Apple-style-span&gt;Fløysvingene ble bygget 1888-1889. Fløypilen som står på toppen ble antakelig i utgangspunktet reist som et nyttig hjelpemiddel for seilskuteskippere.&lt;/SPAN&gt;&lt;SPAN style="FONT-WEIGHT: normal" class=Apple-style-span&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;BR&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Brushytten drives av Skansens Bataljon og er åpen hver søndag hele året. Den ble bygget i 1931 og har lenge vært et populær turmål. I 2008 ble den gamle hytten erstattet av en ny.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;Hele turen er fullt mulig å gjennomføre med barnevogn og med barn, men man må være oppmerksom bratte partier langs veien, og grusvei med store steiner kan skape hindre.&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Turmuligheter&lt;/B&gt;:&lt;/DIV&gt;
+&lt;DIV&gt;Sykkeltur, skitur, gåtur.&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Kart&lt;/B&gt;:&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;1115 I Bergen (1:50 000), O-kart Fløien ( 1:10 000), Tur- og Friluftskart Bergen ( 1: 25 000), 7-fjellsturen turkart (1:25 000)&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;P&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4dd51b9f008a3.jpg> ;
+	sf_ont:image_credit		"""Fred Ivar Klemetsen""" ;
+	dct:created				"""2011-04-27 13:12:04""" .

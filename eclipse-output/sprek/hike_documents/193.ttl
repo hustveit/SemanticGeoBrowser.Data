@@ -1,0 +1,36 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike193>
+	dct:title				"""Rundtur via Gladihaug og Krossane"""@no ;
+	sf_ont:ingress			"""Gladihaug (422 moh.), er "heimefjellet" til beboerne i tettstedet Knarvik i Lindås. Herfra er det fantasitisk utsikt."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er flere valgmuligheter oppover til Gladihaug. Mot nord går man gjennom grind på god sti over innmark. I øverste del av marken, like før steingjerde, dreier en skogsvei av mot venstre, i sørlig retning. Oppe i lien dreier denne veien, som om vinteren brukes til skigåing når det er snø, mot nord. Der den går over i sti, ligger ruiner etter et gammelt murhus. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er merket sti opp mot Gladihaug. Man går i åpent terreng. På Gladihaug har man vid utsikt i alle himmelretninger. Etter en liten pause bør man her velge å gå nordover, der er to stier å velge i. Her holder vi til høyre. Der passerer man snart på en liten høyde i østkanten av Breimyra; det er tørt å gå på eggen. I enden av myren ligger muren etter et helt tun av gamle torvhus. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen går videre til Krossane. Gå enten tilbake langs stien i sørlig retning. Litt nede i dalen treffer du på stikryss Krossfjellet/Gladihaug/Fureberget. Ta opp mot Krossane. Man kan også krysse åsen nord/nordøst for torvhusene. Følg stien videre. Den går litt i sikksakk over åsen ned mot smalt søkk. Her kan det være noe bløtt. Fortsett så opp lien mot Krossane. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Vel oppe på Krossane har du enda bedre utsikt over fjord- og havlandskapet: fra Osterfjorden, via Seimsfjorden til ÃËœygarden og Fedje i nord. Man ser også landskapet mot Gullfjellet og Samnanger. Med snø på er utsynet særdeles lekkert. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ned fra Krossane går stien tydelig tilbake til stiskille hvor man fortsetter i sørøstlig retning mot Hopsdal. Stien går ned og inn gjennom vakker planteskog. Like ved stien ligger ruinene av en vårflor. Her var sauene samlet om natten for å verne lammene mot reven (Knut Langeland, Turar i Lindås 2005). Floren er bare ett av mange gode eksempler på det nydelige steinarbeidet nordhordlendingene var kjent for. Snart er man nede på innmarken igjen ved de velstelte Hopdalsgårdene, og det er viktig å ha god tid til å nyte de siste bakkene ned mot parkeringen. Går sauene på bøen mens vårbekken klukker og eng og skog er i lysegrønn skrud, har man ikke lyst til å dra derfra. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør E39 om Nordhordlandsbroen og ta til høyre gjennom Knarvik, videre til avkjørselen til Leknes. Umiddelbart ved avkjørselen er skilt til Hopsdalen, et lite dalføre med enfelts grusvei med stabbesteiner og et aldeles nydelig kulturlandskap. Etter 3 km er man oppe ved parkeringen. Man kan også ta buss nr.320 fra Bergen sentrum til Knarvik.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar omtrent 2 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Turen går på sti så den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Fjellsko anbefales. Lindåskartet er nyttig å ha med.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gladihaug (422 moh.), er Â«heimefjellÂ» til beboerne i tettstedet Knarvik i Lindås. Det har flere oppganger, er lett tilgjengelig og benyttes hele året, også til skigåing, særlig fra området Hopsdalen, som har en vel 3 km lang lysløype. Det er merket ca. 10 km løyper rundt hele fjellplatået.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;Lindås og Radøy Turkart, Sæbø 1116 II, Herdla 1116 III."""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e1eb21fe1e1f.jpg> ;
+	sf_ont:image_credit		"""Torill Refsdal Aase""" ;
+	dct:created				"""2011-07-14 11:08:47""" .

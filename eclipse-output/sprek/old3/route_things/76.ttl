@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route76>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/76> ;
+	<name>					"""Skredderdalen - Brushytten - Fløyen"""@no ;
+	<length_in_time>		"""140""" ;
+	<length_in_km>			"""4.7""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-04-07 14:55:51""" ;
+	<encoded_path>		"""}}toJump_@KEGEOGOMEYD[R]^c@T[T]n@oAR_@n@yAx@}BX{@b@iAI[OFWNIWLiBLiAN_BT}ANeAVkAXgAd@Yh@RNa@@iAAkAKuAGk@Bq@]eAa@m@o@sAg@aAs@s@Gg@WMU@QVE`@INMIKAEDEDAACGCE?GAIIEAGCQC[AWEWA[@Q@UCMIg@EEAYGKAQ?e@@WIW@e@Cq@?m@?k@?aA?eAAYQOCW@_@GU?c@@e@@WRWDOCMEBIBw@s@S_@SYC[L{@HoACu@[k@c@?]?s@O[W][g@q@s@qAOaBi@_@i@Q_@]}A_AwAGQMOs@D}@t@cDf@uBVsATAPt@Tb@`@j@\HnBSfAP^@j@Uj@@x@{@\S`@Mb@o@Pg@v@eCd@_Al@q@p@c@t@oApA}AbCMl@o@X_@XKf@PLFX{@~AcBfAy@|@kAf@kAf@_AFu@Z{@O`ADv@`@zAJhCCtADZj@Dx@d@v@@p@Dh@\`AHb@RLbBd@vA@fASbAa@h@{@n@u@v@m@TGXTRvAXt@vA\p@JGAWSM?YLGNRTj@j@b@z@j@b@hBJpEJ~BQ~BBxAPz@IzAQjAExAL`BJPXb@X`ALDb@_@h@@t@h@n@LTc@LeBLQJZCx@ApD@rAZf@Fb@QX}@\m@`@a@`@I\BPb@?r@Mn@d@TDf@D^Ax@i@v@H^RNpB""" ;
+	<routes_spots>		"""http://__thing_place_uri__41""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route175>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/175> ;
+	<name>					"""Arna ââ‚¬â€œ Bjørndalssåta ââ‚¬â€œ Vikinghytten"""@no ;
+	<length_in_time>		"""280""" ;
+	<length_in_km>			"""5.4""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-06 09:01:36""" ;
+	<encoded_path>		"""_`xoJsr}_@LKZ}At@eBn@gBrA}CTi@@Mv@_BdAaDbAaDb@{BjAiCtCsEhByGnB}DjAeA~BeE`DiGfC{CrCyBd@u@b@?h@a@CsC@gHu@qKm@aB{AgAkNjEs@qAm@qBq@cCcBqCcAgCcBsAo@UuCqDsCa@oFToDJsBsCoEgA}A]}BuCiBkDkAcBcA{Cg@sDa@uBMaE?eBh@oDtAkDf@aAhBoA|@q@t@mBJ}AVo@}@aECaAWe@m@U@IP]j@c@h@YBYG_@IYM_@U?H]AYMMm@w@[k@cAc@_@}@i@?Ic@l@wADmBrCkCtA{AjEoEvDeDhBiB~A_@|AaArAcCnAsArCyBdDoBfC_BpCmCbCgCnCqCh@{AbBuJ""" ;

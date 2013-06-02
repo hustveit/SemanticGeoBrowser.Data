@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route151>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/151> ;
+	<name>		"""LandÃ¥sfjellet, rundtur"""@no ;
+	<length_in_time>		"""75""" ;
+	<length_in_km>		"""3.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-16 08:21:33""" ;
+	<encoded_path>		"""szioJ{nx_@??Kp@q@gA}@dC{Ai@sA_BkD}CsAgAgDeC_AgAU[w@Ga@W[G_@N_@I}@{@yA?kAeB??m@_AaA}BwAu@mAuAoA}AoCkGaD{DgDmC??qAlAkDqBkDwBoD{A`@eIA}BdCyFrAuCvAj@xAHrBN??p@b@jz@~fAvBdD??""" ;

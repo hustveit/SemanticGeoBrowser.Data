@@ -1,0 +1,49 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route168>
+	a	...Thing... ;
+	<name>		"""Store LungegÃ¥rdsvannet, rundtur"""@no ;
+	<ingress>		"""Kort og kjekk tur i Bergen sentrum. """@no ;
+	<description>		"""&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;
+&lt;p&gt;Det er veldig
+mange startsteder for denne rundturen, men vi anbefaler Ã¥ starte ved NygÃ¥rsparken.
+Det er vel verd Ã¥ gÃ¥ gjennom denne lille sjarmerende parken. Har man med barn
+kan det vÃ¦re kjekt Ã¥ mate endene her. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;NÃ¥r man kommer
+ut av parken gÃ¥r man under gangtunnelen og fÃ¸lger grusveien langs vannet. Her
+er det lett Ã¥ bevege seg ettersom det er god vei og terrenget er flatt hele
+veien. &amp;nbsp;Det er flere benker plassert
+rundt lÃ¸ypen som man kan slappe av og nyte utsikten fra. Selv om man ikke er i
+hÃ¸yden, er det fremdeles en flott utsikt.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;LÃ¸ypen er lett
+Ã¥ fÃ¸lge, nÃ¥r man kommer til MÃ¸llendalsveien, tar man til hÃ¸yre pÃ¥ veien inn mot
+vannet rett fÃ¸r G4S sitt kontor. FÃ¸lg veien videre over en liten bro. NÃ¥r man kommer
+ut pÃ¥ MÃ¸llendalsveien igjen holder man til hÃ¸yre, her mÃ¥ man krysse veien ved
+fotgjengerfeltet. Denne strekningen er den mest utfordrende ved rundturen,
+ettersom det er en litt dÃ¥rlig vei for fotgjengere. Pass ekstra godt
+pÃ¥ Ã¥ holde seg pÃ¥ trygg avstand fra passerende biler. NÃ¥r man kommer opp til
+rundkjÃ¸ringen tar man igjen til hÃ¸yre og fortsetter pÃ¥ veien langs Bybanen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen kan gÃ¥s
+begge veier og har flere utvidningsmuligheter pÃ¥ alle kanter. Siden turen er i sentrum kan den lett kombineres med andre aktiviteter som resturantbesÃ¸k, kino, VilVite eller shopping. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta en buss til Bystasjonen Ã¥ gÃ¥ derfra, det tar 5-10 min. Bybanestoppet: Florida, stopper rett ved Store LungegÃ¥rdsvann. Ã˜nsker man Ã¥ komme i bil, kan man parkere
+i Bygarasjen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar ikke mer enn en halv time Ã¥
+gÃ¥ runden. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer alle, ta gjerne med barna. Turen er godt egnet for
+barnevogner og rullestoler. Denne turen blir benyttet av veldig mange og til
+forskjellige formÃ¥l. Flere benytter gangveien langs vannet frem og tilbake til jobb. Ã˜nsker
+man en treningstur gÃ¥r det fint Ã¥ sykle og jogge runden. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret, men det holder som oftest med joggesko. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e0d6a6ab94e9.jpg> ;
+	<image_credit>		"""BjÃ¸rn Erik Larsen""" ;
+	<created>		"""2011-07-18 11:49:42""" ;

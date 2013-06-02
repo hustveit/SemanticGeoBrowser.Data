@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route156>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/156> ;
+	<name>					"""Alvøenvatnet, rundtur """@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""5.5""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-22 14:19:34""" ;
+	<encoded_path>		"""wcioJgvy^e@z@ChBk@|Fq@jDy@|Aw@n@S`AElE`@nAnA~B|@v@Z`BKlCe@vAaAz@k@fAuAlBaBjC}BtGsChJeBnJObAg@p@S|AR~H{D^sA@SVG~@Fv@^fA\dB`@bBf@t@ZVJ`@?jAInBJtACtB_BPgAa@sA{@uAEwBzBo@ZiEM{BMQp@Ur@[jC}AZmAM_A?}Ac@sAOkBzAO\e@Z{@F_AFqEaDcB{AUoBWuBk@y@]mASo@qAW@i@eA{CiCcFTsBvA?z@?fAe@|@sAX{Ba@}Fa@uDGsDN}@vAoDx@cC~@gA`BOnAB~@GnAq@l@{@z@?p@NhBg@`AUR?R?lA@bAc@dDsDtAERCh@mAb@mCOyC}AgG|@mCZQj@b@z@^z@A|ArAtAZjA?x@oAt@oAb@]~@?bA\p@p@nA[~@k@bBs@|A?|By@jAwAxAx@""" ;

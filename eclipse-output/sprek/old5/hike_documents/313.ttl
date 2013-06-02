@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike313>
+	a	...Thing... ;
+	dct:title				"""Nipedalen ââ‚¬â€œ Kanadaskogen"""@no ;
+	<ingress>		"""Villmark midt i byen."""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Kanadaskogen ligg mellom bydelane Fyllingsdalen, Laksevåg og Loddefjord, og det har ikkje støtt heitt Kanadaskogen. Dette skal ha våre eit påfunn av ein speidarleiar på 1920-talet. Han fortalde om dei store skogane i Kanada til speidartroppen sin, og dei døypte like godt om dette skogområdet til Kanadaskogen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Det er fleire innfallsportar, både frå Spelhaugen på Fyllingsdal-sida i søraust, frå Tennebekk på sørsida av Liavatnet mot vest, og frå Nipedalen innanfor Lyngbø i nord. Det er ei mengd med stiar og traktorvegar og fleire badeplassar. Ved Tennebekktjørna er det to sandstrendar og tilrettelagt med toalett og stupeplattform.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Dette avhenger av ruten du går.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en enkel tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været.&lt;br&gt;&lt;b&gt;&lt;br&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Bergen 1115 I&lt;br&gt;Turkart: Bergen, 7-fjellsturen.&lt;br&gt;&lt;br&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eaa88449213d.jpg> ;
+	<image_credit>		"""BT""" ;
+	<created>		"""2011-10-28 12:44:06""" ;

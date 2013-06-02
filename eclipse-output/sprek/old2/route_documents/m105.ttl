@@ -1,0 +1,25 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route105>
+	a	...Thing... ;
+	<name>		"""Vidden, fra Fløyen til Ulriken"""@no ;
+	<ingress>		"""Over Vidden får man opplevelsen av ekte høyfjell, året rundt. Dette er en av de mest kjente turene på Byfjellene. """@no ;
+	<description>		"""&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Følg Blåmansvei fra Fløyen mot Brushytten. Ved Brushytten tar du opp Rundemansvei til venstre for hytten. Den følger du nesten til Rundemanen, følg sti mot Vidden som går av vestover. Du passerer Hyttelia, Varegghytten, Ingvardslien og Valhaugen før du kommer til øverste del av Jordalsskaret. Her er det fin utsikt mot Jordalsvatnet og Eidsvåg. Du runder sørøstover og passerer ÃËœvre Jordalsvannet. &lt;br&gt;&lt;br&gt;
+&lt;p&gt;Deretter blir det litt stigning oppover. Det er tydelig sti hele veien, og du kan følge vardene og ruten med blikket. Den neste høyden man kommer opp på er Borgaskaret. Fra Borgaskaret går det nokså jevnt bortover. Herfra har man utsikt mot byen og Svartediket mot vest og mot Gullfjellet i øst. Du følger rygger rundt og nærmer deg Ulriken. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Det siste stykket passerer du hytten Bamsehi, toppene Storhaugen (660 moh.) og Vidden (645 moh.), Nornenbakken og Spissesteinen. Når du kommer til hytten Steinbu skal du ta stien i nordvestlig retning mot Ulriken. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Fra Ulriken er det flere muligheter ned. Man kan for eksempel gå ned ved Ãâ€¦rstadbakken, rundt en kilometer før man kommer til masten, gå ned ved Hestekleiven like ved masten eller ta Ulriksbanen.&amp;nbsp; &lt;/p&gt;&lt;br&gt;Turen kan gå motsatt vei, fra Ulriken til Fløyen. Rutebeskrivelsen er da den sammen, men i motsatt rekkefølge. &lt;br&gt;&lt;b&gt;&lt;br&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Ta Fløibanen opp eller gå Fløysvingene eller opp fra Skansen.&lt;br&gt;&lt;br&gt;Går man fra Ulrikken til Fløyen,&amp;nbsp; vil tilkomst da bli via Ulriksbanen eller ved å gå opp Ulriken. &lt;br&gt;&lt;br&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 4-5 timer i vanlig gåtempo. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen passer for mosjonister i alle aldre. Det kan være litt langt å gå for de aller yngste. Om vinteren er det flott å gå på ski her. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vær oppmerksom på at det kan være enkelte våte partier og at det derfor vil være en fordel med solid fottøy. Husk også vindtette klær. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Fløien (1: 10&amp;nbsp;000), O-kart Ulriken (1: 10&amp;nbsp;000), 1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000)&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dc93c9f6b736.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-02 14:15:52""" ;

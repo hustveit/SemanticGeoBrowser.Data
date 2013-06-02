@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route203>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/203> ;
+	<name>					"""Eikeland-Gladihaug"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3.4""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-19 14:42:10""" ;
+	<encoded_path>		"""wmzpJc{h_@`AUnA{ALcCOmAe@k@sAOt@a@z@_@n@d@n@p@f@k@R}AMqAWk@Ie@x@{EzAmC?sBhBgDfEmHbAc@rAcC~B_JrC_Dl@wDzCiIrDsJfEsHhEuGlCqFbCgJvDyH~@sHjAoGVoIf@mBL?`@GZmBt@gA|@k@^e@z@E|AuBhAwAl@sBnBk@v@s@f@LvBU~ATfBgAhBlBnBvAv@?fAp@\d@t@DfAqC^oA""" ;

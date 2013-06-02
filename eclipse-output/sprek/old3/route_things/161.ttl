@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route161>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/161> ;
+	<name>					"""Gullbotn-Gullfjelltoppen -Redningshytten"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""10.5""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-27 14:15:36""" ;
+	<encoded_path>		"""ijuoJmlla@dB`AdBj@fBnDuAj@Q`BZdDo@vBuA`BHbC~AzDDvA{B^kB_@uB?{BmA_AmCgCa@eB_@aDnEuAzDEjA`@bBtAjAnB`AvBHtCJjBt@n@?jCxB`Ca@~@?p@_@dBlB~@j@eB`AeB?e@Te@vB_@lBuAu@d@lCdA`@zBTt@j@~A`C^`AElAp@UXjAu@fG?v@ZvAd@`Bb@zE`AxDn@hHNvB?vAzAfH?nDUpAn@jAp@bBdA^x@`Aj@`@d@`ApCbCt@^~@bBz@vBxAv@jBt@dAc@n@`AdA`ApAvAr@j@jATn@j@p@`@dBtLnAzDjBxCvDbDjBlBfKzPD~Jn@zFd@nCnKvNzAbBpBxDjBdDjEdFh@lC`AnEt@lBnAbCnA`AzB^fC`A~AxBz@lBXlBNvBz@zFnDi@z@h@b@`@`Aa@zAwB~@aAvDk@dEwAfD_@pGkKt@w@fEvAzBlBt@dDh@`B?bCfCdEh@xDTzDn@bDxAnDA?VnAR`CYdCwCjCqBfAAbDl@fAvADlAtC~Mc@lJt@tFJd@JlBe@`@?rCClErFdBbHLhDPpA|@UYdD?`BF`@h@n@~@o@lAEw@dE}@T[z@Y?Yd@KfAKj@MjA_FlIcAvBuApAyBvCkBjAoAvAkCjAu@jBi@dECvFW~@Hp@q@fBs@jA?bC""" ;
+	<routes_spots>		"""http://__thing_place_uri__125""" ;

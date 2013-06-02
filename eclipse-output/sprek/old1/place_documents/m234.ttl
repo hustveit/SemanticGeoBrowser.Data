@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place234>
+	a	...Thing... ;
+	<name>		"""Fjellveien,Skanselien"""@no ;
+	<ingress>		"""Startpunkt i Sandviken."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-11-08 11:36:31""" ;
+	<modified>		"""2011-11-08 11:37:52""" ;
+	<gowalla_name>		"""Fjellveien"""@no ;
+	<gowalla_description>		"""Startpunkt i Sandviken."""@no ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place121>
+	a	...Thing... ;
+	<name>		"""Hallingskeid Turisthytte"""@no ;
+	<altitude>		"""1090""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/6944546> ;
+	<gowalla_lng>		"""7.24915122""" ;
+	<gowalla_lat>		"""60.66864502""" ;

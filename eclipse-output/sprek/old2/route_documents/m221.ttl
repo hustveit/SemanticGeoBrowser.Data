@@ -1,0 +1,28 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route221>
+	a	...Thing... ;
+	<name>		"""Montana-Ulriken, Kammen"""@no ;
+	<ingress>		"""Dette er en av de mest populære traséene opp til Ulriken."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Ulriken (643 moh.) er det høyeste av byens fjell. Den enkleste måten å komme seg hit på er å ta Ulriksbanen, men det er også mulig for hele familien å komme seg opp til fots. Da er Skiveien et greit utgangspunkt. Traséen starter ved Montana vandrehjem.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;Følg Skiveien (Johan Blytts vei) oppover til du ser en benk på venstre side. Her følger du stien som går til venstre rett bak benken. Det er en bro like bortenfor. Stien går et stykke gjennom skogsterreng før den kommer over tregrensen. Herfra går man i et åpent lende, med nydelig utsikt. Stien følger ââ‚¬&#157;kammenââ‚¬&#157; oppover til toppen. Stien er lett å følge, men ganske bratt. Det er godt å ta en pust i bakken med jevne mellomrom.&amp;nbsp; &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Når man har nådd toppen av Ulriken, er det fint å ta seg en liten rast. Man kan ha med egen matpakke eller kjøpe mat på kafeen. På toppen er det nydelig utsikt utover Bergen sentrum. Det kan være litt bratt og vanskelig å returnere den samme trasé. Det anbefales derfor å ta veien ned via Korketrekkeren. Se: &lt;A href="http://tur.bt.no/tur/63"&gt;Montana-Skiveien-Ulriken&lt;/A&gt;. Man kan også gå videre over vidden mot Fløyen, gå opp til Hauggjeldsvarden eller ned til sentrum via en av de mange andre traséene.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det beste er å ta buss nr. 31 fra sentrum til Montana Vandrehjem. Man kan også ta buss til Haukeland Universitetssykehus og følge Johan Blytts vei forbi sykepleierskolen og opp til Montana. Kommer man i bil kan man parkere langs veien eller ved Montana Vandrerhjem.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Beregn ca. 1 time på turen opp.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Denne turen passer for de fleste med normal kondis. Oppstigningen er litt bratt, så turen passer ikke for de aller minste barna. Turen er uegnet for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Ulriken er Bergens høyeste fjell med sine 643 moh. Fjellet gir en fantastisk utsikt over Bergen og er vel verd et besøk. Hvert år arrangeres motbakke løpet Ulriken Opp. Dette er et populært løp med klasser både for konkurranseløpere og mosjonister. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Det er servering i Sky:skraperen, her serveres det god mat og restauranten er et populært selskapslokale. Det kan være vanskelig å få bord, så hvis man ønsker å reservere kan man ringe tlf 55 32 04 04.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;ÃËœnsker du å ta banen ned igjen er dette fult mulig. Ulriksbanen er åpen alle dager fra 09:00-21:00. Bane én vei koster 80 kroner for voksne og 40 kroner for barn. Bane tur-retur koster 145 kroner for voksne og 75 kroner for barn.&lt;/P&gt;
+&lt;P&gt;(Kilde: &lt;A href="http://www.ulriken643.no/Ulriken643"&gt;Ulriken 643&lt;/A&gt;).&lt;BR&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2fb9c6035be.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-26 15:37:56""" ;

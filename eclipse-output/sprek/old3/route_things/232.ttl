@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route232>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/232> ;
+	<name>					"""Nordvik-Lysskarfjellet"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""1.7""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-29 14:43:34""" ;
+	<encoded_path>		"""mwunJcvr_@^oCv@gCNuCx@wBv@e@HwFh@UzBqBxDoHjCcD~BaAdC_@tBsGvCwA`EyCnBiKJ}FdAwBtBk@t@`AVGXW|@sBTMdAi@NOz@DjCmBfAdF""" ;

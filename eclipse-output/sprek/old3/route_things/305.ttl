@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route305>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/305> ;
+	<name>					"""Fitjadalen ââ‚¬â€œ Skrott"""@no ;
+	<length_in_time>		"""420""" ;
+	<length_in_km>			"""4.1""" ;
+	<difficulty>			"""4""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-19 13:18:43""" ;
+	<encoded_path>		"""uwyoJ}qqd@UTQPIg@FcC?USCiA_@u@YkA\{@w@}AvAs@rA[pAi@fA]`@g@bCmAlDu@|Bc@X_A]ILO_@_@Xu@Ui@KeAL}@tFqAtBqAnFkAn@QgCoA{A}@c@}AJc@s@sBsA{CeD}DJmAk@gBQmDEe@yBeAfG{A`XkAxDkDv@eExDqBxCeClMqBpFgIdFwBbCy@bCsFxDiA_@g@a@g@c@uAaDq@{B]k@kAoGFyHj@gDl@_E[eBwAbCs@vAeAdBc@r@c@UwA`AwB`A_B`AiC?_B]""" ;

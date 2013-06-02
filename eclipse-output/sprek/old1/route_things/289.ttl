@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route289>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/289> ;
+	<name>		"""Ã…gotnes â€“ Solsvika"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-12 12:51:12""" ;
+	<encoded_path>		"""""" ;

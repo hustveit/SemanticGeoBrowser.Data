@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place211>
+	a	...Thing... ;
+	<name>		"""Voss Resort"""@no ;
+	<ingress>		""" """@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-10-26 11:45:58""" ;
+	<modified>		"""2011-10-26 11:45:58""" ;
+	<gowalla_name>		"""Voss Resort, Ekspressheis Topp"""@no ;
+	<gowalla_description>		""" """@no ;

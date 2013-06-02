@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route326>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/326> ;
+	<name>		"""Tveit â€“ Hellafjell"""@no ;
+	<length_in_time>		"""210""" ;
+	<length_in_km>		"""3.6""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-01 15:15:05""" ;
+	<encoded_path>		"""{zjoJa{rd@OzAg@f@s@r@IZOhA@v@bA`Aj@d@Tz@t@Ev@`@zFENJl@Bl@UrDI`FKMj@y@v@Gj@@Zj@H|Ae@TTBpAo@dEs@?a@DST?z@r@z@\v@Ej@uAzAg@?o@UyAPsAfBy@|BM|Be@vFWvBI|Am@`Bg@rCKrA{@nEo@jE]dAo@f@OvAe@|IiCUKbC?bHeAhKJvADdAJ`@FlCRpAz@rAfApBXfAPt@Lf@d@d@Rd@TDZfACpAANN[^{Az@Nt@^t@f@h@k@f@d@x@a@d@Pd@Kz@u@|@[pAmBn@O|@[jAq@`@Zp@e@l@Bx@e@lAEj@aB^`@d@BfAgCxAHt@qAd@TVEf@IPn@ZO^I^k@""" ;

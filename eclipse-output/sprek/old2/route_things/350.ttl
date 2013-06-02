@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route350>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/350> ;
+	<name>		"""Jordalen-Ulskebjørnen-Vikinghytten"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>		"""6""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-10 12:36:08""" ;
+	<encoded_path>		"""a~xoJgxv_@T}@Lm@J_@@a@b@mAPo@Ja@@cADqA?u@Bs@DiADgA@gBDc@VkAJSNk@Hi@Aq@I]UIa@BUHAW@k@BeB?eA?yAAo@EM]t@Qd@Qj@[d@KPQTc@t@]d@WXBqADeAB]?IAG[v@e@x@Yh@Ml@O~@Mt@K`@IT]vB]j@_@j@e@gA]cBYaCLgBD{@R{@RiAHk@J_Ce@gAu@u@{A}AaBeBGKDy@CmBK}@B[Cu@Ig@EMCe@A[@q@FUHODYC]B]C[Bi@Lu@L[fAqC|BqFr@qDlBcGlC_FdCmFxAoD~B{AoAgAa@w@K_CJiBKoCe@Eo@^gA?s@cClBeCh@eAvA_Fn@mBxAcCfDmFnBeEtA{Fv@gCz@cDvCsGn@yAxAtKXlBn@bCFb@?f@D\TXTBPC^b@XrAJ~BGrD[zFJT@f@ERAl@Sr@Bj@R\J?^ZXd@?j@Ep@DzALbC\bCAn@RZD~@TfAR\n@x@X?Xg@^BZYNk@r@Cf@Yd@?`@[^KLB?XCTKb@[xCi@fC[bCOXGT[l@YvAUd@WfAOt@Y|@Sn@Cv@ITKx@E\KbAId@m@|A[bCq@f@i@Xy@d@_@lASb@Gh@W^Kf@E\y@f@u@`As@x@QPC`AGF?n@S\AZMP?d@W^S\YjAGd@KPS?Mn@EzB?TAf@YBI`AYf@Wb@g@x@[v@YL_@pAIPYLI\Kn@a@nA_ApBq@dCe@r@Kn@MZQ~@Ol@MzAOzBMtAK^q@n@]L""" ;

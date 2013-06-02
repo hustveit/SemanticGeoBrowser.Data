@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route349>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/349> ;
+	<name>					"""Hordvik ââ‚¬â€œ Veten"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>			"""2.5""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-11-10 11:01:05""" ;
+	<encoded_path>		"""eyjpJ{kk_@ZCJ?NP`@j@@LLd@TVn@\TLJ?PIV]NQBUHCNI\o@Z_@RG`@]t@u@VOZE\CDKL?VQ^Yj@IfAUhA]f@IDCh@k@hAwARIp@OjAId@Yn@a@fAmBjB{ChDyFlCkEl@{@~AiCv@qAbCiC|As@vA[n@OlA{BPc@lAkDlEmF~@_BnCnEvByAlAxA|A?f@?n@QBQGYRaAJy@^g@Hi@FW?c@Cg@OKMGIDWBE?MIMSOIECXe@NIHSPc@RWPg@Dk@@a@FUMoCMyB@y@AQS?SnASZWhAWlAIJ""" ;

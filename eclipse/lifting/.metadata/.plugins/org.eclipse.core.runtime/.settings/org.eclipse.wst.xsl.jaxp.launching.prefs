@@ -1,0 +1,3 @@
+#Sun Dec 11 17:55:03 CET 2011
+PREF_PROCESSOR_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<processorSettings defaultProcessor\="1">\r\n<processor debuggerId\="" id\="1" label\="Saxon-HE 9.3" supports\="" type\="org.eclipse.wst.xsl.saxon.processorType">\r\n<jars>\r\n<jar>C\:/eclipse/saxon/Saxon-HE 9.3/saxon9he.jar</jar>\r\n</jars>\r\n</processor>\r\n</processorSettings>\r\n
+eclipse.preferences.version=1

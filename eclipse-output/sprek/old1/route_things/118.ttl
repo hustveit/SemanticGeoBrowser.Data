@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route118>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/118> ;
+	<name>		"""Falkanger - SÃ¦tre - Tellevikafjellet """@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""1.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-23 16:03:37""" ;
+	<encoded_path>		"""eshpJwek_@PMNQNSPULYN[NYLYPIRGPIPGRIRGRCNMPGPFPFPNLXNRNLJ\H^JZLVPLNPPDRCRBNHPJDh@@b@F`@H\L\LXPLPGNONOROPCHd@?f@G`@K^I^KZGd@?f@J^LXPH?d@Af@Ad@Eb@I`@I`@Ob@OL?n@Gb@O^Oh@Ed@Gb@Cd@Ad@Jt@Cp@Af@@d@Ch@I`@G^K`@K\MZKXK^Bd@JZJ\NXJ\RCNMPUPHRNNPLVJZPETERJPBPDPHRANSPPK^OPOROVK\I`@Eb@Dd@Hb@@d@Cb@H^NPCd@J^Cb@Eb@Cd@Ad@Hb@E`@Af@?d@Ad@I`@Cf@I\Eb@Ib@Gb@Gb@?f@Eb@I^G`@?d@?d@H^J^NTNTNVPPNRJVPRLTLXH\NRPNNTH\JZJZ@b@DR""" ;

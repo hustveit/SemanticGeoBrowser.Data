@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route149>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/149> ;
+	<name>		"""Haukelandsbakken-Ulriken"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.9""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-15 09:34:56""" ;
+	<encoded_path>		"""exnoJypv_@??V{@??b@USGJq@Fu@Mw@Te@BaAEeANs@DgAHy@A{@B}@Ay@@y@Du@Pk@Pe@AqCSe@Sg@Ok@W[U^a@JOk@Iy@Su@[a@Cw@Kq@Se@Mo@[KKq@V_@Lo@Fs@?w@Js@Qo@[J[ZQf@Qh@[PYNYV]F]AYM]R[KEu@XYV]XGLq@Bu@Rm@?{@Tc@I{@]I[B[J[CU_@Pg@V_@Fs@XKVWPo@ZGRc@Is@Ls@XQZGVUV[Pk@XUVYPk@Pk@Bu@[?YQYUUa@[?Om@YUMo@[?W[W]YFYSYOUc@YQU]YQUc@[SOk@Ye@Nk@?y@Ua@YQ[TWVMp@??""" ;

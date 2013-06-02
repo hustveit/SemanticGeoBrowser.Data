@@ -1,0 +1,27 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route118>
+	a	...Thing... ;
+	<name>		"""Falkanger - SÃ¦tre - Tellevikafjellet """@no ;
+	<ingress>		"""Kom deg til toppen av Tellevikafjellet pÃ¥ kun tre kvarter."""@no ;
+	<description>		"""&lt;p&gt;&amp;nbsp;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rutebeskrivelse: &lt;br&gt;
+&lt;/b&gt;
+&lt;/p&gt;&lt;p&gt;Turen starter pÃ¥ parkeringsplassen pÃ¥ Falkanger, fÃ¸lg gÃ¥rdsveien til SÃ¦tregÃ¥rden.
+Fortsett pÃ¥ traktorvegen som gÃ¥r til hÃ¸yre oppover bak bygningen som brukes til
+servering. Snart gÃ¥r vegen over til sti som stiger opp gjennom furuskogen. Veien er stort er stort sett bra, men det kan vÃ¦re noen korte, blÃ¸te
+myrer oppÃ¥ fjellet etter regnvÃ¦r.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;NÃ¥r en kommer opp over skogen er det fin utsikt mot Osterfjorden og Veten. PÃ¥
+toppen er det ogsÃ¥ flott utsikt mot vest over HolsnÃ¸y og utover mot NordsjÃ¸en
+pÃ¥ dager med god sikt. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Hvis du ikke har ankommet i bil som du mÃ¥ tilbake til pÃ¥ Falkanger, anbefalers
+det Ã¥ fortsette stien over Nordgardsfjellet og ned til Salhus.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst: &lt;br&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr 280 til Falkangerskiftet i Hordvik. Herfra er det 2 km Ã¥
+gÃ¥ langs Falkangervegen til turstart. Det anbefales Ã¥ fÃ¸lge skiltene for Den
+TrondhjÃ¦mske Postveien til du kommer til Falkanger. Det er ogsÃ¥ parkeringsplass pÃ¥ Falkanger.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;br&gt;
+&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I vanlig tempo tar det ca. 45 minutter Ã¥ gÃ¥ en vei.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Dette er en lett tur som passer for hele familien, men er ikke egnet for barnevogn. For barna er et stopp pÃ¥ SÃ¦tregÃ¥rden populÃ¦rt, om sÃ¸ndagene er gÃ¥rden Ã¥pen for
+besÃ¸k. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vanlig turutstyr. &lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dda6939be07a.> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-23 16:03:37""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route211>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/211> ;
+	<name>		"""Gjøn-kikedalen-Holmane"""@no ;
+	<length_in_time>		"""360""" ;
+	<length_in_km>		"""13.8""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-21 15:19:15""" ;
+	<encoded_path>		"""mvxnJknwb@i@cA}@g@Ki@?i@a@qAUFWl@QhAG[KoAI_DKY]x@oApBMGe@yBFcAFu@Fo@[a@]HWvAYVO^Ob@Kd@SJSeAIkBKi@[d@q@xAGLH|ALlGHrASlK}B~Ns@lEYhUaBlMsBpHmHtJgFbC{HnAc@Gc@E_IUaGgBoDMyNiAoW_G{KeBmHvA{J]aDx@eClEeGlUyCdJ{B`AuAM{BT}FtJwFTeH|GoEToDxCeDxCiBxCuALcBzBqANk@pCkErBwGd@eFqAsDiCsSrEiInLwHzHkDx@yJr@uEiAqA\wFbCcC|A_EpAgCDeBj@}@UmAc@cAj@s@j@qA|AyDTwDFkFhAmGL_BF}AGgAr@qBx@iDb@m@`AwFhAiHT_D?wFx@{Cj@qD?cFF{FlBsFbCqErB{FaAsC|BqDZsHzE}CNcAx@mH?qGj@wBj@sETyCbC{DtDaAM{@r@_G`AkFe@yATwAvAwH|B[_AHaBNu@eAK_At@uBwCqCkJeCk@wAJo@KqDcC_AbCcH{Fo@vBaDkAmAhBQxDrAwApAz@?dEh@zEW|D@dE\pH""" ;

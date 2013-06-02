@@ -1,0 +1,39 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place121>
+	a	...Thing... ;
+	<name>		"""Hallingskeid Turisthytte"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;
+Hallingskeid Turisthytte ligger ved Bergensbanen, ca. 200 meter fra 
+jernbanestasjonen. Hytten ligger i et Ã¥pent hÃ¸yfjellsterreng egnet for 
+besÃ¸k til alle Ã¥rstider. Mange turmuligheter i omrÃ¥det. Rallarvegen gÃ¥r 
+like forbi. Fiskemuligheter. Fin fjellflora. Flotte skiforhold. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Hytten er Ã¥pen og ulÃ¥st&amp;nbsp;hele Ã¥ret, sÃ¥ det er ikke nÃ¸dvendig med 
+DNT-nÃ¸kkel. Hytten har innlagt vann og strÃ¸m, og det er mulig Ã¥ kjÃ¸pe 
+proviant som hermetikk, posemat, pÃ¥legg osv pÃ¥ hytten. KjÃ¸kken med 
+komfyr. Deler av sommeren vil det vÃ¦re hyttevakt pÃ¥ hytten som selger 
+ferskt brÃ¸d. Lakenpose mÃ¥ medbringes. 
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Skal du sykle Rallarvegen og overnatte pÃ¥ 
+Hallingskeid? Det er ikke mulig Ã¥ booke plass pÃ¥ Hallingskeid i 
+forbindelse med sykling pÃ¥ Rallarvegen. Alle kan overnatte, men
+medlemmer av DNT og Bergen Turlag fÃ¥r rabatt. Er hytten full mÃ¥ du i 
+verste fall overnatte pÃ¥ en madrass pÃ¥ gulvet. Det finnes ekstra 
+ulltepper, sÃ¥ det holder Ã¥ ta med lakenpose. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+Hallingskeid Turisthytte er nyrestaurerte bygninger bestÃ¥ende av 
+Steinboligen (hovedhytten) og Lokalet (annekset) fra Bergensbanens 
+annleggstid rundt forrige Ã¥rhundredeskifte. Hovedhytten (Steinboligen) 
+var ingeniÃ¸rbolig og sikringshytten (Lokalet) var forsamlingslokalet pÃ¥ 
+Hallingskeid. 
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ac71dc5340.jpg> ;
+	<image_credit>		"""Odd Mehus""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e1ac81c9b71a.jpg> ;
+	<trimtoppen_description>		"""Skilt plassert pÃ¥ hytta."""@no ;
+	<trimtoppen_image_credit>		"""Odd Mehus""" ;
+	<created>		"""2011-07-11 11:49:17""" ;
+	<modified>		"""2011-07-11 11:53:32""" ;
+	<gowalla_name>		"""Hallingskeid Turisthytte, DNT"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place198>
+	a	...Thing... ;
+	
+	dct:title				"""Telavåg"""@no ;
+
+	<ingress>		"""Nordsjøfartsmuseet"""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-10-14 10:33:05""" ;
+	<modified>		"""2011-10-14 10:33:05""" ;
+	<gowalla_name>		"""Nordsjøfartmuseet i Telavåg"""@no ;
+	<gowalla_description>		""" """@no ;

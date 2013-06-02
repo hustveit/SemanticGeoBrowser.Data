@@ -1,0 +1,37 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route215>
+	a	...Thing... ;
+	<name>		"""Bildevatnet"""@no ;
+	<ingress>		"""Fin tur langs vei opp til Bildevatnet. Tilpasset for bruk av trillevogn og rullestol."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Sotra kraftverk. Følg den asfalterte veien opp Bildøybakken og sørover mot
+demningen ved Bildevatnet. Denne veien er enkel og gå og lett å følge. Den er tilpasset bruk av trillevog
+og rullestol.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Veien opp til Bildevatnet går langs med Kvernelva. Etter et lite stykke krysser
+veien elven. Veien går videre gjennom Ãâ€¦ndekletten og frem til Bildevatnet. Her
+et det fint å raste før man gå ned igjen til Kleppestø.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Hvis man ønsker å gå en lengre tur kommer til et stiskille hvor man kan
+følge en sti til høyre rundt vannet og tilbake til veien. Man kan også gå videre til Liatårnet, se: &lt;a href="http://tur.bt.no/tur/190"&gt;Blidøybakken-Liatårnet, rundtur&lt;/a&gt;. Disse turene er dessverre ikke tilpasset bruk av trillevogn og rullestol.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For å komme til Kleppestø, følger man&amp;nbsp;skilting til Herdla, ta av t.h. i
+veikryss nord for skoleanlegget. Det er parkering ved fotballbanen (unntatt når
+der spilles kamp). Man kan også ta buss nr 484 eller 485 fra sentrum til
+Kleppestø terminal og ta buss nr. 493 videre til ÃËœvre Kleppetoppen (Askøy).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1,5 timer i sin helhet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. Det er asfaltert vei opp til Bildevatnet så
+turen er tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været.&lt;br&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Kolbeinsvarden (1:10 000), 1115 I Bergen (1:50 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2d25b61c53f.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-25 10:01:29""" ;

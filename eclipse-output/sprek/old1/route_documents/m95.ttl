@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route95>
+	a	...Thing... ;
+	<name>		"""Morvik-Geitanuken"""@no ;
+	<ingress>		"""Fin og barnevennlig trasÃ© like utenfor huset. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Turen som er avmerket i kartet starter ved bussholdeplassen.
+
+NÃ¥r du har gÃ¥tt forbi bebyggelsen begynner stien. Det er en god og fin 
+sti,  med noen bratte partier. Ved mye nedbÃ¸r kan terrenget vÃ¦re noe 
+blÃ¸tt, sÃ¥ det lÃ¸nner seg med godt fottÃ¸y.  
+
+FÃ¸lg oppover Saudalen og til Olderhaugen (212 moh.). Herfra videre opp 
+til Novarinden og hÃ¸ydedraget opp til Geitanuken. 
+
+PÃ¥ toppen av Geitanuken er det flott utsikt fra hav til fjell og over de
+ sentrale deler av Â«det nye Ã…saneÂ».
+&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;br&gt;&lt;/b&gt;Turen gÃ¥r i nÃ¦rmiljÃ¸et til sentrale boligomrÃ¥der i Ã…sane. Man kan parkere langs vei eller ta buss fra Ã…sane terminal og gÃ¥ av ved Saurdalen. Fra Morvikvegen er det skiltet mot Geitanuken.&amp;nbsp;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca 1 time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;TurgÃ¥ere med barn, men det er ikke egnet Ã¥ gÃ¥ med vogn her.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gode sko det kan vÃ¦re blÃ¸te omrÃ¥der etter mye regn.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt; 
+&lt;br&gt;1115 I Bergen (1:50 000),
+Tur- og Friluftskart Bergen (1:25 000).&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dca42616c2ce.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-27 14:06:38""" ;

@@ -1,0 +1,38 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike131>
+	a	...Thing... ;
+	dct:title				"""Hordnesskogen, 6-kilometers runde"""@no ;
+	<ingress>		"""Flott skogsrundtur som passer for joggere, gåere, syklister og trilletur."""@no ;
+	<description>		"""&lt;b&gt;Rutebeskrivelse:
+&lt;/b&gt;&lt;p&gt;Det er tre turer med 4, 6 og 8 kilometers lengde i Hordnesskogen.
+For å gå 6-kilometersruten følger man de &lt;i&gt;blå pilene&lt;/i&gt; hele veien. Turen
+er enkel å følge og ettersom det er grusvei langs hele turen er terrenget
+enkelt å bevege seg i. Det er flest flate partier, men denne runden har også litt lett kuperte bakker.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;
+Turen
+starter fra parkeringsplassen. Man følger veien rett frem opp bakken for å komme til alle turene. Gå rett frem, følg den blå pilen. Ved neste kryss er det tre muligheter, ta den midterste av veiene opp som fører opp en bakke. Følg denne veien videre et lite stykke, og ved
+neste veiskille tar man til høyre (tar man til venstre vil man komme inn på 4
+kilometersløypen). Ved de to neste veiskillene holder man til venstre. Ved
+Skinfloren rasteplass fortsetter man opp bakken mot venstre. Ved de to neste veiskillene
+holder man til høyre. Den siste delen av turen er den samme som begynnelsen, så her
+vil man kjenne seg igjen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kjør til parkeringsplassen ved Hordnesskogen eller ta buss og gå av ved 
+Stend vidaregåande skule. Derfra er det ca. fem minutter å gå til 
+Hordnesskogen.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Turen tar omtrent 50 minutter å gå. Joggere vil bruke rundt 30-40 minutter.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Turen passer for alle typer mosjonister. Runden er veldig allsidig og kan bruker til alt fra trilletur til en god treningsøkt. Grusveien er så bred at det går 
+fint å kjøre med hest og kjerre her. Det er også mulig å komme seg frem 
+med rullestol fordi grusen er hardpakket og det er flott å sykle her. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Hvis man skal gå når det er mørkt, er 4 kilometers turen mest behagelig å gå ettersom denne ruten er belyst. ÃËœnsker man å gå 6 eller 8 kilometers turen må man ha med 
+lommelykt eller hodelykt. I vintermånedene kan det stedvis være mye is i
+løypen. Resten av året holder det å bruke joggesko. Skogen gir delvis ly for regn og vind, men det anbefales uansett å kle seg etter været.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Fakta om turen:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;Hordnesskogen er kalt "Bergens 
+nye mosjonseldorado", mest fordi det er fine, brede og gruslagte stier. 
+Stinettet lar deg velge mellom runder på 4, 6 og 8 kilometer. Alle de 
+ulike stiene er godt merket, og 4-kilometersløypa har lys frem til kl. 23:00
+om kvelden. Det er både flate partier, og lett kupert terreng. &lt;br&gt;&lt;br&gt;Et 
+naturlig mål er Skinfloren, som er privat eid og ligger midt i Hordnesskogen. Her er det satt ut bord og benker. Er man heldig blir det innimellom solgt nystekte vafler her. Turløypene i Hordnesskogen er et 
+attraktivt anlegg for alle som vil drive 
+uorgansiert aktivitet, i tillegg til at idrettslagene i nærområdet bruker skogen aktivt. Selve løypene er det grunneielaget som eier og 
+driver. Om vinteren er den korteste løypen lyssatt og dersom det er nok 
+snø, er det fint å gå på ski her. 
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4df708e928b4e.jpg> ;
+	<image_credit>		"""Helge Sunde """ ;
+	<created>		"""2011-06-10 08:28:47""" ;

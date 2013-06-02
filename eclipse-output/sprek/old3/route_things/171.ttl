@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route171>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/171> ;
+	<name>					"""Gåssandââ‚¬â€œMøsnukenââ‚¬â€œUlven"""@no ;
+	<length_in_time>		"""360""" ;
+	<length_in_km>			"""10.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-01 13:36:19""" ;
+	<encoded_path>		"""etxnJ}vm`@aD_F{AyCm@gA?aAZm@rB_BfAeBLy@f@c@bC@pCZp@?jAZv@l@fAtAnAhChApAjAe@n@_@p@CvAZJ@x@Dl@Ed@JnBtAfAn@^OH?V?Tp@hA\l@@n@qB^qA`@Qj@P`Bl@f@?t@s@f@?b@Fj@k@dAu@nBWd@~DxAw@vAJjA[pKwAxD?tCd@hAfBh@bC?nCjBj@tAw@zAkAb@RVcBRcCIcBHk@^QdDy@f@wBSqEHg@h@aEz@iIrCwA`DvAzFbGhAqBxBUfAeA`AcGj@qBbAmB`A{M?eCr@wADe@Bc@XeFEmFrAaDn@uCzAyJnBoJdCoEVmAMyJaDqWaAeKm@iLLcI^cNt@}GvCrInChHtHpM|@vG?lA@^Xz@F`@B^Nj@?|@L`B`@pFn@`BXZB`ANTl@xCdBtDvDzApD`@bBe@t@~DbAnDfAhKfCjKbB~HxBxIt@xCrAjFV|B|A~D^lBd@p@NfBbCvFnEfMfCdLb@nDnBvGlAfGzArGzBnKZxBh@pBVrCxCxT~@pEDpANt@L?XZFz@ZZ@p@@`ABj@@NdCpAPlAvA`Af@^j@_@bBpBtBdD|@dAw@j@SbBt@lI`CdI@|CrAtFjAbDdBlI~@fD~BnCtAx@b@n@nCvHJr@@vAJrBx@tD?lDrApFzA|FtAdEDt@""" ;

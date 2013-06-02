@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route242>
+	a	...Thing... ;
+	<name>		"""Jordal-Rundemanen-Sandvikspilen"""@no ;
+	<ingress>		"""Fin tur som gir deg bÃ¥de byutsikt og den gode fjellfÃ¸lesen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Jordal. FÃ¸lg veien som gÃ¥r sÃ¸rÃ¸stover langs med elven frem til Jordalskare. Her tar man stien som gÃ¥r til hÃ¸yre og fÃ¸lger den sÃ¸rvestover. Man krysser myren som ligger nordvest for TarlebÃ¸vatnet og gÃ¥r opp forbi Bergensbakken. Herfra gÃ¥r man videre opp veien til Rundemannen. Her er det fint Ã¥ ta en rast fÃ¸r man gÃ¥r videre. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra Rundemannen gÃ¥r veien nordover forbi Rundemannsdiket og videre i en bue rundt tjernene. Ved stidelet nedenfor KvitebjÃ¸rnen velger man stien som gÃ¥r til venstre ned mot Storevatnet (374 moh.). Herfra er det en kort vei bort til Sandvikspilen (380 moh.) og den nydelige utsikten over Bergen sentrum. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Man kan returnere samme vei. Eventuelt kan man gÃ¥ ned til Bergen sentrum via svingene ned til Munkebotn - vannet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Jordal. Ta av fra EidsvÃ¥gsveien (E 39) og kjÃ¸r inn til Jordal. Det er ingen avsatt parkeringsplass her, sÃ¥ ta hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 3 eller 4 til EidsvÃ¥g. Herfra mÃ¥ man gÃ¥ opp til Jordalen fra EidsvÃ¥g snuplass. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt 2 timer Ã¥ gÃ¥ fra Jordalen til Sandvikspilen &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer for de fleste, men er ikke egnet for barnevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Om sommeren gÃ¥r det fint Ã¥ gÃ¥ med joggesko. NÃ¥r det er vÃ¥tt eller snÃ¸, anbefales det Ã¥ bruke fjellsko. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3939a37dce7.jpg> ;
+	<image_credit>		"""Dag Sletten""" ;
+	<created>		"""2011-08-03 14:03:05""" ;

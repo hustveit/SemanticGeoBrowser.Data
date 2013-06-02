@@ -1,0 +1,216 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Demo: Layout with StackContainer</title>
+		<link rel="stylesheet" href="demo.css" media="screen">
+		<link rel="stylesheet" href="style.css" media="screen">
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/dojo/1.6/dijit/themes/claro/claro.css" media="screen">
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+		<script type="text/javascript" charset="UTF-8" src="script.js"></script>
+		<script type="text/javascript" charset="UTF-8" src="script.js"></script>
+		
+		<!-- load dojo and provide config via data attribute -->
+		<script src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js"
+				data-dojo-config="isDebug: true, parseOnLoad: true">
+		</script>
+		<script>
+			dojo.require("dojo.parser");
+			dojo.require("dijit.layout.BorderContainer");
+			dojo.require("dijit.layout.StackContainer");
+			dojo.require("dijit.layout.StackController");
+			dojo.require("dijit.layout.ContentPane");
+			
+			dojo.require("dijit.form.TextBox");
+			dojo.require("dijit.form.Button");
+			dojo.require("dojo.io.script");
+			//dojo.require("dojox.xml.parser");
+			dojo.require("dojo.DeferredList");
+			
+			dojo.ready(function(){
+				
+				//
+				// Execute button
+				//
+				new dijit.form.Button({
+					onClick: function(){
+
+	// #1. Lag query
+	console.debug("#1. START");
+	dojo.when(
+		create_sparql_query_url_1(),
+		function(sparql_query_url_1) {
+			console.debug(sparql_query_url_1);
+			console.debug("#1. END");
+	
+	// #2. Kjøyr query
+	console.debug("#2. START");
+	dojo.when(
+		read_cross_domain_data(
+			"query_sparql_endpoint",
+			sparql_query_url_1
+		),
+		function(reply_2) {
+			console.debug(reply_2);
+			console.debug("#2. END");
+	
+	// #3. For kvar ting i svar
+	console.debug("#3. START");
+	dojo.when(
+		for_each_thing_in_reply_2(
+			reply_2,
+			"download_xml_data"
+		),
+		function(reply_3) {
+			console.debug(reply_3);
+			console.debug("#3. END");
+		}
+	); //END dojo.when() #3.
+		}
+	); //END dojo.when() #2.
+		}
+	); //END dojo.when() #1.
+					
+
+					},
+					label: "Execute"
+				}, "execute_button_id"); //END dijit.form.Button()
+				
+				//
+				// Execute button 2
+				// Lage RDF triplar for kvar hike path.
+				// Bruker data frå XML filene som ligger i cache her.
+				//
+				new dijit.form.Button({
+					onClick: function(){
+	
+	// #1. Lag query
+	console.debug("#1. START");
+	dojo.when(
+		create_sparql_query_url_1(),
+		function(sparql_query_url_1) {
+			console.debug(sparql_query_url_1);
+			console.debug("#1. END");
+	
+	// #2. Kjøyr query
+	console.debug("#2. START");
+	dojo.when(
+		read_cross_domain_data(
+			"query_sparql_endpoint",
+			sparql_query_url_1
+		),
+		function(reply_2) {
+			console.debug(reply_2);
+			console.debug("#2. END");
+	
+	// #3. For kvar ting i svar
+	console.debug("#3. START");
+	dojo.when(
+		for_each_thing_in_reply_2(
+			reply_2,
+			"generate_rdf_triples" //TODOOOOOOOOOOOOOOOOOOOOOOOOOOOO denne er ikkje ferdig!
+		),
+		function(reply_3) {
+			console.debug(reply_3);
+			console.debug("#3. END");
+		}
+	); //END dojo.when() #3.
+		}
+	); //END dojo.when() #2.
+		}
+	); //END dojo.when() #1.
+	
+					},
+					label: "Execute 2"
+				}, "execute_button_id_2"); //END dijit.form.Button()
+				
+				new dijit.form.TextBox({
+					placeHolder: "gpx_url"
+				}, "gpx_url");
+				
+				
+				//
+				// Execute button 3
+				// Testing av generate_RDF_triples.php
+				//
+				new dijit.form.Button({
+					onClick: function(){
+	
+						var google_encoded_polyline = "e}dpJu}o_@OTOZBd@NXLZNJNVJZLVH`@H`@F`@J^LXJ\\LXNTNPLXSCSCSBQ@QIUCQAQGSAQDQDQHQNOPQLOVM\\I`@KXMXOXQLQLMTSNOLORMXQLOJOXMTMVOPOXOPOROTMXMTOTMVQROVMVOVMZMXMTK\\K`@Ib@UHIl@OXOXMb@MXOTORQNMVORQTORMXMXOZMVMZKZMTOPORQLM\\K\\I\\MVMZM\\KZIb@Af@I`@QRQJQNOPK\\Gj@K\\ONOTQPM\\G`@KZGb@M^QLOXMZOROJS@SBUBSFWTSNQJONOXQMQPMTQIOPOROTMVQGSEQAS?QKM[SAIa@Be@Ae@MYSBQ@QJOJS@SLK^O`@QH?e@G_@Gc@Ce@Ka@QMNQ?g@Cc@MYH_@Ek@@c@Ae@Ga@Cc@?e@Ec@Bg@?e@OQOSQKEg@OQQ?KXSDM[KYK]MQK[M[QISFS?QAOUQMQKI_@Ga@KYEg@Cc@OWQMQEQCS?QBQ?QKMVONQDQCQMK]Ea@SFMROVMVOXSKQKMVQFQOAH";
+						var thing_name = "hike101";
+						var hike_duration = "60";
+						var hike_length = "2.5";
+						var hike_same_as = "http://tur.bt.no/tur/101";
+						
+						dojo.xhrPost({ //HTTP POST REQUEST
+							url: "generate_RDF_triples.php",
+							content: {
+								google_encoded_polyline:	google_encoded_polyline,
+								thing_name:					thing_name,
+								hike_duration:				hike_duration,
+								hike_length:				hike_length,
+								hike_same_as:				hike_same_as
+							},
+							handleAs: "text",
+							handle: function(response, ioArgs) { // The callback that fires regardless of request success or failure.
+								return response;
+							}
+						}).then(function(saved_if_true){
+							console.debug(saved_if_true);
+						});
+	
+					},
+					label: "Execute 3"
+				}, "execute_button_id_3"); //END dijit.form.Button()
+				
+			}); //END dojo.ready()
+		</script>
+	</head>
+	<body class="claro">
+		<div id="appLayout" class="demoLayout" data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design: 'sidebar'">
+			<div class="centerPanel" data-dojo-type="dijit.layout.StackContainer" data-dojo-props="region: 'center',id: 'contentStack'">
+				<div data-dojo-type="dijit.layout.ContentPane" data-dojo-props="title: 'Group 1'">
+					<h4>Group 1 Content</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				</div>
+				<div data-dojo-type="dijit.layout.ContentPane" data-dojo-props="title: 'Group Two'">
+					<h4>Group 2 Content</h4>
+				</div>
+				<div data-dojo-type="dijit.layout.ContentPane" data-dojo-props="title: 'Long Tab Label for this One'">
+					<h4>Group 3 Content</h4>
+				</div>
+			</div>
+			<div class="edgePanel" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region: 'top'">Header content (top)</div>
+			<div class="edgePanel" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region: 'bottom'">
+				<div data-dojo-type="dijit.layout.StackController" data-dojo-props="containerId:'contentStack'"></div>
+			</div>
+			<div id="leftCol" class="edgePanel" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region: 'left', splitter: true">
+				Sidebar content (left)
+				<p>
+					<form name="form_search_settings" action="">
+					<button id="execute_button_id"></button>
+					</form>
+				</p>
+				<p>
+					<form name="form_search_settings_2" action="">
+					<label for="gpx_url">gpx_url</label>
+					<input type="text" name="gpx_url" id="gpx_url">
+					<button id="execute_button_id_2"></button>
+					</form>
+				</p>
+				<p>
+					<form name="form_testing" action="">
+					<button id="execute_button_id_3"></button>
+					</form>
+				</p>
+				<p>
+					<form name="input" action="generate_RDF_triples.php" method="post">
+					<input type="checkbox" name="google_encoded_polyline" value="e}dpJu}o_@OTOZBd@NXLZNJNVJZLVH`@H`@F`@J^LXJ\LXNTNPLXSCSCSBQ@QIUCQAQGSAQDQDQHQNOPQLOVM\I`@KXMXOXQLQLMTSNOLORMXQLOJOXMTMVOPOXOPOROTMXMTOTMVQROVMVOVMZMXMTK\K`@Ib@UHIl@OXOXMb@MXOTORQNMVORQTORMXMXOZMVMZKZMTOPORQLM\K\I\MVMZM\KZIb@Af@I`@QRQJQNOPK\Gj@K\ONOTQPM\G`@KZGb@M^QLOXMZOROJS@SBUBSFWTSNQJONOXQMQPMTQIOPOROTMVQGSEQAS?QKM[SAIa@Be@Ae@MYSBQ@QJOJS@SLK^O`@QH?e@G_@Gc@Ce@Ka@QMNQ?g@Cc@MYH_@Ek@@c@Ae@Ga@Cc@?e@Ec@Bg@?e@OQOSQKEg@OQQ?KXSDM[KYK]MQK[M[QISFS?QAOUQMQKI_@Ga@KYEg@Cc@OWQMQEQCS?QBQ?QKMVONQDQCQMK]Ea@SFMROVMVOXSKQKMVQFQOAH"> polyline<br>
+					<input type="checkbox" name="thing_name" value="hike101"> thing_name<br>
+					<button type=submit>Test it!</button>
+					</form>
+				</p>
+			</div>
+		</div>
+	</body>
+</html>

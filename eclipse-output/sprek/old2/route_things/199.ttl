@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route199>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/199> ;
+	<name>		"""Ãâ€¦dland-Bårafjellet/ÃËœyjordsfjellet """@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""2""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-18 13:08:15""" ;
+	<encoded_path>		"""}mxpJ}ii^?cAWiAUw@RyA`AkG??^Zn@FtAb@hAmBlAZzAJpBYvBtBpBrAn@t@|ApB`@~Ab@jEChA{@hFu@?cA}@aDs@sAhEw@`EaAdFaA|GUz@c@zBoA`Aw@T_@]]iAu@qCm@iC_@qAMsBu@aDkAwAL}ALmBJmBZuB|@cCLgA""" ;

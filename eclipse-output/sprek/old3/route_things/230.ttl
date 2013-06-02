@@ -1,0 +1,13 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route230>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/230> ;
+	<name>					"""Nordgardsfjellet-Tellevikfjellet-Høgstefjellet"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>			"""6.9""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-29 09:21:22""" ;
+	<encoded_path>		"""u`fpJwhk_@gFvLeBUcGgGwFTaH`LkCfHe@dEuGjKaD~JiAxBBdE`@j@OrIqAvM^xCtAlBfBvByJdOgDbDOxCjBxNj@bC?vB?bCjBeFpDUpA^xAu@vC`A`DaAx@lBfEcBnAcDeAcC`AgGt@?hAmNZwA~At@JjLEv@fCt@hAdDj@aAtBUi@nObCjBjAi@zCwAtByCnAgF`@sHNcDHkANgFpB{FnBqEdA_@ZuKNyBjEsI`Aa@t@IjDkV~AyDpCyOuBqE?oEeAkAe@{E[gFi@cDk@yDyAmBgErJuBdDkBUq@cBY}IkAqEkC|F_@bE{CdE""" ;
+	<routes_spots>		"""http://__thing_place_uri__58""" ;
+	<routes_spots>		"""http://__thing_place_uri__89""" ;

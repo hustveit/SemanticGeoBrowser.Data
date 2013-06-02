@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route262>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/262> ;
+	<name>					"""Fauskanger ââ‚¬â€œ Bekkenes"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""4.4""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 09:51:16""" ;
+	<encoded_path>		"""_ilpJ{xt]bBZt@?jAy@fAuBbAqC~@wAdBy@lB?vC?RMnDOjAtBb@vA`A|Dv@Tc@fDcAhF_AbCgA|BPxCjAfAtBnAb@\VTTj@E`APx@~@TXtBp@zB?\oA|AIz@^lBBfA?vDc@hCg@vDg@vAuAx@c@z@g@j@{@rBo@tBq@rE_@`Dg@b@cBpCy@~Ai@j@sAnAqBT}@r@m@p@yBxFcBzBoAMcA]m@x@y@bC?|BUvAu@x@u@UgAy@e@_BKiFIkCDmBXuGp@qCLkCp@uGA_Ba@c@qA_BuBsE_@gAg@iAu@qCy@mEkAqF_@yC?{GTmBf@sCx@iCb@gBv@yEb@kCLoAt@qArAwAv@y@rAwAt@gAhAD`AU""" ;

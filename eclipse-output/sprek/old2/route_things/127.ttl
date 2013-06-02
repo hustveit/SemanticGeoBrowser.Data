@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route127>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/127> ;
+	<name>		"""Gullbotn, lysløype """@no ;
+	<length_in_time>		"""20""" ;
+	<length_in_km>		"""3.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-05 17:27:29""" ;
+	<encoded_path>		"""}juoJ_mla@|FjDzBnBsBj@]`AR`GuAjC{@|CtBpDThBmELaCW}Bw@kAuBuC{@gB]gDvEcA`DM`Af@lBhAxAdEdArBXxACnB`@pBlA??fDZjCQ`A~AlCn@tBqA|HqBhBcAlB_A??XSrAkBNsBn@{B`CeC??b@oAu@{A}@wA]mAoB}@Q@iC`BcDb@g@iAgAqDm@}D]gBo@cCcDGEAkBjBo@V""" ;

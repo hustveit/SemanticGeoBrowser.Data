@@ -1,0 +1,23 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike250>
+	dct:title				"""Lone-Skåldalsnipa"""@no ;
+	sf_ont:ingress			"""Flott tur der man kommer høyt til fjells på ganske kort tid. """@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Lone. Følg bilveien sørøstover, da får du Stølevika opp på høyre side. Like etter man har passert Stølavatnet, går det en vei ned til høyre. Her skal man gå til venstre inn opp mot Nesheia. Gå rundt baksiden av Nesheia og kryss Bjørndalselvi. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Følg veien sørover før du tar inn på en sti som går opp til venstre mot Storhammaren. Stien man lett å følge og går i jevn stigning oppover til Skådalsnipa (603 moh.). Fra toppen er det flott utsikt! &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Lone som ligger i nærheten av Espeland i Indre Arna. &amp;nbsp;Det er ingen avsatte parkeringsplasser så ta hensyn når du parkerer. Man kan også ta buss nr. 90 fra Nesttun terminal til Lone. For å komme til Nesttun fra Bergens sentrum må man benytte Bybanen.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det tar omrent en time å gå fra Lone og opp til toppen av Skådalsnipa. Beregn litt kortere tid på veien ned. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen går på sti så den er ikke egnet for barnevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. Fjellsko er anbefalt. &lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e3bc6be49152.jpg> ;
+	sf_ont:image_credit		"""Eirik Brekke""" ;
+	dct:created				"""2011-08-05 12:13:00""" .

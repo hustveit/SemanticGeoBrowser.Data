@@ -1,0 +1,26 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike339>
+	dct:title				"""Nordnesdalen-Gravdalsfjellet"""@no ;
+	sf_ont:ingress			"""Nordnesdalen-Viggohytten-Gravdalsfjellet"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kort tur til Gravdalsfjellet via Viggohytten som starter fra Nordnesdalen i Fyllingsdalen. Viggohytten
+er et populært turmål og har lett servering hver søndag.&lt;/p&gt;
+&lt;p&gt;Man følger vegen fra Nordnesdalen mot Nipetjørna. Du møter på et stikryss skiltet med
+Gravdalsfjellet/Viggohytten.&lt;/p&gt;&lt;p&gt;Her er det ordnet til med trapper og noe å holde seg i. 
+&lt;/p&gt;
+&lt;p&gt;Turen fortsetter mot toppen på Gravdalsfjellet, 351 moh.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Nordnesdalen i ÃËœvre Fyllingsdalen.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dette er en lett tur som passer for de fleste.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter
+været, og husk gode sko.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4eb7d978ad896.jpg> ;
+	sf_ont:image_credit		"""Anders Waage Nilsen""" ;
+	dct:created				"""2011-11-04 15:43:55""" .

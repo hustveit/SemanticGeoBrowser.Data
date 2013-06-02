@@ -1,0 +1,16 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place71>
+	a	...Thing... ;
+	<name>		"""Damsgårdsfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Damsgårdsfjellet (344 &lt;span class="mw-redirect"&gt;moh&lt;/span&gt;.) er det andre fjellet man går over når man går syv fjellsturen i Bergen. Fjellet ligger vest for sentrum og rett nord for &lt;span class="mw-redirect"&gt;Olsokfjellet&lt;/span&gt; (353 moh.)&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e0331ac45773.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e032f4255b70.jpg> ;
+	<trimtoppen_description>		"""Skiltet står noen meter nord for varden på Olsokfjellet.
+"""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-05-02 19:11:06""" ;
+	<modified>		"""2011-06-23 14:29:32""" ;
+	<gowalla_name>		"""Damsgårdsfjellet"""@no ;
+	<gowalla_description>		""""""@no ;

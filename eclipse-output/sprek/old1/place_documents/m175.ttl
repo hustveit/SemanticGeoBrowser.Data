@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place175>
+	a	...Thing... ;
+	<name>		"""TysnessÃ¥ta"""@no ;
+	<ingress>		"""Alle vegar fÃ¸rer til Rom"""@no ;
+	<description>		"""&lt;P&gt;TysnessÃ¥to ligg nord pÃ¥ Tysnes og det gÃ¥r stier opp fra alle bygdene rundt SÃ¥to, som ho vert kalla lokalt.&lt;BR&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e89c54e20440.jpg> ;
+	<image_credit>		"""Lena Vermedal""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-08-26 14:13:48""" ;
+	<modified>		"""2011-10-03 16:25:17""" ;
+	<gowalla_name>		"""TysnessÃ¥ta """@no ;
+	<gowalla_description>		"""752 moh"""@no ;

@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route105>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/105> ;
+	<name>					"""Vidden, fra Fløyen til Ulriken"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>			"""11.2""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-02 14:15:52""" ;
+	<encoded_path>		"""ooroJcws_@??aJoLiUwV}KcNEy@EoAKw@Qk@aj@qWw@iJcC~Fi@UYSc@s@yDkAmBiHsDmAgBmHmDeDByS{DmERmJ??_BSuBkHwCeFa@eJmAwIcDsHw@_^fAuIrAyI|BcHdCkH`DwDdHuMnC}E|Di@|CqEbBkIbCgG`CyGxC}EtC_G??|@}@rJaX|BgG??`CiGzG_KlSyAtInGlDhBfDvDxFrB~DlApD|@fJzCrDrArDz@zD{@xD?rFmAzDb@nDsBvOqI??zDNjLbArDPtLzGbCtGhBpH??dCjG}A|U_CbGg@hL_CrGoAfI{@nJ~FtW{@~IuB`IaCbG_BxHuBtGYvC_@p@??""" ;
+	<routes_spots>		"""http://__thing_place_uri__30""" ;

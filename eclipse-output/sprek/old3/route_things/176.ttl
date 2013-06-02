@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route176>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/176> ;
+	<name>					"""Lono ââ‚¬â€œ Borgadalen ââ‚¬â€œ Vikinghytten"""@no ;
+	<length_in_time>		"""270""" ;
+	<length_in_km>			"""6.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-06 10:42:33""" ;
+	<encoded_path>		"""w}noJexh`@a@pG~CvDoAbH_FdD}BtDcBhEu@pCyAhA{BzAcBPgAfAs@fHk@fByChCwA`B{ApF{AlB{BlB{EfAcDdAgBbBiA`AiAxDiA~D}ArByHdG{B`BoECyDwAgAfGkB\_@p@u@j@yAnDyBj@aBfB}AqAuAnDyAr@w@vAkAoA}@GM?OfAMNM??k@?Mk@ZyBjCsDrEsFbFeCnAqCLwBx@wChAcEpCc@r@Gj@C~A?zBBx@ZnABN??DHM`@c@Je@UHx@^tAm@jCu@pBo@jDk@zEsArGgBpL]~Au@zAsAjAgNjNeBnAsAnCOt@_CLwBcAwBUmBGmAw@mCEmBt@u@j@mBbByBvB}@lAcAlBmB|D_BxCgA|@iApBk@vAiBdGaAnBkBlCq@dBc@jCuBtG{CxGoAfDcAnC_@~@""" ;

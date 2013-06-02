@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place30>
+	a	...Thing... ;
+	
+	dct:title				"""Fløyen, Fløyvarden"""@no ;
+
+	<ingress>		"""Fløyen er et flott utgangspunkt for turer i byfjellene."""@no ;
+	<description>		"""&lt;p&gt;Fløyen eller Fløyfjellet (320 m.o.h.) er kjent for sin glimrende utsikt over Bergen sentrum, og er et tradisjonelt utgangspunkt for spaserturer om sommereren og skiturer om vinteren. Navnet Fløyen skyldes vindpilen som ble montert på Fløystangen, første gang omtalt i 1560. Christian den 4. red til Fløyfjellet i 1599, og Fredrik den 4. red over Kalfaret, Fløyfjellet og tilbake til byen gjennom Munkebotten i 1704. Men folk flest dro ikke på turer dit opp før mot slutten av 1800-tallet da det ble oppdaget at mosjon var helsefremmende. Ved anlegg av Fjellveien og Fløysvingene i 1891 ble det forholdsvis lett adkomst opp til Fløyen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;I 1918 åpnet Fløibanen, en elektrisk drevet kabelbane fra Vetrlidsallmenningen i sentrum til Fløyen. Skinnelengden er 850 m, sporvidden 1 meter. Stigningsforholdet på de ulike deler av banen varierer mellom 15 og 26 grader. Ved utskiftning av vognene i 1954 ble passasjerkapasiteten 75 pr vogn, totalt 800 passasjerer i timen. Vognene som brukes i dag har plass til 100 passasjerer. Kjøreturen tar vanligvis 5-6 minutter, og vognene holder vanligvis en fart på ca. 14. km/t, men på dager med stor utfart kan hastigheten økes til ca. 20 km/t. Det nye vognsettet, som ble tatt i bruk 15. november 2002, er fjerde generasjon fløibanevogner. Selv om Fløibanen er gammel av år, holder den koken og er mer populær blant bergensere og turister enn noensinne. I turistsesongen 1995 var Fløibanen det mest besøkte reisemål på hele Vestlandet, med 380.889 besøkende. Ved Fløibanens øvre stasjon ligger Fløirestauranten, åpnet i 1925. Den ble tegnet av arkitekt Einar Oscar Schou som også tegnet møbler og armatur. Lysskjæret fra restauranten om kvelden gir inntrykk av et eventyrslott. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fløystangen er en vindfløy 300 m.o.h. som opprinnelig ble reist ca. 500 m nord for øvre stasjon for å gi signal om vindretningen til gamle dagers skip som skulle legge ut fra Vågen. Den er nevnt i Absalon Pederssøn Beyers dagboknedtegnelser ca. 1560. Den har vært revet og gjenreist opp gjennom årene, brent ned og blåst ned, revet av tyskerne i 1940 men gjenreist i 1947. Den blåste ned under en storm i 1958, og samme høst ble den erstattet med en jernstang med vindpil av stål og med kulelager, som fortsatt fungerer. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc9689fef196.jpg> ;
+	<image_credit>		"""Jan M. Lillebø""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e0453ff27f7b.jpg> ;
+	<trimtoppen_description>		"""Følg merking fra Fløysletten. Skilt plassert på tre like ved varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-07-28 12:28:23""" ;
+	<gowalla_name>		"""Fløyen"""@no ;
+	<gowalla_description>		""" """@no ;

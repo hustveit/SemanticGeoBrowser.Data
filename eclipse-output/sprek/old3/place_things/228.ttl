@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place228>
+	a						...Thing... ;
+	<name>					"""Fana Stadion"""@no ;
+	<altitude>				"""NULL""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/602176> ;
+	<gowalla_lng>			"""5.3180973167""" ;
+	<gowalla_lat>			"""60.2905138833""" ;

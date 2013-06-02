@@ -1,0 +1,23 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place95>
+	
+	dct:title							"""Landåsfjellet"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;Landåsfjellet (428 moh.)
+ligger sør for Ulriken. Her kryr det av stier,&amp;nbsp;
+inkludert en lysløype. ÃËœst for toppen er det fin utsikt over
+Bergensdalen, nord ligger Nubbevannet og Baunehytten. Lysløypen går fra
+Montana, Johan Blyttsvei/Skiveien til Natlandsfjellet. Følger man eggen langs Landåsfjellet vil du kunne se en fantastisk utsikt. Det er utsikt mot Nordåsvannet, Landås, sentrum, Løvstakken, Arna, Gullfjellet
+og Ulriken. Det høyeste punktet på Landåsfjellet (428 moh.) er kalt Nobbane.&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1ad8ab4fca3.jpg> ;
+	sf_ont:image_credit					"""Christina Laastad""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e0db4dfe1932.jpg> ;
+	sf_ont:trimtoppen_description		"""Skiltet er plassert ved varden."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Bjarte Eikanger""" ;
+	dct:created							"""2011-06-16 13:36:59""" ;
+	sf_ont:modified						"""2011-07-11 13:04:11""" ;
+	sf_ont:gowalla_name					"""Landåsfjellet"""@no ;
+	sf_ont:gowalla_description			""" """@no .

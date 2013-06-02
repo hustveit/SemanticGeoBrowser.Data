@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route310>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/310> ;
+	<name>		"""Nøttveitveten"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-26 15:52:26""" ;
+	<encoded_path>		"""w|cqJip|][{B?eBLqA~@_AT_Bb@]l@[JcCZGpA?tA]dBaAz@y@jA_Bb@eBb@gA^yCp@Uf@k@PcCP]p@sB?U|@eHxAk@v@FnBdBH?x@r@jBb@b@M|AiAZk@t@_BbAsBPqFIyC?aDT{Bv@uDPsC?wAT}Aj@oAl@eEZqATqCFiAVaAr@c@?[pATf@aAjBe@v@yC|@qCGwAU}AQmB?e@\}AZmAf@?p@eB?aAt@wAf@_BLy@?gBUqCXUb@Mb@]f@[^qAz@q@j@j@h@L|@y@j@mB""" ;

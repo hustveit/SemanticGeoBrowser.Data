@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route276>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/276> ;
+	<name>		"""Liafjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 10:58:40""" ;
+	<encoded_path>		"""clhnJ{uf`@?|ARjA?|AWvAm@JcAa@i@{@i@Ei@Z_@fA[|C?fAJfAFdAPfA@lB?`Al@fAd@z@\p@F`A?tA?v@I^WbBQZGvBJz@NbBHvA?fBF|A?t@a@Ey@?w@?i@De@D[?O?i@cBc@{A]w@W_@EKoAqAWUc@Oi@?k@Ei@Is@Bo@?{@Yw@w@]{@Qq@s@?_@k@o@[Sk@O_@""" ;

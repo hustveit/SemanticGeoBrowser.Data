@@ -1,0 +1,41 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike216>
+	a	...Thing... ;
+	dct:title				"""Kvitursvika, rundtur om Flesland"""@no ;
+	<ingress>		"""Enkel og fin rundtur helt ytterst på Grimstad/Flesland."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter på Kvitursvika, helt ytterst på Grimstad i Ytrebydga bydel. Ta
+av på stien mot venstre rett etter det siste huset på venstre side. Følg stien
+som strekker seg sørover mot Flesland. Stien går på nedsiden av Flesland
+flyplass med havet på høyre side. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hold til høyre på ved stiskille og følg veien langs med havet. Her er
+terrenget myrlendt, så vær obs på at det kan være bløtt. Turen følger stien
+frem til Botnanestet og enden av Fleslandsveien. Stien går så videre mot nord
+rundt Holarstølsdalen og tilbake til stidelet. Her følger man samme stien
+tilbake til Kvitursvika.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Kvitursvika som ligger helt ytterst på Grimstad i
+Ytrebydga bydel. Det er ingen avsatte parkeringsplasser her, så vis hensyn
+dersom du kommer i bil. Man kan også komme ved buss. Ta buss nr. 50E fra Bergen sentrum til Dollviken terminal. Herfra
+tar man buss nr. 52 videre til Grimstadneset. Bussturen tar rundt 1 time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rundturen tar rundt 1 time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for de aller fleste, ta gjerne med barna. Stien er ikke tilpasset
+for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter været. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2d319976156.jpg> ;
+	<image_credit>		"""Meyer Foto """ ;
+	<created>		"""2011-07-25 11:04:25""" ;

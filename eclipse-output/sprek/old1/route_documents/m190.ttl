@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route190>
+	a	...Thing... ;
+	<name>		"""BildÃ¸ybakkenâ€“LiatÃ¥rnet, rundtur"""@no ;
+	<ingress>		"""Dette er hÃ¸yfjellsturen pÃ¥ Sotra. LiatÃ¥rnet rager 341 meter over havet, og utsikten er upÃ¥klagelig."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Fra Sotra kraftverk i BildÃ¸ybakken gÃ¥r en asfaltert vei opp sÃ¸rover mot demningen ved Bildevatnet. Halvveis oppe tar man av sÃ¸rover pÃ¥ merket sti. Den fÃ¸lger hÃ¸ydedragene pÃ¥ Ã¸stsiden av det oppdemmede Bildevatnet. Hvis man Ã¸nsker Ã¥ gÃ¥ en kortere tur, kommer til et stiskille hvor man kan fÃ¸lge en sti til hÃ¸yre rundt vannet og tilbake til veien. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;For Ã¥ gÃ¥ videre mot LiatÃ¥rnet mÃ¥ man derimot fortsette rett frem lags hovedstien. FÃ¸lg denne sÃ¸rover til man treffer pÃ¥ veien opp til Telenors mast pÃ¥ Pyttane. Oppe ved masten tar stien igjen av sÃ¸rover. Den gÃ¥r nedom tÃ¥rnvatnet, for sÃ¥ Ã¥ stige bratt opp mot LiatÃ¥rnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Samme vei kan fÃ¸lges tilbake, men der er ogsÃ¥ sti ned pÃ¥ vestsiden av LiatÃ¥rnet. NB: Grunneierne ber turfolk om ikke Ã¥ benytte denne traseen under jakten om hÃ¸sten. GÃ¥r man ned mot vest siden av LiatÃ¥rnet gÃ¥r man ned til BÃ¥lesteinen. Videre fÃ¸lger man BjÃ¸rkedalen pÃ¥ vestsiden av eleven. man gÃ¥r sÃ¥ frem til Skitnafenet. Stien fÃ¸rer deg helt opp til sÃ¸rsiden av Bildevatnet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Videre fortsetter turen pÃ¥ stien langs vestbredden av Bildevatnet, over Vardafjellet (220 moh.) og pÃ¥ vei ned til utgangspunktet i BildÃ¸ybakken. Man kan eventuelt ta til hÃ¸yre ved stidelet pÃ¥ sÃ¸rsiden av Bildevatnet og fÃ¸lge veien man kom inn tilbake mot&amp;nbsp; BildÃ¸ybakken.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;For Ã¥ komme til KleppestÃ¸, fÃ¸lger man&amp;nbsp;skilting til Herdla, ta av t.h. i veikryss nord for skoleanlegget. Det er parkering ved fotballbanen (unntatt nÃ¥r der spilles kamp). Man kan ogsÃ¥ ta buss nr 484 eller 485 fra sentrum til KleppestÃ¸ terminal og ta buss nr. 493 videre til Ã˜vre Kleppetoppen (AskÃ¸y).&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 4 timer.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste som liker Ã¥ gÃ¥ i fjellet, men den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Gode tursko anbefales. &lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;O-kart Kolbeinsvarden (1:10 000), 1115 I Bergen (1:50 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1d5c9fd36d6.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-13 10:50:01""" ;

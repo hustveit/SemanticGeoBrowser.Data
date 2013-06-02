@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place191>
+	a	...Thing... ;
+	<name>		"""Nykkjesøy snuplass"""@no ;
+	<altitude>		"""541""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/7807385> ;
+	<gowalla_lng>		"""6.784377186""" ;
+	<gowalla_lat>		"""60.350160607""" ;

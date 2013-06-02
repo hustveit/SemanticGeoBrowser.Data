@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route173>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/173> ;
+	<name>		"""Totland ââ‚¬â€œ Rambjørvatnet ââ‚¬â€œ Bontveit"""@no ;
+	<length_in_time>		"""210""" ;
+	<length_in_km>		"""7.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-01 15:38:16""" ;
+	<encoded_path>		"""m`coJqse`@oA{AgAo@kBy@Y_@UmAEk@Am@Rg@GkC@uAEuABe@A_@Ei@IgACk@A]Bc@Gc@GGa@q@FiAD_@MeBLwAJgCQsA?cAXk@Fu@?cAOaB@e@R{@Fi@Q{@Iy@G_@CmBQaBu@kAiCiCE]a@eAo@Sw@Qa@OYHq@R@XEx@Qr@i@xAm@PsAm@gBmCkAoA}@QuBq@y@mAsDaGgAyAs@?Yk@WRq@m@o@D}@eAaA?MQ_@Cc@iAu@}@UO}@kAyA_Bq@w@a@@YYQa@YEUKw@K{@[aAaBy@}AgBUy@_EcM}LaCaAwFcD}@sCzBEdAcCXaAu@aAkAu@aIqGaBa@kB_Eu@Z}@Kq@UuDcCs@k@kCNwEo@sCj@eDj@eBcBqEOcD{@yB_DyAsIgAeD}Ao@_Fw@_BUyBmBgA}BsAwGQyCS{PA{ESo@a@kFh@sCdAsMBsJf@yCjCcI|FwMzFmM`CmCbCgAjBj@~A`BRf@fAXpAv@jBvB|BfAbAZ`BBj@IfCcBrCeA|At@VxCe@xBqAE?t@gBbHt@jA""" ;

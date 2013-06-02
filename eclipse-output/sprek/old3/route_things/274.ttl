@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route274>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/274> ;
+	<name>					"""Hamre ââ‚¬â€œ Klokkarvik"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""6.4""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 10:53:38""" ;
+	<encoded_path>		"""_hnnJu_`^k@oDvBoDX}HJqF~@iJXiHdAgIZmBUyBoAIK{Eu@qFy@oDk@u@eATo@a@k@kA_@Ko@lA_@HaA?eAlAc@j@a@mBoBj@UmBeBK_@wAeAu@wByBeDwBkAoD{AmAkBi@uAmAt@yC`BoD~@{FTwAjDcBtBIdAmBvBcCnAeFtAeDd@mB?cCIkBE{DOgG?oD^wAYwBUyDaAyCc@yCEcCTyC{@oCHwBu@yCwAn@uA?{AqGo@UkAIUoCCmCx@mA`@qAp@gBr@eDFcCe@{Aw@k@aAyBKaA}@wBSmB_@{@]{@QcCk@k@g@eDQwAu@aA]?MOAwA[wAUqAi@Z{@n@sAe@k@u@Ya@qAlBqBrC}@~BcAfCmA_@u@NgAhCaBhDaAj@aA{@]a@c@?_BvAo@Fq@o@uAaAq@UeAk@Cw@VaBAmAo@mCs@?_@OmBe@s@_Cg@oD_@mCAoD`@{ET}C`@_DOmBTsC^cCOmBYgBOgBGaA@oCSUGwACmBP}B@gAY{Ac@cCKa@ODc@kADwA""" ;

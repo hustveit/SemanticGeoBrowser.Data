@@ -1,0 +1,91 @@
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix rdf:		<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:		<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dbpedia:	<http://dbpedia.org/ontology/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#Hike>
+	a						owl:Individual ;
+	a						geo:SpatialThing ;
+	
+	a						rdfs:Class ;
+	
+	rdfs:label				"""Hike"""@en ;
+	
+	sf_ont:characterizedBy	[
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		owl:Individual ;
+		] ;
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		geo:SpatialThing ;
+		] ;
+		
+		sf_ont:rdfTriple [
+			sf_ont:predicate	sf_ont:Path ;
+		] ;
+		
+	] .
+	
+<http://data.sognefjord.vestforsk.no/resource/ontology#Hospital>
+	a						owl:Individual ;
+	a						geo:SpatialThing ;
+	
+	a						rdfs:Class ;
+	
+	rdfs:label				"""Hospital"""@en ;
+	
+	sf_ont:characterizedBy	[
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		owl:Thing ;
+		] ;
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		dbpedia:Building ;
+		] ;
+		
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		dbpedia:Hospital ;
+		] ;
+		
+	] .
+	
+<http://data.sognefjord.vestforsk.no/resource/ontology#Museum>
+	a						owl:Individual ;
+	a						geo:SpatialThing ;
+	
+	a						rdfs:Class ;
+	
+	rdfs:label				"""Museum"""@en ;
+	
+	sf_ont:characterizedBy	[
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		owl:Thing ;
+		] ;
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		geo:SpatialThing ;
+		] ;
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		dbpedia:Building ;
+		] ;
+		
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		dbpedia:Museum ;
+		] ;
+		
+	] .

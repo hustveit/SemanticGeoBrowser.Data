@@ -1,0 +1,984 @@
+@prefix rdfs:		<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix sf_hike:	<http://data.sognefjord.vestforsk.no/resource/hike/> .
+@prefix sf_ml_ont: <http://data.sognefjord.vestforsk.no/resource/ml-ontology#> .
+@prefix muo:		<http://purl.oclc.org/NET/muo/muo#> .
+@prefix ucum:		<http://purl.oclc.org/NET/muo/ucum/> .
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia-owl: <http://dbpedia.org/ontology/> .
+@prefix xsd:		<http://www.w3.org/2001/XMLSchema#> .
+
+sf_ont:Length
+	a				rdfs:Class ;
+	rdfs:label		"""Length"""@en .
+
+sf_ont:Kilometer
+	a					rdfs:Class ;
+	a					muo:SimpleDerivedUnit ;
+	muo:derivesFrom		ucum:meter ;
+	muo:modifierPrefix	ucum:kilo;
+	rdfs:label			"""Kilometer"""@en .
+
+sf_ont:degree_of_difficulty
+	a				owl:DatatypeProperty ;
+	rdfs:domain		sf_ont:O36_917 ;
+	rdfs:range [
+		a			owl:DataRange ;
+		owl:oneOf	("Easy"@en "Average"@en "Hard"@en "Very hard"@en) ;
+	] ;
+	rdfs:label		"""Degree of difficulty"""@en .
+	
+sf_ont:surrounding
+	a				owl:DatatypeProperty ;
+	rdfs:domain		dbpedia-owl:Place ;
+	rdfs:range [
+		a			owl:DataRange ;
+		owl:oneOf	("Woodland"@en "Mountain peak"@en "Lake shore"@en) ;
+	] ;
+	rdfs:label		"""Surrounding"""@en .
+
+sf_ont:recommended_equipment
+	a				owl:DatatypeProperty ;
+	rdfs:domain		sf_ont:O36_917 ;
+	rdfs:range [
+		a					owl:DataRange ;
+		owl:someValuesFrom	("Training shoes"@en "Hiking boots"@en "Climbing equipment"@en) ;
+	] ;
+	rdfs:label		"""Recommended equipment"""@en .
+	
+sf_ont:Stroller_friendly
+	a				rdfs:Class ;
+	rdfs:label		"""Stroller friendly"""@en .
+	
+sf_ont:referedBy
+	a				owl:DatatypeProperty ;
+	rdfs:domain		sf_ont:O36_917 ;
+	rdfs:range		xsd:string ;
+	rdfs:label		"""Refered by"""@en .
+
+sf_ont:Path
+	a				rdfs:Class ;
+	rdfs:label		"""Path"""@en .
+
+sf_ont:Google_encoded_path
+	a				rdfs:Class ;
+	rdfs:label		"""Google encoded path"""@en .
+
+sf_ont:Difference_in_altitude
+	a				rdfs:Class ;
+	rdfs:label		"""Difference in altitude"""@en .
+
+sf_ont:Indexcard
+	a				rdfs:Class ;
+	rdfs:label		"""Index card"""@en .
+
+sf_ont:Last_updated
+	a				rdfs:Class ;
+	rdfs:label		"""Last updated"""@en .
+
+sf_ont:GoalOf
+	a				owl:ObjectProperty ;
+	rdfs:domain		sf_ont:O36_917 ;
+	rdfs:range		dbpedia-owl:Place ;
+	rdfs:label		"""Goal"""@en .
+
+sf_ont:StartOf
+	a				owl:ObjectProperty ;
+	rdfs:domain		sf_ont:O36_917 ;
+	rdfs:range		dbpedia-owl:Place ;
+	rdfs:label		"""Start"""@en .
+
+sf_ont:EndOf
+	a				owl:ObjectProperty ;
+	rdfs:domain		sf_ont:O36_917 ;
+	rdfs:range		dbpedia-owl:Place ;
+	rdfs:label		"""End"""@en .
+
+sf_ont:hike37
+	a				sf_ml_ont:Name .
+sf_ont:hike38
+	a				sf_ml_ont:Name .
+sf_ont:hike51
+	a				sf_ml_ont:Name .
+sf_ont:hike52
+	a				sf_ml_ont:Name .
+sf_ont:hike53
+	a				sf_ml_ont:Name .
+sf_ont:hike54
+	a				sf_ml_ont:Name .
+sf_ont:hike55
+	a				sf_ml_ont:Name .
+sf_ont:hike56
+	a				sf_ml_ont:Name .
+sf_ont:hike57
+	a				sf_ml_ont:Name .
+sf_ont:hike59
+	a				sf_ml_ont:Name .
+sf_ont:hike60
+	a				sf_ml_ont:Name .
+sf_ont:hike62
+	a				sf_ml_ont:Name .
+sf_ont:hike63
+	a				sf_ml_ont:Name .
+sf_ont:hike64
+	a				sf_ml_ont:Name .
+sf_ont:hike65
+	a				sf_ml_ont:Name .
+sf_ont:hike66
+	a				sf_ml_ont:Name .
+sf_ont:hike67
+	a				sf_ml_ont:Name .
+sf_ont:hike68
+	a				sf_ml_ont:Name .
+sf_ont:hike69
+	a				sf_ml_ont:Name .
+sf_ont:hike70
+	a				sf_ml_ont:Name .
+sf_ont:hike71
+	a				sf_ml_ont:Name .
+sf_ont:hike72
+	a				sf_ml_ont:Name .
+sf_ont:hike73
+	a				sf_ml_ont:Name .
+sf_ont:hike74
+	a				sf_ml_ont:Name .
+sf_ont:hike75
+	a				sf_ml_ont:Name .
+sf_ont:hike76
+	a				sf_ml_ont:Name .
+sf_ont:hike77
+	a				sf_ml_ont:Name .
+sf_ont:hike78
+	a				sf_ml_ont:Name .
+sf_ont:hike79
+	a				sf_ml_ont:Name .
+sf_ont:hike80
+	a				sf_ml_ont:Name .
+sf_ont:hike81
+	a				sf_ml_ont:Name .
+sf_ont:hike82
+	a				sf_ml_ont:Name .
+sf_ont:hike83
+	a				sf_ml_ont:Name .
+sf_ont:hike84
+	a				sf_ml_ont:Name .
+sf_ont:hike85
+	a				sf_ml_ont:Name .
+sf_ont:hike86
+	a				sf_ml_ont:Name .
+sf_ont:hike87
+	a				sf_ml_ont:Name .
+sf_ont:hike89
+	a				sf_ml_ont:Name .
+sf_ont:hike90
+	a				sf_ml_ont:Name .
+sf_ont:hike91
+	a				sf_ml_ont:Name .
+sf_ont:hike92
+	a				sf_ml_ont:Name .
+sf_ont:hike93
+	a				sf_ml_ont:Name .
+sf_ont:hike95
+	a				sf_ml_ont:Name .
+sf_ont:hike96
+	a				sf_ml_ont:Name .
+sf_ont:hike98
+	a				sf_ml_ont:Name .
+sf_ont:hike101
+	a				sf_ml_ont:Name .
+sf_ont:hike102
+	a				sf_ml_ont:Name .
+sf_ont:hike104
+	a				sf_ml_ont:Name .
+sf_ont:hike105
+	a				sf_ml_ont:Name .
+sf_ont:hike109
+	a				sf_ml_ont:Name .
+sf_ont:hike110
+	a				sf_ml_ont:Name .
+sf_ont:hike111
+	a				sf_ml_ont:Name .
+sf_ont:hike112
+	a				sf_ml_ont:Name .
+sf_ont:hike113
+	a				sf_ml_ont:Name .
+sf_ont:hike114
+	a				sf_ml_ont:Name .
+sf_ont:hike115
+	a				sf_ml_ont:Name .
+sf_ont:hike116
+	a				sf_ml_ont:Name .
+sf_ont:hike117
+	a				sf_ml_ont:Name .
+sf_ont:hike118
+	a				sf_ml_ont:Name .
+sf_ont:hike119
+	a				sf_ml_ont:Name .
+sf_ont:hike120
+	a				sf_ml_ont:Name .
+sf_ont:hike121
+	a				sf_ml_ont:Name .
+sf_ont:hike122
+	a				sf_ml_ont:Name .
+sf_ont:hike123
+	a				sf_ml_ont:Name .
+sf_ont:hike124
+	a				sf_ml_ont:Name .
+sf_ont:hike125
+	a				sf_ml_ont:Name .
+sf_ont:hike126
+	a				sf_ml_ont:Name .
+sf_ont:hike127
+	a				sf_ml_ont:Name .
+sf_ont:hike128
+	a				sf_ml_ont:Name .
+sf_ont:hike129
+	a				sf_ml_ont:Name .
+sf_ont:hike130
+	a				sf_ml_ont:Name .
+sf_ont:hike131
+	a				sf_ml_ont:Name .
+sf_ont:hike149
+	a				sf_ml_ont:Name .
+sf_ont:hike150
+	a				sf_ml_ont:Name .
+sf_ont:hike151
+	a				sf_ml_ont:Name .
+sf_ont:hike152
+	a				sf_ml_ont:Name .
+sf_ont:hike153
+	a				sf_ml_ont:Name .
+sf_ont:hike154
+	a				sf_ml_ont:Name .
+sf_ont:hike155
+	a				sf_ml_ont:Name .
+sf_ont:hike156
+	a				sf_ml_ont:Name .
+sf_ont:hike157
+	a				sf_ml_ont:Name .
+sf_ont:hike158
+	a				sf_ml_ont:Name .
+sf_ont:hike159
+	a				sf_ml_ont:Name .
+sf_ont:hike160
+	a				sf_ml_ont:Name .
+sf_ont:hike161
+	a				sf_ml_ont:Name .
+sf_ont:hike162
+	a				sf_ml_ont:Name .
+sf_ont:hike163
+	a				sf_ml_ont:Name .
+sf_ont:hike164
+	a				sf_ml_ont:Name .
+sf_ont:hike165
+	a				sf_ml_ont:Name .
+sf_ont:hike167
+	a				sf_ml_ont:Name .
+sf_ont:hike168
+	a				sf_ml_ont:Name .
+sf_ont:hike169
+	a				sf_ml_ont:Name .
+sf_ont:hike170
+	a				sf_ml_ont:Name .
+sf_ont:hike171
+	a				sf_ml_ont:Name .
+sf_ont:hike172
+	a				sf_ml_ont:Name .
+sf_ont:hike173
+	a				sf_ml_ont:Name .
+sf_ont:hike174
+	a				sf_ml_ont:Name .
+sf_ont:hike175
+	a				sf_ml_ont:Name .
+sf_ont:hike176
+	a				sf_ml_ont:Name .
+sf_ont:hike177
+	a				sf_ml_ont:Name .
+sf_ont:hike178
+	a				sf_ml_ont:Name .
+sf_ont:hike179
+	a				sf_ml_ont:Name .
+sf_ont:hike180
+	a				sf_ml_ont:Name .
+sf_ont:hike181
+	a				sf_ml_ont:Name .
+sf_ont:hike182
+	a				sf_ml_ont:Name .
+sf_ont:hike183
+	a				sf_ml_ont:Name .
+sf_ont:hike184
+	a				sf_ml_ont:Name .
+sf_ont:hike185
+	a				sf_ml_ont:Name .
+sf_ont:hike186
+	a				sf_ml_ont:Name .
+sf_ont:hike187
+	a				sf_ml_ont:Name .
+sf_ont:hike188
+	a				sf_ml_ont:Name .
+sf_ont:hike189
+	a				sf_ml_ont:Name .
+sf_ont:hike190
+	a				sf_ml_ont:Name .
+sf_ont:hike191
+	a				sf_ml_ont:Name .
+sf_ont:hike192
+	a				sf_ml_ont:Name .
+sf_ont:hike193
+	a				sf_ml_ont:Name .
+sf_ont:hike194
+	a				sf_ml_ont:Name .
+sf_ont:hike195
+	a				sf_ml_ont:Name .
+sf_ont:hike196
+	a				sf_ml_ont:Name .
+sf_ont:hike197
+	a				sf_ml_ont:Name .
+sf_ont:hike198
+	a				sf_ml_ont:Name .
+sf_ont:hike199
+	a				sf_ml_ont:Name .
+sf_ont:hike200
+	a				sf_ml_ont:Name .
+sf_ont:hike201
+	a				sf_ml_ont:Name .
+sf_ont:hike202
+	a				sf_ml_ont:Name .
+sf_ont:hike203
+	a				sf_ml_ont:Name .
+sf_ont:hike204
+	a				sf_ml_ont:Name .
+sf_ont:hike205
+	a				sf_ml_ont:Name .
+sf_ont:hike206
+	a				sf_ml_ont:Name .
+sf_ont:hike207
+	a				sf_ml_ont:Name .
+sf_ont:hike208
+	a				sf_ml_ont:Name .
+sf_ont:hike209
+	a				sf_ml_ont:Name .
+sf_ont:hike210
+	a				sf_ml_ont:Name .
+sf_ont:hike211
+	a				sf_ml_ont:Name .
+sf_ont:hike212
+	a				sf_ml_ont:Name .
+sf_ont:hike213
+	a				sf_ml_ont:Name .
+sf_ont:hike214
+	a				sf_ml_ont:Name .
+sf_ont:hike215
+	a				sf_ml_ont:Name .
+sf_ont:hike216
+	a				sf_ml_ont:Name .
+sf_ont:hike217
+	a				sf_ml_ont:Name .
+sf_ont:hike218
+	a				sf_ml_ont:Name .
+sf_ont:hike219
+	a				sf_ml_ont:Name .
+sf_ont:hike220
+	a				sf_ml_ont:Name .
+sf_ont:hike221
+	a				sf_ml_ont:Name .
+sf_ont:hike222
+	a				sf_ml_ont:Name .
+sf_ont:hike223
+	a				sf_ml_ont:Name .
+sf_ont:hike224
+	a				sf_ml_ont:Name .
+sf_ont:hike225
+	a				sf_ml_ont:Name .
+sf_ont:hike226
+	a				sf_ml_ont:Name .
+sf_ont:hike227
+	a				sf_ml_ont:Name .
+sf_ont:hike228
+	a				sf_ml_ont:Name .
+sf_ont:hike229
+	a				sf_ml_ont:Name .
+sf_ont:hike230
+	a				sf_ml_ont:Name .
+sf_ont:hike231
+	a				sf_ml_ont:Name .
+sf_ont:hike232
+	a				sf_ml_ont:Name .
+sf_ont:hike233
+	a				sf_ml_ont:Name .
+sf_ont:hike234
+	a				sf_ml_ont:Name .
+sf_ont:hike235
+	a				sf_ml_ont:Name .
+sf_ont:hike236
+	a				sf_ml_ont:Name .
+sf_ont:hike237
+	a				sf_ml_ont:Name .
+sf_ont:hike238
+	a				sf_ml_ont:Name .
+sf_ont:hike239
+	a				sf_ml_ont:Name .
+sf_ont:hike240
+	a				sf_ml_ont:Name .
+sf_ont:hike241
+	a				sf_ml_ont:Name .
+sf_ont:hike242
+	a				sf_ml_ont:Name .
+sf_ont:hike243
+	a				sf_ml_ont:Name .
+sf_ont:hike244
+	a				sf_ml_ont:Name .
+sf_ont:hike245
+	a				sf_ml_ont:Name .
+sf_ont:hike250
+	a				sf_ml_ont:Name .
+sf_ont:hike251
+	a				sf_ml_ont:Name .
+sf_ont:hike252
+	a				sf_ml_ont:Name .
+sf_ont:hike253
+	a				sf_ml_ont:Name .
+sf_ont:hike254
+	a				sf_ml_ont:Name .
+sf_ont:hike255
+	a				sf_ml_ont:Name .
+sf_ont:hike256
+	a				sf_ml_ont:Name .
+sf_ont:hike257
+	a				sf_ml_ont:Name .
+sf_ont:hike258
+	a				sf_ml_ont:Name .
+sf_ont:hike260
+	a				sf_ml_ont:Name .
+sf_ont:hike261
+	a				sf_ml_ont:Name .
+sf_ont:hike262
+	a				sf_ml_ont:Name .
+sf_ont:hike263
+	a				sf_ml_ont:Name .
+sf_ont:hike264
+	a				sf_ml_ont:Name .
+sf_ont:hike265
+	a				sf_ml_ont:Name .
+sf_ont:hike266
+	a				sf_ml_ont:Name .
+sf_ont:hike267
+	a				sf_ml_ont:Name .
+sf_ont:hike268
+	a				sf_ml_ont:Name .
+sf_ont:hike269
+	a				sf_ml_ont:Name .
+sf_ont:hike270
+	a				sf_ml_ont:Name .
+sf_ont:hike271
+	a				sf_ml_ont:Name .
+sf_ont:hike272
+	a				sf_ml_ont:Name .
+sf_ont:hike273
+	a				sf_ml_ont:Name .
+sf_ont:hike274
+	a				sf_ml_ont:Name .
+sf_ont:hike275
+	a				sf_ml_ont:Name .
+sf_ont:hike276
+	a				sf_ml_ont:Name .
+sf_ont:hike277
+	a				sf_ml_ont:Name .
+sf_ont:hike278
+	a				sf_ml_ont:Name .
+sf_ont:hike279
+	a				sf_ml_ont:Name .
+sf_ont:hike280
+	a				sf_ml_ont:Name .
+sf_ont:hike281
+	a				sf_ml_ont:Name .
+sf_ont:hike282
+	a				sf_ml_ont:Name .
+sf_ont:hike283
+	a				sf_ml_ont:Name .
+sf_ont:hike284
+	a				sf_ml_ont:Name .
+sf_ont:hike285
+	a				sf_ml_ont:Name .
+sf_ont:hike288
+	a				sf_ml_ont:Name .
+sf_ont:hike289
+	a				sf_ml_ont:Name .
+sf_ont:hike290
+	a				sf_ml_ont:Name .
+sf_ont:hike291
+	a				sf_ml_ont:Name .
+sf_ont:hike292
+	a				sf_ml_ont:Name .
+sf_ont:hike293
+	a				sf_ml_ont:Name .
+sf_ont:hike294
+	a				sf_ml_ont:Name .
+sf_ont:hike295
+	a				sf_ml_ont:Name .
+sf_ont:hike296
+	a				sf_ml_ont:Name .
+sf_ont:hike297
+	a				sf_ml_ont:Name .
+sf_ont:hike298
+	a				sf_ml_ont:Name .
+sf_ont:hike299
+	a				sf_ml_ont:Name .
+sf_ont:hike300
+	a				sf_ml_ont:Name .
+sf_ont:hike301
+	a				sf_ml_ont:Name .
+sf_ont:hike302
+	a				sf_ml_ont:Name .
+sf_ont:hike303
+	a				sf_ml_ont:Name .
+sf_ont:hike304
+	a				sf_ml_ont:Name .
+sf_ont:hike305
+	a				sf_ml_ont:Name .
+sf_ont:hike306
+	a				sf_ml_ont:Name .
+sf_ont:hike307
+	a				sf_ml_ont:Name .
+sf_ont:hike308
+	a				sf_ml_ont:Name .
+sf_ont:hike309
+	a				sf_ml_ont:Name .
+sf_ont:hike310
+	a				sf_ml_ont:Name .
+sf_ont:hike311
+	a				sf_ml_ont:Name .
+sf_ont:hike312
+	a				sf_ml_ont:Name .
+sf_ont:hike313
+	a				sf_ml_ont:Name .
+sf_ont:hike314
+	a				sf_ml_ont:Name .
+sf_ont:hike316
+	a				sf_ml_ont:Name .
+sf_ont:hike317
+	a				sf_ml_ont:Name .
+sf_ont:hike318
+	a				sf_ml_ont:Name .
+sf_ont:hike319
+	a				sf_ml_ont:Name .
+sf_ont:hike320
+	a				sf_ml_ont:Name .
+sf_ont:hike321
+	a				sf_ml_ont:Name .
+sf_ont:hike322
+	a				sf_ml_ont:Name .
+sf_ont:hike323
+	a				sf_ml_ont:Name .
+sf_ont:hike324
+	a				sf_ml_ont:Name .
+sf_ont:hike325
+	a				sf_ml_ont:Name .
+sf_ont:hike326
+	a				sf_ml_ont:Name .
+sf_ont:hike327
+	a				sf_ml_ont:Name .
+sf_ont:hike328
+	a				sf_ml_ont:Name .
+sf_ont:hike329
+	a				sf_ml_ont:Name .
+sf_ont:hike330
+	a				sf_ml_ont:Name .
+sf_ont:hike331
+	a				sf_ml_ont:Name .
+sf_ont:hike332
+	a				sf_ml_ont:Name .
+sf_ont:hike333
+	a				sf_ml_ont:Name .
+sf_ont:hike334
+	a				sf_ml_ont:Name .
+sf_ont:hike335
+	a				sf_ml_ont:Name .
+sf_ont:hike336
+	a				sf_ml_ont:Name .
+sf_ont:hike337
+	a				sf_ml_ont:Name .
+sf_ont:hike338
+	a				sf_ml_ont:Name .
+sf_ont:hike339
+	a				sf_ml_ont:Name .
+sf_ont:hike340
+	a				sf_ml_ont:Name .
+sf_ont:hike341
+	a				sf_ml_ont:Name .
+sf_ont:hike342
+	a				sf_ml_ont:Name .
+sf_ont:hike343
+	a				sf_ml_ont:Name .
+sf_ont:hike344
+	a				sf_ml_ont:Name .
+sf_ont:hike345
+	a				sf_ml_ont:Name .
+sf_ont:hike346
+	a				sf_ml_ont:Name .
+sf_ont:hike347
+	a				sf_ml_ont:Name .
+sf_ont:hike348
+	a				sf_ml_ont:Name .
+sf_ont:hike349
+	a				sf_ml_ont:Name .
+sf_ont:hike350
+	a				sf_ml_ont:Name .
+sf_ont:hike351
+	a				sf_ml_ont:Name .
+sf_ont:hike352
+	a				sf_ml_ont:Name .
+sf_ont:hike353
+	a				sf_ml_ont:Name .
+sf_ont:place29
+	a				sf_ml_ont:Name .
+sf_ont:place30
+	a				sf_ml_ont:Name .
+sf_ont:place31
+	a				sf_ml_ont:Name .
+sf_ont:place32
+	a				sf_ml_ont:Name .
+sf_ont:place33
+	a				sf_ml_ont:Name .
+sf_ont:place34
+	a				sf_ml_ont:Name .
+sf_ont:place35
+	a				sf_ml_ont:Name .
+sf_ont:place36
+	a				sf_ml_ont:Name .
+sf_ont:place37
+	a				sf_ml_ont:Name .
+sf_ont:place38
+	a				sf_ml_ont:Name .
+sf_ont:place39
+	a				sf_ml_ont:Name .
+sf_ont:place40
+	a				sf_ml_ont:Name .
+sf_ont:place41
+	a				sf_ml_ont:Name .
+sf_ont:place43
+	a				sf_ml_ont:Name .
+sf_ont:place44
+	a				sf_ml_ont:Name .
+sf_ont:place45
+	a				sf_ml_ont:Name .
+sf_ont:place47
+	a				sf_ml_ont:Name .
+sf_ont:place50
+	a				sf_ml_ont:Name .
+sf_ont:place51
+	a				sf_ml_ont:Name .
+sf_ont:place52
+	a				sf_ml_ont:Name .
+sf_ont:place53
+	a				sf_ml_ont:Name .
+sf_ont:place54
+	a				sf_ml_ont:Name .
+sf_ont:place55
+	a				sf_ml_ont:Name .
+sf_ont:place56
+	a				sf_ml_ont:Name .
+sf_ont:place57
+	a				sf_ml_ont:Name .
+sf_ont:place58
+	a				sf_ml_ont:Name .
+sf_ont:place59
+	a				sf_ml_ont:Name .
+sf_ont:place60
+	a				sf_ml_ont:Name .
+sf_ont:place61
+	a				sf_ml_ont:Name .
+sf_ont:place63
+	a				sf_ml_ont:Name .
+sf_ont:place64
+	a				sf_ml_ont:Name .
+sf_ont:place66
+	a				sf_ml_ont:Name .
+sf_ont:place67
+	a				sf_ml_ont:Name .
+sf_ont:place68
+	a				sf_ml_ont:Name .
+sf_ont:place69
+	a				sf_ml_ont:Name .
+sf_ont:place70
+	a				sf_ml_ont:Name .
+sf_ont:place71
+	a				sf_ml_ont:Name .
+sf_ont:place73
+	a				sf_ml_ont:Name .
+sf_ont:place74
+	a				sf_ml_ont:Name .
+sf_ont:place75
+	a				sf_ml_ont:Name .
+sf_ont:place76
+	a				sf_ml_ont:Name .
+sf_ont:place80
+	a				sf_ml_ont:Name .
+sf_ont:place86
+	a				sf_ml_ont:Name .
+sf_ont:place87
+	a				sf_ml_ont:Name .
+sf_ont:place88
+	a				sf_ml_ont:Name .
+sf_ont:place89
+	a				sf_ml_ont:Name .
+sf_ont:place90
+	a				sf_ml_ont:Name .
+sf_ont:place91
+	a				sf_ml_ont:Name .
+sf_ont:place92
+	a				sf_ml_ont:Name .
+sf_ont:place93
+	a				sf_ml_ont:Name .
+sf_ont:place94
+	a				sf_ml_ont:Name .
+sf_ont:place95
+	a				sf_ml_ont:Name .
+sf_ont:place96
+	a				sf_ml_ont:Name .
+sf_ont:place97
+	a				sf_ml_ont:Name .
+sf_ont:place98
+	a				sf_ml_ont:Name .
+sf_ont:place99
+	a				sf_ml_ont:Name .
+sf_ont:place100
+	a				sf_ml_ont:Name .
+sf_ont:place104
+	a				sf_ml_ont:Name .
+sf_ont:place105
+	a				sf_ml_ont:Name .
+sf_ont:place108
+	a				sf_ml_ont:Name .
+sf_ont:place110
+	a				sf_ml_ont:Name .
+sf_ont:place111
+	a				sf_ml_ont:Name .
+sf_ont:place113
+	a				sf_ml_ont:Name .
+sf_ont:place114
+	a				sf_ml_ont:Name .
+sf_ont:place115
+	a				sf_ml_ont:Name .
+sf_ont:place116
+	a				sf_ml_ont:Name .
+sf_ont:place117
+	a				sf_ml_ont:Name .
+sf_ont:place118
+	a				sf_ml_ont:Name .
+sf_ont:place119
+	a				sf_ml_ont:Name .
+sf_ont:place120
+	a				sf_ml_ont:Name .
+sf_ont:place121
+	a				sf_ml_ont:Name .
+sf_ont:place122
+	a				sf_ml_ont:Name .
+sf_ont:place125
+	a				sf_ml_ont:Name .
+sf_ont:place126
+	a				sf_ml_ont:Name .
+sf_ont:place127
+	a				sf_ml_ont:Name .
+sf_ont:place128
+	a				sf_ml_ont:Name .
+sf_ont:place129
+	a				sf_ml_ont:Name .
+sf_ont:place130
+	a				sf_ml_ont:Name .
+sf_ont:place131
+	a				sf_ml_ont:Name .
+sf_ont:place132
+	a				sf_ml_ont:Name .
+sf_ont:place133
+	a				sf_ml_ont:Name .
+sf_ont:place134
+	a				sf_ml_ont:Name .
+sf_ont:place135
+	a				sf_ml_ont:Name .
+sf_ont:place136
+	a				sf_ml_ont:Name .
+sf_ont:place137
+	a				sf_ml_ont:Name .
+sf_ont:place138
+	a				sf_ml_ont:Name .
+sf_ont:place139
+	a				sf_ml_ont:Name .
+sf_ont:place140
+	a				sf_ml_ont:Name .
+sf_ont:place142
+	a				sf_ml_ont:Name .
+sf_ont:place143
+	a				sf_ml_ont:Name .
+sf_ont:place144
+	a				sf_ml_ont:Name .
+sf_ont:place145
+	a				sf_ml_ont:Name .
+sf_ont:place146
+	a				sf_ml_ont:Name .
+sf_ont:place147
+	a				sf_ml_ont:Name .
+sf_ont:place148
+	a				sf_ml_ont:Name .
+sf_ont:place149
+	a				sf_ml_ont:Name .
+sf_ont:place150
+	a				sf_ml_ont:Name .
+sf_ont:place151
+	a				sf_ml_ont:Name .
+sf_ont:place152
+	a				sf_ml_ont:Name .
+sf_ont:place153
+	a				sf_ml_ont:Name .
+sf_ont:place154
+	a				sf_ml_ont:Name .
+sf_ont:place155
+	a				sf_ml_ont:Name .
+sf_ont:place156
+	a				sf_ml_ont:Name .
+sf_ont:place157
+	a				sf_ml_ont:Name .
+sf_ont:place158
+	a				sf_ml_ont:Name .
+sf_ont:place159
+	a				sf_ml_ont:Name .
+sf_ont:place160
+	a				sf_ml_ont:Name .
+sf_ont:place161
+	a				sf_ml_ont:Name .
+sf_ont:place162
+	a				sf_ml_ont:Name .
+sf_ont:place163
+	a				sf_ml_ont:Name .
+sf_ont:place164
+	a				sf_ml_ont:Name .
+sf_ont:place165
+	a				sf_ml_ont:Name .
+sf_ont:place166
+	a				sf_ml_ont:Name .
+sf_ont:place167
+	a				sf_ml_ont:Name .
+sf_ont:place168
+	a				sf_ml_ont:Name .
+sf_ont:place169
+	a				sf_ml_ont:Name .
+sf_ont:place170
+	a				sf_ml_ont:Name .
+sf_ont:place171
+	a				sf_ml_ont:Name .
+sf_ont:place172
+	a				sf_ml_ont:Name .
+sf_ont:place173
+	a				sf_ml_ont:Name .
+sf_ont:place174
+	a				sf_ml_ont:Name .
+sf_ont:place175
+	a				sf_ml_ont:Name .
+sf_ont:place176
+	a				sf_ml_ont:Name .
+sf_ont:place177
+	a				sf_ml_ont:Name .
+sf_ont:place179
+	a				sf_ml_ont:Name .
+sf_ont:place180
+	a				sf_ml_ont:Name .
+sf_ont:place181
+	a				sf_ml_ont:Name .
+sf_ont:place182
+	a				sf_ml_ont:Name .
+sf_ont:place183
+	a				sf_ml_ont:Name .
+sf_ont:place184
+	a				sf_ml_ont:Name .
+sf_ont:place185
+	a				sf_ml_ont:Name .
+sf_ont:place186
+	a				sf_ml_ont:Name .
+sf_ont:place187
+	a				sf_ml_ont:Name .
+sf_ont:place188
+	a				sf_ml_ont:Name .
+sf_ont:place189
+	a				sf_ml_ont:Name .
+sf_ont:place190
+	a				sf_ml_ont:Name .
+sf_ont:place191
+	a				sf_ml_ont:Name .
+sf_ont:place192
+	a				sf_ml_ont:Name .
+sf_ont:place195
+	a				sf_ml_ont:Name .
+sf_ont:place196
+	a				sf_ml_ont:Name .
+sf_ont:place197
+	a				sf_ml_ont:Name .
+sf_ont:place198
+	a				sf_ml_ont:Name .
+sf_ont:place200
+	a				sf_ml_ont:Name .
+sf_ont:place201
+	a				sf_ml_ont:Name .
+sf_ont:place202
+	a				sf_ml_ont:Name .
+sf_ont:place203
+	a				sf_ml_ont:Name .
+sf_ont:place205
+	a				sf_ml_ont:Name .
+sf_ont:place206
+	a				sf_ml_ont:Name .
+sf_ont:place207
+	a				sf_ml_ont:Name .
+sf_ont:place208
+	a				sf_ml_ont:Name .
+sf_ont:place209
+	a				sf_ml_ont:Name .
+sf_ont:place211
+	a				sf_ml_ont:Name .
+sf_ont:place212
+	a				sf_ml_ont:Name .
+sf_ont:place213
+	a				sf_ml_ont:Name .
+sf_ont:place214
+	a				sf_ml_ont:Name .
+sf_ont:place215
+	a				sf_ml_ont:Name .
+sf_ont:place216
+	a				sf_ml_ont:Name .
+sf_ont:place217
+	a				sf_ml_ont:Name .
+sf_ont:place218
+	a				sf_ml_ont:Name .
+sf_ont:place219
+	a				sf_ml_ont:Name .
+sf_ont:place220
+	a				sf_ml_ont:Name .
+sf_ont:place221
+	a				sf_ml_ont:Name .
+sf_ont:place222
+	a				sf_ml_ont:Name .
+sf_ont:place223
+	a				sf_ml_ont:Name .
+sf_ont:place224
+	a				sf_ml_ont:Name .
+sf_ont:place225
+	a				sf_ml_ont:Name .
+sf_ont:place226
+	a				sf_ml_ont:Name .
+sf_ont:place227
+	a				sf_ml_ont:Name .
+sf_ont:place228
+	a				sf_ml_ont:Name .
+sf_ont:place229
+	a				sf_ml_ont:Name .
+sf_ont:place230
+	a				sf_ml_ont:Name .
+sf_ont:place231
+	a				sf_ml_ont:Name .
+sf_ont:place232
+	a				sf_ml_ont:Name .
+sf_ont:place234
+	a				sf_ml_ont:Name .
+sf_ont:place235
+	a				sf_ml_ont:Name .
+sf_ont:place236
+	a				sf_ml_ont:Name .

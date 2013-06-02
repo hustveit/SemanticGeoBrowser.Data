@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike292>
+	dct:title				"""Nordhordalandskulten"""@no ;
+	sf_ont:ingress			"""Grensefjell."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Nordhordalandskulten ligg akkurat på grensa mellom kommunane Bergen og Os.&lt;br&gt;&lt;br&gt;Kryss over Botnabekken og følg ein tydeleg sti merkt med raudt på stien eller på tre. Ruta går opp mot ryggen og nordover ved Rundehaugen. Det er i hovudsak fureskog, og det kan vera litt vått nokre stader. Oppe på toppen av Nordhordalandskulten 389 m.o.h., er det godt utsyn i fleire retningar. Namnet sammar frå gongen dette var ei gamal grense mellom Nordhordland og Midthordland.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start frå E39, frå bensinstasjonen som ligg nesten på grensa til Bergen kommune. Herifrå går ein litt tilbake mot Os, langs hovudvegen, og går over brua til Tømmernes. Følg bilvegen til skogkanten, der stien startar.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;2 timer tur/retur&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været. Gode tursko anbefales.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Bergen 1115 I&lt;br&gt;Turkart: Veg- og turkart for Os&lt;br&gt;&lt;br&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/> ;
+	sf_ont:image_credit		"""""" ;
+	dct:created				"""2011-10-14 12:43:43""" .

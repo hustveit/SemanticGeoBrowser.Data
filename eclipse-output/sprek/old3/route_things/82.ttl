@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route82>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/82> ;
+	<name>					"""Svartediket ââ‚¬â€œ Våkendalen ââ‚¬â€œ Tarlebøvannet"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""4""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>				"""2011-04-12 15:15:45""" ;
+	<encoded_path>		"""oxpoJepv_@WDUHWJ_Ab@wAh@u@Xy@IWG{@W}@VcARiAWmAeAW]_@{A_@kAe@gAS_@Oi@}A_FmDmCsAqFc@aAGe@Cc@Fe@Vi@Dy@M}@iAcAm@CQBY_@q@[o@BY@IOCYBk@?k@Mo@y@_As@iBm@kBu@wCq@yCU_@g@q@K_@AeAAqAq@_F_ByCWuAu@eFQiA?]Dq@RcBZcCJs@Jk@DsADoAVaAhBqGf@u@Zi@Dk@Us@QSQXKh@E\M\]\s@^YJWGOa@Go@F{@LmACw@Sw@We@c@E_@HoAGq@Le@\_BfA}@l@qA|@oAA_AGg@IYMWF_@Jc@^g@Xi@\_@d@a@\_@Sk@?y@n@g@NY?g@Ne@Jg@Ek@Ko@Wk@k@g@_@s@IqBg@gB@sA^{ABmC[wBYw@Kq@Cu@Ow@CoAq@}Ao@uBe@g@Eo@V{@NmAUeAW""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route154>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/154> ;
+	<name>					"""Sandviken sykehus-Orrtua"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-20 12:35:24""" ;
+	<encoded_path>		"""mkwoJocm_@??^GTe@\CXS]C[CYOc@UOm@Om@Kq@Ku@Qm@Qg@Qk@Qo@Om@Ko@Ug@Mm@Mo@Qk@Mq@Mo@C{@Bu@HaAF}@Rm@ZGNl@Rf@Nr@Dx@Hv@Fw@Gy@Iq@Ku@Gy@Iw@GeAYW[GYTWZWRYXNq@V_@Tc@T_@Va@ZKTZV`@Ph@Vf@Rj@Tj@Eu@Os@Ku@Gu@Gw@Ks@Ua@[DYNWZ[RW\Y`@W\UZ[EYSYOYI]O[QW[Y]Sm@Si@YS[F[P[NYL[?_@CYH[LYR[PYN[PBAcA`Ay@z@iCxCoCxFwC`GuFfG}EfIwBxEcDEmCcBPgB_@mC\sDg@y@wAWIs@`@yCMqHTiF|FcF""" ;

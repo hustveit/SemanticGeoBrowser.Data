@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route257>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/257> ;
+	<name>					"""Svartediket ââ‚¬â€œ Rundemanen"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""5.3""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-04 14:54:28""" ;
+	<encoded_path>		"""}~poJ}lv_@_ANkAI{@a@m@J[Z{@NuA[mAq@u@sCiAsCcCcHsDcDy@yDu@_C?qA`@aAGaAeAwAgAAe@w@qBIOk@Hk@OwAy@q@}AoEoA{EYwAWk@_@UW{@?sBi@eFm@cB}@kAo@uEq@oD?aA`AwGPgADyCf@gBv@_DJY`@gAj@{@NaAKk@OUME_@jAOv@mA`Ag@?YaAGw@XgBKwAa@aAk@CkABY?eAJUTw@d@cA`AeAj@m@d@sA?wAOe@EA?c@?[Pe@b@g@N]^c@l@[LM?]KQAk@Ha@b@]NU?y@NMH}@A?EsAc@gAy@gAOiA[yAUo@?mAZgBNwBOkCk@{A?YUgBEcAe@qAy@eBk@_AE}@RyAFw@?y@[IGg@bCKb@e@?s@r@e@?QvAVdBb@xC?x@Ej@UlBDx@IjCC\TfAGvAJNUfDETyA|Ac@j@a@lBc@lBA`AYx@Ed@YlBMb@GnAQr@W~Ag@`AQj@UfAY?i@hAYnAQ\B`@HRLp@H^?\B^JVDJ?\Ml@Gd@Il@Eb@Uv@Mp@Iz@BfABr@^l@RLTCL@b@j@\f@JH^d@GXSb@Y^g@h@a@r@e@Xa@LWB""" ;

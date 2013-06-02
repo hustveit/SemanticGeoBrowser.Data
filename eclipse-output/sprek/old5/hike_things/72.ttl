@@ -1,0 +1,38 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+sf_ont:hike72
+	a						sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""40""" ;
+	] ;
+
+	sf_ont:Length [
+		sf_ont:Kilometer	"""4.2""" ;
+	] ;
+
+	sf_ont:degree_of_difficulty			"Easy"@en ;
+	sf_ont:referedBy					<http://tur.bt.no> ;
+	
+	a					sf_ont:Stroller_friendly ;
+
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""}x{nJunm_@PPPDP@PLJ\\Hb@Dh@B`@Dh@Bd@Df@F`@Fd@Bn@?f@D`@Db@Fb@H`@L^Lb@LZNXLVN`@Dh@@b@Bj@?d@@h@?d@?f@Ad@Af@Cd@Eh@Ad@?f@Aj@Gh@K^OROPQVQTQPQLQJMVK`@Ib@Kb@K`@I^K\\Id@Gb@I`@Gb@I`@Ib@I`@KZMZKZEd@Af@?b@Ah@KZOZOXMZI`@Ab@@d@Hd@NZPNPNRRPLNPPTL^H`@Bd@Fd@Df@Ab@SPWDQDQNOTOXORI^J\\NTL\\H^J\\NRNPLXLb@Hd@Bh@@j@Ah@Aj@Ab@Bf@Dh@Db@Db@F`@Hd@F`@Bd@?h@Cd@I\\MZM^MZI\\M\\M^Gd@Fb@RPRDRAV@RAR?P?PARBPDRDPIH_@Ha@Ha@L]NQPQRKPGRGRER@RBRDP@R@PBP@TLPPT@R@THPJTJPDPMPONSNSPMRGP?PKNIPMPQPWLSPSPSPQNOPQPONUL_@La@J_@L]Ac@OUQUKa@Ec@?k@@g@Dg@Be@Dg@Ag@Ag@?c@Ce@Ga@Ce@Ei@Ge@Gc@Ia@O[OUQSQQOOSKQKSASCQ?Q?U@Q@SAS?UEQESGQEQESQO[I_@O[MYQMSGQESASCSCSCQASJOTMZI^Gb@I`@E`@Gb@Ad@Ed@K`@Gb@?h@Cd@Ib@M\\QTQJUHS@SESMOSQUQOOMQOQISIUKSGSCSGMa@Jc@NSNKPEREPMH]@i@Ci@Ec@K]MYQWMUQSSQQOOSM[@g@F_@Fa@Hc@F_@Fc@Bc@?e@Be@Da@L]L_@J[Lc@JYL]Ha@Fc@Fi@Bi@Fe@Hc@Je@H_@Hg@J_@L]NSNQPMRMPONSPQNSLYF_@Dg@Be@Cg@Ag@?g@?c@@e@Bg@Dc@Dg@@g@@e@@c@?e@Ee@Ea@MYQUMWMWI_@I]I]M_@I_@Ee@Ec@Ea@Ee@Ek@Cc@Gg@Ge@Gg@Ge@M]OQSKQESAQGQSOWOYO[??""" ;
+	] ;
+	
+	owl:sameAs				<http://tur.bt.no/tur/72> ;
+	
+	sf_ont:Indexcard [
+		dct:created				"""2012-01-13T14:45:46.655+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route194>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/194> ;
+	<name>		"""Skranevatnet, rundtur"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""2.6""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-14 15:08:40""" ;
+	<encoded_path>		"""{e`oJonf_@o@i@oB`A[~@c@]uAcFq@sE}@sBGgCaA{AYP_@dAg@~A}@bAa@J`BxCKdAYvABrAOrB_@v@i@`EKR@v@J^Lb@Aj@Id@CnAk@lCIbBQzAEnCf@xAZ|A`@A|@Xb@b@hAzALHl@hAFl@b@xD?RjB\N`@r@wAGcBIcECk@Pw@r@mBt@aEbAo@Xa@JwAxAbDT\FzDdAjAdD}@f@kBLm@cAkCOmBBcBVmC^iA_AmECiB_AwAg@eAOgCCM_DrA""" ;

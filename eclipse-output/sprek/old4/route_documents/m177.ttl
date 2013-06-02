@@ -1,0 +1,62 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike177>
+	a	...Thing... ;
+	dct:title				"""Njåstad-Bruviknipa"""@no ;
+	<ingress>		"""En tur som gir godt innblikk i Osterøys varierte og storartede natur. Fjordutsikten fra Bruviknipa er nydelig!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fra Fitje tar man av på god bygdevei
+fram til fjellgården Kleppe og videre til Njåstad, hvor fjellturen starter. Følg
+stien sørover mot det idylliske Fagerstølsvatnet (her er det muligheter for
+ørretfiske). &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Følg stien videre på østsiden av vannet og
+fortsett til Låstadsætra. Derfra bærer det sørøstover opp mot Flatefjellet. På vestsiden
+ligger Skaftådalen, og mot øst ligger Bruvikdalen. Snart kommer man inn på den
+markerte fjellryggen som fører forbi ÃËœrnatuva og opp til Bruviknipa (også kalt Brøknipa).
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra toppen er det et vidstrakt rundskue
+over Osterøy, i øst Bergsdalsfjellene, i sørvest Gullfjellstraktene med
+fjellområder. Rett ned og dypt under; Sørfjorden med kirkestedet Bruvik. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dette er også en flott skitur i godt
+vær.&lt;br style=""&gt;
+&lt;br style=""&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr. 210 til Hatland skulesenter (Osterøy), herfra tar man buss nr. 204 til
+Njåstad. Kommer man i bil kjører man over Osterøybroen
+(Kvisti bru) til Lonevåg. Kjør 556 til Lonevåg/ Tysse. Ta av ved Fitje. Vær obs
+på at det er begrenset med parkeringsmuligheter her, så utvis skjønn.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 5-6
+timer tur/retur. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste med middels turkondisjon. Turen går
+hovedsaklig på sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk å ta med nok mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;
+Osterøy er 330 kmÂ² stor og er Nord-Europas
+største innlandsøy. ÃËœyens størrelse og topografi gjør den særlig egnet for
+turutflukter, og mulighetene er mange. Osterøy har mange severdigheter for dem
+som har et våkent øye for øyens mangfold. Kvisti bru har gjort Osterøy lett
+tilgjengelig.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Bruviknipa rager 822 meter opp over
+Sørfjorden helt sør på Osterøy.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1215 IV Samnanger (1:50 000),
+1216 III Stanghelle (1:50 000), Osterfjord fiske- og friluftskart (1:75 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1463eb4f870.jpg> ;
+	<image_credit>		"""Karl H. Olsen""" ;
+	<created>		"""2011-07-06 13:17:04""" ;

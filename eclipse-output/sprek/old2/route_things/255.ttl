@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route255>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/255> ;
+	<name>		"""Stoltzekleiven-Brushytten-Skansen"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""6.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-09-22 22:37:14""" ;
+	<encoded_path>		"""ebvoJ}ro_@[Cc@Ac@J[Wa@EGIMs@L{@Pk@Pm@N_AX_@By@G}@[H\?A{@Pi@Ri@Hu@ZHTe@Ju@Ay@A}@R{@?w@B{@Lw@FeAB{@Eu@J{@]Qa@H]B]a@]J]LCeAOo@Y[]OEy@Tq@HaAPs@@_ABw@@{@O_AYe@Cw@Tc@T]V_@Vo@Pq@J_AJy@Nq@R_AJgAH_AVy@Rg@Vu@Nm@Po@Nm@Rm@Tk@X_@Va@Vg@Pi@Tc@V]Pm@T{@Tw@FmA^cBZ_@Ne@Hs@Va@LMZc@Xa@Te@JIXWZOZMXJZKTa@Pm@Tc@Ti@Re@Rk@C{@Bg@Ew@Mq@Os@WUQk@MIYUY[]I]KYW[[Qm@Ye@_@Y]_AGWHu@Nu@@YNq@Vs@Xi@Ri@Th@Tb@Z`@^F\GZE\?ZE\N`@G\CZPZHZI`@e@r@q@ZIV]Rg@Ra@Xg@Re@Te@V]Xc@\WXW`@KVe@No@Te@XQVS\S^GXOZQXMXMZSXMZBXY\[^MXe@V[X[\MVm@VWZQXOTa@XYTu@Jw@Hu@Jr@Hv@Pt@Ln@Bz@Az@@v@V\XXXPZH\GZ@XRZL\J^FZDXVPh@Vh@Th@Nr@@x@It@Ql@W`@[RYTYTW\[P[HRb@\AXPXTT^Pf@Tb@XUXVZVXPZLZVT`@Pf@Dt@Ft@@z@Et@@v@Fx@Ax@It@Et@?v@Ht@?v@Mp@Kv@Gr@Bx@Fv@Pp@Ph@Tj@T`@ZM`@@ZN\LZHZCTa@Lo@ZYJr@Fz@Fz@Ez@?t@Et@On@W^WTYTSl@Ol@Y`@Ml@Cv@Ud@Ud@Ol@Qj@Qn@Sh@It@Kv@Gr@Sh@Ol@Ml@Kr@Kt@Ir@Ev@Ml@Mn@Az@Kr@Cv@Ix@Ct@Rb@ZTZN\IXWZMXS\KTa@V[X[XONs@XYZWV[ZYV[Te@Te@V]ZGEt@On@Ud@[\Uf@WXSD[CSp@@vAXKRi@X[XUTe@Vc@VSKn@[JYTSVMt@Mr@Qj@IZUb@GRV^Te@Ve@Rg@Vg@ZSZWSj@Q\YTSj@Uh@MT@v@XNZJZKVY\MZSZSXSBz@Qj@Sd@Yf@YZSd@Sj@YV[JYTYHe@Rc@b@_@XSj@Sh@YVSd@Ud@YZSf@Sj@""" ;
+	<routes_spots>		"""http://__thing_place_uri__34""" ;

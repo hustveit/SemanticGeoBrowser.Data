@@ -1,0 +1,66 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike188>
+	a	...Thing... ;
+	dct:title				"""Fauskanger, rundtur"""@no ;
+	<ingress>		"""Turen går på den nordvestlige del av Askøy, med stedvis flott utsikt mot havet. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kjører riksveien Kleppestøââ‚¬â€œHerdla
+til Fauskanger og parkerer på (den gamle) skoleplassen. Herfra går man veien
+mot Lille Fauskanger. Nede på flaten tar man inn på første gårdsveien på høyre
+hånd, passerer låven og dreier mot venstre gjennom grind og inn i utmarken.
+Stien fører opp gjennom et skar til et platå hvor stien slynger seg gjennom
+åpent landskap med lynghei og svaberg. Avstikker anbefales til første toppen
+man passerer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Videre følger man enten stien ved
+Furevatnet eller går over Søre Bekkefjell. Stiene møtes under Nordre Bekkefjell
+og går mot Bekkenes. Her runder man en myr med et tjern, hvor man finner stien
+som går videre i østlig retning. Fortsett rundt Tverrgardtjern og så opp dalen
+i sørlig retning. Ved grind tar man opp gjennom et skar, krysser åsryggen og
+kommer ned der Skitnedalen munner ut ved nordenden av Storevatnet. Vel oppe på
+østsiden av Skitnedalen kommer man ut i åpent terreng og vandrer på god sti
+gjennom Dyrebotnen fram til riksveien ved tjernet ââ‚¬&#157;Tjørnaââ‚¬&#157;, hvorfra det er kort
+vei tilbake til parkering. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turer i kystfjell er vel egnet hele
+året, da snø sjelden blir liggende særlig lenge. Fra Søre Bekkefjell har man
+fin utsikt mot det idylliske stedet Bekkenes.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For å komme til Fauskanger, tar man Riksveien Kleppestøââ‚¬â€œHerdla til Fauskanger. Det er
+parkering ved Fauskanger gamle skole. Man kan også ta buss nr.499
+fra sentrum til Fauskanger. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar omtrent 2 timer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, men er ikke tilpasset for
+bruk av trillevogn eller rullestol.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ingen spesielle utstyr behov. Kle deg etter været. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Gammelt
+bygdesamfunn&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Ved starten møter vi Fauskanger gamle
+folkeskole, opprinnelig bygget i 1873, men revet og satt opp igjen i 1910 som
+Fauskanger skole på Hestetræet. Skolen var i bruk til 1976, da ny skole ble
+bygget. Siden var den samfunnshus. I utmarken på Lille Fauskanger ligger en
+vakker steingard, et høyt og smalt byggverk som fremdeles er intakt i over
+hundre meters lengde. Utsynet fra høyden ovenfor Lille Fauskanger er flott en
+klar dag, man ser utover Hjeltefjorden og
+ÃËœygarden i nord, i sør ligger Lyderhorn, og bakenfor kan man også se Folgefonna.
+I øst ligger Byfjellene, mens landmerket Eldsfjellet på Holsnøy reiser seg
+nakent og grått og hindrer videre utsyn mot sognefjellene.&lt;/p&gt;
+&lt;p&gt;Kilde: Per Ove Askeland / Anders
+Bjarne Fossen: Fotturer på Askøy 1.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1116 III Herdla (1:50.000), O-kart
+Fauskanger (1:10.000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1c46a9b256d.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-12 15:01:51""" ;

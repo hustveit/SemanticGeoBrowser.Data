@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route187>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/187> ;
+	<name>		"""Osavatn-Redningshytten"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""4.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-12 13:55:00""" ;
+	<encoded_path>		"""}|ooJmru`@U}Au@{@}@e@aAmAiA}Ai@mDuEaKcBwGgAmB]}A_@cE?aFFw@^u@Rq@^sDOcCGwGk@oD?gBFsA~@aGg@Ie@t@a@k@c@gAa@k@aDmBq@o@Sq@c@mBWkA?mA_@}AEeA_AyC]e@e@sBg@cCm@kAWkDn@{Ad@g@^wAb@{@FsCH[JDn@pA`@{Ab@n@\qBf@}AdAsBrAmC`AgBRq@v@aAbBsCtAe@z@aAdA[dBaAbBKz@`@p@N|@fBtAlAfCjAvADdEmB~Aa@dBZjADbDk@`C{@lCUx@]nBwAnAs@X}AH]fAgAjBkCfAkArAwA|B_Ad@}ArAqBLsAnA}DLs@G}@@Y]c@""" ;

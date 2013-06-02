@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route178>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/178> ;
+	<name>		"""BÃ¥taleitet-Brukvinipa"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""2.7""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-07 10:21:36""" ;
+	<encoded_path>		"""iidpJ}xna@_EgA{Ak@uAo@OkEs@mGeAuCcB}Au@a@eAkDsCsAyAa@k@wBs@sASUi@oAHSGWKs@_@YIUYSGYOGW_@S]Ec@Jk@Ck@CGe@OUAKAO_@_@B_@Mc@AQI]Fu@I}@QU_@]c@YDsAHg@DMJEXOFQ?GR??MCEDDR@d@Ed@BTN\Kd@?r@H`@A^@NEVAJDZEb@@\H|@@n@IV@x@?d@?b@?l@EVBdAJb@c@`@a@VQn@]h@ILOM_@Ia@aAI]OACYOGQCICOs@MUAYWsB@q@Go@?c@J_@?k@OYu@e@Q_@QBKDc@@M?c@s@S??[KQYS[@a@QESIqBI{B]{AAQIIAq@G{@UcAw@aAYe@CQUUg@wASaB[c@Ms@P{@n@q@Xu@L}A\mAh@wBMe@A{@""" ;

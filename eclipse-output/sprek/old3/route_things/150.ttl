@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route150>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/150> ;
+	<name>					"""Stendafjellet fra Stend """@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""2.3""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>				"""2011-06-15 13:14:34""" ;
+	<encoded_path>		"""ai{nJmsp_@]DSgAgAS_AsBqAo@oBsCsCoBg@QYvACjADz@]`A{@ZqA`Ay@]iAeCs@[kANgAdBkBlDaFbF_BlCaHv@cAhAyAwBu@[cAiFCcF\cBrBuClAmC|@`Aj@vA\j@LMRSb@cBJI\l@\z@l@?t@kAvA{Cd@{At@}@XM|@~A\^RxCHlB~@XfAd@""" ;

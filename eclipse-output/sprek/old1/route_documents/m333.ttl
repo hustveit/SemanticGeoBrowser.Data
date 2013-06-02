@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route333>
+	a	...Thing... ;
+	<name>		"""Fredlundssvingen â€“ LÃ¸vstakken"""@no ;
+	<ingress>		"""Kort tur til LÃ¸vstakken."""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Turen er kort og du fÃ¥r garantert opp pulsen. Du starter turen mellom husene i Fredlundssvingen og gÃ¥r opp til hÃ¸yspentmasten, og videre rett til toppen. Ruten er forholdsvis bratt sÃ¥ man fÃ¥r fort god utsikt. Fra toppen av LÃ¸vstakken har du panoramautsikt, sÃ¥ det er vel verdt slitet pÃ¥ vei opp. Selve LÃ¸vstakken rager 477 meter over havet, men er omgitt av mindre koller i nord, og mot sÃ¸r et Â«platÃ¥Â» der hÃ¸yeste parti er Gullsteinen (354 m.o.h.).&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Stien starter bak Fredlundssvingen 27.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Selv om turen ikke er mer enn 1,5 kilometer lang, tar det en liten time Ã¥ gÃ¥ opp. Turen ned gÃ¥r raskere, men det er bratt sÃ¥ gÃ¥ rolig og forsiktig.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer best for deg som er i god form og liker Ã¥ gÃ¥ i bratt terreng. Turen egner seg ikke for smÃ¥ barn, trillevogn eller rullestol.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret og husk gode sko. Det er ofte vÃ¥tt pÃ¥ stien.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;O-kart LÃ¸vstakken (1:15 000), O-kart Langeskogen (1:10 000), 1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25.000), 7-fjellsturen turkart (1:25 000)"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eb147bca95db.jpg> ;
+	<image_credit>		"""Ã˜rjan Deisz""" ;
+	<created>		"""2011-11-02 14:29:32""" ;

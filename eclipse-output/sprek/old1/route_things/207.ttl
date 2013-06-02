@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route207>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/207> ;
+	<name>		"""Arboretet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""4.7""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-21 09:24:22""" ;
+	<encoded_path>		"""qyvnJqkc_@t@eCx@oF?{@{@eFi@qAi@g@w@HYPe@r@a@g@c@iAQy@gBmAmAkA_@yAMwAIyC[i@o@McBVqAu@}@JgAt@uCm@[cBa@Ag@[]aAg@_@o@gA]q@m@u@oAKcBYg@k@aAsA_A?kB{AcBk@y@oCs@qBa@a@CkA_@_DYsCIgAlAaHjA[fBHfBcDfAyCr@[^aBjC}Af@q@_BgCyAfBUt@}Ap@mAfBBlAiAn@o@bBuAsC{@?i@pA_BzEIpAFrCU~Dq@_@q@vAoCjAgA`@[n@@p@dAJd@q@`AEbANbAe@bC{@PTd@^ZvEqBfCwAlAgDdAm@fAu@bBgBTfBKtAuDpEkApAcB@lBB|A`BxCxA^?p@DbBv@pB\jDlAQzB{@h@aAh@wFd@I""" ;

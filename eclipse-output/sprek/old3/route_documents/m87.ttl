@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route87>
+	a	...Thing... ;
+	<name>		"""Ekerhovd - Liatårnet"""@no ;
+	<ingress>		"""Den letteste veien opp til Sotras høyeste punkt."""@no ;
+	<description>		"""&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Rutebeskrivelse:&lt;/span&gt;&lt;br&gt;Liatårnet er det høyeste fjellet på Sotra (341 m.o.h.) og kan angripes fra flere utgangspunkt. Dette er den enkleste veien opp. Turen går på asfalt fra Ekerhovd til Pyttane, der det står to flyradarer og Telenors mast. Oppe ved masten tar stien av sørover i terrenget, går nedom et lite vann, for så å stige bratt opp mot Liatårnet. Herfra er det upåklagelig utsikt. I sørvest ligger noen av Vestlandets mest benyttede klatrefjell.
+&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tilkomst:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;For å komme dit, parkerer du bilen på Ekerhovda eller tar bussen om Kolltveit/til Straume.
+&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tidsbruk:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Turen tar ca 1 time tur-retur, men man trenger jo ikke nødvendigvis ta samme vei ned fra fjellet. Eksempelvis er det også en sti ned på vestsiden av Liatårnet (se også turen Fjell-Liatårnet). Denne krysser Bjørkedalen og følger dalens vestside opp til sørsiden av Bildevatnet. Imidlertid ber grunneierne turfolk om ikke å benytte denne traseen under jakten om høsten. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Passer for: &lt;/span&gt;&lt;br&gt;
+Den første delen av turen, til Pyttane, kan gås med barnevogn, men resten av turen er ikke egnet. 
+
+&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Kart:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;1115 I Bergen (1:50 000)
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4db7cb432713f.jpg> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-04-25 21:49:22""" ;

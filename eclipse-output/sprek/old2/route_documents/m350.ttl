@@ -1,0 +1,32 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route350>
+	a	...Thing... ;
+	<name>		"""Jordalen-Ulskebjørnen-Vikinghytten"""@no ;
+	<ingress>		"""Fin rundtur til Vikinghytten"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Rutebeskrivelse:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Turen starter innerst i Jordalen. Der går stien opp
+og forbi Stallane. Stien fortsetter mot Ulskebjørnen, 443 moh. Fra toppen har
+man flott utsikt utover Jordalen, Selvik og Eidsvåg. Etter Ulskebjørnen fortsetter
+stien østover. Man kommer til et stikryss hvor man kan velge å gå til høyre
+eller til venstre via ÃËœrnafjellet. Følger man ikke stien mot
+ÃËœrnafjellet, må man ta til venstre ved neste stikryss for å komme til
+Vikinghytten, 590 moh. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Fra Vikinghytten følger man stien i sør-vestlig retning
+mot Jordalsskaret hvor det går sti tilbake til utgangspunktet. &lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Tilkomst:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Fra Eidsvåg kjører man inn Jordalsveien langs
+Jordalsvatnet, og følger veien til enden. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Tidsbruk:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Med en god pause på Vikinghytten, kan man beregne ca
+4 timer på denne rundturen.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Passer
+for:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Dette er en middels tur for de som liker å gå litt i
+fjellet. Stiene er godt markert.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Utstyrbehov:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Kle deg etter været. Husk gode tursko.&lt;/span&gt;&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4ebbb82cf3ccf.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-11-10 12:36:08""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route237>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/237> ;
+	<name>		"""Stølane-Pyttane"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.9""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-08-02 12:28:01""" ;
+	<encoded_path>		"""s{foJ}dg^JzAz@dB|@hB~@v@Gt@wBvAeACg@`@WdAH|@NTn@a@|@QpA|@l@|FxAvA`AZrA`Aj@bClAjGdAlBhA?bB`BzA\~BhBnAPjA`@|E^n@uBb@EnAdAhAvBXC@sBCaAT_Aj@MtClA^f@LZ`@Bj@Mf@b@PUe@u@?_CEgBOsBXuB`AgCTEt@vAXGhAiE`A_GdA_DbB{@~@sDXUjA`@bAn@tB}@bC|A~BIh@e@j@\rAfJ""" ;

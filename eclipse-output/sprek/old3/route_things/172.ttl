@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route172>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/172> ;
+	<name>					"""Hegglandââ‚¬â€œMøsnuken"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""3.4""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-01 15:26:36""" ;
+	<encoded_path>		"""ohpnJo`u`@iCf@_ANaAX?P`@bAJl@?zDNhAErAo@XaAs@wBmByAQ{AYw@aA_AoDmBiDiCyCmJiCyCv@lArk@ObCwAdFd@hDjCvC~A`GBdDwEbEg@PqAlC?rBiA_E}AT_HgAkBwAkAiCeA{Fc@w@o@yD_@cHMaBc@wACaB[oCOmBu@kAiCuDyHeQoB{F""" ;

@@ -1,0 +1,60 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route180>
+	a	...Thing... ;
+	<name>		"""Myking-Tveitafjellet-Hosanger"""@no ;
+	<ingress>		"""En kjekk og relativt lett tur med flott utsikt fra Tveitafjellet."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter pÃ¥ Myking. Ta av pÃ¥
+bygdevei mot Nordmyking til Ã¸verste gÃ¥rden; Turdalen. Fortsett i nordvestlig
+retning til fjellstien starter ved gÃ¥rdsgjerdet. FÃ¸lg stien opp Bukkaskaret. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Langs hele turen er utsikten uvanlig
+omfattende. PÃ¥ toppen er den spektakulÃ¦r. I nordvest ser man hele LindÃ¥shalvÃ¸ya
+og Ã˜ygarden, mot sÃ¸r Bergensfjellene og Byfjorden, i nordÃ¸st ligger Masfjorden
+med hele sin omliggende fjellheim. Midt i det hele: Osterfjorden med sine viker
+og nes. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra Tveitafjellet fortsetter stien
+nordvestover ned til gÃ¥rdene Tveiten og Ã…sheim. Man tar sÃ¥ inn pÃ¥ en bygdevei frem
+til Hosanger. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Man kan ogsÃ¥ snu pÃ¥ Tveitafjellet og gÃ¥
+samme vei ned til Myking igjen. Det er kanskje best dersom man har bil med. Fortsetter
+man frem til Hosanger er det grei nok bussforbindelse derfra. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ta buss nr. 210 til LonevÃ¥g terminal (OsterÃ¸y), hvor en ny buss nr. 204 vil fÃ¸re deg
+til Myking (OsterÃ¸y). Kommer
+man i bil fÃ¸lger man hovedveien fram til Myking. Det mulig Ã¥ parkere ved
+grendahuset. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 4 og 5 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste. Det er en relativt
+lett tur. Turen gÃ¥r hovedsaklig pÃ¥ sti og er derfor uegnet for
+trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk Ã¥ ta med mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;
+OsterÃ¸y er 330 kmÂ² stor og er Nord-Europas
+stÃ¸rste innlandsÃ¸y. Ã˜yens stÃ¸rrelse og topografi gjÃ¸r den sÃ¦rlig egnet for
+turutflukter, og mulighetene er mange. OsterÃ¸y har mange severdigheter for dem
+som har et vÃ¥kent Ã¸ye for Ã¸yens mangfold. Kvisti bru har gjort OsterÃ¸y lett
+tilgjengelig.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tveitafjellet (Settnipa) har toppunkt
+556 m.o.h. Fra Settnipa, sa de gamle, kunne hele 7 kirkesogn skues.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1215 IV Samnanger (1:50 000), 1216 III
+Stanghelle (1:50 000), Osterfjord fiske- og friluftskart (1:75 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e159b238ef6e.jpg> ;
+	<image_credit>		"""JAN OTTO MIDTTUN""" ;
+	<created>		"""2011-07-07 13:23:08""" ;

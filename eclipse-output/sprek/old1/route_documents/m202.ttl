@@ -1,0 +1,45 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route202>
+	a	...Thing... ;
+	<name>		"""Knarvik-Indregardsfjellet"""@no ;
+	<ingress>		"""Fin tur fra Knarvik sentrum. Fra toppen av Indregardsfjellet (248 moh.) er det flott utsikt over Kvernafjorden, Salhusfjorden og Osterfjorden."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra idrettsanlegget.
+GÃ¥ til den bakerste, store fotballbanen og ta til hÃ¸yre pÃ¥ veien du kommer inn
+pÃ¥. FÃ¸lg veien frem til det andre stidelet. Her velger man stien som gÃ¥r til venstre.
+FÃ¸lg denne stien videre. Ved neste stidelet holder du fremdeles rett frem mot
+venstre. Stien deler seg nok en gang og da holder du til hÃ¸yre mot Aksla. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Etter Aksla kommer det en kryssende
+sti man ikke skal bry seg om. Fortsett bare rett frem nordover mot Stegane.
+FÃ¸lg stien oppover et lite stykke til man nÃ¥r toppen av Indregardsfjellet (248 moh.) Her
+er det flott utsikt over Kvernafjorden, Salhusfjorden og Osterfjorden.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Returner til Knarvik samme vei. Det er ogsÃ¥ mulig Ã¥ forsette videre nordover pÃ¥ stien frem
+til Vidalsfjellet (210 moh.) dersom man Ã¸nsker en lenger tur. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Knarvik i LindÃ¥s kommune. Parker ved
+idrettsanlegget. Man kan ogsÃ¥ ta buss nr. 320 fra Bergen sentrum til Knarvik.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1-1,5 timer i sin helhet, det tar rundt 40 minutter Ã¥ gÃ¥
+opp.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de alle fleste, ta gjerne med barna.
+Turen er ikke tilrettelagt for bruk av trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Indregardsfjellet er et lett
+tilgjengelig turmÃ¥l. Turen har flere utgangspunkt og det mange stier som fÃ¸rer
+frem til mÃ¥let. En kan underveis legge ruten innom tuftene til â€&#157;Gamleskulenâ€&#157;,
+der barna frÃ¥ Ã…se, Isdal og Gjervik gikk pÃ¥ skole fÃ¸r i tiden. Bygningen er
+revet, men plassen kan likevel vÃ¦re interessant Ã¥ besÃ¸ke.&lt;/p&gt;
+&lt;p&gt;(Kilde: Samnanger
+kommune).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e36960d9e4b0.jpg> ;
+	<image_credit>		"""Anna Rehnberg""" ;
+	<created>		"""2011-07-19 12:17:31""" ;

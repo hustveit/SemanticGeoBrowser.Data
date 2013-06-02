@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route180>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/180> ;
+	<name>		"""Myking-Tveitafjellet-Hosanger"""@no ;
+	<length_in_time>		"""300""" ;
+	<length_in_km>		"""7.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-07 13:23:08""" ;
+	<encoded_path>		"""uvqpJmsz`@Ux@OrCKvBk@dEuAnGc@lD_B`DgC`EqD~GGt@DdBNxCTjGC^QXu@m@_ATuBA]_@AVHZR\HXAV{@j@a@He@v@MGA}@KU]b@}AtBCYHs@X]F}@EQ]?QLq@bAoCzFgDjGaBbCgDjFoA?aBnCW?i@z@aAZi@jAEd@}@Ou@|B_@Ng@rAu@`AENe@j@[e@sAa@_Bd@k@Yq@d@Sd@Qd@UDsAlAo@pBFp@Zj@Yt@{A|A}@bBq@Hu@`Ak@d@g@?W`Ay@hDo@zDcDjO_HlHoF`H_EhHo@fBsD~DqDrCcAxBOxCV~D?bDk@bCe@`Am@tDZbCvBtElAbDb@?rA|Bv@nITd@Rj@k@lBm@lANzA\d@JSrAw@z@`@v@Nn@w@~@rBRJ?`BIp@e@pA]jEFz@bBrBf@d@j@bDdA|At@rBrAz@@t@kBeAONTd@rA|AzBzAxAv@dDfAx@KRIRBBv@g@TmA?mA?}@jA_@|At@bCv@|Ad@bCAjANp@rAtEP^v@?Vp@gCnJg@hDeA`A_DtJuBlGoElGOfBKbCoC~DwBlCq@?aCzE""" ;

@@ -1,0 +1,13 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route158>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/158> ;
+	<name>		"""Svartediket ââ‚¬â€œ Bergensbakken"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""4.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-06-24 12:53:12""" ;
+	<encoded_path>		"""{{poJ{nv_@CEIFo@Xa@Fq@Lu@Cy@?iABo@Fy@Dg@Gg@[SMIOi@g@CCKQK[[_B]{@MKg@iAUoAc@gA}@_Bk@m@g@c@c@a@Y_@K[q@mBUqAc@{Af@qAa@}@UiBc@m@EEg@Wi@Mu@_@C?KCCA_@_@UQ_@cAIWIg@Ki@UqAEIMYGCGGWWSa@W]K?Go@OWSoAMIYAE[A_@BSN{@GOm@eAMOUO]w@Hs@@KAS?]VaAFi@?KCWIGo@yAO[WQQW{@[c@s@AQ?UD}@AUF_@Nc@Ge@QmAg@{@Ma@O_BKmA@In@kBb@eBJ{ADqAd@sAL_Ab@gANw@Ta@p@o@RkAAQESBD[aA[j@W`BkB`Aa@QOgAPyBDq@e@cBUUyAFiA?cDbCqC|A{CMy@UeAf@{A`AcA|@_ACqAv@o@?m@XeCQwB_BoEs@cD\_GY}Eu@wBg@eCaAsCk@sC^yB]Il@SfASv@_@Gm@n@s@Ek@Fm@d@wAp@w@nAkA~D}@tD?l@e@nAo@Xa@r@W~A[zAExBYrBe@zCk@nDlAl@jBjC""" ;
+	<routes_spots>		"""http://__thing_place_uri__76""" ;
+	<routes_spots>		"""http://__thing_place_uri__60""" ;

@@ -1,0 +1,28 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route197>
+	a	...Thing... ;
+	<name>		"""FlatÃ¸y-HÃ¥Ã¸ytoppen"""@no ;
+	<ingress>		"""Bare en halvtime unna Bergen sentrum finner du HÃ¥Ã¸ytoppen. Flott tur med flott utsikt!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne familievennlige turen begynner pÃ¥ FlatÃ¸y i Nordhordland, en halvtimes kjÃ¸ring fra Bergen sentrum. GÃ¥ gjennom omrÃ¥det til betongblanderiet som ligger like ved E 39. Stien starter pÃ¥ baksiden av anlegget. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;FÃ¸rste delen av turen gÃ¥r gjennom skogkledd terreng. Underlaget veksler mellom tÃ¸rr sti og bart fjell. Noen vÃ¥te partier underveis, men de fleste er â€&#157;brolagtâ€&#157; med tÃ¸mmerstokker eller planker. Stien fÃ¸rer frem til et stort gresskledd friluftsomrÃ¥de, som egner seg glimrende til grilling og andre aktiviteter. Her er slengdisser, brygger og toaletter. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra gressmarkene slynger veien seg opp mot HÃ¥Ã¸ytoppen (171 moh.). Turen gÃ¥r gjennom frodig blandingsskog, som ogsÃ¥ er rik pÃ¥ hassel. HÃ¥Ã¸y er gammelt militÃ¦rt omrÃ¥de, og pÃ¥ toppen er det rester av kanonstillinger. Flott utsikt mot Bergen, OsterÃ¸y og fjorder og fjell i Nordhordland. Retur samme vei, ned fra HÃ¥Ã¸ytoppen tilbake til utgangspunktet ved betongblanderiet. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er enklest Ã¥ komme til Meland med bil. Det tar en 25-30 minutters kjÃ¸retur fra Bergen sentrum. KjÃ¸r over Nordhordlandsbrua og fortsett i retning Knarvik. Stopp ved Norbetongs anlegg pÃ¥ FlatÃ¸y. Parkering pÃ¥ utsiden av betongblanderiet. Noe begrenset med P-plasser. kommer man via bÃ¥t kan man legge til kai pÃ¥ HÃ¥Ã¸ya, der det er gode fortÃ¸yningsmuligheter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 2 timer. Selv om selve turen er noksÃ¥ kort, gjÃ¸r omgivelsene og friluftsomrÃ¥det den velegnet som sÃ¸ndagsutflukt, ikke minst for smÃ¥barnsfamilier. De spreke kan tilbakelegge turen pÃ¥ halvannen time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti sÃ¥ den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. Det kan blÃ¥se friskt pÃ¥ toppen, sÃ¥ vindtett tÃ¸y kan vÃ¦re en fordel. Fjellsko anbefales.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SÃ¦bÃ¸ (1:50.000, Statens kartverk). Turkart/brosjyre utgitt av Meland kommune/Bergen og Omland FriluftsrÃ¥d (www.bof.no).&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e201b932f9b5.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-15 12:50:37""" ;

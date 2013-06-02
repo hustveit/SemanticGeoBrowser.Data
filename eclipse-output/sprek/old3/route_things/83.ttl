@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route83>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/83> ;
+	<name>					"""Bønestoppen - Gullsteinen - Løvstakken"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""3.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-04-13 09:05:32""" ;
+	<encoded_path>		"""_ogoJsgj_@??Ok@w@w@YO]U[WYa@Sq@My@Ye@[@[F[K[EYO[EYK[OSi@Y[YWYUYYWYYa@YWWc@Ua@Se@Ug@Ya@]YYS[W[S]A]IYK_@EAu@ZC\EZEX]ZWX[^YZQV[E{@Os@Au@ZE\KNu@Nq@Vc@XYIq@WZYX[A[B[@[QWY[OWa@Sa@W_@Wc@Wg@Qe@Ug@Se@Si@W_@Wa@Ku@Gw@Ue@[A[E[CY@[K[A[OY[Y[[UYWOi@[G[MW]]C]FYQ[U[CYA]EYHOq@Qo@[K[AYH]?[OYEW[]I_@A]A[@[H[AY[YU[BYa@[K[BYK[SQo@Qi@E_AMq@Iy@Gu@[[Ug@[GYK[@c@@[F]D[A[G_@H]?W][]YOYUQq@Ku@Yc@[C]?YQUa@So@W_@]OW[[A[D]AW_@Se@Oq@WYKs@Kq@I{@Ku@Gw@Kq@[W[I[G[C[C[I[GYY[C]D[SYSOs@Gw@W]WYUb@[T[C]C[?[@Sf@[NU\YNSh@WTYV]L[HYQOm@Om@Is@YUMm@Wa@YWYKW^U^YUSd@[E[BYL[?U`@Uf@Sh@Wb@S`@Sh@]VWV[R[VY\Qj@[P]PYH??""" ;

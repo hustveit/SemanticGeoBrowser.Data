@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place156>
+	a	...Thing... ;
+	<name>		"""Ormhilleren friluftsområdet"""@no ;
+	<altitude>		"""20""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/4483910> ;
+	<gowalla_lng>		"""4.921052883""" ;
+	<gowalla_lat>		"""60.4942064""" ;

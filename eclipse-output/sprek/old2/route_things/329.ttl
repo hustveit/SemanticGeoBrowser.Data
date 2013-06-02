@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route329>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/329> ;
+	<name>		"""Svartediket ââ‚¬â€œ Blåmanen"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""6.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-02 10:56:57""" ;
+	<encoded_path>		"""sfqoJmmv_@[Z{@NuA[mAq@u@sCiAsCcCcHsDcDy@yDu@_C?qA`@aAGaAeAwAgAAe@w@qBIOk@Hk@OwAy@q@}AoEoA{EYwAWk@_@UW{@?sBi@eFm@cB}@kAo@uEq@oD?aA`AwGPgADyCf@gBv@_DJY`@gAj@{@NaAKk@OUME_@jAOv@mA`Ag@?YaAGw@XgBKwAa@aAk@CkABY?eAJUTw@d@cA`AeAj@m@d@sA?wAOe@EA?c@?[Pe@b@g@N]^c@l@[LM?]KQAk@Ha@b@]NU?y@NMH}@A?EsAc@gAy@gAOiA[yAUo@?mAZgBNwBOkCk@{A?YUgBEcAe@qAy@eBk@_AE}@RyAFw@?y@[IGg@bCKb@e@?s@r@e@?QvAVdBb@xC?x@Ej@UlBDx@IjCC\TfAGvAJNUfDETyA|Ac@j@a@lBc@lBA`AObBt@U^U^`Ad@bBXlB`AlBNjAn@t@t@?h@lAzAbCd@HpB`An@j@z@?~@`@~@vATj@?lB`BKhA?z@Jt@?zAa@dBUz@?x@Iz@a@dAaBt@UHk@^?j@H??HbBTvBIdD[`Bi@bDOj@Kj@o@TeAxBkAlBy@vAq@j@z@j@t@?n@j@j@Ht@TRJdAa@zB`AfCmB~A_@zBaAd@Kd@??j@k@vATxBT`AIt@u@jA{@lBk@j@CTUUeA`@o@^""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route263>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/263> ;
+	<name>					"""Fromritoppen og Storevardhaugane"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""2.2""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 09:55:48""" ;
+	<encoded_path>		"""gihpJii{]gAj@w@hCa@j@q@hD_AlGc@j@_@`A]x@m@bC_@d@qAjBk@Tg@Fm@?c@UaEc@uBc@q@G?uBl@sMh@qF\y@z@yCxA{@`A[jBMjEO|C_DMiD]k@cB{Bt@qFp@eEj@cCPwAlAqC^}A|@iA|A`Ah@{BbALxAeE\{Bb@uBfAT""" ;

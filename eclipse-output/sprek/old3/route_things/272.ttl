@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route272>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/272> ;
+	<name>					"""Eldsfjellet"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>			"""2""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 10:49:44""" ;
+	<encoded_path>		"""yzupJy}v]P|ABzBg@vDWpCGfBCZs@?eA?QgAFuBMuBe@gBe@_EYgD[qCk@qC_@kCq@eBUwDUgDQyC_A_Bc@eBgAy@uAeByAiAkBiAmAq@eAk@i@UoA{@u@wAu@eBWcCc@mBUeB_Ac@y@]uA?yAzB_BTkAU}@q@UgBeAyHo@mBu@qC""" ;

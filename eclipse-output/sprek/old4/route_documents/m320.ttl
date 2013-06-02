@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike320>
+	a	...Thing... ;
+	dct:title				"""Kvamskogen ââ‚¬â€œ Byrkjefjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Frå Walemtunet følgjer ein grusvegen flatt nordvestover i hyttefeltet og vidare vegen oppover lia mot nord. Der vegen sluttar dreiar ein til høgre og går opp til øvste hytta og finn ein sti. Stien er ganske tydeleg i starten, men er ikkje merkt og blir mindre tydeleg etter kvart. &lt;br&gt;Rett bak hytta går ein opp eit berg, så over ein myr og opp på fjellkanten vest for Tryglakleivtjørnane. Herifrå dreiar ein nordvestover mot toppen. Det går ganske bratt oppover i 400 høgdemeter på umerkt sti opp til høgd 996 m.o.h. Så flatt bort til siste kneika opp til varden på Byrkjefjellet, 1.046 m.o.h., der ein får god utsikt over Kvamskogen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Denne turen startar like aust for høgste punktet på rv. 7 over Kvamskogen. Det er mogleg å parkera ved Walemtunet.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Gode klær og fjellstøvler bør være med på denne turen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart&lt;/b&gt;:&lt;br&gt;Kartblad: Norheimsund 1215 I&lt;br&gt;Turkart: Kvamskogen og Bergsdalen&lt;br&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eaeb6215ee8c.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-10-31 15:52:17""" ;

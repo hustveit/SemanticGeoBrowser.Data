@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route336>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/336> ;
+	<name>					"""Grimen ââ‚¬â€œ Haugo"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""4.4""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-11-03 13:12:18""" ;
+	<encoded_path>		"""ysioJ_~``@UlAQxAElBBvAKLUl@Il@GJA?QgAQcAc@mBe@uBQo@e@uAGESA]IQk@_@gAw@}BQ]GYKw@i@{@M[Wk@k@eBi@wAUc@a@kAQWGUWOM]IY]i@GIW]s@}Ao@{Ae@eA[m@Qy@[]]g@W[W}@c@s@_@eAe@o@c@k@g@o@_AoAe@oAeAy@u@_A_AoAq@kA[s@s@?]y@e@c@a@KSj@K~ASxA]h@w@Ri@Qu@Uy@m@s@Ki@Cy@Bq@Xw@Fi@?{ASe@Q_B\cALWIeBTy@?W?_Aa@uACcBMkAUoAUuDs@i@q@YmAa@mBm@mB]_@eCcCoBeBeBsA_Ao@cB{AeAiCgAwDw@gEgAyGJgBMyCm@cCk@uDUeE{@gJ[_DoB_BoCwAcBUiC\yD?yBwAkCqCuB_BkBmBk@k@gAU_@c@UwAc@e@i@d@YLB`A""" ;

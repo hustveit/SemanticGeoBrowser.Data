@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place88>
+	a	...Thing... ;
+	<name>		"""Maritime Colours"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-05-20 12:17:51""" ;
+	<modified>		"""2011-06-17 14:47:37""" ;
+	<gowalla_name>		"""Maritime Colours"""@no ;
+	<gowalla_description>		""" """@no ;

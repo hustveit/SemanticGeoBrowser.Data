@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route231>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/231> ;
+	<name>					"""Indre Sædal-Turnerhytten-Landåsfjellet"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>			"""9.3""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-29 12:39:31""" ;
+	<encoded_path>		"""k{ioJgsx_@}@q@oDyCP{BoBgBSeBg@oA_C_Ew@cHoCiLf@oAyAeB{GmEmAq@aG~CqK}LYwAi@{@y@y@uBc@m@wAgAaA_ATkAy@}@wAcA]kBuBiAoAu@?]eBg@M_CwDyAUDgDx@aDnAUUk@m@k@}BEu@aAk@k@mAZmC~AmGr@}Bp@eCaAiB?eCb@gA}AgA_GQkFq@_Dm@yCc@y@q@?aAoDQkAtAoEEoEdA{DEmCOmAqDkAkCyBeAaCOcCe@}FvB}G~A}I`CqFjDHjCUvEbBvDa@~@xCtAbBdBKzCk@jAdD^KvBlCpDkBhBk@z@KjBk@pCj@~AaArCIpA`BpF`@tCw@vBIRT{CbDkAlBkDdE{AnEuCbCd@xBEjADnE_@fF^_Da@~CLbEbA_@vCUtDvAlAmBtAqAv@wAxAp@HvBThDWbCmA`AoC|BQbCCtExAvA~CzEbA[R`@YfA{@NNj@bBKdBe@F`@S^U`AFt@x@{AfBXh@DTp@_ANOj@BvA|AbHrBbCbErCzBKlBD`A|A^E_@}AsBiD_BcCAe@d@OfAZ`An@hCz@dC_@tAz@r@pAhD`A""" ;
+	<routes_spots>		"""http://__thing_place_uri__51""" ;

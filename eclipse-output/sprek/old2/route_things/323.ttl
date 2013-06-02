@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route323>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/323> ;
+	<name>		"""Vassteigen-Knappenfjellet"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""0.9""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-01 14:05:34""" ;
+	<encoded_path>		"""wrfoJmrb_@L`AT??ZLdAT`@b@p@b@Jf@Uj@Qj@?\~Cr@dDbAt@~@LjAr@\LtAbB|A`B|@hBb@hASKp@r@RFf@Z`@h@pATbBmBfBw@""" ;

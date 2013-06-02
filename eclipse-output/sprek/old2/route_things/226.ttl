@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route226>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/226> ;
+	<name>		"""Fløisvingene-Fløyen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-28 12:19:00""" ;
+	<encoded_path>		"""odsoJsto_@Oq@QAWODUVgAA[Sf@_AfAGAr@aBCKIGc@`@@QRm@EIa@l@QIp@eAr@sAMQo@z@?[Vy@m@j@JcATkAKu@Cm@Xe@t@Wz@iCx@mBVqAQ[iAfBa@p@IUBUCMOGCi@{BrAg@DIu@YUwATIJiBlAEg@dBeBbBqClCcDfAu@xBcBpA{A~@yCZwBFc@iAx@qApBo@Yk@TJc@fAmBd@cCT]Ei@w@n@o@hAq@r@c@bAEWp@uAb@qBdA{Ap@{@Ho@IA_Ap@{AhBYlBSAXuB|@cBz@qAZgADw@Pg@@UYPq@|BqCnDuAlCyA`Az@sBp@qBTkB~@kDp@eBd@qDDc@n@_AfAq@|@i@b@uBp@mBFEXjCHbA""" ;

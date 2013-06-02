@@ -1,0 +1,13 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route52>
+	a	...Thing... ;
+	<name>		"""Bergheim - Kolbeinsvarden"""@no ;
+	<ingress>		"""Opplev Askøys høyeste punkt! Ta turen fra Bergheim til Kolbeinsvarden. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Rutebeskrivelse:&lt;br&gt;&lt;/strong&gt;Har du barna med anbefales å starte fra fotballbanen på Bergheim. Der er det ikke så bratt stigning, sammenliknet med alternative ruter til toppen. Stiene er godt skiltet. Turen går i et vått terreng. Det er lagt ut broer på de fleste myrene, men det er likevel ganske vått noen steder.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Man får en fantastisk flott utsikt når man kommer opp på toppen av 
+Kolbeinsvarden. Selv om toppen ikke er mer enn 231 meter høy, ser du det
+ åpne havet i vest, Fedje i nord og et godt stykke innover Bergensdalen 
+mot sør.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tilkomst:&lt;br&gt;&lt;/strong&gt;Kommer du med buss, tar du buss 492 til ÃËœvre Kleppe, og hopper av ved Bergheimveien. Du kan også ta buss 481-499 til Kleppestø, og gå 1,5 km opp til Bergheim. Kjører du bil er det flere parkeringsplasser på Bergheim, eller så kan du parkere ved Askøy videregående skole.&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;Tidsbruk:&lt;br&gt;&lt;/strong&gt;Hvis du har barn med deg, vil du bruke rundt to timer på hele turen. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Passer for:&lt;br&gt;&lt;/strong&gt;Denne turen passer for alle med normal god kondisjon.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Utstyrsbehov:&lt;br&gt;&lt;/strong&gt;Vestlandsk kystterreng er ofte vått, spesielt etter regnvær. Det er noen myrer du må forsere på turen. Vi anbefaler derfor vanntette tursko eller støvler, man vil bli våt i joggesko. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Kart:&lt;br&gt;&lt;/strong&gt;Statens kartverk, Bergen 1115 I, 1:50.000 &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dbfc28584ebe.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-03-21 14:45:40""" ;

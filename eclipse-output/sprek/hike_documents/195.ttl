@@ -1,0 +1,48 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike195>
+	dct:title				"""Frotveit ââ‚¬â€œ Solbakkefjellet"""@no ;
+	sf_ont:ingress			"""Solbakkefjellet er navnet på fjellryggen som ligger mellom Bontveitvegen og Hauglandsdalen. Området er lite kjent, så mange vil derfor bli positivt overrasket over denne turen."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Like før Frotveitvatnet (265 moh.)
+ligger en stor driftsbygning på venstre side av veien. Stien starter bak
+bygningen og er litt svak i begynnelsen. Den går gjennom et lite skogholt, en
+grind i et gjerde, og herfra blir stien godt synlig og lett å følge oppover
+fjellryggen i sørlig retning. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Terrenget flater ut etter hvert som man
+kommer opp i høyden. Oppe strekker den flate ryggen seg flere kilometer i
+sørvestlig retning. Her oppe har man nydelig utsikt fra Folgefonna i øst til
+havet i vest. Høyeste punkt er 457 moh. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra toppvarden forsetter turen i
+sørvestlig retning. Et par hundre meter lenger fremme deler stien seg, hold til
+høyre. Stien strekker seg nedover Kjerringaskaret. Strekningen gjennom
+Grøndalen går gjennom skog i myrlendt terreng som kan være noe bløtt i
+regnværsperioder. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Denne turen kan gås begge veier. Det går
+buss til Frotveit på hverdager. Dersom man vil bruke bil, er det en løsning å
+slå seg sammen med andre og sette en på Frotveit og en på Kalandseidet. Man kan
+også snu på toppen og returnere til utgangspunktet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dette er en topp som gjør det litt tungvint å velge noe annet enn bilen. Fra Bergen kjører du over Vallaheiene til Kalandsvannet og tar til venstre mot Bontveit. Så kjører du i rundt seks kilometer inn til Frotveit (250 moh.). Der kan du parkere ved en gård. Stopp når du ser et hønsehus på høyre side og en dobbel rød garasje på venstre side. Start her eller evt litt lenger nede ved skiløypen. Ikke så lett å finne starten, men spør folk i nærheten. De hjelper deg gjerne. Du kan også stoppe ved Gimmeland og går turen opp derfra. Det er omtrent like langt. Begge ruter er godt merket, men det gjelder å starte på riktig sted. &lt;br&gt;&amp;nbsp;Man kan også ta buss nr. 73 fra Kaland til Frotveit.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar en knapp time hver vei hvis du er kjapp på foten. En familie kan fint bruke halv dagen hvis de stopper og koser seg underveis. Litt bratt i begynnelsen, men ellers fint og nesten flatt frem mot toppen. For dem som trener hardere er det jo perfekt å sykle inn, gå kjapt opp på Solbakkefjellet for deretter å sykle hjem igjen. Du vet du er på toppen når du ser den store varden der oppe. Den er relativt gjenkjennelig. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen passer for så godt som alle. Kanskje litt langt for de aller minste, men overkommelig for de fleste. Barnevogn er ikke noe alternativ på denne turen. Husk at mobildekningen innover her kan være dårlig&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Lette turklær, men husk at det er bløtt i terrenget i begynnelsen, så ta med noe kraftigere enn joggesko. Skal du ha mat på turen, ta med matpakke. Ikke en kiosk på mils omkrets her.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gullfjellet turkart( 1:25 000), O-kart
+Solbakkefjellet (1:15 000), FANA ILs o-kart Frotveit (1:15 000), 1115 I Bergen
+(1:50 000), 1215 IV Samnanger (1:50 000).&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e1ff53c420da.jpg> ;
+	sf_ont:image_credit		"""Pensjonistgruppen Bergen Turlag""" ;
+	dct:created				"""2011-07-15 10:07:24""" .

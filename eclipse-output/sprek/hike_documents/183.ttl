@@ -1,0 +1,39 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike183>
+	dct:title				"""Lysøyen, rundtur"""@no ;
+	sf_ont:ingress			"""Opplev kystnatur på de behagelige skjellsandveiene på Ole Bull sin nydelige øy."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Museet Lysøyen. Følg stien ned mot kaien og ta første sti opp til venstre. Hold til høyre å gå på østsiden rundt tjernet. Man går på en nydelig skjellsandvei hele tiden og det er en lett og logisk rundtur på øyen. Når man kommer rundt til vestsiden passerer man Lysevågen. Dette er en populær lagune for seilbåter, så på sommerstid er ofte flere stilige seilbåter å se på. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Følg stien opp fra Lysevågen og ta til venstre på nordsiden ved tjernet. Stien tar deg så frem til det høyeste punktet på Lysøyen. Her kan man klatre opp i tårnet og skue utover Drange og Lysefjorden. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Den siste delen av turen fører deg tilbake til museet fra vest siden. Turen kan gjerne kombineres med et besøk på museet. Det er også fin skjellstrand ved kaien som det er kjekt for både store og små å bade på. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fra Bergen kan du kjøre over Fanafjellet eller du kan kjøre via Nesttun til Søfteland og ta av til Lysekloster over Langeskogen. Det er parkeringsplasser på Buena Kai. Buss nr. 62 går fra Lagunen (Rådalen) til Buena kai.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For å komme til Lysøyen må man ta båt. Skyssbåten "Ole Bull" har timesavganger fra Buena Kai. Mandag - lørdag: kl. 12.00, 13.00, 14.00, 15.00 Søndager: kl. 11.00, 12.00, 13.00, 14.00, 15.00, 16.00. Billettpriser (tur/retur): Voksne kr. 60,- Barn kr. 30,- (Gratis med Bergenskortet).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1 time. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. Turen går på skjellsandvei som kan benyttes med trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Museet på Lysøya er åpent Alle dager kl 12.00-16.00 og Søndager kl 11.00-17.00 mellom 18. mai - 31. august. Ãâ€¦pent på søndager i September.&lt;br&gt;&lt;br&gt;Da Ole Bull lot oppføre villaen på Lysøen, på 1870-tallet, satte han samtidig i gang et arbeid med å anlegge turstier rundt omkring på den 700 mål store øyen. Dette nettet er en blanding av opparbeidet gangvei og godt holdt skogssti, og har en samlet lengde på 13 kilometer. Fra første dag ble skjellsand benyttet som underlag. Det var ifølge Ole Bull for at ingen skulle trå feil i sommernattens halvmørke. Og ny skjellsand kjøres på hvert eneste år.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ole Bull kjøper Lysøen i 1872. Ãâ€¦ret etter er villaen klar for innflytting. Trær plantes og veier anlegges. Ole Bull dør på Lysøen 17. august 1880. Eiendommen tilhører nå Bulls datter Olea. Bulls amerikanske etterkommere fortsetter å bruke Lysøen, og holder eiendommen i bra stand. Sylvia Bull Curtis, Ole Bulls datterdatter, gir Lysøen til Fortidsminneforeningen i 1972. Villaen blir museum og hører i dag inn under Kunstmuseene i Bergen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;På Buena kai ligger det nærbutikk som har åpent til klokken 20 på hverdager og til 18 på lørdager. I sommersesongen har butikken søndagsåpent.Det er også en kafe på Lysøyen som er åpen samtidig som museet&amp;nbsp; i sommersesongen. Her kan man kjøpe kaffe, brus, is og vafler.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veg- og turkart Os (1:25 000), 1115 I Bergen (1:50 000), 1115 II Austevoll (1:50 000).&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e3133df22c91.JPG> ;
+	sf_ont:image_credit		"""Christina Laastad""" ;
+	dct:created				"""2011-07-08 14:30:15""" .

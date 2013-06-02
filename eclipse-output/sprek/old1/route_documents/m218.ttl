@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route218>
+	a	...Thing... ;
+	<name>		"""Byrkeland-Stongfjellet"""@no ;
+	<ingress>		"""En fin og litt bratt fjelltur som passer spesielt bra for spenst og kondisjon. Flere lokale bruker denne ruten til Ã¥ trene. """@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter ved Byrkeland. FÃ¸lg veien sÃ¸rÃ¸stover et lite stykke fÃ¸r man tar av pÃ¥ stien til venstre. FÃ¸lg stien oppover mot Grasdalen. Stien er enkel Ã¥ fÃ¸lge, men litt bratt og svingete. PÃ¥ toppen er det et par smÃ¥ tjern, her er det flott Ã¥ ta en rast mens man nyter utsikten. Utsikten fra Stongfjellet er flott og du kan skue ut over flere andre fjell pÃ¥ Ã¸yen.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Returner samme vei. man kan ogsÃ¥ fortsette ned til Ã¸stsiden om gÃ¥ rundt Storavatnet pÃ¥ veien tilbake til Byrkeland. Se: &lt;A href="http://tur.bt.no/tur/219"&gt;Stongfjellet, rundtur&lt;/A&gt;.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til Byrkeland som ligger i OsterÃ¸y kommune. Det er ingen avsatte parkeringsplasser, sÃ¥ utvis hensyn nÃ¥r du parkerer. Det gÃ¥r ingen busser til Byrkeland.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 1 time. De raskeste lÃ¸per opp pÃ¥ 30 minutter.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste, ta gjerne med barna. Turen er ikke tilpasset bruk av trillevogn eller rullestol. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter vÃ¦ret. Benytt gjerne gode fjellsko. Skal man lÃ¸pe opp vil det vÃ¦re bedre Ã¥ benytte robuste joggesko.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2e7e716d9a8.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-26 10:32:29""" ;

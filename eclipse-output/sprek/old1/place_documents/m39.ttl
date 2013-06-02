@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place39>
+	a	...Thing... ;
+	<name>		"""Lyderhorn"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Lyderhorn er det vestligste av Bergens sju fjell og rager 397 meter over havet. Uansett angrepsvinkel er fjellet relativt lett Ã¥ bestige. Noen bratte partier sÃ¦rlig mot toppen og oppgang fra sÃ¸r-sÃ¸rvestsiden fÃ¥r fart pÃ¥ kroppens sirkulasjonssystem. Vel oppe er man pÃ¥ et av byens luftigste utsiktspunkt, med nydelig rundskue og upÃ¥klagelig oversikt over skipsleden til Bergen. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc96d9822b20.jpg> ;
+	<image_credit>		"""Roar Christiansen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e044aef0124a.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert ut pÃ¥ toppen av Lyderhorn."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-06-24 10:29:35""" ;
+	<gowalla_name>		"""Lyderhorn (396 Moh)"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,27 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route244>
+	a	...Thing... ;
+	<name>		"""Haganes-LiatÃ¥rnet """@no ;
+	<ingress>		"""Fin tur til Sotras hÃ¸yeste topp."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Haganes i Fjell kommune pÃ¥ Sotra. FÃ¸lg veien fra Haganes nordover. Etter man har gÃ¥tt et lite stykke langs veien tar man inn pÃ¥ stien som gÃ¥r nordover pÃ¥ hÃ¸yre side av veien i svingen rett sÃ¸r for Otrafjellet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;FÃ¸lg denne stien videre nordover. Det er et litt myrlendt omrÃ¥det sÃ¥ vÃ¦re obs pÃ¥ at det kan vÃ¦re blÃ¸tt etter regnvÃ¦r. Etter man har fÃ¥tt Skorafjellet (300 moh.) pÃ¥ hÃ¸yre side vender man opp mot Skogavatnet. FÃ¸lg stien pÃ¥ nordvest-siden av vannet og gÃ¥ opp den siste kneiken til LiatÃ¥rnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Sotras hÃ¸yeste punkt (341 moh.) er det fint Ã¥ ta en rast mens man nyter den flotte utsikten. Mot nord kan man se Alden i Sunnfjord, mot Ã¸st kan man se Byfjellene og i sÃ¸r kan man se TysnessÃ¥to, MehammarsÃ¥to og Siggjo. Ut i NordsjÃ¸en kan man se Trollfeltet. Returner via samme trasÃ©.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til Haganes, som ligger i Fjell kommune pÃ¥ Sotra. FÃ¸lg riksvei 555 til Haganes. Det er ingen avsatte parkeringsplasser sÃ¥ ta hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 450 fra Bergen sentrum til Tellnes skule og derfra ta buss nr. 452 fra Tellnes skule til Haganes. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 2 timer.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti sÃ¥ den er ikke egnet for barnevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Om sommeren gÃ¥r det fint Ã¥ gÃ¥ med joggesko. NÃ¥r det er vÃ¥tt og snÃ¸, anbefales det Ã¥ bruke mer vanntette sko. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Bergen 1115 I, Fjell 1115 IV.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3a587aa3f6b.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-08-04 10:27:10""" ;

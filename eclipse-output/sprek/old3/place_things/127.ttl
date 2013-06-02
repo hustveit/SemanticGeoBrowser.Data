@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place127>
+	a						...Thing... ;
+	<name>					"""Kvernhaugen (Fjell)"""@no ;
+	<altitude>				"""NULL""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/6504231> ;
+	<gowalla_lng>			"""5.0699145""" ;
+	<gowalla_lat>			"""60.333158417""" ;

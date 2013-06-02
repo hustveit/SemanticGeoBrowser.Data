@@ -1,0 +1,33 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route189>
+	a	...Thing... ;
+	<name>		"""Storevardenâ€“Kolbeinsvarden, rundtur"""@no ;
+	<ingress>		"""Dette er en fjelltur pÃ¥ den delen av AskÃ¸y som ses best inne fra byen; opp til Ã¸yens to hÃ¸yeste fjell, Storevarden (217 moh.) og Kolbeinsvarden (231 moh.)."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen gÃ¥r fra Bergheim stadion og fÃ¸lger veien mot Erdal vel 300 meter. Stien, som er noksÃ¥ kronglete, tar av mot nord like Ã¸st for veien til Skogadal og fortsetter nordover til Storevarden (217 moh.). Storevarden var vardefjell i den tiden de brente bauner nÃ¥r fienden nÃ¦rmet seg. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Storevarden gÃ¥r turen videre nordover i kupert og delvis vÃ¥tt terreng. Stien dreier brÃ¥tt vestover mellom to tjern etter ca. 1 kilometer og tar nordover igjen mot Kolbeinsvarden, som er turens hÃ¸yeste punkt med 231 meter over havet. Herfra er det fint Ã¥ raste og storslÃ¥tt utsikt i alle retninger. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Kolbeinsvarden fÃ¸rer sti sÃ¸rover mot Brikafjellet (204 moh.). Derfra bÃ¦rer det bratt ned til veien mot KattatjÃ¸rna. GÃ¥ forbi KattatjÃ¸rna og Trettedalsklubben og fortsett videre Ã¸stover til utgangspunktet (Bergheim). Vannet nedenfor Brikafjellet er Kleppevatnet og Kleppe vannverk. FÃ¸lg stien til du kommer til hovedveien, ta til venstre og fÃ¸lg veien tilbake til Bergheim stasjon.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;For Ã¥ komme til KleppestÃ¸, fÃ¸lger man&amp;nbsp;skilting til Herdla, ta av til hÃ¸yre&amp;nbsp;i veikryss nord for skoleanlegget. Det er parkering ved fotballbanen (unntatt nÃ¥r der spilles kamp). Man kan ogsÃ¥ ta buss nr.484 eller 485 fra sentrum til KleppestÃ¸ terminal og ta buss nr. 493 videre til Ã˜vre Kleppetoppen (AskÃ¸y).&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 4 timer.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste, men er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Gode tursko anbefales. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;Et av de 7 fjell&lt;/I&gt;&lt;/P&gt;
+&lt;P&gt;Storevarden har fra gammelt av vÃ¦rt betraktet som et av Bergens 7 fjell. 7-fjellsturen som arrangeres av Bergen Turlag gikk ut hit. Deltakerne ble brakt over til FlorvÃ¥g med ferge fra Ludebryggen i Sandviken, og returnerte til fastlandet via KjÃ¸kkelvik, med Lyderhorn som marsjens fjerde fjell. Storevarden ble kuttet ut og erstattet med Rundemannen i 1981 fordi fergene ble sÃ¥ store at de ikke kunne gÃ¥ ofte nok og ventetiden pÃ¥ Ludebryggen ble for lang.&lt;/P&gt;
+&lt;P&gt; &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;O-kart Kolbeinsvarden (1:10 000), 1115 I Bergen (1:50 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1d558f4c49d.jpg> ;
+	<image_credit>		"""Gunnar Brynjulfsen""" ;
+	<created>		"""2011-07-13 10:04:47""" ;

@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place108>
+	a	...Thing... ;
+	<name>		"""Dronningen"""@no ;
+	<ingress>		"""Flott turmål for hele familien. """@no ;
+	<description>		"""&lt;p&gt;Storåsen er av lokalbefolkningen på Askøy mest kjent
+som Dronninga. Dronninga var en gammel, stor og flott furu som sto 250 meter
+nord for toppen, men fikk sitt endelige hogg av et lynnedslag. Omkring finnes
+fremdeles furutrær fra samme tiden. Stedet er turmål for Askøyfolk både fra øst
+og vest.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e37b70536ef2.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-06-30 13:41:42""" ;
+	<modified>		"""2011-08-02 10:36:21""" ;
+	<gowalla_name>		"""Dronningen"""@no ;
+	<gowalla_description>		""" """@no ;

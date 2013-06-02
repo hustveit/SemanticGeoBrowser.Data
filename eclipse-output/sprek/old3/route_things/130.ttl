@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route130>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/130> ;
+	<name>					"""Svartediket ââ‚¬â€œ Hardbakkadalen ââ‚¬â€œ Tarlebø"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""10.3""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-06 18:16:59""" ;
+	<encoded_path>		"""aoqoJqpv_@uAuEgBoE_BcDiBmAeAsCw@uDLcDYmByBGCH}AiAUy@o@cBi@qAe@sAg@iAo@eCi@kAg@iAq@sCOgBIyBOmBY}AqEoSj@oGLi@TaCj@_AZ_BHqBZ_BTk@Nw@FkAQo@Yy@Ju@g@iB_@{AWaBa@kB}@eC??w@DiA?jAkB??AsBMiBKiBo@u@W_@q@`Aw@Cu@a@e@i@gAFu@My@Ai@Bo@MUa@Y@Qn@W`Ao@^k@r@u@h@]EWa@o@u@g@iAe@tAq@g@t@Fp@q@b@mA`@yAd@qAp@y@n@{@t@Fp@s@t@Wv@Sl@O@AV[@CZMJAXUTa@Zm@Lo@Lo@?u@Ay@?y@Gs@YUUc@GoA?{@KkAIs@Ay@Cw@Qk@Cw@Kq@Iw@AMAw@?y@?y@@u@No@Du@Cw@YYW[Si@YUU_@]QQg@Oo@Ou@Se@Sc@Om@Mo@Sg@Kq@Is@Qi@Ku@Is@Gu@E}@@{@Du@Is@Gs@A{@Eu@@u@@{@Qi@?S@}@IKYKCAY[Eu@G}@[KYJDx@E\k@n@Ir@Iv@Bt@_@t@Qf@Qj@Ct@CNa@l@Bv@It@It@Ex@@|@M~@Qj@Gr@Oj@Gr@?v@On@Gt@Rh@Nh@Pj@Nl@Fp@Ol@Kp@Ct@Qh@Oj@@v@Hr@Cx@Op@Bx@H`A?v@??B`ABx@@x@Nn@@|@Qn@Gz@Dt@Sh@Sj@Sb@[PYJW\W^YPYNWX[FU`@Ud@Sb@YTWZWT[F]DW[W[a@JYA[G[GYS[AYPYJ[L[JYH[DYT[FYS[CWSWb@It@Oj@Et@Dt@Mp@Uf@u@n@S\On@Sd@Wj@YXWTYVWZW^YOUn@Bx@[g@ZCb@qA[NHjAIx@WdA[VWXYXWVYZ[@[AMr@@x@W\YNCz@Cz@?v@Qf@a@\Jt@Bt@Qj@W`@Oj@HjA??v@v@hCPlBoAdAxC`Et@vBb@`AzA|AkAx@AxAfAxA_BfBeCz@PpBA`BA`Ag@lBNnG~C|CUzBiDnE_BvA`@lBmBjDyJxAs@~AQ`At@hErToG~ZtAtM|AzEjAjGt@rF~CnJbCtGnAxBpB|@dAMTvBJpD|AbIrBx@|@tAvAxDpClIzCbCfBMpA_@pBR|EgA""" ;
+	<routes_spots>		"""http://__thing_place_uri__60""" ;

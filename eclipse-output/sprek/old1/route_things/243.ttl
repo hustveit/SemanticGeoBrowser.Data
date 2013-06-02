@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route243>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/243> ;
+	<name>		"""Davanger-Skottnes, rundtur"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""6.1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-03 15:57:10""" ;
+	<encoded_path>		"""urcpJae`^yA`Bw@hB{@`Ba@x@[J[rA{@pCuCv@_ABuA`AcAs@mAs@eB\gAdBkB[}Bo@mEHfEJ|EvA~AyB`Ck@pCxBfFmBtBgF`CeEh@_AlDgFt@aBh@}Fj@mC?eFdCcCd@cBzCaAbC{AMeJrCgGlBeBdBmBhAaA`ByCQoAz@wArBaA~A_Bb@LxB}A~AaAj@?~@nD^s@[}AtAGfATzAJfAxEbAfGoAxNf@~FdCnD~BfD~GxV|B`LkAvDeDx@iAoAs@?m@eEg@UmAe@cBhBgA@aA~AmAt@w@m@aAaAgAqAkBiBq@f@iCpAsAf@mAdAsAHy@XiDpBo@g@kAqAsAqCo@o@cAUaCPiAy@oCk@e@Fa@C_@\e@Gc@L_ATq@PSAk@J""" ;

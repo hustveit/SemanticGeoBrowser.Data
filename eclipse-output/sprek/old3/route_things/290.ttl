@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route290>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/290> ;
+	<name>					"""Telavåg ââ‚¬â€œ Kjereidet ââ‚¬â€œ Kallestad"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""0""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-13 10:46:15""" ;
+	<encoded_path>		"""""" ;

@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike81>
+	dct:title				"""Tippetue-Fløyen"""@no ;
+	sf_ont:ingress			"""Et fint alternativ opp til utsiktspunktet Fløyen. Passer for både joggere og barnevogner."""@no ;
+	sf_ont:description		"""&lt;STRONG&gt;Rutebeskrivelse:&lt;BR&gt;&lt;/STRONG&gt;Turen starter ved Fløibanens nederste stasjon, fortsetter opp Skansesvingene til Fjellveien. Her følger man skiltingen og en god skogsvei som svinger seg oppover fjellsiden, først i vestlig retning og deretter i en sving mot Fløytoppen. Stien er egnet som trilletur, men er tidvis litt bratt.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tilkomst:&lt;/STRONG&gt;&lt;BR&gt;Du kan ta buss til sentrum eller finne en parkeringsplass i nærheten av Fløibanens nedre stasjon. &lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tidsbruk:&lt;BR&gt;&lt;/STRONG&gt;Det spørs jo selvfølgelig hvor fort du går. Om du jogger, kan du ta turen på 20 minutter, men de fleste vil nok bruke ca 30-45 minutter på turen. Det er ikke langt, men mange høydemeter, så det kan ta tid å komme seg opp til toppen av Fløien.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Fakta om turen:&lt;BR&gt;&lt;/STRONG&gt;Tippetue har sitt navn fra en byoriginal som levde på 1800-tallet. Han het egentlig Anders Olsen, men på folkemunne ble navnet Tippetue brukt. Rundt 1850 gjorde han seg mest sannsynlig bemerket med noen opptredener rundt vertshuset til Breistølen gard. Derfor ble Tippetue adoptert som navnet på et utsiktspunktet på Vindeggen, i nærheten av skjenkestedet. I 1908 besluttet imidlertid Bergens Skog- og Træplantningsselskap å anlegge en Â«skovveiÂ» fra Fjellveien og opp til Tippetue. Â«SkovveienÂ» ble populær og på folkemunne etter hvert bare kalt Tippetue. Etter noen år ble veien ført videre fra Tippetue til Fløistuen.&lt;BR&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4dbfecb7e8a34.jpg> ;
+	sf_ont:image_credit		"""Fred Ivar Utsi Klemetsen """ ;
+	dct:created				"""2011-04-12 08:56:19""" .

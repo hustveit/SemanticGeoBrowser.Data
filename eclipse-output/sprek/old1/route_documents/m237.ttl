@@ -1,0 +1,42 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route237>
+	a	...Thing... ;
+	<name>		"""StÃ¸lane-Pyttane"""@no ;
+	<ingress>		"""Flott tur opp til Pyttane. Veien er asfaltert hele veien opp sÃ¥ det er fult mulig Ã¥ ta med barnevognen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+begynner fra StÃ¸lane i Fjell kommune pÃ¥ Sotra. Ta av fra Erkhovdveien og ta av
+opp mot Nordre StÃ¸lane. Hele turen gÃ¥r pÃ¥ asfaltvei og er veldig lett Ã¥
+fÃ¸lge. Det er jevn stigning langs hele traseÃ¨n. Veien krysser Svartebekken som
+renner ned fra Stemmavatnet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Veien
+gÃ¥r videre opp til Dumpehaugen (180 moh.) fÃ¸r den strekker seg opp mot toppen
+av Pyttane. Her er det fint Ã¥ ta en rast fÃ¸r man gÃ¥r ned igjen. Det er flott
+utsikt og man kan se bort pÃ¥ nabotoppen, LiatÃ¥rnet (341 moh.).Returner via
+samme vei. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r
+til StÃ¸lane i Fjell kommune pÃ¥ Sotra. Det er ingen avsatt parkering, sÃ¥ utvis
+hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 448 fra BildÃ¸y bro til LiatÃ¥rnvegen.
+Fra LiatÃ¥rnvegen mÃ¥ man gÃ¥ 5 minutter til StÃ¸lane.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar rundt 1 time. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for alle, ta veldig gjerne med barna. Turen gÃ¥r pÃ¥ asfaltert vei
+sÃ¥ den er sÃ¦rs godt egnet for bruk av trillevogn eller rullestol, men vÃ¦re obs
+pÃ¥ at turen har en del stigning. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter vÃ¦ret. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e37d1b85b909.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-08-02 12:28:01""" ;

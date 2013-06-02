@@ -1,0 +1,76 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike196>
+	dct:title				"""Fjell festning, rundtur"""@no ;
+	sf_ont:ingress			"""Rundløype som er tilpasset funksjonshemmete. Løypa går gjennom variert og nærmest urørt natur. """@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+begynner fra fv 555. Ta til høyre mot Fjell Festning. Nesten hele turen går på
+asfalt. Det er en jevn stigning på veien opp til platået. Gå gjennom bommen og
+opp til Fjell festning. Langs veien har man Ystaelven på høyre side. Etter litt
+vil man se Gyravatnet også. På venstre side ser man Fjellasåta (173 moh.). &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Herfra går
+turen videre til høyre mot Buskvatnet. følg veien opp til den øverste
+parkeringsplassen før Kanontårnet. Her fortsetter man gjennom en port og følger
+veien videre opp til Kanontårnet. Her er det flott utsikt. Veien går videre
+sørover på en fin grusvei. Følg denne veien videre rett frem og sørover i
+veidelet. Følg veien frem til neste veidele hvor &amp;nbsp;man tar til høyre og kommer tilbake til Festningsveien
+ned igjen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Returner ned samme vei mot fv 555. Vær obs på at nedre bom og hovedport kun
+er åpen i åpningstiden til muset og i arbeidstiden. Dersom du benytter
+rullestol eller trillevogn, er det en alternativ vei inn litt nord for
+hovedveien. Dette er den gamle veien opp til festingen. Er bommen gått ned mens
+man var opptatt med turen, tar man avstikkeren til høyre rett før man kommer
+ned til bommen. Denne alternative veien skal også være tilrettelagt for
+rullestolbruk. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er ca. en halv times kjøring frå Bergen til Fjell festning. Kjør forbi
+kommunesenteret på Straume. Ta til venstre i rundkjøringa etter
+Kolltveit-tunellen. Kjør ca. 2 km forbi Fjell kyrkje til nedre parkeringsplass
+merket ââ‚¬&#157;Fjell festningââ‚¬&#157;. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1 time. De sprekeste kan tilbakelegge turen på 30 minutter.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Turen
+går på vei og er tilrettelagt for bruk av trillevogn eller rullestol. Turen er
+også egnet for svaksynte.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Statens
+Kartverks kart over Fjell 1:50.000.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;ÃËœnsker man å få omvisning på fjell
+festning&amp;nbsp; er det åpent 11:00-16:00 lørdag
+og søndag fra mai til august. Det koster det 60 kroner for en billett. Barn opp
+til 15 år kommer inn gratis, men må være i følge med voksne.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Fjell festning ligger på Sotra vest for Bergen. Festningsanlegget ble bygget
+i 1942ââ‚¬â€œ1945 av den tyske okkupasjonsmakten for å sikre innseilingen til Bergen.
+Fjell festning var en del av Atlanterhavsvollen ââ‚¬â€œ den tyske festningslinja som
+gikk langs Atlanterhavskysten fra Nordishavet til Pyreneene. Etter 1945 tok det
+norske forsvaret over Fjell festning, som en del av Kystartilleriet, og siden
+som radarstasjon.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Forsvaret la ned sin virksomhet i 2004. Samme året vedtok Riksantikvaren å
+frede Fjell festning som et militært kulturminne. Sotra og ÃËœygarden
+Forsvarsforening nedla siden 1990-tallet mye dugnadsarbeid for å sikre anlegget
+og gjøre det tilgjengelig for publikum. De fikk reist et vernebygg over
+kanonbrønnen som fungerer som kafe/forsamlingslokale. Siden 1. januar 2008 har Fjell
+festning vært del av Museum Vest.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;i&gt;Bommene på Festningsveien&lt;/i&gt;
+&lt;p&gt;Festningsveien er stengt for bilkjøring som generell regel. Utenom
+arbeidstid blir hovedporten og nedre bom stengt, uten varsel. Dersom en ønsker
+å kjøre inn på festningsområdet i vanlig arbeidstid uten at en har bestilt
+omvisning/leie, er dette mulig dersom det er ansatte på jobb.&lt;/p&gt;
+&lt;p&gt;(Kilde: Museum vest).&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e204488afb5f.jpeg> ;
+	sf_ont:image_credit		"""Kai Svellingen-Flatekvål""" ;
+	dct:created				"""2011-07-18 11:42:47""" .

@@ -1,0 +1,26 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route201>
+	a	...Thing... ;
+	<name>		"""Lona, rundtur (BrekkelÃ¸ypa)"""@no ;
+	<ingress>		"""Kjekk liten rundtur i Lona, kun 5 minutter fra Knarvik sentrum. Tilpasset for bruk av rullestol og trillevogn."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra idrettsanlegget. GÃ¥ til den bakerste, store fotballbanen og ta til venstre pÃ¥ veien du kommer inn pÃ¥. FÃ¸lg veien langs vÃ¥tmarksomrÃ¥det. Vannet i midten heter Lona. FÃ¸lg veien helt til stiskille. Her gÃ¥r du til hÃ¸yre inn pÃ¥ gangveien som krysser en elv. Den fortsetter ned vÃ¥tmarksomrÃ¥det pÃ¥ motsatt side. FÃ¸lg stien helt veien til du kommer frem til Idrettsanlegget igjen. Det er plassert ut benker langs hele ruten og det er mulig Ã¥ fiske i Lona.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Knarvik i LindÃ¥s kommune. Parker ved idrettsanlegget. Man kan ogsÃ¥ ta buss nr. 320 fra Bergen sentrum til Knarvik.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 30 minutter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. Turen er tilrettelagt for bruk av trillevogn og rullestol. Denne turen passer for alle aktiviteter, man kan sykle, jogge eller spasere.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kvassnesstemma er et vÃ¥tmarksomrÃ¥de sentralt i Knarvik, kun 5 minutter fra Knarvik Senter. Rundt vannet er det laget en sti som er fremkommelig for rullestolbrukere. OmrÃ¥det har et rikt fugleliv, og det skal vÃ¦re mulig Ã¥ fÃ¥ fisk for de som er tÃ¥lmodige. Det er satt opp benker rundt vannet.&lt;/p&gt;
+&lt;p&gt;(Kilde: Samnanger kommune).&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e254903e9b94.jpg> ;
+	<image_credit>		"""Odd E NerbÃ¸""" ;
+	<created>		"""2011-07-19 10:59:03""" ;

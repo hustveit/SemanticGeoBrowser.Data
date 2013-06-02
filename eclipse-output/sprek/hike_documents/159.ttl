@@ -1,0 +1,48 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike159>
+	dct:title				"""7-fjellsturen i Ãâ€¦sane"""@no ;
+	sf_ont:ingress			"""En fin og variert rundtur med flotte naturopplevelser og fantastiske utsyn til fjord og hav."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 1: Toppenipa&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter og slutter ved Toppe senter. Fra Toppe senter går man opp veien Solsmittet. Ta til venstre når den møter Toppevegen og igjen til venstre ved første veidele, som går opp til bolighus. Ved huset finner du oppgangen til turens første fjell, Toppenipa (232 m.o.h.). Stien går bratt opp langs fjellkammen i østlig retning. Dette er turens laveste topp, men fjellet utmerker seg som et godt utsiktspunkt mot vest og de nære utbyggingsområdene på Toppe og Mjølkeråen. Fortsett langs fjellkammen mot øst på tydelig sti ned til dalsøkket mot Toppefjellet. Følg stien videre mot sør ned til Toppe Gartneri.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 2: Geitanuken&lt;/i&gt; &lt;/p&gt;
+&lt;p&gt;Like øst for det største veksthuset følger man en gårdsvei ned forbi tunet til Søre Toppe, og krysser dalen langs en traktorvei. Følg sti videre mot sørvest, opp forbi en liten hytte og videre oppover i åsen gjennom et plantefelt. Ved stiskillet går man mot sørøst. Oppe på kammen treffer man en tydelig sti, som følges mot øst opp til toppen av Geitanuken (305 m.o.h.). Utsikten er praktfull. Vestover ser man mot Byfjorden, Askøy, Sotra, ÃËœygarden og videre ut i havet. Mot sør ser man til Eidsvågneset og innover mot Byfjellene. Fra nord vinker de andre seks fjellene velkommen. Det majestetiske Høgstefjellet peker seg allerede ut som særlig attraktivt. Mot øst skuer man det nye Ãâ€¦sane med boligblokker og butikksentre. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 3: Ulsetvarden &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Følg samme sti tilbake mot vest; etter et par hundre meter er en pil malt på fjellet og denne peker mot nord. Stien er tydelig, men noe bløt. Den krysser dalføret og fortsetter til Ulsetvarden (288 m.o.h.) som særlig kan by på oversikt over Ãâ€¦sanemyrene, Nyborg og Flaktveit mot øst. Fra Ulsetvarden følges god sti nedover langs kammen mot øst. Lengst nede på kammen dreier du av fra hovedstien rett ned mot nord og følger mindre oppgått sti over myrområdet Vassholet fram til Salhusvegen i østenden av Ulsetstemma. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 4: Høgstefjellet &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Følg Salhusvegen vestover et par hundre meter. Stien til neste fjell går opp ved en kommunal lagerplass på nordsiden av veien og det bærer fint og luftig opp langs kammen på østsiden av Mardalen. I løpet av en forholdsvis kort strekning går det raskt oppover til Vardfjellet (356 m.o.h.). Stien fortsetter langs kammen mot nordvest, følger så et lite dalføre langs østsiden av Midtfjellet, direkte til Høgstefjellet (466 m.o.h), som mange mener er det mest majestetiske fjellet i ytre Ãâ€¦sane, med særlig luftig utsikt mot sør og vest. Stupene ned mot Baugtveit og Baugtveitstemma kan gi noen hver et sug i magen. Granitten i nordre delen av Bergensbuen bremser for vegetasjonen og gir god høyfjellsstemning. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 5: Veten&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Stien videre er imidlertid trygg og god og følger kammen ut mot Baugtveitstemma, først i nordlig og så i vestlig retning. Lengst nede på kammen dreier du så mot nord og kommer rakt inn på god sti mot øst langs åskammen som går parallelt med Rimmaskaret. Denne stien fører ned til den gamle postveien gjennom Rimmaskaret like før den siste bratte nedstigningen til Melingen. Følg postveien nordvestover et par hundre meter til du finner en tydelig sti mot nord. Dalselva krysses før stien fører opp mot toppen av Veten (486 m.o.h.). Veten er turens høyeste og nordligste punkt med et interessant utsyn mot storslått fjordlandskap og store deler av Nordhordland.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 6: Tellevikafjellet&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Fra Veten følges stien tilbake vel hundre meter. Her dreier man inn på ny sti i vestlig retning langs kammen over Olsrinden og kommer ned til Falkangervegen ved Sætre. Følg veien til Sætregården. Mellom låven og våningshuset går stien opp mot sør gjennom et tett skogholt. Stien er godt ryddet; det er som å gå i en tunnel nesten helt til toppen av fjellkammen, hvor man dreier vestover mot Tellevikafjellet (391 m.o.h.). Også herfra er utsikten upåklagelig, særlig mot vest med fjord og hav. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fjell nr 7: Nordgardsfjellet &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Turen går videre på god sti mot sør langs kammen, til man når nedstigningen mot Baugtveit. Nede i dalsøkket dreier vi nå i sørvestlig retning mot toppen av Nordgardsfjellet (355 m.o.h.). Tellevikafjellet og Nordgardsfjellet har alltid vært populære utsiktspunkt og turmål for Salhus-folk. Det er disse som har ryddet og tilrettelagt trim- og turstier i området. Fra Nordgardsfjellet bærer det bratt ned mot sør, det går tydelig sti til Hitlandsbakkane. Ved bebyggelsen går man østover ned Hitlandsbakkane til Salhusvegen. Herfra følges Salhusvegen et par hundre meter mot vest til krysset ved Slettestølsvegen og videre gjennom tunnelen fram til Toppe senter. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr. 3 går til Toppe. Det er mulig å parkere ved Toppe senter.&lt;br&gt;Bussavgangene er relativt hyppige, men sørg likevel for å ha en bussrute i sekken. Man kan gjerne gå turen i motsatt retning, eller velge ut deler av den.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 7-8 timer, avhengig av tempo og rastetid.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle som er i middels form og som liker lange turer. Turen er uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstur. Benytt gode fjellsko. Husk å ta med nok mat og drikke. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Samlet stigning er ca. 1.300 meter, og total distanse er ca. 20 kilometer. Ikke så langt og høyt som turen over de mer berømte bergenske 7 fjell; derimot en alternativ utfordring for dem som vil bruke litt tid og energi i ytre Ãâ€¦sane. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1115 I Bergen (1:50 000), 1116 II Sæbø (1:50 000), Tur- og Friluftskart Bergen (1:25 000).&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e0835ebee36d.jpg> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-06-27 09:47:08""" .

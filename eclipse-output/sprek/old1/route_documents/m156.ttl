@@ -1,0 +1,50 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route156>
+	a	...Thing... ;
+	<name>		"""AlvÃ¸envatnet, rundtur """@no ;
+	<ingress>		""" Kjekk rundtur i idyllisk terreng rundt AlvÃ¸yvatnet. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rundturen kan starte ved AlvÃ¸en eller
+ved Haakonsvern. Starter du fra Haakonsvern fÃ¸lger du Vassendveien innover til
+du ser AlvÃ¸envatnet. FÃ¸lg stien langs sÃ¸r-vest siden av vannet. Ved stiskillet
+tar du til hÃ¸yre inn pÃ¥ Myrastjernetveien. NÃ¥r du kommer til HÃ¥konshellaveien
+tar du igjen til hÃ¸yre og fÃ¸lger veien helt til du kommer til GrÃ¸nnestÃ¸len, hvor
+du nok en gang tar til hÃ¸yre inn pÃ¥ stien. FÃ¸lg stien langs AlvÃ¸vatnet. NÃ¥r du kommer
+til Gullaksdalen vil du ogsÃ¥ kunne se Storavatnet pÃ¥ venstre side. Hold til
+hÃ¸yre i neste stiskille, og fÃ¸lg skogstien tilbake til Vassenden hvor du
+startet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er ogsÃ¥ mulig Ã¥ gÃ¥ rundturen i
+mottsatt reting, samt ha forskjellige startsteder. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 10.5pt; color: rgb(18, 18, 18);"&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss 42 &amp;nbsp;til
+Haakonsvern/AlvÃ¸en. Starter man turer fra Haakonsvern bÃ¸r man gÃ¥ av pÃ¥
+busstoppet utenfor inngangen til militÃ¦rbasen. Starter man rundturen fra AlvÃ¸en
+idrettsanlegg gÃ¥r man av her. Ankommer man i bil, er det parkeringsplasser ved
+stadionanlegget/AlvÃ¸en skole, og ved den tidligere fergekaien. Det er imidlertid fÃ¥
+parkeringsplasser ved Haakonsvern.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 10.5pt; color: rgb(18, 18, 18);"&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt to timer.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10.5pt; color: rgb(18, 18, 18);"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Den fÃ¸rste delen av turen er det mulig Ã¥ benytte
+trillevogn og rullestol. Fra GrÃ¸nnestÃ¸len til Gullaksdalen og videre til
+Vassenden er det derimot kupert sti, og derfor ikke mulig verken med barnevogn
+eller rullestol.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10.5pt; color: rgb(18, 18, 18);"&gt;&amp;nbsp;&lt;/span&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. PÃ¥ fine dager holder det med
+joggesko.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart AlvÃ¸en (1:10 000), 1115 I Bergen
+(1:50 000), Tur- og Friluftskart Bergen (1:25.000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2563c3efac2.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-22 14:19:34""" ;

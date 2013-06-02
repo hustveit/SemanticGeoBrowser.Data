@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route313>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/313> ;
+	<name>		"""Nipedalen â€“ Kanadaskogen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.3""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-28 12:44:06""" ;
+	<encoded_path>		"""}jmoJ{dc_@LQNT`@f@RLPXLPX\DXDb@Q|@Gf@[lAGT?b@Qf@Kn@Wn@_@V_@JYPWLYTi@d@c@^?XBPN?PJLj@NXNo@b@`A^^NXb@n@Zx@Bn@Hj@THl@NJDR`@ZXTTd@LZPRPr@Ct@Wl@sAV_AN[T?h@e@Jm@f@]j@UfAg@`@?PXNt@Ps@?g@Jm@^cBT{ATg@XQ`@s@Tq@Go@OQ_@k@Wo@Oy@SQQKWYEk@Bu@T{AXoAJa@Rk@`@y@f@}@l@eAr@u@Vo@\mA?M_@?Y?m@Gw@n@OFy@PQ?e@Bu@jAW?{@?k@Js@T_Bf@i@LgAg@s@wAa@g@QMcAPo@b@Yj@C|@?|@Mr@WPa@n@W\a@~@""" ;

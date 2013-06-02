@@ -1,0 +1,19 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place32>
+	
+	dct:title							"""Smøråsfjellet"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;Smørås og Hamrefjellet ligger i Bergen kommune, Fana bydel. Avgrensing i øst er mot Kalandsvannet, i sør mot Hamrevegen, i vest mot Fanavegen og i nord mot Tranevannet. Turterrenget på Smøråsfjellet ligger som en oase for småbarnsfamilier og andre som vil ha en søndagstur uten å slite seg opp på de høyeste tinder. Høyeste toppen er Hamrefjellet, (250 moh). &lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4dc969299e4f3.jpg> ;
+	sf_ont:image_credit					"""Svein Solheim""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e033a3896230.jpg> ;
+	sf_ont:trimtoppen_description		"""Skiltet er plassert på "Syningom". Syningom ligger langs Ytrestien. Merket fra militærveg/hovedsti. For innsjekk via Sprek appen vil det være en fordel å bevege seg til nordsvest siden av Bjørnevannet. Det er nemlig her spotet er plassert."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Bjarte Eikanger""" ;
+	dct:created							"""NULL""" ;
+	sf_ont:modified						"""2011-08-01 08:37:06""" ;
+	sf_ont:gowalla_name					"""Smørås Fjellet"""@no ;
+	sf_ont:gowalla_description			"""Tur området
+"""@no .

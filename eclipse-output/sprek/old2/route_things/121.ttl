@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route121>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/121> ;
+	<name>		"""Salhus - Nordgardsfjellet - Støbotn"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""5.1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-24 15:26:31""" ;
+	<encoded_path>		"""yhhpJupc_@LZNNFc@Ec@NIJ[@e@?e@Ia@K_@Cc@?e@Da@Ha@Ia@QCVCNNFa@RRH^VINUPERMJYH_@@e@LSNTJg@N[XGP@H_@Ae@Dq@PGPIRMNSNSH_@Dc@LWLU?e@Bi@Ja@Dk@J_@R?VFPHNIVER?P@J^NPR?R@R?RIPGRKRKPEPMPEPKPMRKLUPQP@LYNQPHRBPFPCRAPFNPPJRFR@PEBd@?f@Ad@Cb@Ed@Cd@I^F`@Db@JXNXNLNPPLF`@PDPBRCPIRHH[PQNKRMPCPER?REPIPCPONUPGRKPANLPJPKPAPENSJ]Cc@?c@Bi@De@Da@?g@@e@J]PMP?PNRFPMPML[NWFc@Ae@Ae@Ja@NQPIPGPMRCP?PKDa@Fc@J[POJW@e@@c@Hc@H[De@Dc@PEPKR?PKJWEc@LYF_@Ac@Be@Bc@Be@Bc@Cg@Bk@Fa@Bc@Ae@MUGa@Ce@K[QOMWOSOWOQI_@Cc@Ae@Ea@Ee@K_@Ea@@c@Dc@Cc@K[Cc@Cg@QMQDQIIa@Ec@I]O]Ec@Ga@I_@Cc@?e@Fe@?e@Be@Ae@SMQLOJS@MUSBQJKZKZGa@I]Q@OSMWGa@K]OSQMOMQFSCQMGc@I]Ce@@e@Bc@@g@?e@Ce@Ac@Ei@Ce@Ia@@c@B_@IANKH_@NSDe@Dg@Be@@g@?g@@c@J]F_@J]PKNO?e@Ia@Je@J]Ha@Ha@Fc@J_@PUJ]Be@Dc@Ag@I_@Ia@Bg@Fa@J[Hc@Hc@PIDg@NUFa@?e@He@Be@Db@PTNJL_@H_@PIPQNWLUK_@PNPCPOPGPKPCRLRDPFPGRKPGBE[ERULYN[PUPMXJRXLf@Bj@?l@El@Gj@Il@Ap@@p@Bp@Bn@Dp@Dx@Fz@Fz@Hz@Jz@Hx@Ht@Jp@Nl@Nd@LTVVXRRPRNPLRLRJXNTLPTRZRf@Pn@Jp@Lr@Jt@Lr@Nl@V`@R\PNRSCk@Qi@Eo@Lg@Ve@\a@Zc@Z]Z[RQRP?f@M`@Ol@Ir@Cn@@d@Fb@N`@Rf@Vj@Tl@Rn@Rj@P^PJTCN]Ni@Pm@Ta@XKVDVZVh@Tl@Rp@Pr@Rr@Pr@Pp@Np@Nn@Lj@Nh@J\NZPPHf@Eb@Ed@Ex@Cf@Cb@Ef@@b@Cb@Ib@K^K`@Kp@@d@Bf@Ed@G`@I^AJ""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route240>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/240> ;
+	<name>		"""Raudvatnet-Skulstadvatnet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""7.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-03 12:09:28""" ;
+	<encoded_path>		"""g`soJoexa@wB~FgEeB}@`Aq@]XcCaCgGy@yHqByCo@Fw@wAyAOoBeBaFoAeDkCwD`A{DnD}G|GuCHaBnD{Bv@uBHaCaAgE`@uAKwFxB{Ak@iDa@oCv@qDlBwBH{B`@_BHo@_@eCa@{@aBkCoDaCaAoA?qBa@yAk@gC_@eDT}DcBoAaBkA?_B^qCI[t@Zu@yAzU?lNcGQiFlFmElByAzMeEdLZrS|BhQpFlFvEpC`IzMfChMuBpG_FdDIpGZvDaBfE?lB}DrGaBlJXlFsBhMiCzQQrKZpCkBvLxAzInA~B}@bH""" ;

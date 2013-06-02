@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place231>
+	a	...Thing... ;
+	<name>		"""HÃ¸gafjellet"""@no ;
+	<ingress>		""" """@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-11-03 13:51:39""" ;
+	<modified>		"""2011-11-03 13:51:39""" ;
+	<gowalla_name>		"""HÃ¸gafjellet"""@no ;
+	<gowalla_description>		""" """@no ;

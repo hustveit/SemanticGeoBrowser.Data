@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike278>
+	dct:title				"""Oksneskletten"""@no ;
+	sf_ont:ingress			"""Kort rundtur med utsikt."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Før ein kjem til det nest siste bustadhuset, ser ein eit skar oppe til høgre. I dette går det ein sti, og ein kjem opp på platået. Videre følgjer ein langs eit gjerde utover mot Gulbrandsosen. Terrenget er vekslande nakne berg og lyng, med ein del planta gran innimellom. Gjerdet dreiar austover, ein følgjer det og kjem så inn på ein sti som går sørover til bilvegen. Ein bør gå opp om Kanekletten eller Oksneskletten, 62 m.o.h., for å nyta utsikta. Sjølv med få høgdemeter er det eit framifrå utsyn i alle retningar.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Oksnes ligg nord på Askøy. Ta av frå rv. 562 i Skråmestøkrysset mot venstre, mot vest. Herifrå er det ca. 1,5 km til snuplassen, og ein går nordover på bygdevegen forbi nokre bustadhus.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;30 minutter&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lett tur som passer de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Herdla 1116 III&lt;br&gt;&lt;br&gt;Turtipset er hentet fra boken Opptur Hordaland&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/> ;
+	sf_ont:image_credit		"""""" ;
+	dct:created				"""2011-10-11 11:02:33""" .

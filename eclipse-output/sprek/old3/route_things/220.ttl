@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route220>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/220> ;
+	<name>					"""Montana-Ulriken, Skaret"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""1.7""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-26 14:47:20""" ;
+	<encoded_path>		"""qjnoJojw_@gDmNLmCtE_FfFeTnA}Fp@yFHmCViCsA}@oCgC}AqAOk@{@Po@f@k@p@iAAcEH{@YuB}CsBiB{C`@yANg@|@gB`@oA}B""" ;

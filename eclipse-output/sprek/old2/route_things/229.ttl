@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route229>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/229> ;
+	<name>		"""Krambua-Løvstakken"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""2.7""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-28 15:17:19""" ;
+	<encoded_path>		"""kyioJuaq_@tATZnA?hAnBpCpB~IhCnDhAzBrBFxAx@h@r@gAZI`AeDz@kEpFkBfA}MgAgAGCnDuDhFqCvAeB~AkCx@KdBNbCeDb@wEdEqAlEeEL{F|DyB~D}Fk@WO_@r@qAx@MhAKyF_C`ALr@""" ;

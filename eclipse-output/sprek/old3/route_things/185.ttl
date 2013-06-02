@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route185>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/185> ;
+	<name>					"""Haugland-Storåsen(Dronninga)"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-11 13:55:00""" ;
+	<encoded_path>		"""uwapJsoq^z@nCFRAA????????^PZH\Q`@EH|@Pj@\A^\Xd@ZV\P\J^C\F\A\N^D^C^XXb@ZN\N`@Gd@C\?XA\@E`ASf@Qj@Ud@YVQh@Ir@?z@Tj@Xj@\b@Rj@Rl@Xj@VZTb@Rn@Hz@Bz@V\XB\A^R`@PZFPv@Xd@\TVVVb@DbAVb@Rx@^RZZZX^FZNZR\H^H^BV^??\N\Nf@NZX^TZD`@?`@UR{@Za@V_@Lw@Ri@\Y^FRf@Rh@Pr@Lr@Lr@Lp@Lp@Np@Lt@Dx@Hp@Nn@Td@ZP\EZO\K^LZFZRZTRd@??bAhAvH`NpBzHf@rHt@p@Kr@BtDjHsExHaFjCmBfC}C""" ;

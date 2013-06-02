@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route196>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/196> ;
+	<name>					"""Fjell festning, rundtur"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3.7""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>				"""2011-07-18 11:42:47""" ;
+	<encoded_path>		"""iqboJom_^gAgJxAaFnCgJt@eE]kHs@_Gy@oAmIp@eB}A_BgG]y@e@G_Fc@e@OoImByCj@}A|B}CZwBd@iB{@u@FwApCcBFkBUwC`AqBLoCpI_GDq@E]fAJxCZxKFfGDfDq@vDrD?jEc@`DfArCy@b@eExAuBl@gAFeEQaDeBk@cBUgD}AfAuGt@eH]}A""" ;

@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place86>
+	
+	dct:title							"""Toppenipa"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;Toppenipa er en fjelltop sørøst for Toppe i Ãâ€¦sane. På toppen er det flott utsikt utover Byfjorden og mot Askøy. Toppenipa ligger nærmt Toppefjellet og Geitanuken.&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1ad91cf213d.jpg> ;
+	sf_ont:image_credit					"""Odd Mehus""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e087e7d7d5e4.jpg> ;
+	sf_ont:trimtoppen_description		"""Skiltet står på toppen, nær den røde og hvite markøren. """@no ;
+	sf_ont:trimtoppen_image_credit		"""Bjarte Eikanger""" ;
+	dct:created							"""2011-05-11 15:15:17""" ;
+	sf_ont:modified						"""2011-07-11 13:06:04""" ;
+	sf_ont:gowalla_name					"""Toppenipa"""@no ;
+	sf_ont:gowalla_description			""" """@no .

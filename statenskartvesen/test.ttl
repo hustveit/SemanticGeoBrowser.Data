@@ -1,0 +1,2 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+<nodeID://b24688>	sf_ont:Statkart_profile	<http://sognefjord.vestforsk.no/resource/route-graph/hike37.png> .

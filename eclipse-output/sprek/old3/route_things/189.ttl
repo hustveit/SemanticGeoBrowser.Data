@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route189>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/189> ;
+	<name>					"""Storevardenââ‚¬â€œKolbeinsvarden, rundtur"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>			"""5.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-13 10:04:47""" ;
+	<encoded_path>		"""qswoJqez^GoAf@oAV{BEqA_@y@i@e@c@}CAk@Lo@Tg@Aq@}@qA]e@ViAh@o@HqAj@wAr@q@\]Li@Gy@Y}@uAkBmB_AyAAu@a@SaBg@m@{@Ig@To@h@_Ac@YBa@l@Ut@]~A[CKk@\iAN}B?QJaA@Qg@}A?c@SiB?aBOwAc@i@c@Ao@[g@rCVf@EjAFVEbADn@?Z?XGXGTGPIZ?XSj@BVEZL~@An@Eb@Qv@Op@WBQHSLGQkAIcAfA_@p@gBzA]x@OGSBKAK?y@`@w@JSYWNEHO?YEK]CUYo@]e@Ae@MSSLo@j@[j@GRMLENI@O?GHMGQHGNMl@@d@AXk@bAiC?wC~Gy@`AIDG@_@x@wBnEaBpCcAfD}DjDi@rC^fO_JjE_Ab@aBhEqAtEcB`CAzAjArAnD`@t@?h@b@r@c@l@g@^CfBM@x@j@r@XJVArA~@\V~@EP[J@Ji@Z}@LgA\Mp@y@DgAP}AHa@JOHBPCT?VFZNNAHM?[fAu@nAFJGb@Fl@c@`@SVGr@WfFUj@~@nEeE|AoAt@i@^TZU~AYVINiAz@_@bAiDGa@n@gBt@mCdA{@\cBlAcCrAEFJhDgAp@O^Z\?\BrBUdBj@|@Dl@y@""" ;

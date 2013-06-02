@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route79>
+	a	...Thing... ;
+	<name>		"""Skansemyren-FlÃ¸yen"""@no ;
+	<ingress>		"""En enkel tur som fÃ¥r deg opp til FlÃ¸yen pÃ¥ kort tid. Godt egnet for trilleturer."""@no ;
+	<description>		"""&lt;STRONG&gt;Rutebeskrivelse:&lt;BR&gt;&lt;/STRONG&gt;Turen starter ved bommen ved Skansemyren idrettsplass og fortsetter langs bred gangvei oppover fjellsiden mot FlÃ¸yen. Lett stigning hele veien, ingen spesielt bratte partier. PÃ¥ starten av turen kan du nyte den stadig flottere utsikten, mens man oppe pÃ¥ platÃ¥et gÃ¥r inne i et skogsomrÃ¥de. Turen kan stort sett gÃ¥s Ã¥ret rundt, men pass pÃ¥: Om vinteren er det en populÃ¦r akebakke for de yngste, og de kan komme i full fart nedover bakkene.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tilkomst: &lt;BR&gt;&lt;/STRONG&gt;Du kan parkere&amp;nbsp;langs Ole Irgens vei.&amp;nbsp;Det gÃ¥r ogsÃ¥ buss&amp;nbsp;til Skansemyren. Alternativt er det ikke langt Ã¥ gÃ¥ fra sentrum. Fra FlÃ¸ibanens nedre stasjon kan du gÃ¥ Skansebakken og Skansemyrsveien for Ã¥ komem til idrettsplassen.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tidsbruk:&lt;BR&gt;&lt;/STRONG&gt;Det er god skilting og turen opp til FlÃ¸ystasjonen tar ca 30 minutter. Om du tar turen med barnevogn, mÃ¥ du selvfÃ¸lgelig regne mer tid.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Passer for:&lt;BR&gt;&lt;/STRONG&gt;De fleste. Det skal godt gjÃ¸res Ã¥ finne en bedre tilrettelagt og enklere turlÃ¸ype enn dette."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4da2f91ecc4c9jpg> ;
+	<image_credit>		"""Rune SÃ¦vig""" ;
+	<created>		"""2011-04-11 14:27:28""" ;

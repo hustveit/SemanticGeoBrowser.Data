@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route325>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/325> ;
+	<name>		"""Nordnesdalen-Viggohytten"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-01 14:36:53""" ;
+	<encoded_path>		"""y`noJ__h_@JpAYzDGPSx@c@fAAf@FTJFp@`@?Dp@Vt@@vBz@rA^bATnA\JX|BzAt@b@?hBFhFN|HGzH_@Ao@^Dj@uBtEqAbA""" ;

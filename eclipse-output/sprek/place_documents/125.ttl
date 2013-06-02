@@ -1,0 +1,24 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place125>
+	
+	dct:title							"""Redningshytten"""@no ;
+
+	sf_ont:ingress						"""Redningshytten (610 moh.) ligger rett ved Store Stuthaugen. Hytten er alltid åpen og har servering på søndager."""@no ;
+	sf_ont:description					"""&lt;p&gt;Redningshytten ble laget som en direkte konsekvens av at
+det var en redningsaksjon for en kvinne som kom til skade i Gullfjellet. Den
+første hytten, som er lagt av stein, kom opp i 1929. Det ble fort klart at man
+trengte en større hytte og i 1935 sto det klar en to etg. hytte klar.&amp;nbsp; Det
+var Anton Berge som var initiativtakeren til byggingen avhytten. Han satt i
+bystyre og var aksjemegler.&amp;nbsp;&lt;/p&gt;
+"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e37c06e7d907.jpg> ;
+	sf_ont:image_credit					"""Helge Sunde""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-07-12 14:47:32""" ;
+	sf_ont:modified						"""2011-08-02 11:16:30""" ;
+	sf_ont:gowalla_name					"""Redningshytten"""@no ;
+	sf_ont:gowalla_description			""" """@no .

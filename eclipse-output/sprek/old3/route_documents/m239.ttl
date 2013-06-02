@@ -1,0 +1,27 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route239>
+	a	...Thing... ;
+	<name>		"""Hjelme-Hellesøy-Rubbegarnståa"""@no ;
+	<ingress>		"""Fin og enkel tur helt nord i ÃËœygarden. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen begynner fra Hjelme kyrkje, som ligger helt nord i ÃËœygarden. Fra kirken går man ca. 200 meter til et busstopp. Rett etter busstoppet tar man til høyre inn på en vei som går i nordlig retning. Man går først langs en bygdevei før man går over på en sti frem til man møter bilveien i Hellesund. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I Hellesund tar man til høyre og går over en bro. Etter 100 meter tar man til høyre og går opp en bratt bakke gjennom ââ‚¬â€œNordre Hellesund. Videre går turen mot Sprengsneset som ligger mot øst. Ta til venstre like før en veibom og følg en lite synlig sti frem til Rubbegarnståa, som ligger på tuppen av Alvøyna. Her er det flott utsikt mot de nordligste øyene i ÃËœygarden: Henar, Sanden, Sulo og Nordøyna. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;På vei tilbake går man til høyre og følger en sti på vestsiden av øyen. Følg stien frem til veien, her tar man til høyre ned mot Hellesøy. På Hellesøy er det fint å se på de gamle naustene. Videre går man på veien langs Hellesundkanalen og tilbake til stien man kom fra. Følg denne tilbake til Hjelme kyrkje. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Hjelme kyrkje helt nord i ÃËœygarden. Følg riksvei 561 og ta av mot Hjelme ca. 6,5 kilometer nord for Tjeldstø. Det tar rundt 1 time å kjøre fra Bergen sentrum. Man kan parkere ved kirken. Man kan også ta buss nr. 479 fra Bergen sentrum til Hjelme kyrkje. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 2 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Veien er ikke tilpasset bruk av trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;i&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/i&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e38f6a38df73.jpg> ;
+	<image_credit>		"""Martinsen Anders """ ;
+	<created>		"""2011-08-03 09:02:01""" ;

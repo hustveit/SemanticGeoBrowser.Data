@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike116>
+	a	...Thing... ;
+	dct:title				"""Apptest rute, MC til Torget"""@no ;
+	<ingress>		"""Test tur fra Maritime Colours til Torget"""@no ;
+	<description>		"""&lt;p&gt;En tur som inneholder 0 kræsj (håper jeg!)&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-05-19 16:25:44""" ;

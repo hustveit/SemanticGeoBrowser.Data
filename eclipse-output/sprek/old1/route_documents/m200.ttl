@@ -1,0 +1,38 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route200>
+	a	...Thing... ;
+	<name>		"""Gaustad-Gaustadfjellet"""@no ;
+	<ingress>		"""Fin topptur pÃ¥ Meland. Fra toppen av Gaustadfjellet (317 moh.) er utsikten fantastisk."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+starter pÃ¥ Gaustad, Meland. FÃ¸lg stien til venstre for hovedveien opp til
+Reftskar. Ta av mot venstre pÃ¥ stien like etter Postkassestativ ved vei til
+Refskar kai. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;FÃ¸lg stien opp til toppen av Gaustadfjellet (317 moh.). Stien kan
+vÃ¦re litt bratt til tider, men det er fantastisk utsikt nÃ¥r man kommer opp. Her
+er det fint Ã¥ ta en rast fÃ¸r man returner ned samme vei.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ã˜nsker
+man bare Ã¥ gÃ¥ selve toppturen, kan man starte fra Refskar Ã¥ gÃ¥ opp til Gaustadfjellet
+derfra.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r mot Meland, til Gaustad. Det er ingen avsatte
+parkeringsplasser, sÃ¥ vÃ¦r fornuftig nÃ¥r du velger parkering. Man kan ogsÃ¥ ta
+buss nr. 320 fra Bergen sentrum til FlatÃ¸y og ta nr. 346 videre til Gaustad.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1,5-2 timer i sin helhet. Selve oppgangen fra Reftskar tar
+rundt 30 minutter i vanlig gange.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, men vil nok vÃ¦re
+for tÃ¸ff for de minste. Deler av oppstigningen er ganske bratt og krever nok en pust
+i bakken for mange. Turen er uegnet for bruk av trillevogn eller
+rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. Gode fjellsko anbefales.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2540464b6ad.jpg> ;
+	<image_credit>		"""MARGITH SKURTVEIT """ ;
+	<created>		"""2011-07-19 10:07:46""" ;

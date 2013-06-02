@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route218>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/218> ;
+	<name>					"""Byrkeland-Stongfjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""2.2""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-26 10:32:29""" ;
+	<encoded_path>		"""mdhpJc~|`@vC{EpCaA~@cDe@?X{DYaA^mBUcC`@cDKePe@cDIwAo@mCgCk@{Bt@eBk@j@mM{B{G{BKd@eF?wAgB?{BcCi@yC^yCaDqF^iI{A}Gz@cDh@qGtAuItAaB""" ;

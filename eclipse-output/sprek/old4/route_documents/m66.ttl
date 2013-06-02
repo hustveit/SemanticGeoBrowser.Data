@@ -1,0 +1,13 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike66>
+	a	...Thing... ;
+	dct:title				"""Sæterstøl - Håkeberget - Veten"""@no ;
+	<ingress>		"""Denne turen går i en vakkert og kupert terreng. Fra toppen har du flott utsikt i de fleste retninger."""@no ;
+	<description>		"""&lt;p&gt;&lt;strong&gt;Rutebeskrivelse:&lt;br&gt;&lt;/strong&gt;Du starter turen ved å gå fra parkeringen opp i svingen av vegen og ta av inn på veg/sti til venstre. Deretter passeres en grind og du fortsetter rett fram, ikke mot høyre etter grinda. Stien følges gjennom en grind til og videre oppover i retning nordvest. Stien er tydelig, det er lett stigning den første delen og noe brattere opp Håkeberget. Deretter flater stien ut og følger ryggen helt fram til toppen av Veten, (487 moh). Vær oppmerksom på at den egentlige toppen ligger bak toppen man ser når man går langs ryggen. Her er det bok til å skrive i inne i varden. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Tilkomst: &lt;/strong&gt;&lt;br&gt;Kjør E 39 nordover fra Ãâ€¦sane og ta av inn Sæterstølvegen. Denne kjøres nesten helt til enden. Her finnes 4-5 parkeringsplasser. Du kan også ta bussen til Vikaleitet, nord for Vågsbotn i Ãâ€¦sane. Da må du finne bussruter som går mot Hylkje/Breistein eller Nordhordland. Etter å ha gått av bussen på Vikaleitet kan du følge den lokale veien opp til Sæterstøl, den er rundt en kilometer lang.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Tidsbruk:&lt;/strong&gt;&lt;br&gt;Turen opp til toppen tar 45 minutter i
+rolig tempo tar turen opp til toppen. Hele turen vil ta fra 1,5 til 2 
+timer, avhengig av om du har barn med deg.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Flott tur som passer for de aller fleste, ta gjerne barna med. Turen er uegnet for trillevogn/rullestol.&lt;br&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Utstyrsbehov:&lt;br&gt;&lt;/strong&gt;Utenom vinterhalvåret er det myrlendt i terrenget. Ta på fjellsko eller støvler med litt grep under. &lt;br&gt;&lt;br&gt;&lt;strong&gt;Kart:&lt;/strong&gt; &lt;br&gt;Tur- og Friluftskart Bergen (1:25 000). &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dbfb60468801.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-03-28 10:23:42""" ;

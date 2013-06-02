@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place186>
+	a	...Thing... ;
+	<name>		"""Byrkjefjell"""@no ;
+	<ingress>		""" """@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-09-03 10:45:56""" ;
+	<modified>		"""2011-09-03 10:45:56""" ;
+	<gowalla_name>		"""Byrkjefjell"""@no ;
+	<gowalla_description>		""" """@no ;

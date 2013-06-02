@@ -1,0 +1,11 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike307>
+	dct:title				"""Torefjell"""@no ;
+	sf_ont:ingress			""" """@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;&lt;b&gt;Kart: &lt;/b&gt;1215 I Nordheimsund&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;
+&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/> ;
+	sf_ont:image_credit		"""""" ;
+	dct:created				"""2011-10-20 10:39:17""" .

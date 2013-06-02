@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place90>
+	a	...Thing... ;
+	
+	dct:title				"""Lyshornet"""@no ;
+
+	<ingress>		"""Flott utsiktspunkt i Lysefjorden, Os."""@no ;
+	<description>		"""&lt;p&gt;Lyshornet ligger i idylliske Lysefjorden hvor blant annelt Ole Bulls sommerhjem Lysøyen ligger. Lyshornet ligger rett ved Lyseklosterruinene&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fjellet er (404moh) og gir en fantastisk utsikt mot fjorden. Turen opp lyshornet er veldig populær. Den blir brukt både til mosjonstur og som søndagstur for familien. &lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1acca601682.jpg> ;
+	<image_credit>		"""Roar Christiansen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e047f4342fb9.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert på toppen, nærmt postkassen."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-06-03 11:43:13""" ;
+	<modified>		"""2011-07-12 08:36:54""" ;
+	<gowalla_name>		"""Lysehornet"""@no ;
+	<gowalla_description>		""" """@no ;

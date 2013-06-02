@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route333>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/333> ;
+	<name>		"""Fredlundssvingen â€“ LÃ¸vstakken"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-02 14:29:32""" ;
+	<encoded_path>		"""kvkoJm}p_@Ua@MKKD]Xc@d@aAi@WIc@o@eA[yCt@a@b@m@dAS~A@Xa@^YPc@`Bh@hDXdBGh@?`BXlAb@v@Lf@?dAPj@Rj@FxBKz@ZxC`@d@x@tDh@j@TjAt@`A|@p@^Nr@vA?tDq@n@iAv@m@d@VfAFfAI`BNvB]rBu@`@_@pAi@t@a@Tg@`@""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route221>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/221> ;
+	<name>		"""Montana-Ulriken, Kammen"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""1.8""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-26 15:37:56""" ;
+	<encoded_path>		"""qjnoJojw_@gDmNLmCtE_FfFeTnA}Fp@yFHmC??[bAgA|BcArCu@PURk@CGQ[Tm@KQY[Eg@KUAI[[GG[e@QOEKLIUMFGWs@i@o@BOwAUUW?Bx@sBZe@_@MUYLKQ]?MYi@{@o@q@EQUEGSU?Qk@O@EQ]BKQI?Sa@Oe@UNe@YEM]KIKAQCUMG@WIIAQKMYDGW?QUk@q@sC""" ;

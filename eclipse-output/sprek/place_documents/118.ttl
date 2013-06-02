@@ -1,0 +1,49 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place118>
+	
+	dct:title							"""Lysekloster"""@no ;
+
+	sf_ont:ingress						"""Kombiner turopplevelsen med et interessant besøk på ruinene av det første cistercienserklosteret i Norge, grunnlagt i 1146."""@no ;
+	sf_ont:description					"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Lysekloster&lt;/i&gt;&lt;br&gt;Lenge før Lysekloster ble opprettet, lå gården 
+Lyse et stykke opp fra sjøen innerst i Lysefjorden. Den var i 1140-årene
+ eid av biskopen i Bergen, Sigurd. Under en Englands-tur ble han så 
+fascinert av de fromme cisterciensermunkene at han tok noen av dem med 
+hjem til Lyse. Klosteret ble bygget og overlatt til munkene.&lt;br&gt;Da 
+reformasjonen ble innført i Norge i 1536, regnet danskekongen Christian 
+III Lysekloster som statens eiendom, og det ble forvaltet av ulike 
+danske adelsmenn. Etter hvert forfalt klosterhusene; kongen og 
+adelsmennene brukte tømmeret og steinene til andre praktbygninger. 
+F.eks. finnes stein fra Lysekloster-murene både i Rosenkrantztårnet i 
+Bergen og Kronborg slott i Danmark. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Da det ikke 
+lenger var mulig å bo i klosterhusene, fikk en av de danske fogdene i 
+1613 bygget nytt bolighus nær den gamle Lyse-gården. I 1670 kom 
+Lysekloster i privat eie. Også skogen, fiskerettene og 200 gårder i Os 
+og andre bygder hørte med til eiendommen. Etter hvert framsto 
+Lysekloster igjen som et storgods. Nåværende Lysekloster gård ligger der
+ den gamle hovedbygningen sto. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Klosterruinene &lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lysekloster-ruinene
+ ble restaurert i 1930 og gir et godt inntrykk av hvordan anlegget har 
+sett ut. På vestsiden av murene er det også støpt en modell som viser 
+hvilken funksjon de ulike rommene hadde. I klostergårder pleier det å 
+være frodig vegetasjon; gjerne med sjeldne planter, og slik var det nok i
+ Lysekloster også. Av Â«klosterplanteneÂ» har akeleien spredd seg til 
+flere steder. En gammel norsk flora nevner snøklokke og pinselilje som 
+viltvoksende planter ved Lysekloster, også den sjeldne murtorskemunn. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Munkene
+ var også særlig interessert i fruktdyrking. Lysekloster anla stor 
+frukthage på Opedal i Ullensvang, og dette ble begynnelsen til 
+fruktdyrkingen i Hardanger. For øvrig var munkene opptatt av å verne 
+fiskeretten sin i Osvassdraget. På slutten av 1200-tallet satte munkene 
+laksegard tvers over elven, slik at ingen laks kom forbi klosterets 
+laksekjer. Dermed begynte en laksestrid mellom Lysekloster og Os 
+prestegård ââ‚¬â€œ som også hadde&lt;br&gt;fiskerettigheter ââ‚¬â€œ som varte i ca. 50 år før munkene omsider måtte gi seg.&lt;br&gt;(Kilde: Â«Se deg omkringÂ», Naturvernforbundet Hordaland)&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e16c11794842.jpg> ;
+	sf_ont:image_credit					"""Helge Sunde""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-07-07 15:08:32""" ;
+	sf_ont:modified						"""2011-07-08 10:35:09""" ;
+	sf_ont:gowalla_name					"""Lyse Kloster"""@no ;
+	sf_ont:gowalla_description			""" """@no .

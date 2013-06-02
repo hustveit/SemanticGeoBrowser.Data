@@ -1,0 +1,65 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route181>
+	a	...Thing... ;
+	<name>		"""Bahus-Lysekloster-RÃ¸ykeneset"""@no ;
+	<ingress>		"""Kombiner turopplevelsen med et interessant besÃ¸k pÃ¥ ruinene av det fÃ¸rste cistercienserklosteret i Norge, grunnlagt i 1146."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter pÃ¥ Bahus. Ta av mot
+sÃ¸rvest pÃ¥ lett sti opp Bahusdalen. HÃ¸yt oppe dreier stien mot vest og siden
+sÃ¸r mot toppen av Vesle Lyshornet. Herfra pÃ¥ sti ned Lyshornskaret. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hvis man her Ã¸nsker Ã¥ forlenge turen med
+Ã¥ gÃ¥ opp Lyshornet, er belÃ¸nningen en spesielt vakker utsikt mot Lysefjorden
+med alle dens smÃ¥ og store holmer og Ã¸yer. Det gÃ¥r en tydelig sti opp til toppen. Se: &lt;a href="http://tur.bt.no/tur/125"&gt;Lysekloster-Lyshornet&lt;/a&gt; for
+nÃ¦rmere turbeskrivelse.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen fortsetter videre til Lysekloster.
+FÃ¸lg skaret fra Vesle Lyshornet og fÃ¸lg stien som etter hvert gÃ¥r over til Ã¥ bli
+en skogsvei. FÃ¸lg skogsveien sÃ¸rover fram til klosterruinene. Her er det fint Ã¥
+raste, samt bruke litt tid til Ã¥ se pÃ¥ ruinene. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stien fra Lysekloster gjennom Rennadalen
+til SÃ¸fteland ble bygget av munkene og kalles Munkestien. Det fÃ¸rste stykket av
+stien munkene anla er i dag skogsvei. FÃ¸lg denne i nordÃ¸stlig retning innover
+dalen. PÃ¥ nordvestsiden av dalbunnen, ca. 50 meter fra veien, ligger et gammelt
+steinbrudd hvorfra munkene skal ha hentet kleberstein til klosterbygningene. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Munkestien fortsetter nordÃ¸stover som en
+fortsettelse av veien. Man kan fremdeles se trappetrinnene som munkene bygde for
+omkring 800 Ã¥r siden. Returens hÃ¸yeste punkt er myren sÃ¸r for BlÃ¥heiane. VÃ¦r
+obs pÃ¥ at det kan det vÃ¦re blÃ¸tt her. Nedstigningen gÃ¥r pÃ¥ skogsvei som dreier
+nordlig fÃ¸r den ender pÃ¥ Osvegen ved RÃ¸ykenes.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ta buss nr. 600 fra Bystasjonen til Bahus. Kommer man via bil fÃ¸lger man hovedveien
+E39 mot OsÃ¸yro. Bahus ligger rett fÃ¸r SÃ¸fteland. Det mulig Ã¥ parkere ved Bahus,
+men det er begrenset med plasser. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 4 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er en relativt
+lett tur som passer for de aller fleste. Turen gÃ¥r hovedsaklig pÃ¥ sti og er derfor uegnet for
+trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales, ettersom det kan vÃ¦re noe
+blÃ¸tt pÃ¥ dele av turen. Husk Ã¥ ta med mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;BÃ¥de Bahus og Kismul er mye benyttede
+utgangspunkter for tur til Lyshornet (405 m.o.h.). Fra Kismul kan man delvis
+fÃ¸lge grusvei. Turen gÃ¥r pÃ¥ bra stier, men stedvis kan det vÃ¦re noe blÃ¸tt
+ettersom turen gÃ¥r gjennom myromrÃ¥der. NÃ¥r utgangspunktet er Bahus, kan ruten
+om Lysekloster fungere som rundtur. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Lysekloster&lt;/i&gt;&lt;br&gt;Lenge fÃ¸r Lysekloster ble opprettet, lÃ¥ gÃ¥rden Lyse et stykke opp fra sjÃ¸en innerst i Lysefjorden. Den var i 1140-Ã¥rene eid av biskopen i Bergen, Sigurd. Under en Englands-tur ble han sÃ¥ fascinert av de fromme cisterciensermunkene at han tok noen av dem med hjem til Lyse. Klosteret ble bygget og overlatt til munkene.&lt;br&gt;Da reformasjonen ble innfÃ¸rt i Norge i 1536, regnet danskekongen Christian III Lysekloster som statens eiendom, og det ble forvaltet av ulike danske adelsmenn. Etter hvert forfalt klosterhusene; kongen og adelsmennene brukte tÃ¸mmeret og steinene til andre praktbygninger. F.eks. finnes stein fra Lysekloster-murene bÃ¥de i RosenkrantztÃ¥rnet i Bergen og Kronborg slott i Danmark. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Da det ikke lenger var mulig Ã¥ bo i klosterhusene, fikk en av de danske fogdene i 1613 bygget nytt bolighus nÃ¦r den gamle Lyse-gÃ¥rden. I 1670 kom Lysekloster i privat eie. OgsÃ¥ skogen, fiskerettene og 200 gÃ¥rder i Os og andre bygder hÃ¸rte med til eiendommen. Etter hvert framsto Lysekloster igjen som et storgods. NÃ¥vÃ¦rende Lysekloster gÃ¥rd ligger der den gamle hovedbygningen sto. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Klosterruinene &lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lysekloster-ruinene ble restaurert i 1930 og gir et godt inntrykk av hvordan anlegget har sett ut. PÃ¥ vestsiden av murene er det ogsÃ¥ stÃ¸pt en modell som viser hvilken funksjon de ulike rommene hadde. I klostergÃ¥rder pleier det Ã¥ vÃ¦re frodig vegetasjon; gjerne med sjeldne planter, og slik var det nok i Lysekloster ogsÃ¥. Av Â«klosterplanteneÂ» har akeleien spredd seg til flere steder. En gammel norsk flora nevner snÃ¸klokke og pinselilje som viltvoksende planter ved Lysekloster, ogsÃ¥ den sjeldne murtorskemunn. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Munkene var ogsÃ¥ sÃ¦rlig interessert i fruktdyrking. Lysekloster anla stor frukthage pÃ¥ Opedal i Ullensvang, og dette ble begynnelsen til fruktdyrkingen i Hardanger. For Ã¸vrig var munkene opptatt av Ã¥ verne fiskeretten sin i Osvassdraget. PÃ¥ slutten av 1200-tallet satte munkene laksegard tvers over elven, slik at ingen laks kom forbi klosterets laksekjer. Dermed begynte en laksestrid mellom Lysekloster og Os prestegÃ¥rd â€“ som ogsÃ¥ hadde&lt;br&gt;fiskerettigheter â€“ som varte i ca. 50 Ã¥r fÃ¸r munkene omsider mÃ¥tte gi seg.&lt;br&gt;(Kilde: Â«Se deg omkringÂ», Naturvernforbundet Hordaland)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1215 IV Samnanger (1:50 000), 1216 III
+Stanghelle (1:50 000), Osterfjord fiske- og friluftskart (1:75 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e16ade8c2314.jpg> ;
+	<image_credit>		"""Jan Petter Svendal """ ;
+	<created>		"""2011-07-07 15:08:50""" ;

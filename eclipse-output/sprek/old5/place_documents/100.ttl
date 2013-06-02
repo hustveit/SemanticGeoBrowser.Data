@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place100>
+	a	...Thing... ;
+	
+	dct:title				"""Lysskarfjellet"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Lysskarfjellet (også kalt Â«LinkenÂ») er 313 moh. og ligger nærmt Fanafjellet i Fana. Turterrenget i området er fint, noe kupert og skogkledd. Der finnes mange gode stier i området, men traseen kalt Bjargløypen er mest benyttet.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e02e5a3086a2.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-06-23 09:05:07""" ;
+	<modified>		"""2011-06-23 09:05:07""" ;
+	<gowalla_name>		"""Lyseskarfjellet"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place232>
+	a	...Thing... ;
+	<name>		"""Fjellveien,Bellevue"""@no ;
+	<altitude>		"""NULL""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/721450> ;
+	<gowalla_lng>		"""5.3560060946""" ;
+	<gowalla_lat>		"""60.3846814989""" ;

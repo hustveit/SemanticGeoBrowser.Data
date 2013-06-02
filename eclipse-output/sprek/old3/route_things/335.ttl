@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route335>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/335> ;
+	<name>					"""ÃËœvre Nedberglien ââ‚¬â€œ Lyderhorn"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""2.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-11-03 11:07:58""" ;
+	<encoded_path>		"""impoJoj|^DmAHu@T}@Xg@f@o@f@a@`@IP?XUBc@h@]hAc@ZKVc@De@Mc@YI]@]JULCMAc@He@NAXC\Yf@KJ_@Ks@q@QYF{@DUFICAI@o@LUb@]n@_@`As@LMe@iAk@_@_B{@KQS_@K]MMk@U]]MY[_@gAmA[wA]wBMiACI^Yh@Yp@g@TU`@Yl@QvAy@r@QvCDRMDEj@?b@OZI\k@L]T?j@ATo@Pg@VKvAaAXM|@?v@?x@w@PEr@Cv@Y~@u@b@]tCUnAGl@I\a@JMP\l@CjAY`@G""" ;

@@ -1,0 +1,48 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route162>
+	a	...Thing... ;
+	<name>		"""Montana-Landåsfjellet"""@no ;
+	<ingress>		"""Flott tur både til fots og på ski på Landåsfjellet. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Turbeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter
+fra Montana vandrehjem. Gå
+opp Johan Blytts vei til broen. Fortsett så opp Skiveien til den Store Steinen.
+Ta til høyre og videre oppover, og følg lysløypen til Baunehytten ved Nubbevannet. Det er fint å raste ved hytten, og det er mulig å bade i Nubbevannet. Følg stien
+opp til høyeste punkt på Landåsfjellet (428 m.o.h.) kalt Nobbane. Herfra er det en flott utsikt. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Det
+er også mulig å gå flere snarveier, eller å starte fra Nattlandsfjellet. ÃËœnsker man å gå ned en annen rute kan man følge grusveien ned til Nattlandsfjellet, se&lt;a href="http://tur.bt.no/tur/151"&gt; Rundtur, Landåsfjellet&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For å komme seg hit kan man enten ta buss til
+Haukeland Universitetssykehus og følge Johan Blytts vei forbi sykepleierskolen
+og opp til Montana, eller ta buss nr. 31 mot Montana Vandrerhjem til Skiveien.&amp;nbsp; Det er også mulig å kjøre hit, det er et par parkeringsplasser
+ved vandrehjemmet. I tillegg er Montana i sykkelavstand fra sentrum. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar mellom 1 og 2 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for de aller fleste, men er uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter været. Gode fjellsko er å anbefale, særlig etter regnvær. Det kan være bløtt i myrområdene rundt Nubbevannet.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta
+om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Landåsfjellet
+ligger sør for Ulriken. Her kryr det av stier,
+inkludert en lysløype. ÃËœst for toppen er det fin utsikt over
+Bergensdalen, nord ligger Nubbevannet og Baunehytten. Lysløypen går fra
+Montana, Johan Blyttsvei/Skiveien til Natlandsfjellet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kart: O-kart Ulriken (0:10 000), 1115 I Bergen (1:50
+000), Tur- og Friluftskart Bergen (1:25 000), 7-fjellskartet turkart (1:25 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e09bb3490d8b.jpg> ;
+	<image_credit>		"""Christina Laastad""" ;
+	<created>		"""2011-06-28 11:19:05""" ;

@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place175>
+	
+	dct:title							"""Tysnessåta"""@no ;
+
+	sf_ont:ingress						"""Alle vegar fører til Rom"""@no ;
+	sf_ont:description					"""&lt;P&gt;Tysnessåto ligg nord på Tysnes og det går stier opp fra alle bygdene rundt Såto, som ho vert kalla lokalt.&lt;BR&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e89c54e20440.jpg> ;
+	sf_ont:image_credit					"""Lena Vermedal""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-08-26 14:13:48""" ;
+	sf_ont:modified						"""2011-10-03 16:25:17""" ;
+	sf_ont:gowalla_name					"""Tysnessåta """@no ;
+	sf_ont:gowalla_description			"""752 moh"""@no .

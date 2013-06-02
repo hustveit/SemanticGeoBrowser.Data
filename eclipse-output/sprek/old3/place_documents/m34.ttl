@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place34>
+	a	...Thing... ;
+	<name>		"""Sandvikspilen"""@no ;
+	<ingress>		"""Sandvikspilen ligger ved toppen av Stoltzekleiven i Sandviken."""@no ;
+	<description>		"""&lt;p&gt;Fra Sandvikspilen har man en fantastisk utsikt over Bergen by, en verdifull belønning om man eksempelvis har tatt den tøffe turen opp Stoltzekleiven. Er det fint vær, kan du være sikker på å møte mange spreke turgåere som samler seg for en pust i bakken. I regnvær kan du søke ly i et treskur som er satt opp ved toppen av Stoltzen. Du finner også benker hvor du kan spise en medbrakt nistepakke.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc9696c5faf9.jpg> ;
+	<image_credit>		"""Rune Sævig""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e047cad89e56.jpg> ;
+	<trimtoppen_description>		"""Skilt plassert ved rastehytte i krysset i nordenden av Storevatnet."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-08-03 13:18:07""" ;
+	<gowalla_name>		"""Sandvikspilen"""@no ;
+	<gowalla_description>		""" """@no ;

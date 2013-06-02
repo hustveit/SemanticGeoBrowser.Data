@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route228>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/228> ;
+	<name>		"""Sildaberget-Lyderhorn"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""2""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-28 14:49:11""" ;
+	<encoded_path>		"""sgloJkn~^q@}B_@?y@rC}@dBaAF{@_Aq@TQ~AgBF_@n@SKc@UqAyC_@?gBgHk@eBkEyBO`@NfDyB^s@TkACm@lBeCv@mAyBcAk@_@q@g@t@k@UK[yBoDi@H{AbBN_EQqHWaAg@]sA`ByAv@]nE]n@oBFm@fGkAcB""" ;

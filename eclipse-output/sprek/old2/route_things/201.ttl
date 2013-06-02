@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route201>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/201> ;
+	<name>		"""Lona, rundtur (Brekkeløypa)"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""1.7""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-19 10:59:03""" ;
+	<encoded_path>		"""kvqpJyyg_@u@FgAzBgB|DgAvAk@NeAdBu@|Ay@`Dq@TUb@}@`D{@|Ak@fBqBrBiCFkAzBNvAzBbC`E}D|@\xBsC|@UfBbCzHiNtBuG?}BcAqHl@gG""" ;

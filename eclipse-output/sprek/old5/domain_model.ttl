@@ -1,0 +1,125 @@
+
+    
+    
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+
+sf_ont:hike51
+	sf_ont:GoalOf					sf_ont:place165 .
+	
+sf_ont:hike53
+	sf_ont:GoalOf					sf_ont:place38 ;
+	sf_ont:GoalOf					sf_ont:place30 .
+	
+sf_ont:hike56
+	sf_ont:GoalOf					sf_ont:place41 ;
+	sf_ont:GoalOf					sf_ont:place69 .
+	
+sf_ont:hike60
+	sf_ont:GoalOf					sf_ont:place125 .
+	
+sf_ont:hike64
+	sf_ont:GoalOf					sf_ont:place29 ;
+	sf_ont:GoalOf					sf_ont:place51 .
+	
+sf_ont:hike76
+	sf_ont:GoalOf					sf_ont:place41 .
+	
+sf_ont:hike80
+	sf_ont:GoalOf					sf_ont:place30 .
+	
+sf_ont:hike86
+	sf_ont:GoalOf					sf_ont:place73 .
+	
+sf_ont:hike92
+	sf_ont:GoalOf					sf_ont:place30 .
+	
+sf_ont:hike104
+	sf_ont:GoalOf					sf_ont:place37 ;
+	sf_ont:GoalOf					sf_ont:place39 ;
+	sf_ont:GoalOf					sf_ont:place40 ;
+	sf_ont:GoalOf					sf_ont:place30 ;
+	sf_ont:GoalOf					sf_ont:place71 .
+	
+sf_ont:hike105
+	sf_ont:GoalOf					sf_ont:place30 .
+	
+sf_ont:hike122
+	sf_ont:GoalOf					sf_ont:place58 .
+	
+sf_ont:hike125
+	sf_ont:GoalOf					sf_ont:place118 .
+	
+sf_ont:hike130
+	sf_ont:GoalOf					sf_ont:place60 .
+	
+sf_ont:hike152
+	sf_ont:GoalOf					sf_ont:place60 .
+	
+sf_ont:hike153
+	sf_ont:GoalOf					sf_ont:place76 ;
+	sf_ont:GoalOf					sf_ont:place60 .
+	
+sf_ont:hike155
+	sf_ont:GoalOf					sf_ont:place29 .
+	
+sf_ont:hike157
+	sf_ont:GoalOf					sf_ont:place166 .
+	
+sf_ont:hike158
+	sf_ont:GoalOf					sf_ont:place76 ;
+	sf_ont:GoalOf					sf_ont:place60 .
+	
+sf_ont:hike159
+	sf_ont:GoalOf					sf_ont:place54 ;
+	sf_ont:GoalOf					sf_ont:place98 ;
+	sf_ont:GoalOf					sf_ont:place86 ;
+	sf_ont:GoalOf					sf_ont:place89 ;
+	sf_ont:GoalOf					sf_ont:place58 ;
+	sf_ont:GoalOf					sf_ont:place44 ;
+	sf_ont:GoalOf					sf_ont:place43 .
+	
+sf_ont:hike161
+	sf_ont:GoalOf					sf_ont:place125 .
+	
+sf_ont:hike163
+	sf_ont:GoalOf					sf_ont:place47 .
+	
+sf_ont:hike169
+	sf_ont:GoalOf					sf_ont:place111 .
+	
+sf_ont:hike193
+	sf_ont:GoalOf					sf_ont:place131 .
+	
+sf_ont:hike230
+	sf_ont:GoalOf					sf_ont:place58 ;
+	sf_ont:GoalOf					sf_ont:place89 .
+	
+sf_ont:hike231
+	sf_ont:GoalOf					sf_ont:place51 .
+	
+sf_ont:hike233
+	sf_ont:GoalOf					sf_ont:place31 .
+	
+sf_ont:hike242
+	sf_ont:GoalOf					sf_ont:place34 .
+	
+sf_ont:hike255
+	sf_ont:GoalOf					sf_ont:place34 .
+	
+sf_ont:hike258
+	sf_ont:GoalOf					sf_ont:place125 .
+	
+sf_ont:hike306
+	sf_ont:GoalOf					sf_ont:place186 .
+	
+sf_ont:hike331
+	sf_ont:GoalOf					sf_ont:place37 ;
+	sf_ont:GoalOf					sf_ont:place30 .
+	
+sf_ont:hike342
+	sf_ont:GoalOf					sf_ont:place234 .
+	
+sf_ont:hike351
+	sf_ont:GoalOf					sf_ont:place51 .
+	
+

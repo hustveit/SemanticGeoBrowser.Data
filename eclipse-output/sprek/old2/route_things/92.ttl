@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route92>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/92> ;
+	<name>		"""Skansemyren - Fløyen - Rundemanen"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""5.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-04-27 13:12:04""" ;
+	<encoded_path>		"""mrroJqar_@??Hu@Ba@Fw@Jq@BS?{@Hu@Pi@Pk@Nw@PaARi@V]Xq@DSPk@Pi@Xg@Zc@T]X[Te@Rg@Nk@Ti@Ri@Tg@Lm@Fu@Bw@Iq@Sf@W`@Sf@Kr@Qr@Kp@Ay@Nk@Lo@Lu@Hu@Cu@Kq@Qi@Qk@Ua@@v@]\]FYFSg@Gy@Qk@Qe@Si@Fu@Ls@Es@[ESl@Y\Ub@C`AL|@Ix@Ud@Sf@Sl@Qn@Et@@x@Kr@Mp@Qh@Uj@Av@Tb@V\VZPl@Mr@WVYJY^Sf@Qj@Mp@Qd@Uh@WVYWUc@Sc@Iq@Ye@ZX[EY[[OY\[DY?[G_@E[QWQ[D_@NOk@Rg@Ri@XURg@Nm@@y@C{@AaA@w@?w@Ay@YNIv@Cx@[@U][U[MYDWXc@CU_@So@W[Y]Mo@By@Hw@Fs@Hs@?w@Gu@Cy@?u@Du@Dy@A{@?y@Cw@Cy@Is@Iw@Qg@Ui@Wm@Qk@YQ[Q_@Y[YW[[UYQ[E[CU[V[ZSV_@V[ZQXSV[Pk@Ju@Aw@Qk@Qm@Is@Sg@WY[EYK[Q[E[A[K[S[M]A[SSg@Oo@Gw@Au@Gy@Qk@Mq@Dw@B{@@y@?y@Ey@Mo@[U[F[L[DYL[F]@Y?]IW]Ua@YQ[GYM_@G_@@[B[FYSYQ]E[KYB_@TYRYP[RYVWV[T[PYN[J[H[B]K[I[G[A]K]?[D[M]GYKYK]@Y[Sc@Sg@Ue@Os@@w@Lq@Ta@V_@@y@Sk@Sk@Mo@Oq@Mq@i@wAXgA]tDSf@Ud@Ol@EdA]Zk@p@m@zAo@BgA{@}@YkATcBv@_As@e@Us@g@gAe@mAeAg@eCq@gDK}A~@g@lAg@r@iAf@iAZaAEmCm@e@k@gA[h@Wx@a@p@a@`@k@^k@H""" ;
+	<routes_spots>		"""http://__thing_place_uri__30""" ;

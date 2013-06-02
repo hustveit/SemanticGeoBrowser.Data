@@ -1,0 +1,34 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route89>
+	a	...Thing... ;
+	<name>		"""Skurtveit, rundtur via Veten og Eldsfjellet"""@no ;
+	<ingress>		"""Eldsfjellet virkelig en kjempe blant Nordhordlands landemerker, med flott utsikt mot hele Nordhordland, Ã˜ygarden og byfjellene."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;FÃ¸lg grusvei oppover fra postkassene til du kommer til et veikryss. 
+Lengst til hÃ¸yre fÃ¸lger du vegen opp til et hus. Det er et skilt merket 
+Eldsfjellet her. GÃ¥ til venstre. Passer en gÃ¥rd og fÃ¸lg grusveien. Du 
+vil passere noen porter langs grusveien (ca. 500m). Lukk dem etter 
+passering. FÃ¸lg de &lt;i&gt;rÃ¸de markeringspinnene&lt;/i&gt; langs stien. NÃ¥r du kommer til tjernet StoratjÃ¸rni, vil stien dele seg.  Du vil se et skilt som 
+peker til venstre mot Veten og hÃ¸yre mot Varden. GÃ¥ til Venstre mot 
+Varden, og fÃ¸lg &lt;i&gt;rÃ¸de stikker&lt;/i&gt; opp i fjellet til du nÃ¥r Veten som er 
+markert med en varde. For Ã¥ fortsette turen mot hÃ¸yeste topp pÃ¥ 
+Eldsfjellet gÃ¥r du samme vei tilbake til StoratjÃ¸rni og fortsetter til 
+hÃ¸yre mot Varden.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Varden pÃ¥ Eldsfjellet (324moh) er markert med en godt 
+synlig varde. Eldsfjellet er bÃ¥de det hÃ¸yeste fjellet pÃ¥ HolsnÃ¸y og i Meland kommune. HÃ¸yere oppe pÃ¥ fjellet, er ikke markeringen fullt sÃ¥ god 
+som lenger nede, men i normalt vÃ¦r bÃ¸r du ha ikke ha problemer med 
+ruten. Terrenget er lett Ã¥ bevege seg i. Begge toppene har flott utsikt mot hele 
+Nordhordland, Ã˜ygarden og byfjellene. 
+NÃ¥r du har kommet til Varden fortsetter du langs merket sti mot NordÃ¸st.
+Herfra er det stort sett nedstigning mot Landsviklien med flott utsikt 
+mot Rylandsvassdraget som bestÃ¥r av tre store og fem mindre vann som er 
+bundet sammen med elver og kanaler.
+Stien slutter ved RV564 like ved Meland Motorsportsenter. Fortsett 
+sÃ¸rover langs riksvegen til du nÃ¥r avkjÃ¸rselen til Skurtveit der du 
+startet turen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;
+Fra Bergen, fÃ¸lg E39 nordover (FÃ¸rde). KjÃ¸r over Nordhordlandsbrua og ta umiddelbart  til hÃ¸yre mot HolsnÃ¸y. Fortsett ca. 400 m. til en rundkjÃ¸ring der du kjÃ¸rer rett gjennom. Du er nÃ¥ pÃ¥ RV564. FÃ¸lg denne veien ca. 15,5 Km.
+Etter dette har du passert Frekhaug, MjÃ¥tveit, FlÃ¸ksand og Rossland. Sving til venstre ved avkjÃ¸rsel til Skurtveit. FÃ¸lg veien ca. 600m til du ser et postkassestativ til venstre. Se om du kan parkere her. Veien er ganske smal fÃ¸r du kommer til Skurtveit, sÃ¥ kjÃ¸r forsiktig. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Rundturen tar rundt tre timer, avhengig av tempo og pauser.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kjekk tur som passer for de fleste, men den kan bli litt lang for de minste. Turen er ikke egnet for trillevogn eller rullestol.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vanlig turutstyr, gode fjellsko er en fordel.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4df7220a9e327.jpg> ;
+	<image_credit>		"""Hege Sunde""" ;
+	<created>		"""2011-04-26 13:56:51""" ;

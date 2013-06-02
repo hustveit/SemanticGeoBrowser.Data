@@ -1,0 +1,22 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place37>
+	a	...Thing... ;
+	
+	dct:title				"""Rundemanen"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;P&gt;Rundemanen (568 moh.) er et av de syv fjell rundt Bergen. Fjelltoppen er en del av det samme fjellmassiv som Ulriken og Fløyen, men er ikke lett synlig fra Bergen sentrum og blir av enkelte ikke regnet som et av Bergens byfjell ââ‚¬â€œ til fordel for Askøyfjellet på Askøy. Det går en grusvei opp til Rundemanen via Fløyen i forbindelse med Televerkets bygninger. Det ble satt opp en mast i 1978, men den ble ikke stående så lenge. I dag er det plassert en 106 meter høy mast på toppen som ble reist i 1990. Den velkjente turen Vidden kan passere Rundemanen. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;(Kilde: Wikipedia)&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;BR&gt;Like ved Rundemanen ligger Kåken, som tilhører 4. Bergen-Sandviken. For å komme til Kåken går man bort til radiohytta og lyttestasjonen som ligger vest for tårnet. Følg den grønne merkingen på vardene som går mot nord til du ser hytten.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ea9cbf34e7.jpg> ;
+	<image_credit>		"""Silje Katrine Robinson""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e09c383c7bc3.jpg> ;
+	<trimtoppen_description>		"""Skiltet er festet til Rundemanshytta.
+Man følger vardene med grønn merking mot nord fra Rundemanen """@no ;
+	<trimtoppen_image_credit>		"""Hordaland Krins av Norges speiderforbund""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-09-03 14:46:06""" ;
+	<gowalla_name>		"""Rundemanen (568 moh)"""@no ;
+	<gowalla_description>		""" """@no ;

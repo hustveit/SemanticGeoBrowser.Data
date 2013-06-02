@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike337>
+	a	...Thing... ;
+	dct:title				"""Tysse ââ‚¬â€œ Høgafjellet"""@no ;
+	<ingress>		"""Tur til Osterøys høyeste punkt."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Start turen fra Osvannet. Ved Trappen/starten av stien finner du skilt med alternative stier og tidsforbruk. Man velger en fargekode og følger denne.&lt;br&gt;&lt;br&gt;Ruten er godt tilrettelagt opp til Nedre Botnavannet. Her kan man velge rute på begge sider av vannet, med krysningspunkt midt på vannet.&lt;br&gt;&lt;br&gt;Ruten passerer igjennom gården Tyssebotn, og etter dette stiger den bratt opp. Her kan man følge trappene eller prøve seg i stigen som er satt opp. Når du kommer opp til ÃËœvre Botnavannet deler stien seg, og ruten her følger til nordøst. Her er stien mindre bra merket.&lt;br&gt;&lt;br&gt;Når du kommer opp på platået med Høgaheimshytta er terrenget enkelt å følge mot toppen. På toppen står det en varde med både turbok og gradestokk&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Turen starter fra Osvannet, innenfor Tysse.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. 3 timer hver vei.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lengre tur som krever at du har litt erfaring i fjellet.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Gode klær og tursko. Kart og kompass.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Stanghelle 1216 III&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-11-03 14:44:26""" ;

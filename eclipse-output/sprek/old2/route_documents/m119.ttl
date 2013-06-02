@@ -1,0 +1,23 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route119>
+	a	...Thing... ;
+	<name>		"""Baugtveit - Baugtveitstemma - Tellevikfjell """@no ;
+	<ingress>		"""En kort tur til flott utsikt."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Turen starter ved den øverste gården på Baugtveit. Herfra følger en
+kjerrevegen oppover mot Baugtveitstemma. Der vegen gjør en knapp sving til
+høyre opp mot demningen, så fortsetter stien rett fram. Ta gjerne en avstikker opp
+til demningen. Obs: Stemma er drikkevatnskilde.&lt;br&gt;
+&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fortsett oppover gjennom granskogen til du møter
+stiene fra Sætregården og Høgstefjellet. Fortsett stien til venstre oppover mot
+Tellevikfjellet. På toppen er det flott utsikt i alle retninger. I vest ser en mot
+Frekhaug på Holsenøy og videre mot ÃËœygarden og nordre deler av Askøy.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Dersom en ønsker å returnere til Baugtveit en annen rute enn
+oppover, kan en følge stien som går ned mot Nordgardsfjellet.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Grei sti å følge, men enkelte bløte partier. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr 3 eller 260 til Støbotn. Herfra er det 1,6 km å gå langs
+Baugtveitvegen til turstart. Parkeringsplass på Baugtveit like før du kommer til gårdene.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;I vanlig tempo tar det ca. 45 minutter å gå en vei.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for: &lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lett tur som passer for hele familien. Ikke egnet for barnevogn.
+Ingen servering.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Vanlig turutstyr, men ha gjerne vanntette sko/sokkeskift siden det er bløte partier.&lt;br&gt;&lt;/p&gt; """@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dda6af7a3784.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-23 16:09:18""" ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place122>
+	a	...Thing... ;
+	<name>		"""Myrdalen"""@no ;
+	<altitude>		"""150""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/3574992> ;
+	<gowalla_lng>		"""5.412284155""" ;
+	<gowalla_lat>		"""60.316483639""" ;

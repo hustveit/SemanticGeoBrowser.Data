@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place129>
+	a						...Thing... ;
+	<name>					"""Kolltveitmarken Storavatnet"""@no ;
+	<altitude>				"""50""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/7283924> ;
+	<gowalla_lng>			"""5.077833026""" ;
+	<gowalla_lat>			"""60.349455851""" ;

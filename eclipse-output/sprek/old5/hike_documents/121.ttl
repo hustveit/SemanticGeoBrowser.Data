@@ -1,0 +1,30 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike121>
+	a	...Thing... ;
+	dct:title				"""Salhus - Nordgardsfjellet - Støbotn"""@no ;
+	<ingress>		"""Flott familietur med framifrå utsikt."""@no ;
+	<description>		"""&lt;p&gt;&lt;strong&gt;Rutebeskrivelse:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bratt oppstigning frå Salhus 
+blir avløyst av rolegare terreng når du kjem opp over skoggrensa. 
+Nordgardsfjellet ligg som ein rygg mot vest og sørvest, og byd på framifrå 
+utsikt. Først over Byfjorden og Herdlefjorden, sidan mot bustadfelta langs 
+fjorden sørover mot byen. Her er også kulturminne i form av tuftene etter fleire 
+gamle torvhus og stemmer som i si tid sytte for vassforsyninga til Salhus og 
+tekstilindustrien der.&lt;/p&gt;&lt;p&gt;Oppstigninga er bratt, men det går an 
+å ta seg så mange pustar i bakken som ein treng. Elles er turen etter måten 
+lettgått for både liten og stor. Siste delen, frå Baugtveit til Støbotn, går på 
+asfalt. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tilkomst: &lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Det går buss til Salhus med jamne 
+mellomrom. Slik gir du deg sjølv større fleksibilitet. Køyrer du bil, må du 
+attende til utgangspunktet. Turen tek til i Salhussvingen, mellom Salhussvingen 
+23 og 25. Skilt viser veg til tursti.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tidsbruk:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Man må rekna at turen tar 
+rundt to timar. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passer for:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; Dei fleste som likar å gå tur, ta med heile familien å opplev Nordgardsfjellet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Utstyrsbehov:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; Vanlig turutstyr held. Det skal godt gjerast å bli 
+overraska av ruskevêr på ein såpass kort tur, så klæ deg etter vêret.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kart:&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;&lt;p&gt;Bergen (1:50.000)&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4ddbb24946dc3.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-24 15:26:31""" ;

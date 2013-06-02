@@ -1,0 +1,36 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+sf_ont:hike348
+	a						sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""120""" ;
+	] ;
+
+	sf_ont:Length [
+		sf_ont:Kilometer	"""12.7""" ;
+	] ;
+
+	sf_ont:degree_of_difficulty			"Average"@en ;
+	sf_ont:referedBy					<http://tur.bt.no> ;
+	
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""}kdpJept_@Ub@WpA]rBCR]|@}@~@k@d@u@^WJi@Xs@`@YTIHAHBPXLR@DN?RCDM?ODc@A{@VkAPu@Jm@Fu@Zc@\\wA`Aq@b@s@|@e@`@YHkARmAH[F]j@q@nBU\\YXQJOBSUKUA[JwAB]?a@?KAWIIIAMHKFeAfASTORA^AFIJWDc@b@SLKRYj@]p@Yn@Eb@GXKd@KVS\\K`@K\\E\\Ef@G~@AV?JGLILEH?P@FH@LQH??PEHEFEDELAHG`@Q`AWv@MXIPSjAQb@Oj@Od@SHUPSJC?e@x@_@r@iBlBmBxEWtCGXIQI^]h@Sh@[TC^MfAYl@Kn@Az@S~@KTKhAWx@K^a@hAs@bBe@z@Qb@c@ZCPGTMb@_@f@Q^Uv@i@bAYf@YPi@x@Q^Yd@Oh@KRUHc@H[NQPNRNDFT@f@BJB|@@d@CDYDSBIHLJHTBd@IP?|@I~@DdAKz@Cr@MXIb@?X@d@Ap@?PW~BBh@C~@BVAPGRQZG^I^@x@@ZIP@z@FP?j@F`@@n@H`@?ROb@KFKx@GZCPMbA_@dBc@nBj@qBLm@JSToA^At@TrBf@H@d@p@lBvHBDD?@^NEFBBBJRLHFFFNVEP?XTRb@FP@LLXp@BDPFPDNFZLPHFL?Lb@BRbArBZv@r@zBv@bCr@t@Rr@l@|@Z\\Ff@`@k@|Aw@l@g@|@In@Yd@YX]x@kBp@{ArBkDhAgC`@sAb@sA~@mB`@iAd@}@l@oAv@mAjAqCr@eBDCZeArB}Db@{@pAiBbBcCj@o@l@o@`@u@p@{Af@w@r@_@X?JBPe@Hc@RQ^?s@yBi@sBa@eAEUUkCGiCOcCEyBEES_CAu@FaB\\cBf@o@b@aAd@eBNeA`@qCf@cCz@qBd@Ur@gAv@cBb@kAFa@`@?\\C~@Al@?ZCd@oAZ_B^sAH}@DgB?kAAwA?iAa@mCEU[u@Y_Bc@cBg@iBe@aAKg@Ec@AmAGc@G[e@w@QMSg@SsCOmCMuC?g@Ae@Om@C{ALuBHi@Zo@d@k@j@s@XgAXgB^iB??_@hBYfBYfAk@r@e@j@[n@Ih@MtBBzANl@@d@?f@LtCNlCRrCRf@PLd@v@FZFb@@lADb@Jf@d@`Af@hBb@bBX~AZt@DT`@lC?hA@vA?jAEfBI|@_@rA[~Ae@nA[Bm@?_A@]Ba@?G`@c@jAw@bBs@fAe@T{@pBg@bCa@pCOdAe@dBc@`Ag@n@]bBG`B@t@R~BDDDxBNbCFhCTjCDT`@dAh@rBr@xB_@?SPIb@Qd@KCY?s@^g@v@q@zAa@t@m@n@k@n@cBbCqAhBc@z@sB|D[dAEBs@dBkApCw@lAm@nAe@|@a@hA_AlBc@rAa@rAiAfCsBjDq@zAy@jBY\\e@Xo@X}@Hm@f@}Av@a@j@Gg@[]m@}@Ss@s@u@w@cCs@{B[w@cAsBCSMc@M?IGMQG[EOGQEQq@CMYAMGQSc@YUQ?WDGOGGMIKSCCGCODA_@E?CEmBwHe@q@IAsBg@u@U_@@UnAKRMl@k@pBb@oB^eBLcABQF[Jy@JGNc@?SIa@Ao@Ga@?k@GQA{@HQA[Ay@H_@F_@P[FS@QCWB_ACi@V_C?Q@q@Ae@?YHc@LYBs@J{@EeAH_A?}@HQCe@IUMKHIRCXEBEAe@C}@CKAg@GUOEOSPQZOb@ITIJSNi@Xe@P_@h@y@XQXg@h@cATw@P_@^g@Lc@FUBQb@[Pc@d@{@r@cB`@iAJ_@Vy@JiAJUR_A@{@Jo@Xm@LgAB_@ZURi@\\i@H_@HPFYVuClByEhBmB^s@d@y@B?RKTQRINe@Nk@Pc@RkAHQLYVw@PaAFa@@IDMDEDGDI?QI?MPIA""" ;
+	] ;
+	
+	owl:sameAs				<http://tur.bt.no/tur/348> ;
+	
+	sf_ont:Indexcard [
+		dct:created				"""2012-01-13T14:45:46.655+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

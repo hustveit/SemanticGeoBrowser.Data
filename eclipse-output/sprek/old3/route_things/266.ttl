@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route266>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/266> ;
+	<name>					"""Iseggene """@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""6.6""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 10:17:28""" ;
+	<encoded_path>		"""yuopJc{t_@`AoD~@mAjAkB?{DnAwB`AmBNcCtAaAzB?dDa@pBwAdBu@pCcDXcC_BcCdAoDpCsH~AyDdBoDd@qEz@eEh@mCjBaBd@cCzBgFtAmC`BgGzAqGjBuIdAgGhAkM^_IPwBRmCz@_IdA}HDeB~@mDz@cBTmBx@wBDaAdAmBdAw@j@cDTwBdAyBXwBpB}G?cB~@yCdAcDHkAZUd@cCh@cBpAcCKeEIeFHcCj@aB?a@nAyCt@u@z@{Dd@?nBmBzAaC^cB|CwBn@k@nBqF`Aw@^wAtAaAzBcCjCcEvC{GnAgGj@eEnBsH~@cCfAyDtBwB`CaA^w@zBJzBUxAaAlCqEdCwAtAj@~@v@jA}FpAeGnAoDh@mAjBeFpAqEd@x@zAu@~AmAtAIzB^`AbBNa@Ev@h@`Cj@j@HoFSuJ""" ;

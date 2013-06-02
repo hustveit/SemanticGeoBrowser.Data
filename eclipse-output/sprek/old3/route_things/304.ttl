@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route304>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/304> ;
+	<name>					"""Bavallen ââ‚¬â€œ Lønahorgi"""@no ;
+	<length_in_time>		"""420""" ;
+	<length_in_km>			"""7.5""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-19 11:50:57""" ;
+	<encoded_path>		"""gqeqJmtdf@O`AIZu@D_@?[j@OzA?bB^z@FlAG`AKn@KvAAxBXpAWfA_AX}@TW|@k@fCcAfAs@lB]fA]fCg@j@e@z@{@`@Y|AUn@c@f@I`A@n@NvALz@\Pj@^^v@HvAD`A?pB?bCKrBOz@_@t@Y`AU`A?|@?z@HpAGz@e@nBQp@UlBCpBEpBBpBMnB?hABrAChAX|@NnAQbDc@nD?ZcAj@u@}A]p@EbCZhAgAhA{@`A}@T{@{@yAj@o@oAw@?]nAJdEg@dBc@~DyA{@Y|B?fAWvDoATcBG_AlEoAhCgAj@q@q@y@gG[k@aBbCu@b@a@yCUyC?oAy@cC[Ga@dEe@pCy@jC_AzBy@FY{B_@aAm@Dy@gAu@Oy@eBiEyC}Az@_CvAwAjB{Br@mDLcANsBs@kAk@q@NcAFgAoAYwA}AaDIgDg@cCu@}DEmBRqAnAc@jAy@b@wD^qCg@mBu@{B_@}DIqAu@[K?oDwAEqAwA}Aw@?YwAgAiAcAqCqAoDsAqCgCsHyBqFkA{B}D_RyBUuB?u@?sDp@}@\{BvAkAtBiDpCkCzE{E|D}@GmAr@aBFyC]{@s@_CeBmAiAiCwCkB_BgAsESsCK}DIqNCwF""" ;

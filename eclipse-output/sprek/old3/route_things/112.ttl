@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route112>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/112> ;
+	<name>					"""Støbotn -Toppenipa"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>			"""1.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-11 15:23:27""" ;
+	<encoded_path>		"""o{dpJeye_@XmGZsDNzDl@`DXzDFnAHnBBtBPZVKPM`@OVQRMNOPULUR_@T[PQPOWBWRURSBQ_@Kg@Gm@Ak@Eg@Ce@?g@Ak@Q_@NRAh@JZPBR^LXNNL[?e@Bc@Dc@LUL]F_@Hc@Fc@Jm@LWMWOSK[Cg@MWJ[POPDLYJYPONMPKJ_@H_@FM""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route120>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/120> ;
+	<name>		"""Baugtveit - Tellevikafjellet"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""1.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-24 15:03:23""" ;
+	<encoded_path>		"""}bfpJk`i_@CDQFSJQFQGSESMQBQJQFQNQBQOJ^MTOVQPQHI^M^OKQUEc@Cd@Id@?d@G`@OTEf@QHIb@Ib@KZG`@Cf@H`@H^@f@Eb@Cd@K\QTK^Gb@I`@I`@K\Kd@H`@?d@ONQJK\G^K\Ab@?f@Af@Cd@Ef@Ed@ORI^OJJHGEI_@Ag@?c@K]K[QQK]I_@MWGc@Fa@De@Bg@De@Dc@De@Fa@@c@Dc@SBMb@K^MTMTSLMTI`@QLGb@OTOYI_@SBSBQAQAMXI`@MZOVQLQFQKOQM[QQQLOPQNSHQ@QLSJQFMWOQQMQPQIQJSJQIQJQFSBSAI\QLKXKZQBI^""" ;

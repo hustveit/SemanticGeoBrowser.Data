@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route183>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/183> ;
+	<name>					"""Lysøyen, rundtur"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3.3""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>				"""2011-07-08 14:30:15""" ;
+	<encoded_path>		"""e}nnJehw_@LALKNH@FHMXi@Zc@TYFKDa@_A_B]{CGf@g@PK_@M@KfAa@lAaOs@AF]KQPEXSt@UToASi@`@s@`@Yf@_@vA?^]LCFEL_@^QDa@USDINKVFxBRf@HnAIlAUh@kCxGKd@k@j@q@~@g@~AKb@_@\ORKl@WdBG^@lAKd@a@t@Q`B@XN^NTTFTITx@B`ANnDLjBf@pBl@~@PD\[VaAd@eFT_@l@MhAs@hAwAp@sDr@o@h@q@b@IfAUz@DTJZn@pAuBh@aEJk@u@?c@mBQoDGMBi@]Q[E[k@UiAMQc@@cAu@Nc@r@aAZQ~@Ap@aAFmANa@h@]dAGJE^BZYPAPZUl@?l@`@hANJg@_AEg@Hk@Nc@NYNDf@`@PFVSL[h@AN]HITBQy@F[J?L@f@OTGPWFe@?M`@^IIGI""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route225>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/225> ;
+	<name>		"""Titlestad-SmÃ¸rÃ¥sfjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""2.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-28 10:16:44""" ;
+	<encoded_path>		"""{bznJs|u_@oBe@eAwAs@mD_ApCqAb@}AeBwEc@m@eHsByFkCeBYpCuAiCs@{BgD?eCvAyB_BuD\}AaAg@x@mAuBk@oAu@GkApA}AfGuB|DsCrBeBEuAb@sAM{@Lc@c@yAZKTmBT][gCOy@dEu@`A?xF\lBoAtDqBzEy@oAcAUcAjEy@fBq@gB_AUw@jC""" ;

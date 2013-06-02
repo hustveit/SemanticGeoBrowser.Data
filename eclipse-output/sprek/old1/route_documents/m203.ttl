@@ -1,0 +1,55 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route203>
+	a	...Thing... ;
+	<name>		"""Eikeland-Gladihaug"""@no ;
+	<ingress>		"""Flott tur til nydelige Gladihaug (431 moh.)."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter pÃ¥ Eikeland. Stien begynner bak en gÃ¥rd helt
+ved veiens ende. FÃ¸lg stien sÃ¸rÃ¸stover. Stien er litt svingete i starten, men
+retter seg kjapt ut igjen. Stien fÃ¸lger elven sÃ¸rover mot Sandbrekkena og over
+eggen til Vestefjellet. Her er det tÃ¸rt og fint Ã¥ gÃ¥.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stien gÃ¥r videre mot et myromrÃ¥det, Breimyra. I enden av myren
+ligger muren etter et helt tun av gamle torvhus. Stien gÃ¥r pÃ¥ Ã¸stsiden av myra.
+Ved stidele etter myren hold til hÃ¸yre, sÃ¸rvest og opp til Gladihaug (431 moh.)
+PÃ¥ Gladihaug har man vid utsikt i alle himmelretninger. Etter en liten pause her,
+kan man enten returnere samme vei eller velge Ã¥ gÃ¥ videre til Krossane. Se &lt;a href="http://tur.bt.no/tur/193"&gt;Rundtur
+via Gladihaug og Krossane&lt;/a&gt;  .&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Eikeland i LindÃ¥s kommune. Det er ingen oppsatte parkeringsplasser,
+sÃ¥ ta hensyn nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 320 fra Bergen sentrum
+til Knarvik, ta sÃ¥ buss nr. 300
+videre til Vatne. Fra Vatne mÃ¥ man gÃ¥ ti minutter tilbake til Eikeland. FÃ¸lg
+veien til Herland og ta derfra opp til Eikeland.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar omtrent 2 timer i sin helhet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for alle, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti sÃ¥ den er ikke
+tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter vÃ¦ret. Fjellsko anbefales. LindÃ¥skartet er nyttig Ã¥ ha med.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta
+om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gladihaug
+(431 moh.), er â€&#157;heimefjelletâ€&#157; til beboerne i tettstedet Knarvik i LindÃ¥s.
+Fjellet er et av de vanligste turmÃ¥lene i den sÃ¸rlige delen av LindÃ¥s
+kommune. Fjellet
+har flere oppganger, er lett tilgjengelig og benyttes hele Ã¥ret. Det er ogsÃ¥ populÃ¦rt
+for skigÃ¥ere, sÃ¦rlig fra omrÃ¥det Hopsdalen, som har en vel 3 km lang lyslÃ¸ype.
+Det er merket ca. 10 km lÃ¸yper rundt hele fjellplatÃ¥et.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;LindÃ¥s og RadÃ¸y Turkart, SÃ¦bÃ¸ 1116 II,
+Herdla 1116 III.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2586a4acda6.jpg> ;
+	<image_credit>		"""Roar Christiansen """ ;
+	<created>		"""2011-07-19 14:42:10""" ;

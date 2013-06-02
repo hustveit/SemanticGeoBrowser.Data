@@ -1,0 +1,21 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike233>
+	a	...Thing... ;
+	dct:title				"""Fanafjellet-Lysskarsfjellet-Nordvik"""@no ;
+	<ingress>		"""Flott utsiktstur fra Fanafjellet til Nordvik."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse: &lt;/B&gt;&lt;BR&gt;Barer ti minutters rask gange fra Fanaseter gir umiddelbar uttelling. Fra Ramberget (299 moh.) er det nydelig utsikt over Fanabygden, Bergensdalen og helt vest til Sotra. Følg stien videre innover fjellkammen mot Lysskarfjellet og Foldalsvarden går i småkupert terreng. Noen steder danner krokete furutrær espalier langs stien. Flere steder er det utsikt mot Fanafjorden, Austevoll og Lysefjorden med Lysøya, Søvikneset og Drange. Kneiken opp mot Lysskarfjellet er litt bratt, men er sikret med et tau. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Lysskarsfjellet (313 moh.) er det nydelig utsikt. Her er det fint å ta en liten rast før man går ned til Nordvik. Følg stien som går ned på sørsiden av Lysskarsfjellet. Den er lett å følge, men kan være litt bratt så man må gå forsiktig. Stien går sørover langs med en bekk stort sett hele veien. Fra Nordvik kan man ta bussen opp på Fanafjellet igjen dersom man har bilden parkert der.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;B&gt;Tilkomst: &lt;/B&gt;&lt;BR&gt;Det enkleste er å komme seg hit med bil, men Lysefjordruten kjører fra mandag til fredag over Fanafjellet til Drange. Det er god parkeringsplass ved Fanaseter som ligger 20 km fra Bergen sentrum. Gå inn porten ved Fanaseter og følg stien forbi Setermuseet. &lt;BR&gt;&lt;BR&gt;&lt;B&gt;Tidsbruk: &lt;/B&gt;&lt;BR&gt;Turen tar rundt 2,5 timer.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Passer for:&amp;nbsp;&lt;/B&gt;&lt;BR&gt;Dette er en fin familietur, men det er fullt mulig å løpe seg svett innover myrene på en treningstur også. Denne turen passer ikke for rullestolbrukere eller barnevogn. Turen er uegnet til skibruk.&lt;BR&gt;&lt;B&gt;&lt;BR&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;Gode fjellsko er anbefalt. Det er nok av myrhull å trø seg ned i på denne turen. Vindjakke og regntøy kan være bra å ha i sekken. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Fanafjellet er et kjent og mye brukt utfartssted som ligger ca. 2 mil fra Bergen sentrum. Turterrenget i området er fint, noe kupert og skogkledd. Der finnes mange gode stier i området, men traseen kalt Bjargløypen er mest benyttet. Passer for alle aldersgrupper. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Hvis du vil handle litt på veien, så er nærmeste butikk er i Krokeideveien ved Fanahammeren eller i Titlestadvegen, innkjørsel sør for Fana kirke. Det er også en butikk ved Buena kai innerst i Lysefjorden.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart: &lt;/B&gt;&lt;BR&gt;Gullfjellet turkart (1:25.000), O-kart Fanafjell (1:15.000), 1115 I Bergen (1:50 000),&lt;BR&gt;1115 II Austevoll (1:50 000. &lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e32b0eea24ce.jpg> ;
+	<image_credit>		"""Christiansen Roar """ ;
+	<created>		"""2011-07-29 15:07:59""" ;

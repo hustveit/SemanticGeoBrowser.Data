@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="lonvia.de" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+	<metadata>
+		<name>Test</name>
+		<link href="http://test.no">
+			<text>Test</text>
+		</link>
+	</metadata>
+
+	<trk>
+		<trkseg>
+			<trkpt lat="60.34854" lon="5.33547"/>
+			<trkpt lat="60.34811" lon="5.33536"/>
+			<trkpt lat="60.34797" lon="5.33496"/>
+			<trkpt lat="60.34797" lon="5.33459"/>
+			<trkpt lat="60.34741" lon="5.33386"/>
+			<trkpt lat="60.34684" lon="5.3321"/>
+			<trkpt lat="60.34615" lon="5.33122"/>
+			<trkpt lat="60.34578" lon="5.3306"/>
+			<trkpt lat="60.3452" lon="5.33056"/>
+			<trkpt lat="60.34475" lon="5.33027"/>
+			<trkpt lat="60.34454" lon="5.33001"/>
+			<trkpt lat="60.3449" lon="5.32987"/>
+			<trkpt lat="60.34495" lon="5.32954"/>
+			<trkpt lat="60.34578" lon="5.32924"/>
+			<trkpt lat="60.3468" lon="5.32803"/>
+			<trkpt lat="60.34734" lon="5.32767"/>
+			<trkpt lat="60.34973" lon="5.32803"/>
+			<trkpt lat="60.35009" lon="5.32807"/>
+			<trkpt lat="60.35011" lon="5.32719"/>
+			<trkpt lat="60.35102" lon="5.32602"/>
+			<trkpt lat="60.35175" lon="5.32558"/>
+			<trkpt lat="60.35226" lon="5.3251"/>
+			<trkpt lat="60.35296" lon="5.32481"/>
+			<trkpt lat="60.35302" lon="5.3243"/>
+			<trkpt lat="60.35294" lon="5.32364"/>
+			<trkpt lat="60.35377" lon="5.32346"/>
+			<trkpt lat="60.35485" lon="5.32247"/>
+			<trkpt lat="60.35526" lon="5.32144"/>
+			<trkpt lat="60.35625" lon="5.32137"/>
+			<trkpt lat="60.35751" lon="5.32042"/>
+			<trkpt lat="60.35812" lon="5.31946"/>
+			<trkpt lat="60.35939" lon="5.31968"/>
+			<trkpt lat="60.35951" lon="5.31976"/>
+			<trkpt lat="60.35967" lon="5.3195"/>
+			<trkpt lat="60.36008" lon="5.31921"/>
+			<trkpt lat="60.36015" lon="5.31884"/>
+			<trkpt lat="60.36021" lon="5.32009"/>
+			<trkpt lat="60.36085" lon="5.31976"/>
+			<trkpt lat="60.36078" lon="5.3195"/>
+		</trkseg>
+	</trk>
+</gpx>

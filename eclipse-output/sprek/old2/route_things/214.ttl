@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route214>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/214> ;
+	<name>		"""Tjeldstø-Hovden, rundtur"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""8.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-22 13:52:03""" ;
+	<encoded_path>		"""}azpJ}`o\^fAJt@UbDm@v@_@xCo@lHkAxDG`AcBzEs@tDs@z@u@`FCrDaB~DwC~BQfAsDlF_AlBaDzEwChAaBQaDlFqAlBsBt@gAc@yApGt@vDb@~Jk@vH?~JIvHQbLk@vDyAzEuBtHmElBwEcDaD{AmChMcBvPgAvLiEqCmGaGeCrCwEfAeC_KoClFaDlBaBiAyA?cBc@u@{AsB_Gm@_C}ATaCaBoA?_@qF?_IRoEIyDn@gFjAcCfBoD~@qHN{PzBqGlI{[vF_KhJcYhl@yO~HaAne@TjCwB~Owb@""" ;

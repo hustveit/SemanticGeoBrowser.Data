@@ -1,0 +1,27 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route84>
+	a	...Thing... ;
+	<name>		"""FlÃ¸yen-Brushytten-Storediket-FlÃ¸yen"""@no ;
+	<ingress>		"""Lett tur som passer for hele familien hele Ã¥ret. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fra FlÃ¸yen
+fÃ¸lger du BlÃ¥mansveien til Brushytten pÃ¥ Midtfjellet. Veien fra
+Brushytten til Storediket gÃ¥r rett nordover, gjennom Stemmedalen. Turveien gÃ¥r
+etter hvert langs Storediket. Her er det
+flott Ã¥ sitte og raste, eller bare ta seg en rolig pause. PÃ¥ veien
+tilbake fra Storediket til FlÃ¸yen kan man velge ulike traseer, men denne turen gÃ¥r ned forbi Nedrediket.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Til FlÃ¸yen
+kommer du deg til fots (se eksempel Skansemyren-FlÃ¸yen eller Tippetue-FlÃ¸yen). Du kan ogsÃ¥ ta FlÃ¸ibanen opp.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;I vanlig tempo tar rundturen ca. en time.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;b&gt;Passer for: &lt;/b&gt;&lt;br&gt;
+Alle kan gÃ¥ denne turen. Det er noe humpete Ã¥
+kjÃ¸re vogn fra Brushytten til Storediket, og man mÃ¥ vÃ¦re forberedt pÃ¥ Ã¥ mÃ¥tte
+bÃ¦re vognen enkelte korte strekninger. &amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br style="font-weight: bold;"&gt;&lt;p&gt;Brushytten drives av Skansens Bataljon og er Ã¥pen hver
+sÃ¸ndag hele Ã¥ret. Den ble bygget i 1931
+og har lenge vÃ¦rt et populÃ¦r turmÃ¥l. I 2008 ble den gamle hytten erstattet av
+en ny. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;b&gt;Kart: &lt;/b&gt;&lt;br style="font-weight: bold;"&gt;1115 I
+Bergen (1:50 000), O-kart FlÃ¸ien ( 1:10 000), Tur- og Friluftskart Bergen ( 1:
+25&amp;nbsp;000), 7-fjellsturen turkart (1:25 000)
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4da6f57737ae4jpg> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-04-14 15:17:45""" ;

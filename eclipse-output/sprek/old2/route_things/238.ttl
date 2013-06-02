@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route238>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/238> ;
+	<name>		"""Arboretet, natursti"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""1.7""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-02 14:45:49""" ;
+	<encoded_path>		"""chxnJkhd_@^_BbAy@^c@XwADmBIk@PaAXc@l@Gt@G^NbAk@f@s@y@?[iAo@c@eA]]k@q@aAy@q@uAe@y@EmBmBkAk@aAs@iAq@]k@c@_Em@?g@?qAfBCfABjCTfAd@r@f@Ll@d@SrBGhDUnA?r@J|ARj@`@?z@k@n@UPq@bA?tAaA^Ol@[Xj@h@Oj@Tx@FP?p@r@Pb@TM""" ;

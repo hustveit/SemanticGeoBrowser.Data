@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route267>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/267> ;
+	<name>					"""Salsborgjo og ÃËœykjafjellet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""0""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 10:20:35""" ;
+	<encoded_path>		"""""" ;

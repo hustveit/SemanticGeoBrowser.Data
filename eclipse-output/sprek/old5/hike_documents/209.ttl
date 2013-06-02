@@ -1,0 +1,37 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike209>
+	a	...Thing... ;
+	dct:title				"""Vollo-Brakstadfjellet"""@no ;
+	<ingress>		"""Ta turen opp på Brakstadfjellet og nyt utsikten over Meland."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter frå Vollo. Følg veien vestover mot Brakstad. Ta første
+vei til høyre og følg stien som går nordover. Stien er lett å følge. Følg stien
+til venstre mot Sjurdalsleitet. Herfra går stien direkte opp til toppen (318
+moh.). Den siste delen av stien er litt kronglete, men lett å følge. Fra toppen
+er det flott å raste mens man nyter utsikten. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Man kan gå ned flere veier. Har man bil er det best å returnere til
+Vollo, men det går også gode stier ned til Myrtveit og Sjurdal. Se: &lt;a href="http://tur.bt.no/tur/210"&gt;Myrtveit-Brakstadfjellet&lt;/a&gt; .
+&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Vollo i Meland Kommune. Det er parkeringsmuligheter
+på Vollo, ved Vestbygd barnehage. Man kan også ta buss nr. 320 fra Bergen sentrum til Flatøy. Så ta buss nr. 341 videre til Vikebø. Deretter ta buss nr. 344. Reiser man ved buss vil det ta omtrent 1 time og 40 minutter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1,5 time å gå opp. Nedturen går noe raskere. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for de aller fleste. Stien er ikke tilpasset for bruk av
+trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter været. Gode fjellsko er anbefalt.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e280bf92d1a3.jpg> ;
+	<image_credit>		"""ODD MEHUS """ ;
+	<created>		"""2011-07-21 13:16:28""" ;

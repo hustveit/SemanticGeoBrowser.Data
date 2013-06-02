@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route197>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/197> ;
+	<name>		"""Flatøy-Håøytoppen"""@no ;
+	<length_in_time>		"""80""" ;
+	<length_in_km>		"""2.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-15 12:50:37""" ;
+	<encoded_path>		"""suopJyhc_@IdDCnA@Z?XJDLBEXKJKFKPIPKLINKHMLOb@K^Ih@M\Ih@c@h@KjA@rAc@rBUtBy@dEu@bB[ZDdAs@jF}@vEiAnJHlBw@jFe@rDw@zD[`Ba@dEE^Tf@^vAXHp@ZvA^l@lAVlCDv@dA`A|CnDt@fDO`B\~CL~D?z@}@?G_@F}@OqBs@|B@z@KhC_@HSaAU{@}CkGaAw@eAaA_@IeBgAcDoC?bCP`Ad@Jt@Od@T?`AQ`AUn@]fAId@Gz@Rf@ZX`A|@j@ETfB?pAOz@}@bBUd@DrBOpAHz@Hj@""" ;

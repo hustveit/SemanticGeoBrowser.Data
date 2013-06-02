@@ -1,0 +1,48 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route151>
+	a	...Thing... ;
+	<name>		"""LandÃ¥sfjellet, rundtur"""@no ;
+	<ingress>		"""Morsom rundtur pÃ¥ LandÃ¥sfjellet med panoramautsikt pÃ¥ halve turen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra parkeringsplassen pÃ¥ Nordre Nattlandsfjellet. FÃ¸lg stien oppover langs eggen av LandÃ¥sfjellet. Etter bare 5 minutter vil du kunne se en fantastisk utsikt, som fÃ¸lger deg nesten
+hele turen. Det er utsikt mot NordÃ¥svannet, LandÃ¥s, sentrum, LÃ¸vstakken, Arna, Gullfjellet
+og rett frem ser du Ulriken. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;GÃ¥ langs eggen og hold kursen mot Ulriken til du kommer til et firkantkryss. Velg
+stien som gÃ¥r 90 grader til hÃ¸yre. Denne stien vil ta deg i en lang sving mot
+Nubbevannet. Fortsetter man rett frem i firkantkrysset kan man gÃ¥ videre til
+Ulriken. OmrÃ¥det rundt Nubbevannet kan vÃ¦re vÃ¥tt, sÃ¦rlig etter regn. FÃ¸lg stien
+mellom et lite tjern pÃ¥ hÃ¸yresiden og Nubbevannet pÃ¥ venstreside. Det er mulig
+Ã¥ bade her. Stien vil nÃ¥ ta deg inn pÃ¥
+den gruslagte lyslÃ¸ypen. FÃ¸lg denne veien nedover. Bakken er litt bratt sÃ¥ hvis man
+lÃ¸per mÃ¥ man vÃ¦re forsiktig. Hold til hÃ¸yre ved veiskillet og etter kort tid vil du vÃ¦re tilbake pÃ¥ parkeringsplassen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r opp Nattlandsfjellet og ta til venstre mot Nordre
+Nattlandsfjell. FÃ¸lg denne veien til du ser parkeringsplasser pÃ¥ venstreside
+langs veien mot skogen. Her kan du parkere. Det er ogsÃ¥ mulig Ã¥ ta buss 7 opp pÃ¥
+Nattlandsfjellet.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Hele turen tar rundt 1 time og 15 minutter, avhengig av
+tempo og rastetid. Det er populÃ¦rt Ã¥ lÃ¸pe store deler av rundturen, og turen vil
+da ta under en time. GÃ¥r man i rolig tempo og nyter utsikten kan turen fort ta 1,5
+time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er en flott rundtur de aller fleste vil ha stor glede av. Rundturen passer godt bÃ¥de som ettermiddagstur og som sÃ¸ndagstur. Turen
+kan bli litt vanskelig Ã¥ gÃ¥ for de aller minste, stien bestÃ¥r tidvis av flere
+store steiner som man bÃ¸r ha litt skrittlengde for Ã¥ kunne forsere. Det gÃ¥r forÃ¸vrig bra Ã¥
+ha stÃ¸rre barn med, men vÃ¦r obs pÃ¥ at stien gÃ¥r langs kanten pÃ¥ fjellet sÃ¥
+barna mÃ¥ vÃ¦re forsiktig og holde seg pÃ¥ stien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen er hovedsaklig uegnet for trillevogn og rullestol, sÃ¦rlig pÃ¥ steinstien langs eggen. Ettersom den siste delen av turen gÃ¥r pÃ¥ en fin grusvei vil det vÃ¦re mulig Ã¥ benytte trillevogn eller rullestol her, men man
+fÃ¥r dessverre ikke med seg utsikten mot sentrum.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;PÃ¥ sommerstid holder det med joggesko, men etter regnvÃ¦r kan
+det vÃ¦re greit Ã¥ bruke gode fjellsko.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4df9ba9955386.JPG> ;
+	<image_credit>		"""Christina Laastad""" ;
+	<created>		"""2011-06-16 08:21:33""" ;

@@ -1,0 +1,39 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route104>
+	a	...Thing... ;
+	<name>		"""7-fjellsturen"""@no ;
+	<ingress>		"""Bli kjent med byen og fjellene på en fantastisk og krevende måte. 
+ 
+
+"""@no ;
+	<description>		"""&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br style="font-weight: bold;"&gt;&lt;p&gt;Turen starter ved Gravdal. Herfra går turen mot Lyderhorn (396 moh.), først på vei et par kilometer før. Man går opp på ryggen og kommer til fint terreng. En trapp her var tidligere flaskehals under 7-fjellsturen, men i 2010 ble trappen byttet med en som var dobbelt så bred. Det er litt stein på vei mot toppen, på vei ned kan det være litt bløtt. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Når man er nede i Banuren følger man veien et par kilometer, man må krysse riksveien og mot Damsgårdsfjellet. Her ble det ofte mye gjørme under 7-fjellsturen, men de siste årene er det lagt ut klopper og trebruer. Disse ligger ute hele året.&amp;nbsp;&amp;nbsp; Ned fra Damsgårdsfjellet bruker det å være en del kødannelse på turdagen. Vel nede er det vei fra Melkeplassen og grønne metallskilt viser veien videre mot Løvstakken. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Løvstakken er en lang rygg fra Melkeplassen og opp. Først i skog, så i et landskap med tuer og lyng. Når man bryter skoggrensen, får man en utrolig god utsikt til alle kanter. Det er litt klyving på vei mot toppen. Løvstakken skiller seg fra de andre fjellene ved at det bor folk rundt hele fjellet. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ned fra Løvstakken er det også godt merket, men det har hendt at folk har tatt litt feil. Det er to rygger på Løvstakken, du skal følge til høyre på vei ned og ned mot Skillingsbollen og forbi steinen det står&amp;nbsp; ââ‚¬&#157;Jesus leverââ‚¬&#157; på. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Videre nede på Løvstakksiden, følger du veien til Ãâ€¦rstad videregående skole. Det er bare å følge de gulmalte pilene i asfalten. Så går ruten videre gjennom bebyggelse og forbi Haukeland Universitetssykehus. Derfra videre mot ââ‚¬&#157;Brattebakkenââ‚¬&#157;, Johan Blyttsvei, til Montana. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Fra Ulriken kan man nyte utsikten fra turens høyeste punkt, 640 moh. Fra toppen følger man ryggen ned i retning Minde. Stien bryter fort til høyre i Hestdalen og man krysser sykkeltraseen. Under selve løpet vil ikke sykkelløypen være i bruk, men går du denne ruten resten av året er det viktig å være obs på at syklister kan komme i stor fart ned sykkelløypen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Så kommer du til den gamle slalåmbakken i Montana og følger den ned til jerntrappene ned til Ulriksbanens nedre stasjon. I 2010 var det en traséendring her. Frem til da gikk man opp jerntrappene og ned Bjørndalen, men fordi Bjørndalen var dårlig egnet med blant annet fare for steinsprang, ble ruten lagt om. Etter å ha kommet ned fra Ulriken, går man forbi Nordeuropas lengste lindeallé ved Haraldsplass Diakonale Sykehus, forbi Svartediket og opp Knatten. Deretter passerer man BT-bu og følger veien mot Fløyen. På turdagen er klippeposten på Fløyen plassert like ved restauranten. Løypen videre går på Blåmansveien mot Brushytten og deretter opp Rundemansveien til Rundemanen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;På vei ned fra Rundemanen kan det stedvis være vått, men de siste årene er det bygd ut med klopper. Så kommer man til Sandviksfjellet, derfra og ned er det stein hele veien. Man går videre ned Skredderdalen og Fjellveien tilbake i retning mot sentrum.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;På løpsdagen går man tilbake til Marken for å registrere seg hos Bergen Turlag. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br style="font-weight: bold;"&gt;På løpsdagen blir det satt opp gratisbusser fra Nygaten v/Marken til Gravdal. Bussen stopper ved innkjørselen fra Lyderhornsveien til Gravdalsveien. Deltagerne må gå derfra til start ved Nutec. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;På ââ‚¬&#157;alminnelige dagerââ‚¬&#157; kan du ta vanlig rutebuss til Gravdal, eller du kan parkere langs veiene.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br style="font-weight: bold;"&gt;7-fjellsturen er rundt 35 kilometer lang og har en samlet oppstigning på 2200 meter. &lt;br&gt;Det går fint å gå denne turen hele året, men husk å sette av god tid. Gjennomsnittstiden for de som går på løpsdagen er rundt åtte timer. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for: &lt;/b&gt;&lt;br style="font-weight: bold;"&gt;Turgåere i god form som er motivert for å klare de syv fjell.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Det anbefales å pakke en lett sekk, og heller basere seg på å kjøpe mat underveis. Gode sko er en forutsetning, det er lett å få gnagsår på en slik langtur. Reservesokker anbefales å ta med.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen: &lt;/b&gt;&lt;br&gt;Den
+siste søndagen i mai hvert år arrangerer Bergen Turlag 7-fjellsturen. 
+Første tur var i 1948, med 206 deltakere. Frem til 1980/1981 gikk turen
+også innom Askøy. Fra 1981/1982 har dette vært ruten: Lyderhorn, 
+Damsgårdsfjellet, Løvstakken, Ulriken, Fløyen, Rundemanen, 
+Sandviksfjellet.&amp;nbsp; Samme dag går også 4-fjellsturen, for de som ønsker en
+kortere rute. Den består av de siste fire fjellene. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I
+2010 var det til sammen 8000 deltakere på 7-fjellsturen og 
+4-fjellsturen. Det har vært ny deltakerrekord hvert år de siste ti 
+årene.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;br style="font-weight: bold;"&gt;1115 I Bergen (1:50 000), O-kart Fløien ( 1:10 000), Tur- og Friluftskart Bergen ( 1: 25&amp;nbsp;000), 7-fjellsturen turkart (1:25 000).&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dbe6d19a7b70.jpg> ;
+	<image_credit>		"""Knut Egil Wang""" ;
+	<created>		"""2011-05-02 10:30:42""" ;

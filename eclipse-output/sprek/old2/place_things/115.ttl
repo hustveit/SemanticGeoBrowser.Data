@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place115>
+	a	...Thing... ;
+	<name>		"""Træet Gård, Osterøy"""@no ;
+	<altitude>		"""NULL""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/7486038> ;
+	<gowalla_lng>		"""5.691417505""" ;
+	<gowalla_lat>		"""60.560303618""" ;

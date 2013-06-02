@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route275>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/275> ;
+	<name>		"""Herdla"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""4.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 10:54:56""" ;
+	<encoded_path>		"""wvtpJ{af]X_ET{Cw@M{AY_ByC_A}CoAsBy@QsB@qBx@aBr@eAWe@i@eAgB}@sByF{AyCxF{LyDUe@gGsBs@oAgRiGk@cJQiKj@uEl@WzByAn@wCBiDGsMg@}Ea@}FSeFC}ANsDnAWZb@LrDpA~Cd@bC?nAf@fEFtBl@nDRpEDbLR~Hv@nFxAbDpCnCtC~AjBp@~BDdCjAxClBjBjBxA~AhAlCpAtDdBxCxAlApB_@nBq@`DI|@n@r@lAhAxDbBrBtAd@l@`@""" ;

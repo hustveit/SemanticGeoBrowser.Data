@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place40>
+	a	...Thing... ;
+	<name>		"""Løvstakken"""@no ;
+	<ingress>		"""Populær sentrumsnær fjelltur med flott utsikt."""@no ;
+	<description>		"""&lt;p&gt;Løvstakkenmassivet benyttes i hovedsak av folk som bor i området, skjønt turen dit er absolutt å anbefale, ikke minst for å oppleve byen fra en ny og spennende vinkel. Turenes lengde varierer mellom 2 og 4 timer. Lengst er turen fra Bønes i sør til en av nedgangene i nord eller omvendt. Kortest og lettest er turen opp til det sørlige platået, hvor Gullstølen og Gullsteinen er naturlige mål.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; Selve Løvstakken rager 477 moh, men er omgitt av mindre koller i nord, og mot sør et Â«platåÂ» der høyeste parti er Gullsteinen (354 moh.). Fra Gullsteinen skråner fjellpartiet ned mot Langeskogen, Kråkenes og Bønes. Området utgjør en langstrakt fjellrygg mellom Bergensdalen og Fyllingsdalen på ca 7 kvadratkilometer. Mot Fyllingsdalen i vest er terrenget til dels meget bratt, med få atkomstmuligheter. Mot Bysiden er fjellsidene bratte nok til at man fort får opp varmen og pulsen når man går opp fra nord eller øst. Disse oppgangene er de mest brukte. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;De lavestliggende og mest bedagelige atkomstmulighetene er fra Frydenbø/ Gyldenpris og Melkeplassen i nord og nordvest, og fra sørsiden: strekningen Fjøsangerââ‚¬â€œLangeskogen til de nye boligområdene på Bønes. I nordlige delen av Løvstakkenmassivet er vegetasjonen som vanlig for vår region. I lavere deler er det furuskog med islett av plantet gran, mot vest også en del blandingsskog. I de øvrige områdene er det noe glissen furu- og bjørkeskog som går over til hedevegetasjon. Den 1,8 km2 store Langeskogen har meget varierende og for vår region uvanlige tresorter. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc96dd89c01d.jpg> ;
+	<image_credit>		"""Eivind E. Pettersen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4dfb19f400437.JPG> ;
+	<trimtoppen_description>		"""Skilt plassert ca 50m syd for varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-06-30 13:53:28""" ;
+	<gowalla_name>		"""Løvstakken"""@no ;
+	<gowalla_description>		"""Varden på Løvstakken (477 moh)"""@no ;

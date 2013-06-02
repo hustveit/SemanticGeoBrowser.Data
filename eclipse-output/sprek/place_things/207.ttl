@@ -1,0 +1,28 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dbpedia-owl: <http://dbpedia.org/ontology/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place207>
+	a						geo:SpatialThing ;
+	
+	dct:location [
+		a					dbpedia-owl:Place ;
+		a					geo:Point ;
+		
+		geo:lat				"""60.5268031898""" ;
+		geo:long			"""5.0068044662""" ;
+		geo:altitude		"""NULL""" ;
+	] ;
+	
+	owl:sameAs				<http://gowalla.com/spots/7847721> ;
+	
+	sf_ont:Indexcard [
+		dct:created				"""2012-02-01T14:38:56.462+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .

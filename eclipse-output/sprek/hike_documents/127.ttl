@@ -1,0 +1,43 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike127>
+	dct:title				"""Gullbotn, lysløype """@no ;
+	sf_ont:ingress			"""Helt gull for de minste!"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse&lt;/b&gt;:&lt;/p&gt;
+&lt;p&gt;Truen starter fra Hardangerveien, følg veien oppover på
+høyreside av Kvernafossen. Ta til høyre ved stiskille og følg veien opp til
+lysløypen. Løypen kan gås begge veier, men denne rutebeskrivelsen tar utgangspunkt
+i at man tar til høyre når man kommer inn på løypen. Løypen er lett å følge,
+særlig på vinteren da den er preparert for skigåere. Følg løypen rundt Gamlestølstjørna,
+ta til høyre ved første stiskille. Følg veien videre, hold til venstre ved
+neste stiskille. Løypen tar nå en sving tilbake mot Gamlestølstjørna. Følg
+løypen rett frem og kryss Fossarna elven. Løypen strekker seg videre i en sving
+og beveger seg på sørsiden av Gamlestølstjørna. Før man vet ord av det er man
+tilbake dit man kom inn på løypen. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ÃËœnsker man en lengre tur, kan løypen gjentas
+til man er fornøyd. Noe som kanskje spesielt aktuelt på vinterstid. Løypen er
+nyttig til å lære barna å gå på ski. &amp;nbsp;&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Fra
+Bergen er du avhengig av bil eller rutebuss i retning Kvamskogen og 
+Hardanger. Ãâ€¦ kjøre fra Bergen tar 30ââ‚¬â€œ45 minutter. Du kjører til 
+Trengereid, der du tar av mot Kvamskogen i rundkjøringen. Etter rundt en
+kilometer ser du parkeringsplasser både på høyre og venstre side av 
+riksveien. Når du kommer fra Bergen ligger løypene til høyre for veien. 
+Parkeringsavgiften er på 50 kroner dagen. 30 kroner etter klokken 16.00.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Det er helt opp til deg. Her 
+kan du sette deg ned og tenne bål med en gang du er opp på flaten og la 
+ungene leke i snøen, eller du kan kjøre på i kilometer etter kilometer i 
+løypene eller du kan ta sikte mot de høyeste toppene.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;De aller fleste, men veldig 
+gunstig for små barn fordi løypene er relativt flate. Gullbotn er også 
+innfallsporten til Gullfjellsmassivet, så du kan også gå gjennom skogen 
+og følge varderekken mot Gullfjellstoppen (987 moh.) et eller legge en 
+litt flatere tur til Treingereidhotten (577 moh.) som ligger nordover.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;På vinteren er det vanlig skiutstyr som gjelder og på sommerstid anbafales det vanntett skotøy ettersom det kan bil litt vått i løysløypen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;Den korteste ruten er 2 kilometer, mens selve lysløypen er på 3,5 kilometer. Så 
+lenge snøforholdene tilsier det vil løypen være preperert med gode 
+skispor man enkelt kan følge og det vil være belysning langs løypen.
+&lt;br&gt;&lt;br&gt;Er det ruskevær finnes det en varmestue, som er åpen i stabile perioder
+med godt vintervær. Den finner du hvis du tar til venstre over broen 
+når du er kommet opp på flaten. Her er det også ski, akebakke og utedo 
+like ved. Om sommeren beveger de fleste seg opp mot fjellet, fordi det 
+kan bli litt vått i lysløypen av og til.&lt;br&gt;&lt;b&gt;&lt;br&gt;Kart:&lt;br&gt;&lt;/b&gt; 7 fjellsturen (1:25 000), Gullfjellet (1:25 000)"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4deba2c32f3ee.jpg> ;
+	sf_ont:image_credit		"""Jan M. Lillebø""" ;
+	dct:created				"""2011-06-05 17:27:29""" .

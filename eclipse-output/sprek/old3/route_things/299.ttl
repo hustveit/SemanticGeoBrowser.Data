@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route299>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/299> ;
+	<name>					"""Bergsdalen ââ‚¬â€œ Storliknausen"""@no ;
+	<length_in_time>		"""360""" ;
+	<length_in_km>			"""0""" ;
+	<difficulty>			"""4""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-17 12:05:06""" ;
+	<encoded_path>		"""""" ;

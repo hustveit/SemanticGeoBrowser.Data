@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route98>
+	a	...Thing... ;
+	<name>		"""Sætre - Veten"""@no ;
+	<ingress>		"""En spennende og kjapp stigning opp til den fantastiske utsikten fra Veten."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Stien starter på østsiden av parkeringen og stiger snart oppover mot toppen. Turen går først gjennom litt granskog før utsikten åpner seg mot nord. Siste delen opp mot toppen er småbratt, men stien er lett å følge. Turen opp er 1,25 kilometer, med en høydeforskjell på 60 meter.&lt;br&gt;&lt;b&gt;&lt;br&gt;Tilkomst: &lt;/b&gt;&lt;br&gt;Utgangspunktet for turen
+er på Sætre. Hit kommer en ved å kjøre opp Falkangervegen fra Hordvik. Like før
+snuplassen er det parkeringsplass på venstre side av vegen. Det går ikke buss
+til Sætre, men nærmeste bussholdeplass er i Hordvik ved krysset med
+Falkangervegen, linje 280. Fra Hordvik til Sætre er det ca 2 km å gå. Følg
+skiltingen til den Trondhjæmske postvegen dersom du ikke ønsker å gå hele vegen
+til Sætre på asfalt.&lt;br&gt;&lt;b&gt;&lt;br&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Denne turen tar rundt 1,5 time å gå turen frem og tilbake.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Turglade folk i alle andre. Turen er uegnet for rullestol/barnevog. Turen er heller ikke egnet for ski.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;På tørre dager kan du gå med joggesko, ellers anbefales det å bruke gummistøvler eller fjellstøvler. Det kan blåse surt på toppen, så ta gjerne med en vindjakke. &lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dd5198944ebf.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-29 09:38:59""" ;

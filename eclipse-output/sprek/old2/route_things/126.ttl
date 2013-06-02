@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route126>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/126> ;
+	<name>		"""Lysløypen på Fløyen"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""3.9""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-05 13:19:17""" ;
+	<encoded_path>		"""q_toJgtu_@aFyBoElAqGdI{GlPqF?JrDxApCjA{@xDXlD{DhDFvA?T`DrCi@`DQqAzGL|HcEdMoCdEyD~Bs@fF\xC`D}AhG{D|CYhBgJbA|ANnB{C`Kl@QtBsDxAeBNxCDjArAuEJoBu@_Cw@eE_AqCiBi@HqGRcDXeBcAIGgCF{CFsHbAkHa@}H""" ;

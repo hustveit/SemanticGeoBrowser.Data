@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place45>
+	a	...Thing... ;
+	
+	dct:title				"""Storrinden"""@no ;
+
+	<ingress>		"""Fantastisk utsikt mot Flesland. Kjekt å se på fly!"""@no ;
+	<description>		"""&lt;p&gt;Storrinden er det høyeste punktet i området Sandsli/Kokstad, med utsikt over Flesland flyplass, Bjørnafjorden og Sotra. Tidligere var det hyppig militær aktivitet på Storrinden, og på toppen er det flere ruiner fra gamle bygg. I dag er denne aktiviteten trappet ned og mye av den aldrende infrastrukturen fjernet. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e044f584cb6f.jpg> ;
+	<image_credit>		"""Bjarte Eikanger""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e047dee191dd.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert ved bunkersen."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-03-09 13:59:00""" ;
+	<modified>		"""2011-06-24 14:07:10""" ;
+	<gowalla_name>		"""Storrinden"""@no ;
+	<gowalla_description>		"""Fantastisk utsikt mot Flesland. Kjekt å se på fly!"""@no ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route222>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/222> ;
+	<name>					"""Bjørndalen-Ulriken"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""1.6""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-26 15:40:42""" ;
+	<encoded_path>		"""qapoJqwv_@LkAReALWt@d@XHl@_C|@cClAcDJUl@M|@yAXy@TcABeAj@eALeA\k@d@qBFsARq@@aARa@^F^]F_@T?VeA^a@Xc@b@Mn@s@r@wB\qBCeAYCs@C_@g@?q@No@`@k@d@a@t@y@KaBVk@R?Xa@^Qb@u@d@a@JiAHu@FIQSQJSFG{@Wk@QCs@u@AM[k@OHYo@s@EMOOAO{@KIYDk@y@[BSa@GUAc@I_@c@CGYgAaE""" ;

@@ -1,0 +1,20 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route80>
+	a	...Thing... ;
+	<name>		"""Fløyen-Skomakerdiket"""@no ;
+	<ingress>		"""Det tar bare noen minutter å spasere fra Fløibanens øvre stasjon til idylliske Skomakerdiket."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;
+&lt;DIV&gt;Turen inn til Skomakerdiket fra Fløien går på grusvei, derfor er det en utmerket tur om man har med barnevogn.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;For å komme til turens startpunkt, tar du enten Fløibanen opp eller du går en av de mange traseene til Fløyvarden. Flere av disse kan gås med barnevogn, men turen fra Skansemyren er særlig å anbefale om man vil på trilletur.&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Du bruker ikke mange minuttene bort, det er i underkant av en kilometers spasertur.&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Her finnes også rastehytte og en grill- og bålplass. Om man tar med vedkubber selv, kan man altså nyte en varm lunsj eller middag her. Benker og bord er også satt opp. Bergen kommune har også satt opp en kanobu på sørsiden av vannet. Lag og organisasjoner kan ta kontakt med dem for lån av kano.&lt;/DIV&gt;
+&lt;P&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4da30bf792062jpg> ;
+	<image_credit>		"""Helge Skodvin""" ;
+	<created>		"""2011-04-11 15:45:34""" ;

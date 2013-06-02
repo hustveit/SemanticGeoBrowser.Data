@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place54>
+	a	...Thing... ;
+	<name>		"""Veten"""@no ;
+	<ingress>		"""Ã…sanes hÃ¸yeste fjell."""@no ;
+	<description>		"""&lt;p&gt;Veten  (486 moh) er det hÃ¸yeste fjellet i Ã…sane bydel i Bergen kommune. Det gÃ¥r en rekke turer opp pÃ¥ Veten og utsikten fra toppen er fabelaktig.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dfb0bfa04230.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e048eaec530c.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert ved trigonometrisk punkt pÃ¥ toppen. """@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-03-28 10:19:38""" ;
+	<modified>		"""2011-06-24 15:18:38""" ;
+	<gowalla_name>		"""Veten, 487 moh"""@no ;
+	<gowalla_description>		""" """@no ;

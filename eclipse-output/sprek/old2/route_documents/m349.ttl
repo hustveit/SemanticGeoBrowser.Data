@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route349>
+	a	...Thing... ;
+	<name>		"""Hordvik ââ‚¬â€œ Veten"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Fin rute til Veten som starter fra Hordvik. I veikrysset utenfor Hordvik Barnehage finner du grusvegen ÃËœvre Prestavegen merket med skilt til ââ‚¬&#157;Vetenââ‚¬&#157;. Denne følger man igjennom undergangen til Nordhordalandsvegen. Videre følger man stien til man kommer til ââ‚¬&#157;Tverrelvaneââ‚¬&#157;. (Ikke ta av der stien er merket ââ‚¬&#157;Veten over Lundåsenââ‚¬&#157;). Ved ââ‚¬&#157;Tverrelvaneââ‚¬&#157; står det et nytt skilt merket ââ‚¬&#157;Vetenââ‚¬&#157; og man følger denne helt til Vetens topp.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start midt i Hordvik. Her er det mulig å finne en plass til å sette bilen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. 2,5 time tur/retur i normalt tempo. De litt sprekere tar turen opp på ca. 45 minutter.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur for de som liker å gå i fjellet.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været. Husk gode tursko.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Turkart: Bergen"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4ebba0e113601.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-11-10 11:01:05""" ;

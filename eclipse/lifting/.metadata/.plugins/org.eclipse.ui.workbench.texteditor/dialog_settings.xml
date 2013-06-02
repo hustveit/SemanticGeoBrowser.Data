@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="201" key="DIALOG_Y_ORIGIN"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="928" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="true" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="...Thing..." key="selection"/>
+		<list key="findhistory">
+			<item value="...Thing..."/>
+			<item value="sf_ml"/>
+			<item value="ameOf"/>
+			<item value="sf_ont:indexcard"/>
+			<item value="sf_ont:degree_of_difficulty"/>
+			<item value="sf_ont:"/>
+			<item value="sf_ont:kilometer"/>
+			<item value="sf_ont:length"/>
+		</list>
+		<list key="replacehistory">
+			<item value="sf_ont:Kilometer"/>
+			<item value="sf_ont:Length"/>
+			<item value="hike"/>
+			<item value="(HIKE)"/>
+			<item value="dir_hike_documents"/>
+			<item value="dir_hike_things"/>
+			<item value="sf_hike"/>
+			<item value="create-hike-uri"/>
+		</list>
+	</section>
+</section>

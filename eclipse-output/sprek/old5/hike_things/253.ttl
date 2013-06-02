@@ -1,0 +1,36 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+sf_ont:hike253
+	a						sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""150""" ;
+	] ;
+
+	sf_ont:Length [
+		sf_ont:Kilometer	"""7.4""" ;
+	] ;
+
+	sf_ont:degree_of_difficulty			"Average"@en ;
+	sf_ont:referedBy					<http://tur.bt.no> ;
+	
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""}xtoJ{rp_@LaAJs@Dy@Fw@Ju@Ti@Rg@Dw@DeA@eA[]GeA@{@Fs@Ju@Hw@Lu@RmALw@V]\\RZGV{@No@HeAB}@?iA@y@B}@Ms@Y_@W[Wc@U_@W_@c@W[UYe@[c@_@X_@Pa@OS_AQ}@Ku@Ko@GuJA{@C_AIu@Ms@Gw@Ms@Qo@Uc@Wg@Cy@Fy@Au@Mu@Ok@[K]F_@A[Ua@GQf@W^Iv@Qj@W^Sb@U`@W`@[@]FWVW\\Wb@Ub@Uf@Ul@m@~@Wd@Wl@Yn@Qt@Qn@Ol@Ue@Uc@Uk@Qi@Gu@Iw@Sc@Uw@YS[RWYYe@WU]AYR[J[HYZ[A]AYZYTU^Y\\YGOq@Ui@[Q[SWR[D[P[JYT]@]C[MYI[OUa@U_@W_@YO[GYZYTOm@Gu@Gu@Gs@@y@Lu@Hs@W][MW]Dw@Hs@Re@Js@V_@Lo@Fw@Cw@Bu@X]Pk@Ra@XYZS\\SXF\\CRg@E{@Dw@Qm@Dw@Hw@@u@Iu@Tc@XAJq@Ew@Hq@Fu@Ju@Ri@Ta@Dw@No@Fs@F{@Rg@Du@V_@Tk@Pk@Ri@Rg@Rk@Rm@Dy@Fu@Ns@V_@ZW\\IZCZ?\\CZIXYZQVa@Nm@D{@Nu@Ri@V]XYXUZId@D\\X\\NZN^HXHZITa@Ri@Rg@Z[Ta@F{@Nm@Pg@Tm@F{@A_AZFLt@Hx@Pl@Pj@Rl@Lr@Rj@?t@Ul@Wj@Mr@Ev@Tf@Zb@Rn@ZTZNXT\\HXL^@XDZPZJ\\HZH\\FZC\\IZKXMZE\\MXOZSZYXYV[XQZM\\JXJZN\\BZFZD\\@\\DZJZRXRXVZTXBZAZI\\KZC\\GXY\\GXBPf@Ft@Ax@E|@Ir@Mt@Mr@Ub@Ud@W\\[RW\\Un@U\\]ZYV[XYZQf@YXUf@Un@Kr@Or@Iv@Dx@Jr@Ft@Ct@Gv@@v@Ln@\\DZMXLZDZDZEZAZIXEZJXPQl@Kn@Uj@Kt@Ov@It@Bz@B~@D|@B|@Et@Ol@Wb@[ZWd@Sx@On@Ol@Oj@On@YQWWY]Gr@YRYR_@Z[FYYRk@Dy@Y]_@YYF[LYTW^MDYL[Ta@n@]RUd@Wb@Uv@Qh@Qf@Sf@K`A?TH~@Rh@Dv@@`A?x@DvAFt@Bv@Nl@Jp@Bv@?t@Dt@Nn@Jv@Lp@Z@ZKTg@XOZJLn@Rd@Th@T\\Vb@T\\V^Nl@Bx@Ft@Nn@Jr@Dv@?z@W\\YZ[NYZSh@Mn@Et@Gx@U`AMx@Ol@Kt@Et@Ct@Hz@Z?Bt@Ub@Ql@On@Ub@Sd@Sj@Qh@Uf@Ql@""" ;
+	] ;
+	
+	owl:sameAs				<http://tur.bt.no/tur/253> ;
+	
+	sf_ont:Indexcard [
+		dct:created				"""2012-01-13T14:45:46.655+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

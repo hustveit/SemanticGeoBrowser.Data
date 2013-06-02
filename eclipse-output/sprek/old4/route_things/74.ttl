@@ -1,0 +1,40 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix owl-time: <http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix muo: <http://purl.oclc.org/NET/muo/muo#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix swap: <http://www.w3.org/2000/10/swap/grammar/n3#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike74>
+	a				sf_ont:O36_917 ;
+	
+	owl-time:duration [
+		owl-time:minute		"""90""" ;
+	] ;
+
+	sf_ont:length [
+		sf_ont:kilometer	"""5.9""" ;
+	] ;
+
+	sf_ont:rate [
+		sf_ont:degree_of_difficulty		sf_ont:easy ;
+		sf_ont:Referee					<http://tur.bt.no> ;
+	] ;
+
+	sf_ont:Path [
+		sf_ont:Google_encoded_path		"""ql_oJmnp_@IW?AAEDG@CDEb@`@RVJHPD\Y`@Yj@MLINSDF^F\Aj@GXBb@@NCDATIRIZe@?A`@J?j@CFUTUj@@d@Rb@RUVOb@QNLDBd@DT?VYb@WXWHBV[h@_@TU^SHAN@VQBE?Bh@Rn@cA]RMR?EQEBNIaALKIMTIf@]~@c@JQVc@b@h@p@k@Mf@XUVIFDf@QHIQHRJj@HFGf@i@RF@WTONM\BP`@FCVRDXFV`@Db@[FANM??\MLBh@QHu@b@gAPWJ[FQV[b@m@C[Pe@PSPAP\@Db@\BP\PdA?n@Mb@E`@Kf@I^SZSLULVJEJNB@RTRd@Hd@PVf@`AXJP]Rg@^WPVRp@NNZI^[Ve@h@g@R_@Xk@^uANg@LYBMR[Nc@@@^FVRDXVn@Zb@F^?`AIj@Nx@RjARPXAVHb@Jf@d@h@AT?^EPHXZDRTf@j@~@RPX?TSLQFEBGRWl@SBA^O@AJc@BMBq@@a@?CAU?]H}@Ps@FFBA`@OB?NNVf@Xf@PLd@`@VXh@^Xd@Tx@DFRD@@LBJJHHLDVPFJFFLPXd@\RRj@B?Tp@RVPH??DZFh@P|@H^J~@?H?AKlA?b@ABKdAMFUPMA?BUZ_@TURYPQLY\[Pc@REB?LMP[HEBe@d@QR[h@[TUTONWb@OXSVEFQPWJYP]d@_@Ni@v@ABKD[FYV[f@[Ra@f@e@Ae@L_@g@m@Mc@Le@Hq@p@G?UHc@d@UTYFYJWF?@ACUR[Ri@Ik@MO?c@?aA?}@GGEm@Qm@]k@o@]e@e@]e@W[XY?sAaAy@t@i@p@k@Xg@FMFc@Q]Ce@i@CEc@a@WAAD[BUDW^MVQXa@`@e@VQFSHA?BE[A_@Ea@K_@@WOOT[i@O_@OUUu@Yy@]}@YQUM]Ok@Me@K_@IA@a@?MHYDi@H_@P_@h@[l@AJOh@Kf@QvAKv@WzAc@`@YOMEc@[YL]ZMdASJ_@]OCa@k@_@aACAWq@Ym@i@qAOk@OqAGWIk@QoAK}@M{@]cAk@gAe@w@SAg@g@]k@Ms@GMGo@""" ;
+	] ;
+	
+	owl:sameAs [
+		rdf:resource		<http://tur.bt.no/tur/74> ;
+	] ;
+	
+	sf_ont:indexcard [
+		dct:created				"""2012-01-09T13:39:12.274+01:00""" ;
+		dct:creator				<http://lars.berg.hustveit.org> ;
+		dct:contributor			<http://tur.bt.no> ;
+		dct:contributor			<http://uib.no> ;
+		dct:publisher			<http://vestforsk.no> ;
+	] .
+	

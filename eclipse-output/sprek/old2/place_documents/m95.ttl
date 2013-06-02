@@ -1,0 +1,20 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place95>
+	a	...Thing... ;
+	<name>		"""Landåsfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Landåsfjellet (428 moh.)
+ligger sør for Ulriken. Her kryr det av stier,&amp;nbsp;
+inkludert en lysløype. ÃËœst for toppen er det fin utsikt over
+Bergensdalen, nord ligger Nubbevannet og Baunehytten. Lysløypen går fra
+Montana, Johan Blyttsvei/Skiveien til Natlandsfjellet. Følger man eggen langs Landåsfjellet vil du kunne se en fantastisk utsikt. Det er utsikt mot Nordåsvannet, Landås, sentrum, Løvstakken, Arna, Gullfjellet
+og Ulriken. Det høyeste punktet på Landåsfjellet (428 moh.) er kalt Nobbane.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ad8ab4fca3.jpg> ;
+	<image_credit>		"""Christina Laastad""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e0db4dfe1932.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert ved varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-06-16 13:36:59""" ;
+	<modified>		"""2011-07-11 13:04:11""" ;
+	<gowalla_name>		"""Landåsfjellet"""@no ;
+	<gowalla_description>		""" """@no ;

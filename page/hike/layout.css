@@ -1,0 +1,197 @@
+body {
+	line-height 1;
+	background: #90C6E2 url(background.png) 0 0 repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#page {
+	width:950px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#FFFFFF;
+}
+#sognefjord-banner {
+	width:auto;
+	height:400px;
+}
+#main-wrapper {
+	overflow:hidden;
+	height:1%;
+}
+#content {
+  width: 560px;
+  float:left;
+  margin-left:10px;
+  margin-right:10px;
+}
+#main-wrapper #content {
+	margin-top: 10px;
+}
+#sidebar-wrapper {
+	width: 350px;
+	float: right;
+}
+
+
+
+
+#footer {
+	border-bottom: 1px solid #90C6E2;
+	width:auto;
+	height:auto;
+	margin-top:20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	color:#929292;
+}
+#footer p {
+	margin-left:10px;
+	margin-right:10px;
+	padding-top:10px;
+	border-top: 1px solid #90C6E2;
+}
+
+h1,
+h2,
+h3
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#192772;
+}
+
+p
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#sidebar-fact-box h2,
+#sidebar-weather-box h2
+{
+	border-bottom: 1px solid #90C6E2;
+	margin-bottom:4px;
+	font-size: 22px;
+}
+
+#sidebar-fact-box h3,
+#sidebar-sort-box h3
+{
+	margin-top:10px;
+	font-size: 14px;
+	margin-bottom:4px;
+}
+
+#sidebar-fact-box p
+{
+	margin-top:0px;
+	margin-bottom:4px;
+	padding-bottom:6px;
+	border-bottom: 1px solid #CCC;
+}
+
+#sidebar-fact-box div.fact_box
+{
+	margin-top:0px;
+	margin-bottom:4px;
+	padding-bottom:6px;
+	border-bottom: 1px solid #CCC;
+}
+
+#sidebar-fact-box div.hide_fact_box
+{
+	display:none;
+}
+
+#sidebar-fact-box {
+	width: 350px;
+	float: right;
+	padding: 0 0 8px 0;
+	margin-right:10px;
+	margin-top:20px;
+}
+#sidebar-weather-box {
+	width: 350px;
+	float: right;
+	padding: 0 0 8px 0;
+	margin-right:10px;
+	margin-top:0px;
+}
+#weather-box {
+	width: 350px;
+	float: right;
+	padding: 0 0 8px 0;
+	margin-right:0px;
+	margin-top:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+
+#weather-box * {
+	font-family: Arial, Helvetica, sans-serif;
+	}
+#weather-box a {
+	color: #069;
+	text-decoration: underline;
+	}	
+#weather-box a :hover{
+	border: 0;
+	text-decoration: underline;
+	}	
+#weather-box a :hover img {
+	text-decoration: none;
+	}
+#weather-box p {
+	font-size: 12px;
+	padding: 4px 0 4px 0;
+	margin: 4px 4px 0 0;
+	letter-spacing: normal;
+	line-height: 18px;
+	}
+#weather-box img {		
+	border: 0;
+	}
+#weather-box p.yr-lenker {
+	font-weight: bold;
+	margin-bottom: 16px;
+	}
+#weather-box table {
+	width: 350px;
+	font-size: 12px;
+	margin: 0;
+	}
+#weather-box th {
+	text-align: center;
+	padding: 4px 4px 4px 0;
+	margin: 0;
+	}	
+#weather-box thead th {
+	text-align: center;
+	}
+#weather-box td {
+	padding: 4px 8px 4px 0;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+	}
+#weather-box td.v, #weather-box th.v {	
+	text-align: left;
+	}	
+#weather-box th strong {	
+	color: #069;
+	}
+#weather-box td.pluss {
+	color: #c00;
+	font-weight: bold;
+	font-size: 14px;
+	}
+#weather-box td.minus {		
+	color: #069;
+	font-weight: bold;
+	font-size: 14px;
+	}
+#weather-box td.skilje {
+	height: 1px;
+	padding: 0;
+	overflow: hidden;
+	background: #63c6e3;
+	}

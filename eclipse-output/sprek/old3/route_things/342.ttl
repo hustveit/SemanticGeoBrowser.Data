@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route342>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/342> ;
+	<name>					"""Fjellveien"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""4.6""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>				"""2011-11-08 11:57:57""" ;
+	<encoded_path>		"""c~voJi|m_@B[Tk@TqAJ{BFq@f@qBp@}CZaBRaCHeBHkAXwAh@yB`@aA`@k@t@q@n@s@l@aA\c@j@Up@Yj@U\?X_@Ze@h@Yz@W`@HVIZk@Xg@b@k@x@w@n@k@z@c@~@k@p@a@l@m@hAiAl@MJKGGc@A[?c@@QFG?NU^_@r@o@r@e@p@_@p@?h@Sh@Q^?n@o@ROb@BJBh@g@x@y@f@k@J?v@PZFfAo@x@g@VC\Pj@jAjA|BXVRJ^Bb@?THR\HLVXTXTFRGd@Yd@]f@Ej@Tb@Tf@?n@Kv@IfABt@Dp@?n@FPKbAkAfAmAnBoB`Aw@\Y^Sl@KdAEh@E`@U`@o@h@w@r@q@~@eAf@YLGLPPX\V`@TNPP?hAS`AQRGV]X{@Xw@h@{Ad@s@Ze@Tg@Vs@b@aBTg@dAyApBuCj@y@LQD?LQVc@Pe@HSPu@TmAh@}B?MJaABg@PqAFk@DUDWH_@FWRs@Hi@Hq@H_@DQVqA`@gBHYVe@FMJ]PaARgALi@Fs@L}@RkALk@BUBy@Fu@Hq@Bm@A_@E]?KDSPY`@o@b@eA\i@T[RQ^YTYb@m@FKT[P_@Pk@F[Ti@Tq@Tc@JKX]JIJSHO?UBOBMJg@Da@Bg@Hw@F_@Ha@Ro@L]FGHAHARFHDNBFCHKHMFUNa@N_@R[Xk@\eAZu@J[J]""" ;
+	<routes_spots>		"""http://__thing_place_uri__234""" ;

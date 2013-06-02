@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike309>
+	dct:title				"""Bjørke-Stavdalsstølen"""@no ;
+	sf_ont:ingress			"""4-Stølstur med utsikt ned til Fyksesundbrua"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:image_credit		"""""" ;
+	dct:created				"""2011-10-26 14:13:48""" .

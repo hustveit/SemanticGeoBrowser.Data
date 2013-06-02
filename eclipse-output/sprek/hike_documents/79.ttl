@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike79>
+	dct:title				"""Skansemyren-Fløyen"""@no ;
+	sf_ont:ingress			"""En enkel tur som får deg opp til Fløyen på kort tid. Godt egnet for trilleturer."""@no ;
+	sf_ont:description		"""&lt;STRONG&gt;Rutebeskrivelse:&lt;BR&gt;&lt;/STRONG&gt;Turen starter ved bommen ved Skansemyren idrettsplass og fortsetter langs bred gangvei oppover fjellsiden mot Fløyen. Lett stigning hele veien, ingen spesielt bratte partier. På starten av turen kan du nyte den stadig flottere utsikten, mens man oppe på platået går inne i et skogsområde. Turen kan stort sett gås året rundt, men pass på: Om vinteren er det en populær akebakke for de yngste, og de kan komme i full fart nedover bakkene.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tilkomst: &lt;BR&gt;&lt;/STRONG&gt;Du kan parkere&amp;nbsp;langs Ole Irgens vei.&amp;nbsp;Det går også buss&amp;nbsp;til Skansemyren. Alternativt er det ikke langt å gå fra sentrum. Fra Fløibanens nedre stasjon kan du gå Skansebakken og Skansemyrsveien for å komem til idrettsplassen.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tidsbruk:&lt;BR&gt;&lt;/STRONG&gt;Det er god skilting og turen opp til Fløystasjonen tar ca 30 minutter. Om du tar turen med barnevogn, må du selvfølgelig regne mer tid.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Passer for:&lt;BR&gt;&lt;/STRONG&gt;De fleste. Det skal godt gjøres å finne en bedre tilrettelagt og enklere turløype enn dette."""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4da2f91ecc4c9jpg> ;
+	sf_ont:image_credit		"""Rune Sævig""" ;
+	dct:created				"""2011-04-11 14:27:28""" .

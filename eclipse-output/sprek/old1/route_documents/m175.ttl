@@ -1,0 +1,76 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route175>
+	a	...Thing... ;
+	<name>		"""Arna â€“ BjÃ¸rndalssÃ¥ta â€“ Vikinghytten"""@no ;
+	<ingress>		"""Terrenget mellom Arna og Byfjellene kan gjerne brukes mer av bergenserne. Denne turen byr pÃ¥ fin utsikt over  OsterÃ¸y, GullfjellsomrÃ¥det og fjellene innenfor."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Utgangspunkt er Kvamsdalen. Ved hÃ¸yeste
+punkt pÃ¥ veien gjennom Kvamsdalen dreier man vestover gjennom en grind og pÃ¥
+traktorvei opp lien til BjÃ¸rndalen. Over myren kan stien vÃ¦re vanskelig Ã¥ se.
+Ta nordvest (svakt mot hÃ¸yre) over til skogkanten. GÃ¥ langsmed denne til du finner tydelig sti gjennom
+tett barskog. Fortsett oppover gjennom lett skogsterreng, fÃ¸rst vest-, sÃ¥
+sÃ¸rover mot BjÃ¸rndalssÃ¥ta (576 m.o.h.), som er lett synlig med sin markerte
+varde. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Mot SÃ¥ta blir Nordhytten synlig pÃ¥ hÃ¸yre
+hÃ¥nd i SÃ¥tbotn. Fra SÃ¥ta tar man skrÃ¥tt sÃ¸rover, sÃ¥ vestover ned mot og over
+Skitnedalen og opp til varderekken pÃ¥ GrÃ¸netua (642 m.o.h.). FÃ¸lg vardene
+nordvestover pÃ¥ god sti til Vikinghytten. Vikinghytten og Fjellhytten (ligger
+et par hundre meter nordvest for Vikinghytten) vil vÃ¦re godt synlige fra man
+kommer pÃ¥ platÃ¥et Flatafjellet, mot BjÃ¸rndalssÃ¥ta. Vikinghytten er Ã¥pen i
+helgene. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra
+Vikinghytten er det mange returmuligheter. Man kan gÃ¥ tilbake til Arna samme
+vei, eller fortsette til Haugland, se: &lt;a href="http://tur.bt.no/tur/174" target="_blank"&gt;Haugland â€“ Vardegga â€“ Vikinghytten&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Turen kan ogsÃ¥ gÃ¥es motsatt vei, og kan fint gÃ¥es pÃ¥ ski om vinteren.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr. 270 til Kvamsvegen (Bergen), og gÃ¥ 15 minutter til Haugland og sÃ¸rover inn Kvamsdalen i retning GaupÃ¥s. Kommer man i bil bÃ¸r man vÃ¦re obs pÃ¥ at det er begrenset
+med parkeringsmuligheter i Kvamsdalen. Det er ogsÃ¥ mulig med tog fra
+Bergen til Arna stasjon. FÃ¸lg bilvei opp Mjeldheimsdalen ca. 1,5 km til veikryss. Videre pÃ¥
+bilvei gjennom Kvamsdalen i retning GaupÃ¥s. &amp;nbsp;Man kan eventuelt ta taxi fra stasjonen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 4-5 timer tur/retur. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste med middels turkondisjon. Turen gÃ¥r
+hovedsaklig pÃ¥ sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk Ã¥ ta med nok mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;Fakta om turen:&lt;/b&gt;&lt;br style=""&gt;
+&lt;br style=""&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Vikinghytten&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Vikinghytten eies og drives av Turn- og
+Idrettsforeningen Viking. Den ble bygget i 1913 og er Ã¥pen hver sÃ¸ndag fra ca.
+kl. 10.30 til 14.30 (unntatt i ferier). Hytten drives pÃ¥ dugnad av Vikings
+medlemmer, og der er salg av sjokolade og forfriskninger. Hvert Ã¥r er ca. 4.000
+personer innom hytten, som ligger 590 m.o.h. og har en praktfull utsikt i alle retninger,
+bÃ¥de mot havet og langt innover mot Hordalands fjellheim.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Nordhytten&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Nordhytten ligger i Naudalen
+(Hauglandsdalen) rett ovenfor SÃ¥tbotn, 520 m.o.h. SÃ¥tbotn er betegnelsen pÃ¥ den
+gryteformede sidedalen som ligger pÃ¥ venstre hÃ¥nd midtveis oppe i dalen,
+omtrent vis-Ã -vis den gamle hoppbakken til Viking. Hytten ble bygget av
+Sportslaget Nord i 1911. Den var sÃ¦rlig godt besÃ¸kt i 1930-Ã¥rene.
+Vinteridretten i Bergen hadde et oppsving i denne perioden. Det ble arrangert
+flere hopprenn i Vikingbakken.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Nordhytten ble restaurert i 1968 og pÃ¥
+midten av 90-tallet. Den eies i dag av Arna Turn- og Idrettslag sammen med
+Varegga Grunneigarlag. Hauglandsdalen er utfartsomrÃ¥de for beboerne i Ã…sane og
+Arna. Nordhytten har tradisjonelt vÃ¦rt et sted man kan stikke innom sÃ¸ndager. &lt;/p&gt;
+&lt;p&gt;(Kilde: Bergensernes Fjellverden)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1115 I Bergen (1:50 000), Tur- og
+Friluftskart Bergen (1:25 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e14085021c91.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-06 09:01:36""" ;

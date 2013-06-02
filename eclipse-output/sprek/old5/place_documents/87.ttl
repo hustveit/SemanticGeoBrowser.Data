@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place87>
+	a	...Thing... ;
+	
+	dct:title				"""Torget"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;P&gt;Initial content&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-05-19 16:17:45""" ;
+	<modified>		"""2011-06-08 17:26:55""" ;
+	<gowalla_name>		"""Torget"""@no ;
+	<gowalla_description>		""" """@no ;

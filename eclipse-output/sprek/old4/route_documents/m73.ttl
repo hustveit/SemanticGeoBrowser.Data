@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike73>
+	a	...Thing... ;
+	dct:title				"""Støbotn-Nordgardsfjellet"""@no ;
+	<ingress>		"""Nordgardsfjellet kan skilte med strålande utsikt for liten og stor."""@no ;
+	<description>		"""&lt;STRONG&gt;Rutebeskrivelse:&lt;/STRONG&gt;&lt;BR&gt;Bratt oppstigning frå Støborn blir avløyst av rolegare terreng når du kjem opp over skoggrensa. Nordgardsfjellet ligg som ein rygg mot vest og sørvest, og byd på framifrå utsikt. Først over Byfjorden og Herdlefjorden, sidan mot bustadfelta langs fjorden sørover mot byen. Her er også kulturminne i form av tuftene etter fleire gamle torvhus og stemmer som i si tid sytte for vassforsyninga til Salhus og tekstilindustrien der. &lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tilkomst: &lt;BR&gt;&lt;/STRONG&gt;Det går buss til Støbotn med jevne mellomrom, men du kan også parkere bilen der. &lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tidsbruk: &lt;BR&gt;&lt;/STRONG&gt;Ruta med start og slutt i Støbotn må du rekna rundt to timar på. Men det finst tallause ruter å gå, eller avstikkarar å ta. Eit anna alternativ er å ta bussen til Salhus og følge turstien opp Salhussvingene mellom nr. 23 og 25.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Passar for:&lt;/STRONG&gt;&lt;BR&gt; Oppstigninga er bratt, men det går an å ta seg så mange pustar i bakken som ein treng. Elles er turen etter måten lettgått for både liten og stor. Siste delen, frå Baugtveit til Støbotn, går på asfalt.&amp;nbsp;&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Utstyrsbehov:&lt;/STRONG&gt; &lt;BR&gt;Det skal godt gjerast å bli overraska av ruskevêr på ein såpass kort tur. Det er heller ikkje typisk høgfjell vi snakkar om. 355 meter over havet er høgaste punktet på Nordgardsfjellet.&lt;BR&gt;&amp;nbsp;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d9b144e81f95jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-05 11:09:41""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route174>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/174> ;
+	<name>					"""Haugland ââ‚¬â€œ Vardegga ââ‚¬â€œ Vikinghytten"""@no ;
+	<length_in_time>		"""280""" ;
+	<length_in_km>			"""3.7""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-05 11:11:04""" ;
+	<encoded_path>		"""e_xoJot}_@QbDuGjP{DrNiHhLu@fBEIe@_Am@M_A?e@d@i@@a@\i@^q@Ba@yBc@qAq@S_Bv@mAEqBGgAt@W?oAHo@d@u@d@i@b@wAi@o@aB[@]WWmAa@i@c@Ec@_Bu@i@WGQm@?o@JcCNsDOM@?aDgAqCEeAmCu@gByBw@K[{@wB_AIaA`Ae@a@c@JcAk@s@HqDjAwDnDkDfAmGmF{B{Cw@[iBa@k@\gAd@e@QiA_BkAwBq@oAe@EgBf@u@j@[hAo@s@OBo@QSi@Cg@A_ACs@S[k@s@]q@[CsBf@SM]{AM]M_@GCCMGD""" ;

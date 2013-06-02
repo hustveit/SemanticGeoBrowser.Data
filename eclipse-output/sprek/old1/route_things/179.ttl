@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route179>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/179> ;
+	<name>		"""BÃ¥taleitet-Rispingen"""@no ;
+	<length_in_time>		"""200""" ;
+	<length_in_km>		"""4.7""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-07 11:03:57""" ;
+	<encoded_path>		"""i}fpJ}~qa@g@sAi@Uq@d@y@mBoD{IwD}J_CsD{BiC_GgJiBqCcEiEyEiG{D{E{FoDyH}GaDsEyDwHkFmJiG}JaDeBeE\gE`AwEnDkDpCeCvIqCbFeF~CuLrHcHb@oBq@kBZaLrKuE|G{IdEwB`AcCrEiHtGsEfG""" ;

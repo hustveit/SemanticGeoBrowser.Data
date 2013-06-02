@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route78>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/78> ;
+	<name>		"""Leikvang - HetlebakksÃ¥ta"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""2.6""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-11 10:41:49""" ;
+	<encoded_path>		"""iuepJs|z_@??Pn@ZLRe@Du@?}@C_AAw@@w@Bw@Fu@By@To@Is@Pm@Pk@Rk@Po@Pm@Nk@Rm@Js@Js@No@Jq@Js@Fw@Bw@Ay@Dw@@w@Dy@?y@Ay@ZYZEZR^ALn@XZHp@Pj@Tf@ZCXQV]XMZIV[V[XQV_@XSXSXSV[XSZKZGX[V[XI\CXAZKZST_@X]XM\@X?ZHZCT]V[Z@ZCZLVTZBXGZFZJZBZHZE\HZNXHXLZ?ZMZBXQZMXSZSXPT`@Fr@ZNZBRe@Z@XUXQXWZLXUV_@Lo@Pi@Rc@V_@T_@ZKNk@VYNm@XYXOZMZUVYRe@VUZOXWXSTc@V]T[ZOVWV[V[Pg@XUZGXFZEZ?Z?XLVZZ@ZHXKZCZ@ZEZGTa@XNXMZMRc@Pk@XQX[V[XU@w@Fu@Rc@??""" ;

@@ -1,0 +1,29 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike258>
+	a	...Thing... ;
+	dct:title				"""Hausdalen - Redningshytten"""@no ;
+	<ingress>		"""Flott tur til Redningshytten."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Turen starter fra parkeringsplassen innerst i Hausdal. Her er det viktig å ta til venstre før man passerer broen og bommen.
+Første del av turen går på en gammel kjerrevei i lett fint terreng. Litt høyere
+oppe i dalen går veien over i en tydelig sti. Her er det brattere og villere.
+Stien er tydelig hele veien opp til Redningshytten. &lt;br&gt;&lt;br&gt;I begynnelsen av turen blir
+elven krysset et par ganger på smale gangbroer. Litt lenger oppe i dalen er
+elven alltid på høyre side.&lt;/p&gt;
+&lt;p&gt;Turen går i et vakkert landskap med lette fine partier og noen litt tyngre motbakker
+som igjen flater ut, for å så fortsette i en ny motbakke. Redningshytten
+ligger på 610 m.o.h. Den ligger spektakulært til med vidt utsyn nedover dalen. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Redningshytten er åpen for alle, 365 dager i
+året. Den ble bygget i 1929. Er været for dårlig er det mulig å spise maten sin innendørs, og skinner solen er det en stor fin hellelagt terasse på utsiden.&lt;br&gt;&lt;br&gt;Denne turen kan forlenges til Gullfjellstoppen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Parkeringsplass innerst i Hausdalen.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;br&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. 3-4 timer tur/retur.&lt;/p&gt;&lt;b&gt;&lt;br&gt;Passer for:&lt;/b&gt;&lt;br&gt;Alle som liker å gå tur med litt stigning. &lt;br&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;Utstyrbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Dette
+er en tur for gode fjellsko som ikke lekker. Ta med tørre sokker i sekken. Det
+er en del myrområder i starten av turen.&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e8c5ef868ad8.jpg> ;
+	<image_credit>		"""Marita Aarekol""" ;
+	<created>		"""2011-10-05 13:48:21""" ;

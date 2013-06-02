@@ -1,0 +1,54 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike185>
+	a	...Thing... ;
+	dct:title				"""Haugland-Storåsen(Dronninga)"""@no ;
+	<ingress>		"""Turen går gjennom skogområdet mellom Ask på østsiden og Ravnanger på vestsiden av Askøy. Høyeste punkt er Storåsen (190 moh.), like kjent under navnet Dronninga. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Start ved Haugland
+skole ca. 7 km fra Kleppestø. Følg veien opp til Ravnanger. ta til høyre og
+følg Rispeleitet veien til ende. Her går veien over til en grusvei/traktorvei
+som man følger videre nordover til Kolbeinsmyra. Vær obs på at det kan være
+litt bløtt på veien oppover. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Følg stien til
+venstre ved Kolbeinsmyra. Litt opp i lia deler stien seg i tre, her velger man
+den midterste. Hold til høyre i de to neste stidelene så er man på toppen av
+Storåsen/Dronninga. Herfra har man storslått utsikt mot vest utover
+ÃËœygarden og nordover Askøy mot Herdla. Det er fint å raste på toppen, og har man barn med
+er det populært med en motivasjons-sjokolade/appelsin før man tar seg ned igjen
+samme vei mot Ravmnanger og Haugland.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr.
+499 og 495 går til Haugland skole. Kommer man i bil, kan man parkere ved
+Haugland skole i utenfor skoletid. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Tuen tar omtrent
+to timer i tur-retur.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen
+passer for de aller fleste, ta gjerne med barna. Turen går hovedsaklig på sti
+og er derfor ikke egnet for barnevogner eller rullestoler.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg
+etter været, vær obs på at det kan være bløtt etter regn. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Storåsen er av
+lokalbefolkningen på Askøy mest kjent som Dronninga. Dronninga var en gammel,
+stor og flott furu som sto 250 meter nord for toppen, men fikk sitt endelige
+hogg av et lynnedslag. Omkring finnes fremdeles furutrær fra samme tiden.
+Stedet er turmål for Askøyfolk både fra øst og vest.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Storåsen
+(1:15 000), 1115 I Bergen (1:50 000). &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1ae4c375540.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-11 13:55:00""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route111>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/111> ;
+	<name>		"""Lien - Hauglandshella"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""7.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-05-11 14:38:48""" ;
+	<encoded_path>		"""ezapJkxv^@@?????????????BAD??????@C???@@@AIED@?@?RGDJBFDl@BPNjAJbDDfB@HFhCFpCIjAe@fAMNYv@[fAq@bCI`BfAdB|Ac@|@WfAw@`AcBb@_Ar@o@n@Mp@f@v@r@PDZRTDjBfARL\RRFd@r@d@l@FHb@z@NRt@jAl@t@d@j@ZlA\jAX|@Ld@F^P~@TrA^jAl@lAj@p@z@~@v@hAf@jAb@|@^p@f@dAN^r@rAj@lAz@jALVJlAUnAe@XaAbBcAt@s@Tm@l@Ed@@H????@@DXHt@j@fAvAp@z@Dt@PPB\hAj@|@z@Xx@Nr@R^^DBt@~@`Af@^F`@Rh@dA`@t@RPjA?`AHx@Ad@JH@f@^LXVt@n@`Av@WFQFQXu@JYRa@^w@TYb@g@Tc@DI?AAA\QFAZb@RrA?lCI~@Gh@WrBKzAIr@En@RfCb@hAb@xALXXl@Jn@FjD?ZCn@TrCx@dCh@dAd@d@NPdArBz@zAXd@j@nB|@fCf@xAd@hB^vAf@dBNvB@PBf@@JF~@PhA@N@fA@VET?fBDxA?RA_BAe@A_BC{@Ac@Cg@CSMaACYMgCa@oCk@aCCQu@{Bu@sBe@oAGOKk@u@yAg@w@m@{AAE_@_@y@}@s@iBk@oAW{ABaC?eA?uAAUMe@]aAMq@Sm@ISe@uAGoBNeC^yD@OFsABs@EeAKkAAMg@a@UCg@f@k@t@QVUZS\O`@Kh@a@nAq@PWk@Wu@CEEGISe@e@c@G]GY?s@Co@EA@I?i@@MEi@o@Sq@OSa@]OIAAS?UCQIy@cA{@u@eA_@aAO_Aa@SYcAkBGE}@Qc@?}@c@i@a@Wo@EMEq@JiARMt@[PEp@_Ax@uAn@g@XgAEyAe@m@Yg@AEy@}Aq@qAS]CQg@cAs@gAYo@cAcBe@o@i@g@i@{@}@wBY{AQ}@EYQq@IYQi@OuAo@eBY]_BmBq@_Be@m@GOaAk@yAk@KGQGGAs@[}@k@s@q@mAYsAlAm@tAo@n@i@d@aA`@{@RKFUHG@CCWAUYI_@GiAHg@Fg@^}APw@v@gBV{@HuEA_CKwBQaFYqB]MA?AA@@""" ;

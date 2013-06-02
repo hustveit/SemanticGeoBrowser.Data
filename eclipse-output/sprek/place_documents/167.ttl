@@ -1,0 +1,20 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place167>
+	
+	dct:title							"""Espeland Leir"""@no ;
+
+	sf_ont:ingress						"""På Espeland i Arna hadde tyskerne en beryktet fangeleir under Andre verdenskrig. Espeland fangeleir ligger i Moldalia på Espeland, gnr. 289 i Arna i Bergen. Fangeleiren ble opprettet av tyskerene i """@no ;
+	sf_ont:description					"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:image_credit					"""""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-08-05 12:26:18""" ;
+	sf_ont:modified						"""2011-08-05 12:32:49""" ;
+	sf_ont:gowalla_name					"""Espeland leir"""@no ;
+	sf_ont:gowalla_description			"""På Espeland i Arna hadde tyskerne en beryktet fangeleir under Andre verdenskrig. Espeland fangeleir ligger i Moldalia på Espeland, gnr. 289 i Arna i Bergen. Fangeleiren ble opprettet av tyskerene i 1943 og hadde plass for om lag 200 fanger, fordelt på 8 brakker.
+
+I dag eies og brukes leiren av sivilforsvaret."""@no .

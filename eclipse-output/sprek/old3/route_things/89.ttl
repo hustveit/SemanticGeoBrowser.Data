@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route89>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/89> ;
+	<name>					"""Skurtveit, rundtur via Veten og Eldsfjellet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-04-26 13:56:51""" ;
+	<encoded_path>		"""ymupJyuw]??W^Sd@]FYG]DQn@Sf@Qj@Mn@Kr@Sf@YNWXW`@Sl@U`@Oj@Sl@Mp@Gt@Cv@Fr@Ln@@z@Az@Ev@It@Et@Gt@It@Op@Ip@@x@It@a@Fa@H[C[W]BUb@YLWZYZ[DYNYP[DWZ[LYL[HYL[?Y@[@[?a@DYHYR[GYIYO[I[KW[[W[QYQYSSe@W][I_@UYK[S[@YUZE]H_@YYO]@YK]U_@E]S[MSo@]G]PYH]A[S[Q[YYc@Ph@Tb@Dt@Mn@_@NWRJp@VZPh@Ub@WZYJ@t@Ev@[TSd@[@Ub@Gv@Mp@WZUb@[NYP[@YXYNYZSb@[?YXYB[O[AYB[@[EYWY\[FU^[J[CUc@L_ASd@Om@_@M\j@ZDBv@Hr@V\VXBx@Av@Et@Mt@@x@Av@Av@Kv@Dv@Sw@Rg@?w@By@?w@Fy@Hs@Lo@Pg@Js@Rg@Hu@Hs@VS\AXBZ?ZH\AXLZIXWTc@XI\CV[\?VUZQKs@Is@By@Hu@Mm@Mo@Sg@U_@Ks@Mq@Hy@Fw@V]Nm@Rg@T_@V]XUTc@@w@LcAU_@Ue@Si@Ms@UyAUa@Qk@Om@Ug@Mo@Eu@@w@Se@Qi@Se@Se@Oo@Mo@Iw@Aw@?y@Du@Hq@Bw@Fu@Lq@Hu@Ew@@w@Au@Bw@Dw@Bu@Ls@Te@T]Pk@Lo@@y@Gw@Ay@?y@Lm@Pk@Lq@Ay@Bw@Mq@Uc@Ue@Dw@Gw@?w@Kq@Gw@Sa@YWAw@Bw@Dw@Pk@Hs@Gu@Ua@YKXIHs@Eu@Dw@@y@@u@Du@Ri@Ey@Hu@Mm@Ri@?y@Kq@Ay@Hs@Nk@Rg@XYTa@Dy@Nm@Pm@R_@T_@Te@Rg@Ri@Ta@V_@XMXW?w@Bw@Ay@Aw@Iq@Eu@Dy@?y@Ay@[BE}@Jq@Ls@Jq@Lo@Sg@Ok@Is@Iw@Ks@M{@Dy@Lo@Va@Rg@Rc@Sp@c@S[Qf@@ZBLw@Jq@Js@Nk@VYXM\?ZBZJL|@V]Z@Z?ZDXLZFZAZDZFZF\HZBZFZLJp@ZLXVXRVXXXXVXRXTZNXNZNXRZPVZVVZVXTZJTb@V^Rh@Vb@Rb@Rd@V^Td@Pl@Lr@Pf@Lr@Jr@Lr@Nh@Tj@Nl@Pj@Nr@Jp@Pl@Pj@Np@Fv@Nn@Ln@Rl@Pj@Pn@Ph@Lv@Hr@Hp@Tj@V`@Rd@Rd@Td@Ph@Vd@V`@Tf@Nj@Np@Pn@Hr@Np@Nl@Jv@Lp@Jr@Np@Lp@Rd@Rh@Td@Pf@XZTZ\J\LXFXJ\LZHX\ZTXNZVXRXNXPTb@lBx@ZD^NNd@Td@YR[P_@^Uv@QbBG`@]NQLa@P]R_@j@KTOt@KrBKnACfBBjABr@Et@Gv@Cv@?x@Cz@@v@Dz@Cz@Bz@Dv@@x@Ax@Mv@Ol@YZ[JYUW[\LYY??""" ;

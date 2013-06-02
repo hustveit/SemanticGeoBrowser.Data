@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route124>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/124> ;
+	<name>					"""Salhus - Milastemma - Tellavikafjellet"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""2.2""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-25 14:25:40""" ;
+	<encoded_path>		"""eyhpJqvc_@BM@e@Ge@Ea@Go@Kc@?g@Ga@Ic@Gc@?g@Be@?g@Be@I_@MWOUK]Ec@?g@?c@Bc@Ha@@e@Ce@?i@Ic@Ia@Ec@H_@L]Ic@Bc@Dc@H]Ag@QKQISAQGQKOQH_@OMQQOWQOQMSIQMS?Q?SIEe@QQGCHYPQPMTCRBTBVLPFPHR@PERCPGRERERMP?RINSPAPKTKPBRFPFP@PHT@PDPGXDR@PJDc@THRLR@XAPFPBR@PARBPQJ_@L[PQP[PCREJ[Ja@L_@T_@Lg@LWNURGTJS]Dc@Da@Hc@MZ??????Bm@H]De@Ea@Ga@H]Ha@Fi@LYDa@@g@Bc@Ha@Fa@Ce@Da@LYJ[Fe@Ha@J]J]Fa@Ae@Bi@Ea@Ge@Fc@Ec@Ac@S@OMAc@Q?QIQ@SGK[Q?SHQKQGQQKYJ[Fa@LYNULUHc@Ec@H]Be@H]PCRHPGPBNUNU@e@@c@Ae@L[PKNSPIRGNOPOPKNWNKJ_@NSLUNWNQLYPERMPKPKNQNSRGNMHc@RI""" ;

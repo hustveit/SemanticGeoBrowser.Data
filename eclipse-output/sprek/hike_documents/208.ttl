@@ -1,0 +1,26 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike208>
+	dct:title				"""Turøyvarden"""@no ;
+	sf_ont:ingress			"""Turøyvarden står på det høyste punktet på Turøy, 74,5 (moh). Fra varden er det god utsikt i alle retninger. """@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starer fra Turøyveien. Følg stien som går til høyre fra veien. Se etter skilt merket "Turøyvarden" på høyre side før toppen av bakken. Ta til høyre her og følg stien i jevn stigning opp til toppen og Turøyvarden. Fra toppen er det fin utsikt utover havet og Turøya.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Turen fortsetter innom Turøybjørnen og Heller. Se etter skiltet på stien fram til Turøytoppen. Turen går i en liten runde før man vender tilbake til Turøyveien.&lt;BR&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Turøy i ÃËœygarden. Det er ingen avsatte parkeringsplasser så vær forsiktig når du parkerer. Man kan også ta buss nr. 468 fra Bergen sentrum til Ãâ€¦gotnes. Så ta buss nr. 471 videre til Turøy. Bussen bruker omtrent 70 minutter.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt en halv time. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for alle, ta gjerne med barna. Stien er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turøyvarden står på det høyeste punktet på Turøy&amp;nbsp;(74,5 moh). Fra varden er det god utsikt i alle retninger. Varden er fra 1896, den er vel 5 meter høy og sirkelformet. Varden er murt i gråstein og tjærebredd. Den er synlig langt til havs og er et viktig og godt landemerke for de som ferdes på sjøen. Sammen med Eldsfjellet inne på Holsnøy var varden et sikkert seilingsmerke for fiskere og andre sjøfarende når de kom inn fra havet.&amp;nbsp;&lt;BR&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e27ebd887821.jpg> ;
+	sf_ont:image_credit		"""Bergens Tidene""" ;
+	dct:created				"""2011-07-21 10:55:19""" .

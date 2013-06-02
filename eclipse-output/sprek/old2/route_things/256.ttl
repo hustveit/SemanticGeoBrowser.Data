@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route256>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/256> ;
+	<name>		"""Solheim-Tysnessåta"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""4.8""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-03 16:45:22""" ;
+	<encoded_path>		"""}mdmJazda@uAfAqA?wF~DsA{@m@r@Ur@cAD_@uDm@mBeBuBy@wAi@[kALq@k@Uw@[e@Qe@e@k@g@?g@Kc@k@}@`@cBDe@Ba@PiABk@j@eB{@kAu@OHm@k@iEoE[wAM_EUyBU{HyA{Ek@mFmGsSuBkBaBpCkB?iDiE}B_CqF{AyChEmEt@mGdLiFmBkIcHuE{AoCmB_AmBeEmFeJw@aF{IiDcD{FeHsDmIcBvPgAtDQvDu@zQ""" ;

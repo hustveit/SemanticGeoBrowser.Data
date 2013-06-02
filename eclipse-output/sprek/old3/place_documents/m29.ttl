@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place29>
+	a	...Thing... ;
+	<name>		"""Ulriken"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Ulriken er det høyeste av de "klassiske" 7 fjell og rager 643 moh. Navnet kommer trolig av norrønt Alrek, det ruvende. Fjellets flanker er bratte, men fra toppen brer det seg et flott turterreng mot nord, sør og øst. Utsikten fra toppen over byen og omkringliggende landskaper er vid. I sin "Sang til Bergen" skildret Nordahl Brun byen fra toppen av Ulriken, skjønt det er uvisst om han noen gang var der. Den første fotturen til Ulriken ble foretatt i 1853 med blant annet teaterinstruktør Henrik Ibsen som skrev "Vi vandrer med freidig mot " for anledningen. Da idrettspioneren, kjøpmann Johan N.L. Blytt gikk på ski over Ulriken i 1896, ble det omtalt i avisen. Fra slutten av 1800-tallet ble det reist en mengde hytter av idrettslag og privatpersoner i de slakere liene mot sørvest og innover på flatene. Det første hopprenn ble avholdt her i 1896, og det første Bergensrennet ble avviklet i Gimlebakken på vestskråningen av Vasslifjellet i 1908, det første landskirenn i kombinert i 1909. "Ulriken utfor" er et renn som første gang ble avviklet i 1963. Også turmarsjen "Ulriken over " ble første gang avviklet samme år med 4000 deltakere; i 1967 ble turen gått av 19000. I 1959 ble det bygget et teletårn på toppen av Ulriken. Mange fryktet at det ville skjemme fjellprofilen. Reisingen var et problemfylt pionerarbeid, ikke minst under transport av materialer. Stasjonen ble bygget tilbaketrukket fra profilen mot byen og kom i drift i 1960. Den 40 m høye betongmasten har et tverrmål på 3 m nede og 2 m oppe. På masten er støpt et 38 m høyt metallrør. Fjellprofilen ble skjemt da Ulriksbanen, en svevebane, ble anlagt i 1961. Banen ble bygget av et sveitsisk firma. Fra nedre stasjon i Haukelandsbakken til endepunktet på 607 m o.h. har banen en lengde på 1120 m. Den trafikkeres med to gondoler, hver med plass til 25 passasjerer og turen tar 3 minutter. Timekapasiteten er 375 passasjerer. 9. juli 1974 løsnet og styrtet en av gondolene, og fire mennesker omkom. Etter refinansiering ble banen gjenåpnet i 1979. Etter mange tilbakeslag overtok Nye Ulriksbanen og gjenåpnet banen og kafeen på toppen. Passasjerantallet ligger årlig rundt 151000. Ulrikentunnelen er en jernbanetunnel mellom Bergen og Arna. Tunnelen er 7660 m, og ble bygget 1959-64. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dc9684640b8f.jpg> ;
+	<image_credit>		"""Rune Sævig """ ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e0db63e209f1.jpg> ;
+	<trimtoppen_description>		"""Skilt plassert ved varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""NULL""" ;
+	<modified>		"""2011-07-01 13:57:50""" ;
+	<gowalla_name>		"""Ulriken"""@no ;
+	<gowalla_description>		"""Toppen av Ulriksbanen, med butikk, mast, spisested og alskens."""@no ;

@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route206>
+	a	...Thing... ;
+	<name>		"""Raudvatnet opp"""@no ;
+	<ingress>		"""Samnangers mest populære motbakke! Gå eller løp opp til nydelige Raudvatnet."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter på Raunekleiv, rett over veien ved BIR sin gjenbruksstasjon i Raunekleiva (Ãâ€¦rland). Veien opp til Raudvatnet begynner fra fv 7. Følg veien nordover til du når Vatnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Traséen er mye brukt. Samnanger idrettslag arrangerer motbakke løpet ââ‚¬â„¢Raudvatnet oppââ‚¬â„¢ her årlig på sommerstid. Løypen går langs en god sti. Første del går på skogsvei. Det er jevn stigning hele veien, så man får pulsen opp hvis man holder litt tempo. Turen har en stigning 425 høydemeter. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Raunekleiv i Samnanger kommune. Det er ingen oppsatte parkeringsplasser, så ta hensyn når du parkerer. Det er sikkert mulig å stå på BRI sin gjenvinningsstasjon utenom arbeidstiden. Man kan også ta buss nr. 925 fra Bergen sentrum til Raunekleiv (Samnanger).&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar omtrent 1 time, men dette variere ut ifra tempoet man holder. Har du med barn må du beregne litt lenger tid. De aller raskeste løper opp på rundt 20 minutter. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for alle, ta gjerne med barna. Turen går på sti så den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været. Fjellsko kan være best å bruke, men skal man løpe bør man ha joggesko.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e26b4ca14921.jpg> ;
+	<image_credit>		"""Samnanger idrettslag""" ;
+	<created>		"""2011-07-20 12:12:07""" ;

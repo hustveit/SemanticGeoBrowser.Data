@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route347>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/347> ;
+	<name>		"""Melkeplassen â€“ Olsokfjellet"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-09 12:59:59""" ;
+	<encoded_path>		"""msooJ_nj_@d@?v@GlAEJlB@?NGRUTL@TBn@Cb@B`@BTGH@j@CR?`BtAJXCbBnBo@jBJ^n@\L^f@If@l@d@NBHHv@EDPpAtClBTfD`A^bAtALnAp@|AHXjAtBVb@tAv@""" ;

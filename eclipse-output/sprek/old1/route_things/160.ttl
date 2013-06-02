@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route160>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/160> ;
+	<name>		"""SkÃ¥levik - Lyderhorn"""@no ;
+	<length_in_time>		"""50""" ;
+	<length_in_km>		"""2.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-27 11:28:24""" ;
+	<encoded_path>		"""iwnoJwz~^??Sh@Qj@WZYM]@YE[IU`@YR[F]B[MYUYD[F[@[BYNWV[HYLU`@WZYN[C[JYLYL[HS`@Uf@Qj@Sb@W^It@Wd@YL[AW\YROp@[?Se@[B[F[SU_@Y[YK[E[LU`@Oj@YTYKY[YN[NYP[?Uf@U`@[N[PYRUf@Qj@YX[L[@[LWWUb@Ub@Uf@[L[B[?Se@YQ[LUf@YJ[HW`@Ud@YX[C[BYPWZSh@[DYYOk@Ok@YDW[Sg@Mo@Qi@[NQj@Ud@Sb@YOYP[N[A]@[R[OUc@Wa@Si@U_@[F[E[DQf@DR@v@U@[cBUc@IB?z@]DJv@@t@YRKBSj@Qj@Ua@WXUb@]F[F[N[ASg@Cy@[I[E[M]?[J[K[S[?Qg@WGU`@[Tc@T[\U\?x@??""" ;

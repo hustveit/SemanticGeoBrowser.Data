@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place140>
+	
+	dct:title							"""Gaustadfjellet"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;&amp;nbsp;Gaustadfjellet ligger nord på Meland og er 317 meter over havet. &lt;br&gt;&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e29550d84a1b.jpg> ;
+	sf_ont:image_credit					"""Margith Skurtveit""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-07-19 10:19:57""" ;
+	sf_ont:modified						"""2011-07-22 12:46:37""" ;
+	sf_ont:gowalla_name					"""Gaustadfjellet (317 moh.)"""@no ;
+	sf_ont:gowalla_description			""""""@no .

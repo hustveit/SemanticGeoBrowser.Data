@@ -1,0 +1,41 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike227>
+	a	...Thing... ;
+	dct:title				"""Lyngbø-Lyderhorn"""@no ;
+	<ingress>		"""Bratt og kort vei opp til Lyderhorn."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra riksvei 555 like bak Lyngbø på Laksevåg. Følge stien opp
+til høyre fra veien og inn mot Banuren. Følg stien opp til venstre rett etter
+det store hvite huset. Denne stien går vestover opp Stølabakken mot toppen av Lyderhorn.
+Det er bratt stigning hele veien, så det kan være lurt å ta en pust i bakken
+innimellom. Stien er lett å følge hele veien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;På toppen er der fantastisk utsikt og fint å raste. Man kan returnere samme
+vei, eller går ned til Gravdal, Skålevik eller Kjøkkelvik. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kjører til Lyngbø på Laksevåg. Det er ingen avsatte parkeringsplasser så
+utvis hensyn når du parkerer. Det er også mulig å parkere ved Rema 1000 i
+Gravdal eller ved Laksevåg videregående utenom skoletid. Herfra tar det ti
+minutter å gå til startpunktet på riksvei 555. Man kan også ta buss nr. 17 fra
+sentrum til Lyngbølien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt 1 time å gå opp. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste. Stien er ganske bratt, så hvis man går med
+barn vil jeg heller anbefale å gå turen opp fra Gravdal/NUTEC. Turen er uegnet
+for bruk av rullestol og trillevogn. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter været. Gode fjellsko er en fordel. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;
+Tur- og friluftskart for Bergen 1:25 000.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/i&gt;&lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e31530507b32.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-28 13:27:05""" ;

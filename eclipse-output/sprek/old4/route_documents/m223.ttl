@@ -1,0 +1,63 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike223>
+	a	...Thing... ;
+	dct:title				"""Svartediket ââ‚¬â€œ Ulriken"""@no ;
+	<ingress>		"""Kjekk tur med nydelig utsikt langs Ulrikseggen frem til toppen av Bergens tak."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved bommen på Tarlebøveien. Følg grusveien oppover langs Svartediket.
+Ved enden av Svartediket kommer man til et kryss med skilting til blant annet
+Rundemannen. Her holder man til høyre og følger grusveien rundt toppen av
+Svartediket. Ved enden av grusveien tar man til venstre og følger stien mot
+Isdalen.&amp;nbsp;Isteden for å vende opp i Isdalen fortsetter man rett frem inn i
+Brakedalen. Følg stien videre opp langs Ulrikseggen. Her får man en fantastisk
+utsikt over sentrum mens man går oppover. Stien går langs eggen helt frem til
+toppen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Når man har nådd toppen av Ulriken, er det fint å ta seg en liten rast. Man
+kan ha med egen matpakke eller kjøpe mat på kafeen. På toppen er det nydelig
+utsikt utover Bergen sentrum. Man kan returnere via samme trasé eller gå videre
+over vidden mot Fløyen, gå opp til Hauggjeldsvarden eller ned til sentrum via
+en av de mange andre traséene.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Startsted er Svartediksstemmen. Tarlebøveien langs Svartediket er stengt for
+motorisert ferdsel med bom. Det er best å gå, sykle eller ta buss til området,
+fordi det er begrenset med parkeringsmuligheter.&amp;nbsp;Buss nr. 2, 31 og 11
+stopper ved Svartediksveien. Herfra er det kort å gå opp til Svartediksstemmen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det vil ta rundt to timer å gå opp til Ulriken. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste. Turen er hovedsaklig uegnet for trillevogn
+og rullestol. Hvis man holder seg på grusveien langs Svartediket kan turen
+passe for barnevogn. Grusveien er såpass jevn at det kan gå å komme frem med
+rullestol, men på visse strekninger er det ganske bratt.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Vanlig turutstyr og bruk av gode fjellsko er anbefalt.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ulriken er Bergens høyeste fjell med sine 643 moh. Fjellet gir en fantastisk
+utsikt over Bergen og er vel verd et besøk. Hvert år arrangeres motbakke løpet
+Ulriken Opp. Dette er et populært løp med klasser både for konkurranseløpere og
+mosjonister. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er servering i Sky:skraperen, her serveres det god mat og restauranten
+er et populært selskapslokale. Det kan være vanskelig å få bord, så hvis man
+ønsker å reservere kan man ringe tlf 55 32 04 04.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;ÃËœnsker du å ta banen ned igjen er dette fult mulig. Ulriksbanen er åpen alle
+dager fra 09:00-21:00. Bane én vei koster 80 kroner for voksne og 40 kroner for
+barn. Bane tur-retur koster 145 kroner for voksne og 75 kroner for barn.&lt;/p&gt;
+&lt;p&gt;(Kilde: &lt;a href="http://www.ulriken643.no/"&gt;Ulriken 643&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Isdalen (1:10 000), 1115 I Bergen (1:50 000), Tur ââ‚¬â€œ og Friluftskart
+Bergen (1:25 000), 7-fjellsturen turkart (1:25 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2ff64d92f45.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-27 13:24:30""" ;

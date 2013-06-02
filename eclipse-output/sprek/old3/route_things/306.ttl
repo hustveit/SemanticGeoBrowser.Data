@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route306>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/306> ;
+	<name>					"""Byrkjefjellet og Iendafjellet (Såta)"""@no ;
+	<length_in_time>		"""360""" ;
+	<length_in_km>			"""0""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-19 14:24:44""" ;
+	<encoded_path>		"""""" ;
+	<routes_spots>		"""http://__thing_place_uri__186""" ;

@@ -1,0 +1,2668 @@
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix sf_ml_ont: <http://data.sognefjord.vestforsk.no/resource/ml-ontology#> .
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/37#>
+	a						owl:Individual .
+	
+sf_ont:hike37
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/37#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/38#>
+	a						owl:Individual .
+	
+sf_ont:hike38
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/38#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/51#>
+	a						owl:Individual .
+	
+sf_ont:hike51
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/51#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/52#>
+	a						owl:Individual .
+	
+sf_ont:hike52
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/52#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/53#>
+	a						owl:Individual .
+	
+sf_ont:hike53
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/53#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/54#>
+	a						owl:Individual .
+	
+sf_ont:hike54
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/54#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/55#>
+	a						owl:Individual .
+	
+sf_ont:hike55
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/55#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/56#>
+	a						owl:Individual .
+	
+sf_ont:hike56
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/56#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/57#>
+	a						owl:Individual .
+	
+sf_ont:hike57
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/57#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/59#>
+	a						owl:Individual .
+	
+sf_ont:hike59
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/59#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/60#>
+	a						owl:Individual .
+	
+sf_ont:hike60
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/60#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/62#>
+	a						owl:Individual .
+	
+sf_ont:hike62
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/62#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/63#>
+	a						owl:Individual .
+	
+sf_ont:hike63
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/63#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/64#>
+	a						owl:Individual .
+	
+sf_ont:hike64
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/64#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/65#>
+	a						owl:Individual .
+	
+sf_ont:hike65
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/65#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/66#>
+	a						owl:Individual .
+	
+sf_ont:hike66
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/66#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/67#>
+	a						owl:Individual .
+	
+sf_ont:hike67
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/67#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/68#>
+	a						owl:Individual .
+	
+sf_ont:hike68
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/68#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/69#>
+	a						owl:Individual .
+	
+sf_ont:hike69
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/69#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/70#>
+	a						owl:Individual .
+	
+sf_ont:hike70
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/70#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/71#>
+	a						owl:Individual .
+	
+sf_ont:hike71
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/71#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/72#>
+	a						owl:Individual .
+	
+sf_ont:hike72
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/72#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/73#>
+	a						owl:Individual .
+	
+sf_ont:hike73
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/73#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/74#>
+	a						owl:Individual .
+	
+sf_ont:hike74
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/74#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/75#>
+	a						owl:Individual .
+	
+sf_ont:hike75
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/75#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/76#>
+	a						owl:Individual .
+	
+sf_ont:hike76
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/76#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/77#>
+	a						owl:Individual .
+	
+sf_ont:hike77
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/77#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/78#>
+	a						owl:Individual .
+	
+sf_ont:hike78
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/78#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/79#>
+	a						owl:Individual .
+	
+sf_ont:hike79
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/79#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/80#>
+	a						owl:Individual .
+	
+sf_ont:hike80
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/80#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/81#>
+	a						owl:Individual .
+	
+sf_ont:hike81
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/81#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/82#>
+	a						owl:Individual .
+	
+sf_ont:hike82
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/82#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/83#>
+	a						owl:Individual .
+	
+sf_ont:hike83
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/83#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/84#>
+	a						owl:Individual .
+	
+sf_ont:hike84
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/84#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/85#>
+	a						owl:Individual .
+	
+sf_ont:hike85
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/85#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/86#>
+	a						owl:Individual .
+	
+sf_ont:hike86
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/86#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/87#>
+	a						owl:Individual .
+	
+sf_ont:hike87
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/87#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/89#>
+	a						owl:Individual .
+	
+sf_ont:hike89
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/89#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/90#>
+	a						owl:Individual .
+	
+sf_ont:hike90
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/90#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/91#>
+	a						owl:Individual .
+	
+sf_ont:hike91
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/91#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/92#>
+	a						owl:Individual .
+	
+sf_ont:hike92
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/92#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/93#>
+	a						owl:Individual .
+	
+sf_ont:hike93
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/93#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/95#>
+	a						owl:Individual .
+	
+sf_ont:hike95
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/95#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/96#>
+	a						owl:Individual .
+	
+sf_ont:hike96
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/96#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/98#>
+	a						owl:Individual .
+	
+sf_ont:hike98
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/98#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/101#>
+	a						owl:Individual .
+	
+sf_ont:hike101
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/101#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/102#>
+	a						owl:Individual .
+	
+sf_ont:hike102
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/102#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/104#>
+	a						owl:Individual .
+	
+sf_ont:hike104
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/104#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/105#>
+	a						owl:Individual .
+	
+sf_ont:hike105
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/105#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/109#>
+	a						owl:Individual .
+	
+sf_ont:hike109
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/109#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/110#>
+	a						owl:Individual .
+	
+sf_ont:hike110
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/110#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/111#>
+	a						owl:Individual .
+	
+sf_ont:hike111
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/111#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/112#>
+	a						owl:Individual .
+	
+sf_ont:hike112
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/112#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/113#>
+	a						owl:Individual .
+	
+sf_ont:hike113
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/113#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/114#>
+	a						owl:Individual .
+	
+sf_ont:hike114
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/114#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/115#>
+	a						owl:Individual .
+	
+sf_ont:hike115
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/115#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/116#>
+	a						owl:Individual .
+	
+sf_ont:hike116
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/116#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/117#>
+	a						owl:Individual .
+	
+sf_ont:hike117
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/117#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/118#>
+	a						owl:Individual .
+	
+sf_ont:hike118
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/118#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/119#>
+	a						owl:Individual .
+	
+sf_ont:hike119
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/119#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/120#>
+	a						owl:Individual .
+	
+sf_ont:hike120
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/120#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/121#>
+	a						owl:Individual .
+	
+sf_ont:hike121
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/121#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/122#>
+	a						owl:Individual .
+	
+sf_ont:hike122
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/122#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/123#>
+	a						owl:Individual .
+	
+sf_ont:hike123
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/123#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/124#>
+	a						owl:Individual .
+	
+sf_ont:hike124
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/124#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/125#>
+	a						owl:Individual .
+	
+sf_ont:hike125
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/125#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/126#>
+	a						owl:Individual .
+	
+sf_ont:hike126
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/126#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/127#>
+	a						owl:Individual .
+	
+sf_ont:hike127
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/127#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/128#>
+	a						owl:Individual .
+	
+sf_ont:hike128
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/128#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/129#>
+	a						owl:Individual .
+	
+sf_ont:hike129
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/129#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/130#>
+	a						owl:Individual .
+	
+sf_ont:hike130
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/130#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/131#>
+	a						owl:Individual .
+	
+sf_ont:hike131
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/131#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/149#>
+	a						owl:Individual .
+	
+sf_ont:hike149
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/149#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/150#>
+	a						owl:Individual .
+	
+sf_ont:hike150
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/150#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/151#>
+	a						owl:Individual .
+	
+sf_ont:hike151
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/151#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/152#>
+	a						owl:Individual .
+	
+sf_ont:hike152
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/152#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/153#>
+	a						owl:Individual .
+	
+sf_ont:hike153
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/153#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/154#>
+	a						owl:Individual .
+	
+sf_ont:hike154
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/154#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/155#>
+	a						owl:Individual .
+	
+sf_ont:hike155
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/155#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/156#>
+	a						owl:Individual .
+	
+sf_ont:hike156
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/156#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/157#>
+	a						owl:Individual .
+	
+sf_ont:hike157
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/157#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/158#>
+	a						owl:Individual .
+	
+sf_ont:hike158
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/158#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/159#>
+	a						owl:Individual .
+	
+sf_ont:hike159
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/159#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/160#>
+	a						owl:Individual .
+	
+sf_ont:hike160
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/160#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/161#>
+	a						owl:Individual .
+	
+sf_ont:hike161
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/161#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/162#>
+	a						owl:Individual .
+	
+sf_ont:hike162
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/162#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/163#>
+	a						owl:Individual .
+	
+sf_ont:hike163
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/163#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/164#>
+	a						owl:Individual .
+	
+sf_ont:hike164
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/164#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/165#>
+	a						owl:Individual .
+	
+sf_ont:hike165
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/165#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/167#>
+	a						owl:Individual .
+	
+sf_ont:hike167
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/167#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/168#>
+	a						owl:Individual .
+	
+sf_ont:hike168
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/168#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/169#>
+	a						owl:Individual .
+	
+sf_ont:hike169
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/169#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/170#>
+	a						owl:Individual .
+	
+sf_ont:hike170
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/170#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/171#>
+	a						owl:Individual .
+	
+sf_ont:hike171
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/171#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/172#>
+	a						owl:Individual .
+	
+sf_ont:hike172
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/172#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/173#>
+	a						owl:Individual .
+	
+sf_ont:hike173
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/173#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/174#>
+	a						owl:Individual .
+	
+sf_ont:hike174
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/174#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/175#>
+	a						owl:Individual .
+	
+sf_ont:hike175
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/175#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/176#>
+	a						owl:Individual .
+	
+sf_ont:hike176
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/176#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/177#>
+	a						owl:Individual .
+	
+sf_ont:hike177
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/177#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/178#>
+	a						owl:Individual .
+	
+sf_ont:hike178
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/178#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/179#>
+	a						owl:Individual .
+	
+sf_ont:hike179
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/179#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/180#>
+	a						owl:Individual .
+	
+sf_ont:hike180
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/180#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/181#>
+	a						owl:Individual .
+	
+sf_ont:hike181
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/181#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/182#>
+	a						owl:Individual .
+	
+sf_ont:hike182
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/182#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/183#>
+	a						owl:Individual .
+	
+sf_ont:hike183
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/183#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/184#>
+	a						owl:Individual .
+	
+sf_ont:hike184
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/184#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/185#>
+	a						owl:Individual .
+	
+sf_ont:hike185
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/185#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/186#>
+	a						owl:Individual .
+	
+sf_ont:hike186
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/186#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/187#>
+	a						owl:Individual .
+	
+sf_ont:hike187
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/187#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/188#>
+	a						owl:Individual .
+	
+sf_ont:hike188
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/188#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/189#>
+	a						owl:Individual .
+	
+sf_ont:hike189
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/189#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/190#>
+	a						owl:Individual .
+	
+sf_ont:hike190
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/190#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/191#>
+	a						owl:Individual .
+	
+sf_ont:hike191
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/191#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/192#>
+	a						owl:Individual .
+	
+sf_ont:hike192
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/192#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/193#>
+	a						owl:Individual .
+	
+sf_ont:hike193
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/193#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/194#>
+	a						owl:Individual .
+	
+sf_ont:hike194
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/194#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/195#>
+	a						owl:Individual .
+	
+sf_ont:hike195
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/195#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/196#>
+	a						owl:Individual .
+	
+sf_ont:hike196
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/196#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/197#>
+	a						owl:Individual .
+	
+sf_ont:hike197
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/197#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/198#>
+	a						owl:Individual .
+	
+sf_ont:hike198
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/198#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/199#>
+	a						owl:Individual .
+	
+sf_ont:hike199
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/199#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/200#>
+	a						owl:Individual .
+	
+sf_ont:hike200
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/200#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/201#>
+	a						owl:Individual .
+	
+sf_ont:hike201
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/201#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/202#>
+	a						owl:Individual .
+	
+sf_ont:hike202
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/202#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/203#>
+	a						owl:Individual .
+	
+sf_ont:hike203
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/203#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/204#>
+	a						owl:Individual .
+	
+sf_ont:hike204
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/204#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/205#>
+	a						owl:Individual .
+	
+sf_ont:hike205
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/205#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/206#>
+	a						owl:Individual .
+	
+sf_ont:hike206
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/206#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/207#>
+	a						owl:Individual .
+	
+sf_ont:hike207
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/207#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/208#>
+	a						owl:Individual .
+	
+sf_ont:hike208
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/208#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/209#>
+	a						owl:Individual .
+	
+sf_ont:hike209
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/209#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/210#>
+	a						owl:Individual .
+	
+sf_ont:hike210
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/210#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/211#>
+	a						owl:Individual .
+	
+sf_ont:hike211
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/211#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/212#>
+	a						owl:Individual .
+	
+sf_ont:hike212
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/212#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/213#>
+	a						owl:Individual .
+	
+sf_ont:hike213
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/213#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/214#>
+	a						owl:Individual .
+	
+sf_ont:hike214
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/214#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/215#>
+	a						owl:Individual .
+	
+sf_ont:hike215
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/215#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/216#>
+	a						owl:Individual .
+	
+sf_ont:hike216
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/216#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/217#>
+	a						owl:Individual .
+	
+sf_ont:hike217
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/217#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/218#>
+	a						owl:Individual .
+	
+sf_ont:hike218
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/218#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/219#>
+	a						owl:Individual .
+	
+sf_ont:hike219
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/219#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/220#>
+	a						owl:Individual .
+	
+sf_ont:hike220
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/220#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/221#>
+	a						owl:Individual .
+	
+sf_ont:hike221
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/221#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/222#>
+	a						owl:Individual .
+	
+sf_ont:hike222
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/222#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/223#>
+	a						owl:Individual .
+	
+sf_ont:hike223
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/223#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/224#>
+	a						owl:Individual .
+	
+sf_ont:hike224
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/224#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/225#>
+	a						owl:Individual .
+	
+sf_ont:hike225
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/225#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/226#>
+	a						owl:Individual .
+	
+sf_ont:hike226
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/226#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/227#>
+	a						owl:Individual .
+	
+sf_ont:hike227
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/227#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/228#>
+	a						owl:Individual .
+	
+sf_ont:hike228
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/228#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/229#>
+	a						owl:Individual .
+	
+sf_ont:hike229
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/229#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/230#>
+	a						owl:Individual .
+	
+sf_ont:hike230
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/230#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/231#>
+	a						owl:Individual .
+	
+sf_ont:hike231
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/231#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/232#>
+	a						owl:Individual .
+	
+sf_ont:hike232
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/232#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/233#>
+	a						owl:Individual .
+	
+sf_ont:hike233
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/233#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/234#>
+	a						owl:Individual .
+	
+sf_ont:hike234
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/234#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/235#>
+	a						owl:Individual .
+	
+sf_ont:hike235
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/235#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/236#>
+	a						owl:Individual .
+	
+sf_ont:hike236
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/236#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/237#>
+	a						owl:Individual .
+	
+sf_ont:hike237
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/237#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/238#>
+	a						owl:Individual .
+	
+sf_ont:hike238
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/238#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/239#>
+	a						owl:Individual .
+	
+sf_ont:hike239
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/239#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/240#>
+	a						owl:Individual .
+	
+sf_ont:hike240
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/240#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/241#>
+	a						owl:Individual .
+	
+sf_ont:hike241
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/241#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/242#>
+	a						owl:Individual .
+	
+sf_ont:hike242
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/242#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/243#>
+	a						owl:Individual .
+	
+sf_ont:hike243
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/243#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/244#>
+	a						owl:Individual .
+	
+sf_ont:hike244
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/244#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/245#>
+	a						owl:Individual .
+	
+sf_ont:hike245
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/245#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/250#>
+	a						owl:Individual .
+	
+sf_ont:hike250
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/250#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/251#>
+	a						owl:Individual .
+	
+sf_ont:hike251
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/251#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/252#>
+	a						owl:Individual .
+	
+sf_ont:hike252
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/252#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/253#>
+	a						owl:Individual .
+	
+sf_ont:hike253
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/253#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/254#>
+	a						owl:Individual .
+	
+sf_ont:hike254
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/254#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/255#>
+	a						owl:Individual .
+	
+sf_ont:hike255
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/255#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/256#>
+	a						owl:Individual .
+	
+sf_ont:hike256
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/256#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/257#>
+	a						owl:Individual .
+	
+sf_ont:hike257
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/257#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/258#>
+	a						owl:Individual .
+	
+sf_ont:hike258
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/258#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/260#>
+	a						owl:Individual .
+	
+sf_ont:hike260
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/260#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/261#>
+	a						owl:Individual .
+	
+sf_ont:hike261
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/261#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/262#>
+	a						owl:Individual .
+	
+sf_ont:hike262
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/262#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/263#>
+	a						owl:Individual .
+	
+sf_ont:hike263
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/263#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/264#>
+	a						owl:Individual .
+	
+sf_ont:hike264
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/264#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/265#>
+	a						owl:Individual .
+	
+sf_ont:hike265
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/265#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/266#>
+	a						owl:Individual .
+	
+sf_ont:hike266
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/266#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/267#>
+	a						owl:Individual .
+	
+sf_ont:hike267
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/267#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/268#>
+	a						owl:Individual .
+	
+sf_ont:hike268
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/268#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/269#>
+	a						owl:Individual .
+	
+sf_ont:hike269
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/269#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/270#>
+	a						owl:Individual .
+	
+sf_ont:hike270
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/270#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/271#>
+	a						owl:Individual .
+	
+sf_ont:hike271
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/271#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/272#>
+	a						owl:Individual .
+	
+sf_ont:hike272
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/272#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/273#>
+	a						owl:Individual .
+	
+sf_ont:hike273
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/273#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/274#>
+	a						owl:Individual .
+	
+sf_ont:hike274
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/274#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/275#>
+	a						owl:Individual .
+	
+sf_ont:hike275
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/275#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/276#>
+	a						owl:Individual .
+	
+sf_ont:hike276
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/276#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/277#>
+	a						owl:Individual .
+	
+sf_ont:hike277
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/277#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/278#>
+	a						owl:Individual .
+	
+sf_ont:hike278
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/278#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/279#>
+	a						owl:Individual .
+	
+sf_ont:hike279
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/279#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/280#>
+	a						owl:Individual .
+	
+sf_ont:hike280
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/280#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/281#>
+	a						owl:Individual .
+	
+sf_ont:hike281
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/281#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/282#>
+	a						owl:Individual .
+	
+sf_ont:hike282
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/282#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/283#>
+	a						owl:Individual .
+	
+sf_ont:hike283
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/283#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/284#>
+	a						owl:Individual .
+	
+sf_ont:hike284
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/284#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/285#>
+	a						owl:Individual .
+	
+sf_ont:hike285
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/285#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/288#>
+	a						owl:Individual .
+	
+sf_ont:hike288
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/288#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/289#>
+	a						owl:Individual .
+	
+sf_ont:hike289
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/289#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/290#>
+	a						owl:Individual .
+	
+sf_ont:hike290
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/290#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/291#>
+	a						owl:Individual .
+	
+sf_ont:hike291
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/291#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/292#>
+	a						owl:Individual .
+	
+sf_ont:hike292
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/292#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/293#>
+	a						owl:Individual .
+	
+sf_ont:hike293
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/293#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/294#>
+	a						owl:Individual .
+	
+sf_ont:hike294
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/294#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/295#>
+	a						owl:Individual .
+	
+sf_ont:hike295
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/295#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/296#>
+	a						owl:Individual .
+	
+sf_ont:hike296
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/296#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/297#>
+	a						owl:Individual .
+	
+sf_ont:hike297
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/297#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/298#>
+	a						owl:Individual .
+	
+sf_ont:hike298
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/298#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/299#>
+	a						owl:Individual .
+	
+sf_ont:hike299
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/299#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/300#>
+	a						owl:Individual .
+	
+sf_ont:hike300
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/300#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/301#>
+	a						owl:Individual .
+	
+sf_ont:hike301
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/301#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/302#>
+	a						owl:Individual .
+	
+sf_ont:hike302
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/302#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/303#>
+	a						owl:Individual .
+	
+sf_ont:hike303
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/303#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/304#>
+	a						owl:Individual .
+	
+sf_ont:hike304
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/304#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/305#>
+	a						owl:Individual .
+	
+sf_ont:hike305
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/305#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/306#>
+	a						owl:Individual .
+	
+sf_ont:hike306
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/306#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/307#>
+	a						owl:Individual .
+	
+sf_ont:hike307
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/307#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/308#>
+	a						owl:Individual .
+	
+sf_ont:hike308
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/308#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/309#>
+	a						owl:Individual .
+	
+sf_ont:hike309
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/309#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/310#>
+	a						owl:Individual .
+	
+sf_ont:hike310
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/310#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/311#>
+	a						owl:Individual .
+	
+sf_ont:hike311
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/311#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/312#>
+	a						owl:Individual .
+	
+sf_ont:hike312
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/312#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/313#>
+	a						owl:Individual .
+	
+sf_ont:hike313
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/313#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/314#>
+	a						owl:Individual .
+	
+sf_ont:hike314
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/314#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/316#>
+	a						owl:Individual .
+	
+sf_ont:hike316
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/316#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/317#>
+	a						owl:Individual .
+	
+sf_ont:hike317
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/317#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/318#>
+	a						owl:Individual .
+	
+sf_ont:hike318
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/318#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/319#>
+	a						owl:Individual .
+	
+sf_ont:hike319
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/319#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/320#>
+	a						owl:Individual .
+	
+sf_ont:hike320
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/320#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/321#>
+	a						owl:Individual .
+	
+sf_ont:hike321
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/321#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/322#>
+	a						owl:Individual .
+	
+sf_ont:hike322
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/322#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/323#>
+	a						owl:Individual .
+	
+sf_ont:hike323
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/323#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/324#>
+	a						owl:Individual .
+	
+sf_ont:hike324
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/324#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/325#>
+	a						owl:Individual .
+	
+sf_ont:hike325
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/325#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/326#>
+	a						owl:Individual .
+	
+sf_ont:hike326
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/326#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/327#>
+	a						owl:Individual .
+	
+sf_ont:hike327
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/327#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/328#>
+	a						owl:Individual .
+	
+sf_ont:hike328
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/328#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/329#>
+	a						owl:Individual .
+	
+sf_ont:hike329
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/329#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/330#>
+	a						owl:Individual .
+	
+sf_ont:hike330
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/330#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/331#>
+	a						owl:Individual .
+	
+sf_ont:hike331
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/331#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/332#>
+	a						owl:Individual .
+	
+sf_ont:hike332
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/332#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/333#>
+	a						owl:Individual .
+	
+sf_ont:hike333
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/333#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/334#>
+	a						owl:Individual .
+	
+sf_ont:hike334
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/334#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/335#>
+	a						owl:Individual .
+	
+sf_ont:hike335
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/335#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/336#>
+	a						owl:Individual .
+	
+sf_ont:hike336
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/336#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/337#>
+	a						owl:Individual .
+	
+sf_ont:hike337
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/337#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/338#>
+	a						owl:Individual .
+	
+sf_ont:hike338
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/338#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/339#>
+	a						owl:Individual .
+	
+sf_ont:hike339
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/339#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/340#>
+	a						owl:Individual .
+	
+sf_ont:hike340
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/340#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/341#>
+	a						owl:Individual .
+	
+sf_ont:hike341
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/341#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/342#>
+	a						owl:Individual .
+	
+sf_ont:hike342
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/342#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/343#>
+	a						owl:Individual .
+	
+sf_ont:hike343
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/343#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/344#>
+	a						owl:Individual .
+	
+sf_ont:hike344
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/344#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/345#>
+	a						owl:Individual .
+	
+sf_ont:hike345
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/345#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/346#>
+	a						owl:Individual .
+	
+sf_ont:hike346
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/346#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/347#>
+	a						owl:Individual .
+	
+sf_ont:hike347
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/347#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/348#>
+	a						owl:Individual .
+	
+sf_ont:hike348
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/348#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/349#>
+	a						owl:Individual .
+	
+sf_ont:hike349
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/349#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/350#>
+	a						owl:Individual .
+	
+sf_ont:hike350
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/350#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/351#>
+	a						owl:Individual .
+	
+sf_ont:hike351
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/351#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/352#>
+	a						owl:Individual .
+	
+sf_ont:hike352
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/352#> .
+
+<http://data.sognefjord.vestforsk.no/resource/hike/353#>
+	a						owl:Individual .
+	
+sf_ont:hike353
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/hike/353#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/29#>
+	a						owl:Individual .
+	
+sf_ont:place29
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/29#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/30#>
+	a						owl:Individual .
+	
+sf_ont:place30
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/30#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/31#>
+	a						owl:Individual .
+	
+sf_ont:place31
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/31#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/32#>
+	a						owl:Individual .
+	
+sf_ont:place32
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/32#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/33#>
+	a						owl:Individual .
+	
+sf_ont:place33
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/33#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/34#>
+	a						owl:Individual .
+	
+sf_ont:place34
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/34#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/35#>
+	a						owl:Individual .
+	
+sf_ont:place35
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/35#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/36#>
+	a						owl:Individual .
+	
+sf_ont:place36
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/36#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/37#>
+	a						owl:Individual .
+	
+sf_ont:place37
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/37#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/38#>
+	a						owl:Individual .
+	
+sf_ont:place38
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/38#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/39#>
+	a						owl:Individual .
+	
+sf_ont:place39
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/39#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/40#>
+	a						owl:Individual .
+	
+sf_ont:place40
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/40#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/41#>
+	a						owl:Individual .
+	
+sf_ont:place41
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/41#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/43#>
+	a						owl:Individual .
+	
+sf_ont:place43
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/43#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/44#>
+	a						owl:Individual .
+	
+sf_ont:place44
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/44#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/45#>
+	a						owl:Individual .
+	
+sf_ont:place45
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/45#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/47#>
+	a						owl:Individual .
+	
+sf_ont:place47
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/47#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/50#>
+	a						owl:Individual .
+	
+sf_ont:place50
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/50#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/51#>
+	a						owl:Individual .
+	
+sf_ont:place51
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/51#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/52#>
+	a						owl:Individual .
+	
+sf_ont:place52
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/52#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/53#>
+	a						owl:Individual .
+	
+sf_ont:place53
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/53#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/54#>
+	a						owl:Individual .
+	
+sf_ont:place54
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/54#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/55#>
+	a						owl:Individual .
+	
+sf_ont:place55
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/55#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/56#>
+	a						owl:Individual .
+	
+sf_ont:place56
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/56#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/57#>
+	a						owl:Individual .
+	
+sf_ont:place57
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/57#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/58#>
+	a						owl:Individual .
+	
+sf_ont:place58
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/58#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/59#>
+	a						owl:Individual .
+	
+sf_ont:place59
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/59#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/60#>
+	a						owl:Individual .
+	
+sf_ont:place60
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/60#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/61#>
+	a						owl:Individual .
+	
+sf_ont:place61
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/61#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/63#>
+	a						owl:Individual .
+	
+sf_ont:place63
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/63#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/64#>
+	a						owl:Individual .
+	
+sf_ont:place64
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/64#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/66#>
+	a						owl:Individual .
+	
+sf_ont:place66
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/66#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/67#>
+	a						owl:Individual .
+	
+sf_ont:place67
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/67#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/68#>
+	a						owl:Individual .
+	
+sf_ont:place68
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/68#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/69#>
+	a						owl:Individual .
+	
+sf_ont:place69
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/69#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/70#>
+	a						owl:Individual .
+	
+sf_ont:place70
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/70#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/71#>
+	a						owl:Individual .
+	
+sf_ont:place71
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/71#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/73#>
+	a						owl:Individual .
+	
+sf_ont:place73
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/73#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/74#>
+	a						owl:Individual .
+	
+sf_ont:place74
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/74#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/75#>
+	a						owl:Individual .
+	
+sf_ont:place75
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/75#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/76#>
+	a						owl:Individual .
+	
+sf_ont:place76
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/76#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/80#>
+	a						owl:Individual .
+	
+sf_ont:place80
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/80#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/86#>
+	a						owl:Individual .
+	
+sf_ont:place86
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/86#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/87#>
+	a						owl:Individual .
+	
+sf_ont:place87
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/87#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/88#>
+	a						owl:Individual .
+	
+sf_ont:place88
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/88#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/89#>
+	a						owl:Individual .
+	
+sf_ont:place89
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/89#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/90#>
+	a						owl:Individual .
+	
+sf_ont:place90
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/90#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/91#>
+	a						owl:Individual .
+	
+sf_ont:place91
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/91#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/92#>
+	a						owl:Individual .
+	
+sf_ont:place92
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/92#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/93#>
+	a						owl:Individual .
+	
+sf_ont:place93
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/93#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/94#>
+	a						owl:Individual .
+	
+sf_ont:place94
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/94#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/95#>
+	a						owl:Individual .
+	
+sf_ont:place95
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/95#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/96#>
+	a						owl:Individual .
+	
+sf_ont:place96
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/96#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/97#>
+	a						owl:Individual .
+	
+sf_ont:place97
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/97#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/98#>
+	a						owl:Individual .
+	
+sf_ont:place98
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/98#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/99#>
+	a						owl:Individual .
+	
+sf_ont:place99
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/99#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/100#>
+	a						owl:Individual .
+	
+sf_ont:place100
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/100#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/104#>
+	a						owl:Individual .
+	
+sf_ont:place104
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/104#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/105#>
+	a						owl:Individual .
+	
+sf_ont:place105
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/105#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/108#>
+	a						owl:Individual .
+	
+sf_ont:place108
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/108#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/110#>
+	a						owl:Individual .
+	
+sf_ont:place110
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/110#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/111#>
+	a						owl:Individual .
+	
+sf_ont:place111
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/111#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/113#>
+	a						owl:Individual .
+	
+sf_ont:place113
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/113#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/114#>
+	a						owl:Individual .
+	
+sf_ont:place114
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/114#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/115#>
+	a						owl:Individual .
+	
+sf_ont:place115
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/115#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/116#>
+	a						owl:Individual .
+	
+sf_ont:place116
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/116#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/117#>
+	a						owl:Individual .
+	
+sf_ont:place117
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/117#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/118#>
+	a						owl:Individual .
+	
+sf_ont:place118
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/118#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/119#>
+	a						owl:Individual .
+	
+sf_ont:place119
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/119#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/120#>
+	a						owl:Individual .
+	
+sf_ont:place120
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/120#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/121#>
+	a						owl:Individual .
+	
+sf_ont:place121
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/121#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/122#>
+	a						owl:Individual .
+	
+sf_ont:place122
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/122#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/125#>
+	a						owl:Individual .
+	
+sf_ont:place125
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/125#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/126#>
+	a						owl:Individual .
+	
+sf_ont:place126
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/126#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/127#>
+	a						owl:Individual .
+	
+sf_ont:place127
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/127#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/128#>
+	a						owl:Individual .
+	
+sf_ont:place128
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/128#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/129#>
+	a						owl:Individual .
+	
+sf_ont:place129
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/129#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/130#>
+	a						owl:Individual .
+	
+sf_ont:place130
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/130#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/131#>
+	a						owl:Individual .
+	
+sf_ont:place131
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/131#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/132#>
+	a						owl:Individual .
+	
+sf_ont:place132
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/132#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/133#>
+	a						owl:Individual .
+	
+sf_ont:place133
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/133#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/134#>
+	a						owl:Individual .
+	
+sf_ont:place134
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/134#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/135#>
+	a						owl:Individual .
+	
+sf_ont:place135
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/135#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/136#>
+	a						owl:Individual .
+	
+sf_ont:place136
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/136#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/137#>
+	a						owl:Individual .
+	
+sf_ont:place137
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/137#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/138#>
+	a						owl:Individual .
+	
+sf_ont:place138
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/138#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/139#>
+	a						owl:Individual .
+	
+sf_ont:place139
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/139#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/140#>
+	a						owl:Individual .
+	
+sf_ont:place140
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/140#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/142#>
+	a						owl:Individual .
+	
+sf_ont:place142
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/142#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/143#>
+	a						owl:Individual .
+	
+sf_ont:place143
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/143#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/144#>
+	a						owl:Individual .
+	
+sf_ont:place144
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/144#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/145#>
+	a						owl:Individual .
+	
+sf_ont:place145
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/145#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/146#>
+	a						owl:Individual .
+	
+sf_ont:place146
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/146#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/147#>
+	a						owl:Individual .
+	
+sf_ont:place147
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/147#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/148#>
+	a						owl:Individual .
+	
+sf_ont:place148
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/148#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/149#>
+	a						owl:Individual .
+	
+sf_ont:place149
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/149#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/150#>
+	a						owl:Individual .
+	
+sf_ont:place150
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/150#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/151#>
+	a						owl:Individual .
+	
+sf_ont:place151
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/151#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/152#>
+	a						owl:Individual .
+	
+sf_ont:place152
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/152#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/153#>
+	a						owl:Individual .
+	
+sf_ont:place153
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/153#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/154#>
+	a						owl:Individual .
+	
+sf_ont:place154
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/154#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/155#>
+	a						owl:Individual .
+	
+sf_ont:place155
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/155#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/156#>
+	a						owl:Individual .
+	
+sf_ont:place156
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/156#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/157#>
+	a						owl:Individual .
+	
+sf_ont:place157
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/157#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/158#>
+	a						owl:Individual .
+	
+sf_ont:place158
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/158#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/159#>
+	a						owl:Individual .
+	
+sf_ont:place159
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/159#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/160#>
+	a						owl:Individual .
+	
+sf_ont:place160
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/160#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/161#>
+	a						owl:Individual .
+	
+sf_ont:place161
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/161#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/162#>
+	a						owl:Individual .
+	
+sf_ont:place162
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/162#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/163#>
+	a						owl:Individual .
+	
+sf_ont:place163
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/163#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/164#>
+	a						owl:Individual .
+	
+sf_ont:place164
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/164#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/165#>
+	a						owl:Individual .
+	
+sf_ont:place165
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/165#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/166#>
+	a						owl:Individual .
+	
+sf_ont:place166
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/166#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/167#>
+	a						owl:Individual .
+	
+sf_ont:place167
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/167#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/168#>
+	a						owl:Individual .
+	
+sf_ont:place168
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/168#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/169#>
+	a						owl:Individual .
+	
+sf_ont:place169
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/169#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/170#>
+	a						owl:Individual .
+	
+sf_ont:place170
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/170#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/171#>
+	a						owl:Individual .
+	
+sf_ont:place171
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/171#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/172#>
+	a						owl:Individual .
+	
+sf_ont:place172
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/172#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/173#>
+	a						owl:Individual .
+	
+sf_ont:place173
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/173#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/174#>
+	a						owl:Individual .
+	
+sf_ont:place174
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/174#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/175#>
+	a						owl:Individual .
+	
+sf_ont:place175
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/175#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/176#>
+	a						owl:Individual .
+	
+sf_ont:place176
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/176#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/177#>
+	a						owl:Individual .
+	
+sf_ont:place177
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/177#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/179#>
+	a						owl:Individual .
+	
+sf_ont:place179
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/179#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/180#>
+	a						owl:Individual .
+	
+sf_ont:place180
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/180#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/181#>
+	a						owl:Individual .
+	
+sf_ont:place181
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/181#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/182#>
+	a						owl:Individual .
+	
+sf_ont:place182
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/182#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/183#>
+	a						owl:Individual .
+	
+sf_ont:place183
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/183#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/184#>
+	a						owl:Individual .
+	
+sf_ont:place184
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/184#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/185#>
+	a						owl:Individual .
+	
+sf_ont:place185
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/185#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/186#>
+	a						owl:Individual .
+	
+sf_ont:place186
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/186#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/187#>
+	a						owl:Individual .
+	
+sf_ont:place187
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/187#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/188#>
+	a						owl:Individual .
+	
+sf_ont:place188
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/188#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/189#>
+	a						owl:Individual .
+	
+sf_ont:place189
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/189#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/190#>
+	a						owl:Individual .
+	
+sf_ont:place190
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/190#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/191#>
+	a						owl:Individual .
+	
+sf_ont:place191
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/191#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/192#>
+	a						owl:Individual .
+	
+sf_ont:place192
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/192#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/195#>
+	a						owl:Individual .
+	
+sf_ont:place195
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/195#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/196#>
+	a						owl:Individual .
+	
+sf_ont:place196
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/196#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/197#>
+	a						owl:Individual .
+	
+sf_ont:place197
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/197#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/198#>
+	a						owl:Individual .
+	
+sf_ont:place198
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/198#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/200#>
+	a						owl:Individual .
+	
+sf_ont:place200
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/200#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/201#>
+	a						owl:Individual .
+	
+sf_ont:place201
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/201#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/202#>
+	a						owl:Individual .
+	
+sf_ont:place202
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/202#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/203#>
+	a						owl:Individual .
+	
+sf_ont:place203
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/203#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/205#>
+	a						owl:Individual .
+	
+sf_ont:place205
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/205#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/206#>
+	a						owl:Individual .
+	
+sf_ont:place206
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/206#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/207#>
+	a						owl:Individual .
+	
+sf_ont:place207
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/207#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/208#>
+	a						owl:Individual .
+	
+sf_ont:place208
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/208#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/209#>
+	a						owl:Individual .
+	
+sf_ont:place209
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/209#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/211#>
+	a						owl:Individual .
+	
+sf_ont:place211
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/211#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/212#>
+	a						owl:Individual .
+	
+sf_ont:place212
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/212#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/213#>
+	a						owl:Individual .
+	
+sf_ont:place213
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/213#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/214#>
+	a						owl:Individual .
+	
+sf_ont:place214
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/214#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/215#>
+	a						owl:Individual .
+	
+sf_ont:place215
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/215#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/216#>
+	a						owl:Individual .
+	
+sf_ont:place216
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/216#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/217#>
+	a						owl:Individual .
+	
+sf_ont:place217
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/217#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/218#>
+	a						owl:Individual .
+	
+sf_ont:place218
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/218#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/219#>
+	a						owl:Individual .
+	
+sf_ont:place219
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/219#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/220#>
+	a						owl:Individual .
+	
+sf_ont:place220
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/220#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/221#>
+	a						owl:Individual .
+	
+sf_ont:place221
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/221#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/222#>
+	a						owl:Individual .
+	
+sf_ont:place222
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/222#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/223#>
+	a						owl:Individual .
+	
+sf_ont:place223
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/223#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/224#>
+	a						owl:Individual .
+	
+sf_ont:place224
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/224#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/225#>
+	a						owl:Individual .
+	
+sf_ont:place225
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/225#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/226#>
+	a						owl:Individual .
+	
+sf_ont:place226
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/226#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/227#>
+	a						owl:Individual .
+	
+sf_ont:place227
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/227#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/228#>
+	a						owl:Individual .
+	
+sf_ont:place228
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/228#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/229#>
+	a						owl:Individual .
+	
+sf_ont:place229
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/229#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/230#>
+	a						owl:Individual .
+	
+sf_ont:place230
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/230#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/231#>
+	a						owl:Individual .
+	
+sf_ont:place231
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/231#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/232#>
+	a						owl:Individual .
+	
+sf_ont:place232
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/232#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/234#>
+	a						owl:Individual .
+	
+sf_ont:place234
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/234#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/235#>
+	a						owl:Individual .
+	
+sf_ont:place235
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/235#> .
+
+<http://data.sognefjord.vestforsk.no/resource/place/236#>
+	a						owl:Individual .
+	
+sf_ont:place236
+	sf_ml_ont:nameOf			<http://data.sognefjord.vestforsk.no/resource/place/236#> .
+

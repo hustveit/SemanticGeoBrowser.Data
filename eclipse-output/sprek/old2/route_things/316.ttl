@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route316>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/316> ;
+	<name>		"""Eidsvåg ââ‚¬â€œ Kvitebjørnen ââ‚¬â€œ Rundemanen"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""7.3""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-28 14:36:55""" ;
+	<encoded_path>		"""ayzoJken_@b@?d@f@Vj@D`BHj@v@Tl@Oz@wArAcCRO`@?HHNp@E`BQtDOfA}@lB}@bDUbB?d@f@j@x@Hx@Zx@j@VTd@?hATVZRn@Mv@m@|B]vA`@Nb@Uj@k@v@{@h@}A?UROJN?j@sCxIi@hBYdAUrATXl@_@jB_Dl@{@HwAPq@l@{@l@u@r@cB~AwA`BZv@j@b@Z~@BlAJ^[xAmCdEcI`AiBvEuExDgHfAoCbCsDdE{DOeAq@a@yAaAw@k@Gu@MmAJ{FQu@Ok@IQs@CgAXs@Tk@OMcDSmAzA}HTgAOgAn@kB?wAFaAGiBRa@VKLU?u@h@[RaA?[]YWsA?u@PaAI[We@UqAPwAAmA?u@Fq@D{A?gAFa@Kk@a@cCSk@Ou@Kq@Yo@Zw@LgAb@kAd@aAj@iC\{@RgA\e@b@yCl@yCl@Uh@eAb@QNo@x@?d@[^EZTL?XGO{@?{@Rq@@}@`@mAVm@`@_Af@u@t@c@F}@Dw@d@o@d@y@XGXwANgA\a@J?r@qAZk@h@]@q@CiB[k@[mAAMSa@a@WMa@Oo@JIXLHPZCZELGB}@Jo@Eq@Ro@@iBr@g@]dJ^CT_@d@P`@?Vk@Ho@Hc@L{@@c@b@u@Je@@y@TeADQg@?PgCZoBj@yBf@k@pAmB`AuDjByB~BsBhACpAf@lCf@f@Td@?Z]VgAPqAn@TT?L}A@o@Tk@Z]PFr@UfA?\Mj@]^YVo@NsBRa@ZaAq@?}@Ck@UkA}@eB{Ao@sAgAcEMiBDo@n@[x@EfAwAx@{@VaAFgAW{Aa@w@m@q@s@v@_@`Au@t@_Af@U?""" ;

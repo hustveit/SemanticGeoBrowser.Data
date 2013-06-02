@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route75>
+	a	...Thing... ;
+	<name>		"""KrohnegÃ¥rden-LÃ¸vstakken"""@no ;
+	<ingress>		"""Denne turen er kanskje den kjappeste muligheten til Ã¥ nyte utsikten fra LÃ¸vstakken."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;
+Turen er kort og du fÃ¥r garantert opp pulsen. Stigningen er overkommelig, men kneiken opp Ravnefjellet er bratt. Heldigvis er stien god og lett Ã¥ fÃ¸lge. &lt;br&gt;&lt;b&gt;&lt;br&gt;Hvorfor gÃ¥ turen:&lt;/b&gt;&lt;br&gt;Fra toppen av LÃ¸vstakken fÃ¥r du panoramautsikt, sÃ¥ det er vel verdt 
+slitet pÃ¥ vei opp. Selve LÃ¸vstakken rager 477 meter over havet, men er 
+omgitt av mindre koller i nord, og mot sÃ¸r et Â«platÃ¥Â» der hÃ¸yeste parti 
+er Gullsteinen (354 moh.).&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Du starter ved KrohnegÃ¥rden, der er det parkeringsplasser ved skytebanen. Du kan ogsÃ¥ ta buss for Ã¥ komme dit, da velger du 19-linjen.
+&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Selv om turen ikke er mer enn 1,5 kilometer lang, tar det rundt 1 time Ã¥ gÃ¥ opp. Turen ned gÃ¥r raskere, men det er bratt sÃ¥ gÃ¥ rolig og forsiktig.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passerfor:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Denne turen passer best for deg som er i god form og liker Ã¥ gÃ¥ i bratt terreng. Turen egner seg ikke for smÃ¥ barn, trillevog eller rullestol.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;OmrÃ¥det kan vÃ¦re myrlendt, sÃ¥ velg gode sko. Ta ogsÃ¥ med hodelykt om du gÃ¥r om kvelden.VÃ¦r forsiktig pÃ¥ veien ned, det er bratt.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt; &lt;br&gt;O-kart LÃ¸vstakken (1:15 000),
+O-kart Langeskogen (1:10 000),
+1115 I Bergen (1:50 000),
+Tur- og Friluftskart Bergen (1:25.000),
+7-fjellsturen turkart (1:25 000.
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d9dbf66cb27djpg> ;
+	<image_credit>		"""Eivind A. Pettersen""" ;
+	<created>		"""2011-04-07 09:59:42""" ;

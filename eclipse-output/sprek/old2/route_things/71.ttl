@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route71>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/71> ;
+	<name>		"""Nøttveit rundt Smøråsen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-01 11:46:06""" ;
+	<encoded_path>		"""qj~nJikt_@??Fs@ZEXK@w@Ko@Gw@?y@Eu@Fu@Hs@Ta@Re@X[\AZKNk@V_@XYXWNo@Ri@VYPg@LGZSTi@Pi@Tg@XY^ATb@Nn@Np@XAXa@Xe@Rq@Fu@Lq@Lo@V_@XJXRT^\D\OTe@Ns@@{@Xg@^IZ\Rh@^QJs@O}@Qq@Ky@Oo@@y@Rk@Nk@B}@MaA]IAw@Ey@EaA?w@Pq@Ly@Qm@Mq@Su@Wc@Mo@Om@Gu@Ku@Oy@Sm@A{@Fw@Gw@Gu@Ks@E{@Ms@Ks@Iq@Gw@Kq@Mq@Qk@W]]e@YK_@Nc@F[CYN]IU][c@Ua@Si@Ui@Qi@Oo@Qm@Qg@YU[CY]YQ]K[C[DYT[@[G[?]A[C[NUp@It@Kp@Ol@W\YTYQ[G[BWZEt@Fr@@z@Ct@Cv@Kv@Sb@Qj@Ev@Pf@Z^Td@Nj@T`@Pf@Cv@?v@Np@Lv@Ht@Ex@Gv@Iv@It@@v@@t@Qh@Iv@Hr@XTZBZ?T`@Rl@Rb@ZPXTPn@Rd@GdAGt@Ht@Lr@Pl@Iv@Kr@Ex@Gt@Jp@Th@Pl@Rf@T\ZNZDZNXTPn@Nj@Cx@?v@@x@@x@Ht@Kt@U^Ql@[P[?YTUb@Sd@Mt@Gr@Ex@Dt@Hp@Pp@Ln@Et@[NY@??""" ;

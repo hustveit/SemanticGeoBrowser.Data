@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route209>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/209> ;
+	<name>					"""Vollo-Brakstadfjellet"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""2.2""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-21 13:16:28""" ;
+	<encoded_path>		"""}}opJ}ll^v@xHLbDOpFkAHgAe@cBlAuAQkAbBoAdAk@|@kCvAo@dAaBjFeA|Au@lA[?[XE`As@Ju@DgAz@sBk@_A|BiA`A_@j@m@nDgA`A{A~En@j@Fj@Zp@?`A?z@Jd@ZJXd@f@Ob@?Na@pAUX?TP^HF`@DXJZKp@ZH|@lBRbCn@lAUt@YDUp@Mn@ZPFt@\JXQTf@At@Oj@Ct@Np@Iv@Et@Cv@XXMp@Oj@Mp@Ot@Gv@Gt@Kv@Kt@]T""" ;

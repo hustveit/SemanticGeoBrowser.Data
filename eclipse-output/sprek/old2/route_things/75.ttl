@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route75>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/75> ;
+	<name>		"""Krohnegården-Løvstakken"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.5""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-07 09:59:42""" ;
+	<encoded_path>		"""mdmoJshl_@??ECHu@D}@Bw@Ds@@w@Hw@Ns@Ls@Du@Su@[k@Sg@[_@K{@QaACgAWi@Qo@Sg@Qo@Ue@Wq@a@?[I[D]N]J[I]?W]Ks@Uc@Sk@Ws@Sg@A_AXc@ZB\C^B^LXKVUVa@Ew@Jq@Hu@Tg@Tc@T_@V[Nq@Cw@Hs@Rg@XSZO\IXQXEZ?ZKZGZJ\HXNZD\CZKXO\CXBZ?Z@XPTd@XVV`@V^V\VXV^Tf@R`@ZTVXTh@T`@Td@XVXJZGV]J}@??""" ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place167>
+	a						...Thing... ;
+	<name>					"""Espeland Leir"""@no ;
+	<altitude>				"""603""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/1244878> ;
+	<gowalla_lng>			"""5.476770401""" ;
+	<gowalla_lat>			"""60.3761146604""" ;

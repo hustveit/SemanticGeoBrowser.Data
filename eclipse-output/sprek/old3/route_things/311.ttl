@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route311>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/311> ;
+	<name>					"""Skageneset"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""6""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-27 14:15:18""" ;
+	<encoded_path>		"""ogcqJsqv]o@xAc@nBq@vDUdAGrBqApEeAvDGjAcAhBaBrD{AtEc@vAwBfKoB|Hu@|DKhB_AhCWtCoAxHs@fEsBrD_BbBc@fAMpDY`BUdC_@pAg@bC{A~Cu@nBLl@r@jEvBjDhA^~@sAV`BYbBe@tDs@nH[hFj@xEZhD\tBl@xBdAtBClDi@xKYzGm@~HPWZyC`@mKXsHh@aHd@uBTeClB?lB}CjBwDPo@b@mGD{I~AaGpB}Bz@@n@K^Vt@l@~@RdAwBfAeGf@uER}@cAmD_@cBo@sEn@iDhAuCnAs@pAk@vAgDt@gAb@_EnAaCdAYbA_Hz@mA~@aD|BW`BpAvAaA`@oBc@mDUgHOeHmB}CqAcBgA}B{@gKOuC_@eBiAuC_BaBmBWsBaDeAmC""" ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route343>
+	a	...Thing... ;
+	<name>		"""Myrdalskogen â€“ Geitanuken â€“ Ulsetvarden"""@no ;
+	<ingress>		"""To fjell midt i Ã…sane."""@no ;
+	<description>		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Ulsetvarden ligger nord for Ã…sane senter, med Geitanuken mot vest og Salhusveien i Ã¸st.&lt;br&gt;&lt;br&gt;Man starter Ã¸verst i Myrdalskogen, og fÃ¸rste delen av ruten gÃ¥r pÃ¥ grusvei. Denne gÃ¥r senere over i sti mot Geitanuken, 304 m.o.h. Her fÃ¥r du flott utsikt; Vestover mot Byfjorden, AskÃ¸y, Sotra, Ã˜ygarden og videre ut i havet. Mot sÃ¸r til EidsvÃ¥gneset og innover mot Byfjellene. Fra nord vinker de andre seks fjellene velkommen. Det majestetiske HÃ¸gstefjellet peker seg allerede ut som sÃ¦rlig attraktivt. Mot Ã¸st skuer man det nye Ã…sane med boligblokker og butikksentre.&lt;br&gt;&lt;br&gt;Videre gÃ¥r det sti over et lite myromrÃ¥de mot Ulsetvarden, 288 m.o.h., som er mÃ¥let for denne turen. Ulsetvarden er fjell nr. 3 i turen "De 7 fjell i Ã…sane". Toppen kan sÃ¦rlig by pÃ¥ oversikt over utbyggingsomrÃ¥dene pÃ¥ Ã…sane-myrene, Nyborg og Flaktveit mot Ã¸st. Herfra kan en velge Ã¥ fortsette mot Ulsetstemma og Toppefjellet, eller fortsette stien mot Myrdal for Ã¥ ta en rundtur, eller ta samme rute tilbake igjen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Parkering Ã¸verst i Myrdalskogen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. Ã©n time tur/retur.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lett tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret, gode tursko anbefales."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eb91a613a9af.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-11-08 13:02:41""" ;

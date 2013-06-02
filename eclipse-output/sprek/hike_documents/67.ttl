@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike67>
+	dct:title				"""Munkebotn-Sandviksfjellet-Fløyen"""@no ;
+	sf_ont:ingress			"""Turen er lett og går hele tiden på fin vei i skogkledde omgivelser. """@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;div&gt;Utgangspunktet for turen kan være Sandviken sykehus i Helleveien eller Fjellveien/Munkebotnsveien. Munkebotnsveien er stengt for motorisert ferdsel der bebyggelsen slutter. Følg dalen til Munkebotsvatnet (145 moh.). Videre rett fram kommer man til Eidsvåg. 
+
+Til Sandviksfjellet tar man av til høyre over demningen og oppover Munkebotsdalen til Storevatnet (374 moh.). Deler av stigningen er relativt bratt (og et gøyalt, men utfordrende nedrenn vinterstid). Ved Storevatnet går sti til Stoltzekleiven, til venstre kommer man til Kvitebjørnen. Denne turen følger imidlertid veien langs vatnet, gjennom skogen ca. 1 km til veikrysset som tar av til høyre mot Fjellveien. &lt;br&gt;&lt;br&gt;Etter at Nedrediket er passert, skifter veien navn til Halvdan Griegs vei (bygget i årene 1933ââ‚¬â€œ40 etter initiativ fra Halvdan Grieg) og munner ut i Blåmansveien, der man tar til høyre, ned mot Fløyen. Mellom Nedrediket og Blåmansveien ligger Ãâ€¦sebu skistadion, som er en varmestue tilknyttet lysløypen på Midtfjellet.
+
+Til Fjellveien og Bergen sentrum kommer man med Fløibanen eller ved å ta en av veiene ned.
+
+Vær obs på at det går sti opp fjellryggen bak Sandviksbatteriet. Stien fortsetter langs kammen av Sandviksfjellet og ender ved Sandvikspilen, der man kan gå ned Stoltzekleiven eller gå inn på veien over Sandviksfjellet. Turen er godt egnet som rundtur fordi start og endepunkt kan knyttes sammen via Fjellveien.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ta bussen til Sandviken sykehus eller bruk parkeringsplassen på sykehuset. Derfra går det en avstikker til svingene opp mot Munkebotn.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Turen tar rundt 2 timer.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer for de fleste, men er ikke egnet for barnevogn eller rullestol.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Om sommeren går det fint å gå med joggesko. Når det er vått og snø, anbefales det å bruke fjellsko.
+
+&lt;/div&gt;&lt;/div&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4d907916876a0> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-03-28 12:33:10""" .

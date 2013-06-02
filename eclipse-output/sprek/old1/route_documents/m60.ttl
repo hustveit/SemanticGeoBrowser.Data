@@ -1,0 +1,22 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route60>
+	a	...Thing... ;
+	<name>		"""Osavatn-Redningshytten-Gullfjellstoppen"""@no ;
+	<ingress>		"""Om du er i humÃ¸r for Ã¥ gÃ¥ langt og hÃ¸yt, er dette turen for deg."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;DIV&gt;Det finnes flere ruter opp til Bergens hÃ¸yeste punkt, 987 moh. Mange velger Gullbotn som utgangspunkt, men ruten fra Osavatn via Redningshytten er ogsÃ¥ velbrukt. FÃ¸rste del av turen gÃ¥r pÃ¥ grusvei, fÃ¸r veien gÃ¥r over i bred sti med flere smÃ¥ rasteplasser oppover mot Redningshytten. Etter dette smalner stien, men er lett Ã¥ fÃ¸lge opp bratthenget i Korketrekkeren. Litt mer utydelig er stien i steinrÃ¸ysen ned mot Middagsdalen, til gjengjeld ruver varderekken i terrenget, og staker ut kursen mot toppen. Ved varde nr. 26 er man pÃ¥ toppen. Der oppe i det nakne hÃ¸yfjellsterrenget virker det underlig at man fortsatt (sÃ¥ vidt) befinner seg i Bergen kommune. Og pÃ¥ godvÃ¦rsdager er utsikten kort sagt fantastisk.&amp;nbsp; &lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Atkomst til turen er enklest med bil. Ta av fra rv. 580 sÃ¸r for Arna, ved skiltet inn til BjÃ¸rndalen. Parkering mot avgift pÃ¥ utferdsdager pÃ¥ romslig p-plass ved Osavatn. Ruten er ca. 17 km, med knapt 700 meters stigning.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Beregn ca. seks timer pÃ¥ hele turen, inkludert to-tre pauser. Turen passer for de som vil lange ut og bruke dagen. For dem som synes turen blir lang, kan Redningshytten, som alltid er Ã¥pen og har servering pÃ¥ sÃ¸ndager, vÃ¦re et fint mÃ¥l. Den turen tar en drÃ¸y time fra p-plassen. Fra Redningshytten til toppen tar det ytterligere to timer om man holder marsjfart.&amp;nbsp; &lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Utstyrbehov:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;VÃ¦ret i omrÃ¥det kan vÃ¦re barskt og skiftende. Velg vind- og vanntett yttertÃ¸y, ha lue og votter i sekken, samt kart og kompass/evt. GPS. Blir man overrasket av tÃ¥ke, kan man miste kontakten med varderekken. Man blir svett pÃ¥ turen opp, sÃ¥ ull innerst mot kroppen anbefales, samt fjellsko. Mobildekningen er dÃ¥rlig i omrÃ¥det.&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Kart:&lt;/B&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;Bergen 1:50 000. &lt;/DIV&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d89be0a04ff0> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-03-23 10:25:18""" ;

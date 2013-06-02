@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route65>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/65> ;
+	<name>		"""Totland - Livarden"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""5.6""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-26 12:07:16""" ;
+	<encoded_path>		"""kbcoJw{f`@PORIv@IJVAZETQIAIDAIBJN?M`@a@FSp@sA@Sh@eBBgCY{@i@k@o@uAQM[?{@r@g@fAa@j@PPCROX?CD?AWNQIUDS?@FQr@mARc@v@Qr@QdAjA`Ad@b@`@l@t@ZRjBjBBICaAH]LY@AGq@AsCCO]k@]_@Km@BW???@Rg@NCJg@W_BCs@IU?_@FmATaA`@W\_@z@g@THBBMuAi@cAo@c@s@s@{AaEi@_C_AmA]W_@w@{@aBg@mBMWy@eAOK_@IW@cBYOOgAq@DAq@K_DkCcASy@Ks@a@]s@eAmAI@?FBLQPa@Ck@Qk@s@MOiBkB][MUOD[w@k@o@AOMBE|AETWAIWi@U[DYb@EEM?Q^MCUJ]Ko@Ng@As@i@O]_@@OMi@PWI@D]Se@JCc@@]m@Eo@M_@a@Wy@cA]{Aq@?G{@Ya@s@IWiAgAWaAI@w@c@MW@@o@k@[QcA{AOSkBcBeAs@KUOAeB_@KCaA[O_@Om@OE]a@w@uA{@Ak@D[g@YHOCg@qAgBcBMFg@bBO`B@~@L^n@l@@GwAw@eAc@c@DDkA[]oA{AoCiBu@o@w@Wq@_@u@_AHgC@[s@LWB]Gs@a@c@CeBHYGk@a@y@Yo@_@WAWKa@EGTk@kAgBi@aAQmAMwABwA~@a@^c@`@g@FOByAKg@Hk@AsA|@aA|@_A`@_Bd@MNSd@e@\}A\y@\MD?AMBOZe@Zg@l@??AAFDf@E""" ;

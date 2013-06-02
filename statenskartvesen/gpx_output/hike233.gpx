@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="lonvia.de" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+	<metadata>
+		<name>Test</name>
+		<link href="http://test.no">
+			<text>Test</text>
+		</link>
+	</metadata>
+
+	<trk>
+		<trkseg>
+			<trkpt lat="60.23431" lon="5.35834"/>
+			<trkpt lat="60.23467" lon="5.35949"/>
+			<trkpt lat="60.23537" lon="5.35894"/>
+			<trkpt lat="60.23567" lon="5.35897"/>
+			<trkpt lat="60.23575" lon="5.35889"/>
+			<trkpt lat="60.2361" lon="5.35868"/>
+			<trkpt lat="60.23621" lon="5.35861"/>
+			<trkpt lat="60.23652" lon="5.35803"/>
+			<trkpt lat="60.23665" lon="5.35791"/>
+			<trkpt lat="60.23677" lon="5.35787"/>
+			<trkpt lat="60.23704" lon="5.3582"/>
+			<trkpt lat="60.23763" lon="5.35798"/>
+			<trkpt lat="60.23798" lon="5.35738"/>
+			<trkpt lat="60.23804" lon="5.35611"/>
+			<trkpt lat="60.2386" lon="5.35414"/>
+			<trkpt lat="60.23957" lon="5.35337"/>
+			<trkpt lat="60.24033" lon="5.35293"/>
+			<trkpt lat="60.24092" lon="5.35155"/>
+			<trkpt lat="60.24159" lon="5.35139"/>
+			<trkpt lat="60.24223" lon="5.35106"/>
+			<trkpt lat="60.24293" lon="5.35024"/>
+			<trkpt lat="60.24386" lon="5.34872"/>
+			<trkpt lat="60.24448" lon="5.34815"/>
+			<trkpt lat="60.24469" lon="5.34804"/>
+			<trkpt lat="60.24474" lon="5.3468"/>
+			<trkpt lat="60.24502" lon="5.34661"/>
+			<trkpt lat="60.24531" lon="5.34601"/>
+			<trkpt lat="60.24539" lon="5.34526"/>
+			<trkpt lat="60.24567" lon="5.34458"/>
+			<trkpt lat="60.24583" lon="5.34386"/>
+			<trkpt lat="60.24617" lon="5.34401"/>
+			<trkpt lat="60.24633" lon="5.34443"/>
+			<trkpt lat="60.2464" lon="5.34495"/>
+			<trkpt lat="60.24641" lon="5.34538"/>
+			<trkpt lat="60.24651" lon="5.34579"/>
+			<trkpt lat="60.24666" lon="5.34584"/>
+			<trkpt lat="60.24686" lon="5.34582"/>
+			<trkpt lat="60.24698" lon="5.34566"/>
+			<trkpt lat="60.24701" lon="5.34584"/>
+			<trkpt lat="60.24734" lon="5.34652"/>
+			<trkpt lat="60.2475" lon="5.34667"/>
+			<trkpt lat="60.24753" lon="5.34683"/>
+			<trkpt lat="60.24755" lon="5.34681"/>
+			<trkpt lat="60.24769" lon="5.34672"/>
+			<trkpt lat="60.24785" lon="5.34709"/>
+			<trkpt lat="60.248" lon="5.34767"/>
+			<trkpt lat="60.2481" lon="5.34877"/>
+			<trkpt lat="60.24808" lon="5.34951"/>
+			<trkpt lat="60.24827" lon="5.35018"/>
+			<trkpt lat="60.2485" lon="5.35031"/>
+			<trkpt lat="60.24866" lon="5.35057"/>
+			<trkpt lat="60.24866" lon="5.35082"/>
+			<trkpt lat="60.24897" lon="5.35187"/>
+			<trkpt lat="60.24934" lon="5.35306"/>
+			<trkpt lat="60.24966" lon="5.35375"/>
+			<trkpt lat="60.24986" lon="5.35443"/>
+			<trkpt lat="60.25009" lon="5.35467"/>
+			<trkpt lat="60.2503" lon="5.35535"/>
+			<trkpt lat="60.2504" lon="5.35608"/>
+			<trkpt lat="60.25067" lon="5.35658"/>
+			<trkpt lat="60.25089" lon="5.35656"/>
+			<trkpt lat="60.25115" lon="5.35628"/>
+			<trkpt lat="60.25131" lon="5.357"/>
+			<trkpt lat="60.25144" lon="5.35735"/>
+			<trkpt lat="60.25179" lon="5.35762"/>
+			<trkpt lat="60.25201" lon="5.35756"/>
+			<trkpt lat="60.25243" lon="5.35713"/>
+			<trkpt lat="60.25277" lon="5.35683"/>
+			<trkpt lat="60.25357" lon="5.35645"/>
+			<trkpt lat="60.25381" lon="5.35648"/>
+			<trkpt lat="60.25401" lon="5.35636"/>
+			<trkpt lat="60.25424" lon="5.35636"/>
+			<trkpt lat="60.25437" lon="5.35656"/>
+			<trkpt lat="60.25472" lon="5.35676"/>
+			<trkpt lat="60.25505" lon="5.35725"/>
+			<trkpt lat="60.25518" lon="5.3578"/>
+			<trkpt lat="60.25558" lon="5.35855"/>
+			<trkpt lat="60.25586" lon="5.35897"/>
+			<trkpt lat="60.25558" lon="5.36022"/>
+			<trkpt lat="60.25543" lon="5.36119"/>
+			<trkpt lat="60.25546" lon="5.3615"/>
+			<trkpt lat="60.2557" lon="5.36132"/>
+			<trkpt lat="60.25596" lon="5.36145"/>
+			<trkpt lat="60.25631" lon="5.36198"/>
+			<trkpt lat="60.25631" lon="5.3624"/>
+			<trkpt lat="60.25704" lon="5.36299"/>
+		</trkseg>
+	</trk>
+</gpx>

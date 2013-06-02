@@ -1,0 +1,20 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place96>
+	
+	dct:title							"""Hauggjelsvarden"""@no ;
+
+	sf_ont:ingress						"""Viddens høyeste punkt (673 moh.)."""@no ;
+	sf_ont:description					"""&lt;P&gt;&lt;SPAN id=LongDescription&gt;Hauggjelsvarden er det høyeste punktet på "vidden" og ligger mot sør-øst. I nærheten av toppen ligger hytten "Valhall",&amp;nbsp; som er den eldste av hyttene på byfjellene. &lt;BR&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN id=LongDescription&gt;&lt;BR&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN id=LongDescription&gt;Det er flere måter å nå toppen på, man kan gå både fra Sædalen, Isdalen eller ta en liten avstikker på turen langs varderekken fra Fløyen til Ulriken.&lt;/SPAN&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1acd6f3188d.jpg> ;
+	sf_ont:image_credit					"""Helge Sunde""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e0db688ac1c8.jpg> ;
+	sf_ont:trimtoppen_description		"""Skiltet er plassert ved selve Hauggjelsvarden."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Bjarte Eikanger""" ;
+	dct:created							"""2011-06-17 14:09:13""" ;
+	sf_ont:modified						"""2011-07-21 14:45:54""" ;
+	sf_ont:gowalla_name					"""Hauggelsvarden"""@no ;
+	sf_ont:gowalla_description			""" """@no .

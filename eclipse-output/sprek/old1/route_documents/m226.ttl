@@ -1,0 +1,65 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route226>
+	a	...Thing... ;
+	<name>		"""FlÃ¸isvingene-FlÃ¸yen"""@no ;
+	<ingress>		"""Denne turen er en av de mest populÃ¦re lÃ¸ypen opp til FlÃ¸yen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved FlÃ¸ibanestasjonen. FÃ¸lg veien opp trappene pÃ¥ venstre
+siden av inngangen til stasjonen. Veien gÃ¥r svingete oppover mot til gamle
+Skansen brannstasjon. Brannstasjonen ble bygd etter bybrannen i 1901. Her satt
+det en utkikksvakt i tÃ¥rnet. Fra skansen fÃ¸lger man veien til hÃ¸yre gjennom
+Skanseparken og frem til et omrÃ¥de som heter â€&#157;Hesten trenger kvileâ€&#157;. Fra
+gammelt av var dette en plass hvor hesten kunne fÃ¥r drikke vann. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Veien svinger seg videre mot venstre fÃ¸r den svinger mot hÃ¸yre igjen forbi
+Ã˜vre Bleken og frem til Skansemyren. Her kan man ogsÃ¥ se FlÃ¸ibanen stoppe. FÃ¸lg
+veien opp til venstre for FlÃ¸ibanen. Herfra gÃ¥r man opp FlÃ¸isvingene. Etter man
+har forsert alle svingene gÃ¥r veien til venstre fortsetter opp til FlÃ¸ipilen.
+Herfra fÃ¸lger man bare veien sÃ¸rÃ¸stover frem til FlÃ¸yen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;PÃ¥ selve FlÃ¸yen er det fint Ã¥ raste. Her er det fantastisk utsikt over
+Bergen sentrum. Det er ogsÃ¥ bÃ¥de kiosk og restaurant. PÃ¥ vinterstid er det
+veldig populÃ¦rt for barn og unge Ã¥ ake ned fra FlÃ¸yen. De har gjerne FlÃ¸ibanen
+opp og aker hele veien ned. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fra FlÃ¸yen kan man returnere via samme trasÃ©
+eller fortsette turene innover i byfjellene. Herfra kan man nÃ¥ mange
+forskjellige mÃ¥l.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;FlÃ¸ibanestasjonen ligger midt i Bergen sentrum, nÃ¦r bryggen. Kommer man i
+bil finnes det forskjellige parkeringshus i sentrum man kan benytte. Det
+nÃ¦rmeste ligger i Rosenkrantzgaten, kun 3 minutter fra FlÃ¸ibanestasjonen. Man
+kan ogsÃ¥ lett komme seg til sentrum via buss, tog, bÃ¥t eller Bybanen.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt 1 time Ã¥ gÃ¥ opp. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de alle, ta gjerne med barna. Turen fÃ¸lger gode
+asfalt- og grusveier hele tiden sÃ¥ man kan benytte trillevogn og rullestol. VÃ¦r
+forÃ¸vrig obs pÃ¥ at man hele tiden gÃ¥r oppover, sÃ¥ det kan muligens bli litt
+tungt. Det er ogsÃ¥ mulig Ã¥ ta FlÃ¸ibanen opp til toppen, denne er tilpasset bruk
+av trillevogn og rullestol&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter vÃ¦ret. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+FlÃ¸ibanen ble offisielt Ã¥pnet 15. januar 1918.
+Tanken om et transportmiddel til FlÃ¸yen ble luftet sÃ¥ tidlig som i 1895 av
+stortingsmannen og bergenseren John Lund. Arbeidet med Ã¥ bygge FlÃ¸ibanen
+begynte hÃ¸sten 1914. Banen var klar til oppstart i januar 1918. FlÃ¸ibanens Ã¸vre
+stasjon ligger 320 m.o.h. HÃ¸ydeforskjellen mellom nedre og Ã¸vre stasjon er 302
+meter.&lt;br&gt;
+&lt;br&gt;
+FlÃ¸ibanens trasÃ© har en lengde pÃ¥ 844 meter med en stigning som Ã¸ker fra 15 grader
+til 26 grader pÃ¥ det bratteste. To baner, RÃ¸dhette
+og BlÃ¥mann, hver med plass til 100
+passasjerer, kjÃ¸rer mellom sentrum, de tre mellomstasjonene (Promsgate,
+Fjellveien og Skansemyren) og FlÃ¸yen hver dag hele Ã¥ret. I september til april
+til kl.23:00, og til kl.24:00 fra mai t.o.m. august. FlÃ¸ibanen kjÃ¸rer i en fart
+av 4,0 m/sek. Turen tar vanligvis 5 - 6 minutter. FlÃ¸ibanen er en meget
+miljÃ¸vennlig transportbedrift, da banen drives med elektrisitet og ikke
+forurenser.&lt;br&gt;&lt;br&gt;(Kilde: Opptur Hordaland og &lt;a href="http://www.floibanen.no/historie/"&gt;FlÃ¸ibanen.no&lt;/a&gt;)."""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e313794c90e1.jpg> ;
+	<image_credit>		"""Rune SÃ¦vig """ ;
+	<created>		"""2011-07-28 12:19:00""" ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place118>
+	a	...Thing... ;
+	<name>		"""Lysekloster"""@no ;
+	<altitude>		"""NULL""" ;
+	<serving>		"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/1486529> ;
+	<gowalla_lng>		"""5.4053378105""" ;
+	<gowalla_lat>		"""60.2275016695""" ;

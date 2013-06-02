@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route233>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/233> ;
+	<name>					"""Fanafjellet-Lysskarsfjellet-Nordvik"""@no ;
+	<length_in_time>		"""250""" ;
+	<length_in_km>			"""3.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-29 15:07:59""" ;
+	<encoded_path>		"""mosnJspu_@gAeFkClB{@EONeAh@UL}@rBYVWFu@aAuBj@eAvBK|FoBhKaExCwCvAuBrGeC^_C`AkCbDyDnH{BpBi@TIvFw@d@y@vBOtCw@fC_@nCcA]_@sAMgBAuASqA]Ig@BW^Ec@aAgC_@]E_@CB[P_@iA]sBS{EBsCe@eCm@Y_@s@?q@}@qEiAmF_AiCg@gCm@o@i@gCSqCu@cBk@Bs@v@_@oCYeAeAu@k@JsAtAcAz@_DjAo@Eg@Vm@?Yg@eAg@aAaBYmBoAuCw@sAv@yF\aEE}@o@b@s@YeAiB?sAqCuB""" ;
+	<routes_spots>		"""http://__thing_place_uri__31""" ;

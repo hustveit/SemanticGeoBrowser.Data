@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route227>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/227> ;
+	<name>		"""LyngbÃ¸-Lyderhorn"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.8""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-28 13:27:05""" ;
+	<encoded_path>		"""ygooJ}wa_@g@jAo@Bw@YcATuAo@i@f@_@EYH_@fA?pAaApAc@n@o@zAQ?uAKQ|C]fAWd@A`B@v@G~@v@lDl@fApAzHhAhCl@xCj@RdCQh@]\BLFNFJ@JFLHJHJBLHHPFRHNHRJJHNHPFTBXFVDTDXDXnHzHN|DbAvHlBAbCSRBo@|FeAsA""" ;

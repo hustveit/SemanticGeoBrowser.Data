@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route293>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/293> ;
+	<name>					"""Botnahytta"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""0""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-14 13:01:49""" ;
+	<encoded_path>		"""""" ;

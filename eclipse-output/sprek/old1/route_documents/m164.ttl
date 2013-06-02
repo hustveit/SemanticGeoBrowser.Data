@@ -1,0 +1,57 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route164>
+	a	...Thing... ;
+	<name>		"""Bontveit â€“ Hausdalshorga â€“ Redningshytten"""@no ;
+	<ingress>		"""Denne turen gÃ¥r pÃ¥ gode stier, for det meste over skoggrensen. Turen opp til Hausdalshorga byr pÃ¥ flott utsikt i spennende terreng."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;FÃ¸lg Bontveitvegen nesten helt inn. Ved krapp
+sving mot sÃ¸rÃ¸st, mellom Bontveitvegen 710 og 738, tar veien av til venstre. Veien
+gÃ¥r etter et stykke over i sti. Denne fÃ¸lges fÃ¸rst til BjÃ¸rnastÃ¸len. Fortsett videre
+oppover og fÃ¸lg stien mot Ã¸st til det vakkert beliggende Dyrdalsvatnet (436 m.o.h.).
+PÃ¥ sÃ¸rÃ¸stsiden av vannet stiger den mektige Hausdalshorga (784 m.o.h.). Stien
+fortsetter oppover mot Skitremmane og treffer varderekken Totland â€“ Redningshytten
+mellom varde 85 og 86. FÃ¸lg varderekken (fallende nummer mot hytten) i
+sÃ¸rÃ¸stlig retning mot Austrerinden (808 m.o.h.). &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ut til toppen Hausdalshorga kommer man ved Ã¥ ta
+av fra varderekken og fÃ¸lge ryggen fra Austrerinden (Austefjell) i sÃ¸rlig
+retning, fÃ¸rst ned over den smale eggen Horgjehalsen, sÃ¥ pÃ¥ sti jevnt oppover
+mot toppen. Det er spennende utsikt pÃ¥ begge sider â€“ mot Ã¸st ned i Hausdalen og mot vest ned i Dyrdalen. Fra toppen
+er det et flott rundskue. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Etter man har vÃ¦rt pÃ¥ toppen av Hausdalshorga,
+er det bare Ã¥ fÃ¸lge samme sti tilbake til varderekken. Til Redningshytten
+kommer man ved Ã¥ fÃ¸lge varderekken ned fra Austrerinden i nordÃ¸stlig retning.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Har man lyst til Ã¥ gÃ¥ lenger eller en ny vei ned,
+kan turen kombineres med: &lt;a href="http://tur.bt.no/tur/60"&gt;Osavatn-Redningshytten-Gullfjellstoppen&lt;/a&gt;  
+eller &lt;a href="http://tur.bt.no/tur/161"&gt;Gullbotn - Gullfjellet â€“ Redningshytten&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er mulig Ã¥ ta buss nr. 73 som gÃ¥r fra Kaland skole til Bontveit. Dersom
+man kjÃ¸rer bil bÃ¸r man vÃ¦re obs pÃ¥ at det er begrenset
+med parkeringsplasser.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 5 og 6 timer. Tur-retur Redningshytten regnes 4-5
+timer, og 1 ekstra for opplevelsen Hausdalshorga.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste. Turen gÃ¥r hovedsaklig pÃ¥ sti og er derfor
+ikke egnet for barnevogner eller rullestoler. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk Ã¥ ta med mat og
+drikke.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Med Bontveit som utgangspunkt finner man
+tilbud til de fleste â€“ bÃ¥de barn og voksne, sommer som vinter. Terrenget sÃ¸r for
+veien mellom Frotveit og Bontveit er lett og smÃ¥kupert, og har normalt fine snÃ¸forhold.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gullfjellet Turkart (1:25 000), 7-fjellsturen
+turkart (1:25 000), 1215 IV Samnanger (1:50 000).&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e0b0216880a6.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-29 12:43:14""" ;

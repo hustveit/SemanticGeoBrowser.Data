@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route72>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/72> ;
+	<name>		"""Hordnesskogen, 4-kilometers runde"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""4.2""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-04-04 14:48:23""" ;
+	<encoded_path>		"""}x{nJunm_@PPPDP@PLJ\Hb@Dh@B`@Dh@Bd@Df@F`@Fd@Bn@?f@D`@Db@Fb@H`@L^Lb@LZNXLVN`@Dh@@b@Bj@?d@@h@?d@?f@Ad@Af@Cd@Eh@Ad@?f@Aj@Gh@K^OROPQVQTQPQLQJMVK`@Ib@Kb@K`@I^K\Id@Gb@I`@Gb@I`@Ib@I`@KZMZKZEd@Af@?b@Ah@KZOZOXMZI`@Ab@@d@Hd@NZPNPNRRPLNPPTL^H`@Bd@Fd@Df@Ab@SPWDQDQNOTOXORI^J\NTL\H^J\NRNPLXLb@Hd@Bh@@j@Ah@Aj@Ab@Bf@Dh@Db@Db@F`@Hd@F`@Bd@?h@Cd@I\MZM^MZI\M\M^Gd@Fb@RPRDRAV@RAR?P?PARBPDRDPIH_@Ha@Ha@L]NQPQRKPGRGRER@RBRDP@R@PBP@TLPPT@R@THPJTJPDPMPONSNSPMRGP?PKNIPMPQPWLSPSPSPQNOPQPONUL_@La@J_@L]Ac@OUQUKa@Ec@?k@@g@Dg@Be@Dg@Ag@Ag@?c@Ce@Ga@Ce@Ei@Ge@Gc@Ia@O[OUQSQQOOSKQKSASCQ?Q?U@Q@SAS?UEQESGQEQESQO[I_@O[MYQMSGQESASCSCSCQASJOTMZI^Gb@I`@E`@Gb@Ad@Ed@K`@Gb@?h@Cd@Ib@M\QTQJUHS@SESMOSQUQOOMQOQISIUKSGSCSGMa@Jc@NSNKPEREPMH]@i@Ci@Ec@K]MYQWMUQSSQQOOSM[@g@F_@Fa@Hc@F_@Fc@Bc@?e@Be@Da@L]L_@J[Lc@JYL]Ha@Fc@Fi@Bi@Fe@Hc@Je@H_@Hg@J_@L]NSNQPMRMPONSPQNSLYF_@Dg@Be@Cg@Ag@?g@?c@@e@Bg@Dc@Dg@@g@@e@@c@?e@Ee@Ea@MYQUMWMWI_@I]I]M_@I_@Ee@Ec@Ea@Ee@Ek@Cc@Gg@Ge@Gg@Ge@M]OQSKQESAQGQSOWOYO[??""" ;

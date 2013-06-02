@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route330>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/330> ;
+	<name>					"""Skansemyren-Fjellhytten-Blåmanen"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""3.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-11-02 11:21:09""" ;
+	<encoded_path>		"""grroJabr_@LsA`@qCHs@p@mB^cAPuAH_@Ra@T[H]\wAt@sAt@eANWtAmENk@HsA@o@?UICKEC?Ip@iAnDg@~AC?G?AUL]\kAXqAPoAB]?c@Iy@Ww@Yg@I[KYOCEP?PNJLZD`@M^O?SIWHSBOQAOAc@K}@OQMg@EY?g@Fe@@k@?OKIe@?g@HO`AE|ASOI}@E_@_@{@Wk@e@qA_@mAQq@[_@Ww@Au@Bq@Fu@Ce@]UOQOkAc@gAU_@SgANw@VkAVu@N[jAqAv@w@r@q@v@eAh@g@b@e@j@e@Xe@v@{@^g@?u@GsBKk@SUQEk@Ce@?g@BGo@Ww@e@o@Uq@QEW`@]Tc@BQ?m@eAWg@Go@YQm@e@i@OQe@A{@]q@_@UYq@Iu@Iw@Ok@W?Qk@c@qAa@Ug@OEk@AoAFmAFwAM{@A[[D_@d@]f@u@?]B]`Aa@d@?wBDiCPkAj@[Vq@T}B?o@Kq@q@Uu@{@s@w@u@k@_AU}@O?`AFpAP|AYe@WK[DJfBVrBO?e@^[`@e@Qu@_@i@vA@|Ad@zA@P_A`CkAxBi@j@Ca@WDo@d@Yj@a@O""" ;

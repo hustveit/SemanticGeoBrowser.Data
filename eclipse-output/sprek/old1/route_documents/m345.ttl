@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route345>
+	a	...Thing... ;
+	<name>		"""Spelhaugen â€“ Eikelifjellet"""@no ;
+	<ingress>		"""En av mange turer i et populÃ¦rt omrÃ¥de."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Kort tur til Eikelifjellet som ligger nordÃ¸st for Vestlund og LÃ¸vÃ¥sen i Fyllingsdalen. Det gÃ¥r mange stier til topps pÃ¥ Eikelifjellet. De fleste benytter seg av en av stiene fra Tennebekktjernet/Kanadaskogen, men man kan ogsÃ¥ gÃ¥ opp fra Fyllingsdalen. Denne ruten starter fra Spelhaugen. Man fÃ¸lger sti i retning mot nord og TennebekktjÃ¸rna, og tar av pÃ¥ stien mot Ã¸st for Ã¥ komme opp til Eikelifjellet. Turen kan gjerne forlenges mot NipetjÃ¸rna, Viggohytten og Gravdalsfjellet, der man kommer lengre opp i hÃ¸yden med bedre utsikten.&lt;br&gt;&lt;br&gt;I nÃ¦rheten av toppen av Eikelifjellet 256 m.o.h., ligger det en stor stein og â€&#157;balansererâ€&#157; pÃ¥ fjellet. Her er det fint Ã¥ ta seg en pause. Er du tÃ¸ff kan du klarte opp pÃ¥ steinen, men husk at du ogsÃ¥ skal ned igjen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start fra parkeringsplassen i Spelhaugen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn en times tid tur/retur.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en kort tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter vÃ¦ret og husk gode tursko.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-11-08 14:59:07""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route236>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/236> ;
+	<name>					"""Hylkje-Veten """@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>			"""3""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-08-02 09:18:35""" ;
+	<encoded_path>		"""cfipJwis_@r@`A|@gDd@HJb@q@zD@X^e@RyAZqATYZM\B^b@n@v@d@BRVb@pAnApCrCk@j@wAd@?h@?p@vAdA`BhAlBZvA~Ak@\Ip@TnAf@~@Tv@`B`@n@l@lAfAzB`@nAPhAHZl@kAnB\h@Lv@Hr@Ml@f@h@d@t@fAzAEpBfArB`Dn@`Al@p@hAjCqAzBc@|C]dAGhBg@|@CnAyBzEWdAq@r@kAlCBAoA|Cw@j@gBjDcB|@^r@J~Ag@fAHhAm@pKg@fJg@lGJpFUbCH~A{@tDc@T""" ;

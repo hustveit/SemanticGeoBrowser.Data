@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route252>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/252> ;
+	<name>					"""Tysse-Burlifjellet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""4.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-08-05 15:32:56""" ;
+	<encoded_path>		"""cvnoJwvcb@PcCbAaBhAy@x@G~@cAtAcCt@yAbBAbA]fAs@|@_Bp@e@tBGtBBz@_BtAu@t@L`BDd@Mf@WZ\dB_@p@wAZuBfAk@VwAbAgBdAObALb@Z`Aa@xAyBl@a@z@VVQFiAGuAd@gA|@oA@uC`@mAzB_AhAZh@b@`Aw@hAuA^e@j@L~A?|@VVnA~@KfBq@dAUf@fAj@Kd@@~A]`CuAlAeAhAIZc@x@Jn@c@Ts@v@Kf@Hv@CjAOt@y@RHpB{An@QZ_AfBw@\ETd@rAM@Hn@DhAm@bA_@v@l@fAcAvBMlCElAyArABjBKx@ThAFdAvB`Ca@hBw@jAt@r@t@Td@dAtGpBvDd@hCvCzHxCbAn@v@hEbBdEf@lDtBlIbHj@jA""" ;

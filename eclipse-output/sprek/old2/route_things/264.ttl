@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route264>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/264> ;
+	<name>		"""Gjøvågsvarden"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 10:07:34""" ;
+	<encoded_path>		"""aaqmJ_sx_@x@?HmAT}BPwB\yBV}BFa@R~CLrBVnDZzA`@zDJlBZfBNp@Pj@`@z@f@[X_@N{DTo@dA?^Ql@I^aAr@}ATq@`@o@ZHl@z@^|@PdALfAXj@\OvBk@xAa@fBwAhB_@pBsBtBcC""" ;

@@ -1,0 +1,22 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route76>
+	a	...Thing... ;
+	<name>		"""Skredderdalen - Brushytten - FlÃ¸yen"""@no ;
+	<ingress>		"""Spennende tur med utfordringer for store og smÃ¥."""@no ;
+	<description>		"""&lt;P&gt;&lt;/P&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Stien gÃ¥r pÃ¥ venstre side av det hvitmalte vannverkshuset, og gÃ¥r over i skogsvei og sti frem til siste stigning opp mot grusvei ved Nedrediket. Stien opp Skredderdalen er tÃ¸rr og god, men stedvis noe bratt. Enkelte steder kommer man ogsÃ¥ tett pÃ¥ Muleleven som fosser nedover. Det kan gjÃ¸re turen ekstra spennende for de minste. For Ã¥ komme videre til Brushytten pÃ¥ Midtfjellet fÃ¸lger man grusveien til venstre opp dalen langs elven fra Storediket (376 moh.) Man krysser demningen og gÃ¥r veien videre i smÃ¥kupert terreng frem til Brushytten.&amp;nbsp;For Ã¥ komme ned til FlÃ¸yen, fÃ¸lger man BlÃ¥mansveien til hÃ¸yre, fÃ¸rst flatt til Midtfjellet og sÃ¥ videre i svinger ned til FlÃ¸yen.&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;
+&lt;DIV&gt;Skredderdalen starter fra Fjellveien, like ovenfor Mulebanen og Mulebussens endestopp. Herfra fÃ¸lges en stikkvei opp til Fjellveien. Det er ogsÃ¥ mulig Ã¥ ta FlÃ¸ibanen til Fjellveien stasjon og sÃ¥ fÃ¸lge Fjellveien utover. Det er noe parkering langs veiene, sÃ¥ det er ogsÃ¥ mulig Ã¥ ta bilen frem til turstart.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;BR&gt;I vanlig tempo tar turen rundt to timer og 20 minutter.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;BR&gt;Turen er enkel og kjekk Ã¥ gÃ¥. Den passer for de aller fleste, men det er ikke mulig Ã¥ kjÃ¸re barnevogn.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;Vanlig turutstyr. &lt;BR&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Brushytten er Ã¥pen hver sÃ¸ndag hele Ã¥ret (brushytten.no) Den eies og drives av Skansens Bataljon. Hytten ble bygget i 1931. I 2008 ble den gamle Brushytten erstattet av en ny og moderne hytte, med varmestue og toaletter.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Vannverket i Skredderdalen var ferdig i 1914. Steinfyllingsdammen ble bygget i 1919. Vassdraget hadde ingen lavtliggende vann som kunne brukes som inntaksbasseng for vannverk. Det mÃ¥tte derfor bygges kunstige basseng. For Ã¥ Ã¸ke magasinene ble Nedrediket, som ligger ovenfor Skredderdalen, demmet opp i 1880. Tre av de fem store vannverkene i Bergen fÃ¥r vannet sitt fra byfjellene; SÃ¦dalen vannverk, Svartediket vannverk og Jordalsvatnet vannverk.&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;Kart&lt;/B&gt;:&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;O-kart (1:10 000), 1115 I Bergen (1:50 000), Tur â€“ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000)&lt;BR&gt;&lt;/DIV&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d9db5835b500jpg> ;
+	<image_credit>		"""Jan M. LillebÃ¸""" ;
+	<created>		"""2011-04-07 14:55:51""" ;

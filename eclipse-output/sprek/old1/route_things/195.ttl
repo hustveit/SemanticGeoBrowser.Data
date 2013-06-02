@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route195>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/195> ;
+	<name>		"""Frotveit â€“ Solbakkefjellet"""@no ;
+	<length_in_time>		"""210""" ;
+	<length_in_km>		"""7.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-15 10:07:24""" ;
+	<encoded_path>		"""e`doJ{nl`@RHJ}@ZGj@r@l@n@nAfA`A`@ZoARkBZMF{EK_DdAmHr@cE|@UlBt@fB`AhAjAdAi@rAqBdA?jA^zA\`AHjA[x@]tBf@v@TdEbBlCa@r@J|A|@nA?jB`BfAbCl@lALdBzB|GtBzEpFbE^hIrJzOzNtLnKjKvHvMzCj@|H~HfKlBtDnEnKlY|EpQpE|GjBvAdB`MtBjAvHaCdET`Ba@~A`A`DbCpC|H~EnJnCpChFzApFb@tIpKfQrWzDc@jBlBlGaG|IzIr@tBH`@u@bE_ApEu@rIExB""" ;

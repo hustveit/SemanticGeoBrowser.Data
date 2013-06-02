@@ -1,0 +1,49 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place92>
+	a	...Thing... ;
+	<name>		"""Vending"""@no ;
+	<ingress>		"""Vending er en av Bergen Turlags nyeste turisthytter."""@no ;
+	<description>		"""&lt;p&gt;&amp;nbsp;Den ligger flott
+plassert ved Vendingtjern i fjellet mellom Bergsdalen og Kvamskogen, 
+bare 2-3 timers&amp;nbsp;gange i lett terreng fra&amp;nbsp;HamlagrÃ¸osen i Bergsdalen. Fra 
+Eikedalen pÃ¥ Kvamskogen mÃ¥&amp;nbsp;du beregne 5-6 timer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Hytten er fullt utstyrt med 
+sengetÃ¸y og kjÃ¸kkenutstyr, ved og gass. Du mÃ¥ ha med lakenpose/lett 
+sovepose og klÃ¦r etter vÃ¦ret, pakk lett sekk og legg avgÃ¥rde langs 
+merket sti. Hytten er selvbetjent (mat for salg pÃ¥ hytten), og den er 
+godt egnet for skoleklasser som vil pÃ¥ tur. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Det er flere 
+adkomstmuligheter til hytten. Enkleste adkomst er fra HamlagrÃ¸. Den er 
+knyttet med t-merket sti bÃ¥de til HÃ¸gabu turisthytte (selvbetjent, se 
+egen omtale), til Torfinnsheim (Voss Utferdslag, ubetjent) og til det 
+private overnattingsstedet Botnen Gjestetun i spekatulÃ¦re Fyksesund.&amp;nbsp;&lt;/p&gt;&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;Turmuligheter rundt Vending&lt;/h4&gt;&lt;p&gt;Rundt
+Vending er det et ypperlig turterreng bÃ¥de sommer og vinter. 
+Fuglafjell. Geitafjell og Skrott er flotte dagsturmÃ¥l fra hytten. Ta med
+fiskestang, og gÃ¥r du med barn, ligg over en dag og kos dere i omrÃ¥det. En
+av de fineste turene man kan gÃ¥ i dette omrÃ¥det, er fra HamlagrÃ¸, 
+overnatting pÃ¥ Vending og derfra til Botnen. Man mÃ¥ gÃ¥ tilbake langs 
+stien fra HamlagrÃ¸ til stedele fra Torfinnsheim, Derfra fortsetter turen
+i flott landskap om stÃ¸len Breisete, GrÃ¥urdvatnet og ned over 
+Botnadalen. PÃ¥ FlatabÃ¸ ligger Botnen gjestetun (&lt;a href="http://www.bergen-turlag.no/index.php?fo_id=6728"&gt;www.botnengjestetun.no&lt;/a&gt;)
+hvor man kan forhÃ¥ndsbestille overnatting. Alternativt gÃ¥r det bÃ¥trute 
+til Porsmyr eller SteinstÃ¸ lenger ute i Fyksesundet noen dager i uken i 
+juni, juli og august. &lt;/p&gt;&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;Utstyr og fasiliteter&lt;/h4&gt;&lt;p&gt;Hytten er 
+utstyrt med det du trenger for matlaging og opphold: kjÃ¸kkenutstyr, 
+dekketÃ¸y, sengeklÃ¦r og proviant. Av proviant finner du middagshermetikk,
+suppeposer, havregryn, sukker, kaffe, te, knekkebrÃ¸d, margarin, pÃ¥legg 
+og desserthermetikk. Du kan ta kontakt med Bergen Turlag for 
+proviantliste.&amp;nbsp;Gjestene ordner selv med matlaging, vannhenting, oppvask,
+vask av gulv, og ellers rydding av hytten inne og ute. Hytten har ikke 
+strÃ¸m. Hytten har gasskomfyr, som gjÃ¸r det mulig Ã¥ bake. Det er mel/gjÃ¦r i matlageret pÃ¥ hytten. &amp;nbsp;&lt;/p&gt;&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;&lt;h4&gt;Aktivitetsmuligheter rundt hytta&lt;/h4&gt;&lt;p&gt;Bading i bekker, vann og elv. Fiske og turer i omrÃ¥det. Det
+er mye fisk i vannene i Bergsdals- og Kvamfjellene. En avtale mellom 
+Bergen Turlag og grunneierne pÃ¥ Vending gjÃ¸r at man ikke behÃ¸ver Ã¥ lÃ¸se 
+fiskekort for de nÃ¦rmeste vannene rundt hytten. AltsÃ¥ er det fritt frem 
+for fiskestang og oter i de vann som omfattes av ordningen. Se 
+kart/oppslag pÃ¥ hytten. Gjelder kun for medlemmer av Bergen Turlag/DNT.&lt;span style="font-weight: bold;"&gt; &lt;/span&gt;Sikringshytten har hundebur og er ellers fullt utstyrt som hovedhytten (proviant mÃ¥ hentes i hovedhytten). &lt;/p&gt;(kilde: http://www.bergen-turlag.no/cabin.php?ca_id=1444)"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e0058ea2aafa.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-06-05 19:28:25""" ;
+	<modified>		"""2011-06-21 10:40:10""" ;
+	<gowalla_name>		"""Vending turlagshytte"""@no ;
+	<gowalla_description>		""" """@no ;

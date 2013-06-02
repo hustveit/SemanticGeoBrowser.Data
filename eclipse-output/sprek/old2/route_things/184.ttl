@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route184>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/184> ;
+	<name>		"""Ervikane friluftsområde, rundtur"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""6.3""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-08 15:04:40""" ;
+	<encoded_path>		"""a}dnJgcv_@u@m@sAoDwCyEObA]xAOb@Ir@RbBq@hAFtCEbC@`AJh@B^F`Aa@vBgAtAg@h@i@nAiA`Iw@bDc@tDqAxCq@~DcBrH_@vEe@`Fs@tFcAxEi@vD[vC?lD_@Ei@tA{@nCAh@VhABdACx@nA]dB`@tD|@hBpAtAbDj@hFT`Ef@~HnA~C|CvCd@PlBeAtBIfCp@fGfCpHBlAiEr@}FvA}Cz@XrAhH`DfGpDdG`AdFzCvAVsBV?rCs@ZsEZ{JhBkBdB}@^q@d@{Da@}E_BsDa@wAEkFIaIq@cDiBsAw@kAe@aGIyCdBoBRiF}AuCG{Hg@kIMaD}BoHcBi@gDNkHcHiDaFyCqCuDFkDwAs@gEk@_Es@uHSUq@m@""" ;

@@ -1,0 +1,25 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route208>
+	a	...Thing... ;
+	<name>		"""TurÃ¸yvarden"""@no ;
+	<ingress>		"""TurÃ¸yvarden stÃ¥r pÃ¥ det hÃ¸yste punktet pÃ¥ TurÃ¸y, 74,5 (moh). Fra varden er det god utsikt i alle retninger. """@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starer fra TurÃ¸yveien. FÃ¸lg stien som gÃ¥r til hÃ¸yre fra veien. Se etter skilt merket "TurÃ¸yvarden" pÃ¥ hÃ¸yre side fÃ¸r toppen av bakken. Ta til hÃ¸yre her og fÃ¸lg stien i jevn stigning opp til toppen og TurÃ¸yvarden. Fra toppen er det fin utsikt utover havet og TurÃ¸ya.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Turen fortsetter innom TurÃ¸ybjÃ¸rnen og Heller. Se etter skiltet pÃ¥ stien fram til TurÃ¸ytoppen. Turen gÃ¥r i en liten runde fÃ¸r man vender tilbake til TurÃ¸yveien.&lt;BR&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til TurÃ¸y i Ã˜ygarden. Det er ingen avsatte parkeringsplasser sÃ¥ vÃ¦r forsiktig nÃ¥r du parkerer. Man kan ogsÃ¥ ta buss nr. 468 fra Bergen sentrum til Ã…gotnes. SÃ¥ ta buss nr. 471 videre til TurÃ¸y. Bussen bruker omtrent 70 minutter.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt en halv time. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for alle, ta gjerne med barna. Stien er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter vÃ¦ret. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;TurÃ¸yvarden stÃ¥r pÃ¥ det hÃ¸yeste punktet pÃ¥ TurÃ¸y&amp;nbsp;(74,5 moh). Fra varden er det god utsikt i alle retninger. Varden er fra 1896, den er vel 5 meter hÃ¸y og sirkelformet. Varden er murt i grÃ¥stein og tjÃ¦rebredd. Den er synlig langt til havs og er et viktig og godt landemerke for de som ferdes pÃ¥ sjÃ¸en. Sammen med Eldsfjellet inne pÃ¥ HolsnÃ¸y var varden et sikkert seilingsmerke for fiskere og andre sjÃ¸farende nÃ¥r de kom inn fra havet.&amp;nbsp;&lt;BR&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e27ebd887821.jpg> ;
+	<image_credit>		"""Bergens Tidene""" ;
+	<created>		"""2011-07-21 10:55:19""" ;

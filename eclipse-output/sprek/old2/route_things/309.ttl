@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route309>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/309> ;
+	<name>		"""Bjørke-Stavdalsstølen"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""8.4""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-26 14:13:48""" ;
+	<encoded_path>		"""mpsoJsmje@g@sC}@kEi@eFkBk@kAEg@DeD}By@HkAlHLzE_@vFUj@{@XgADaALiBtEuBtDs@jAkE`AY\i@zAqAU_DmBUJQ?QeAOYe@|@Ub@k@\{@hAu@ZwAv@s@G]}@QmCgACaA{@w@yAk@mBoCeD}@?u@k@aDvDoAiAgAF_AgBwCN_BsCoAc@mBhAsDeEo@s@SiCY_Bi@wD@iCAeEYaAGqC_AwDCgASkCc@eBo@kFu@uA[sCyAyBIgDiC?yAgB_@oDQmBCgA[e@[gAOaAe@uBCq@QiA[wDKmB?yEIkCHuB^uAEoADoACwAAaAo@_Em@wF[}DQiI]uGc@oGBgA?wAFcFf@UBWHZp@x@f@r@x@rA|@z@r@h@r@BbA?tAp@z@hD|@dDb@NBj@BVb@j@^Ll@pAHV`@b@HVDd@R@\h@HGBD@\^x@f@LTb@b@Wj@LP|@P?b@dAV^l@`An@d@v@?~@x@z@k@pArA|DjDdBzBdA`AfAvDd@jEtBbI~@xGRfDlA`@xBR~BYr@]h@nAj@IXBZGpApB`@p@fBfAjBv@vAjDFfANn@pAd@nAUt@bAfAJxBqFh@kA\p@hBz@z@vETfAR`Dv@xC`@hCd@pABnFDhAl@lB^tB\^`ADNz@BhCf@rAxAkA\YHb@JdBZv@z@hB`@MRaAVqBVXJ?LLXFTDR?CzAJzBHhATf@MTSb@QTVpAZlC`ApEh@zC""" ;

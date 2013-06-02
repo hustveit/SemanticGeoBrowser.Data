@@ -1,0 +1,31 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike149>
+	dct:title				"""Haukelandsbakken-Ulriken"""@no ;
+	sf_ont:ingress			"""Opplev det høyeste av Bergens 7 fjell. Turen gir deg en god treningsøkt og nydelig utsikt."""@no ;
+	sf_ont:description		"""&lt;B&gt;Rutebeskrivelse: &lt;/B&gt;
+&lt;P&gt;Turen starter fra Ulriksbanen, følg skiltingen til stien bak banen. Gå opp trappen og følg stien gjennom skogen. Når man kommer til første platå og lysningen i skogen, tar man bratt til venstre opp bakken før det røde huset. Om man fortsetter å følge stien mot øst, kommer man inn på &lt;A href="http://tur.bt.no/tur/63"&gt;Montana-Skiveien-Ulriken&lt;/A&gt;, en alternativ rute opp mot Ulriken. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Følg stien oppover den bratte kneika, den er godt synlig og det er vanskelig å gå feil. Pass på å ikke havne i sykkelstien, men denne er tydelig skiltet. Den siste kneiken er tung, men da har du målet i siktet og dersom du trenger ekstra motivasjon, er det bare å ta en pust i bakken å nyte utsikten. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør mot Haukeland sykehus og ta av til venstre før tunnelen, hvis du kommer fra retning sentrum. Følg bakken helt opp til du ser Ulriksbanen. Parkering ved Ulriksbanen mot avgift kr. 30,- pr. time. Maks kr. 150,- Det er også mulig å 31 eller 2 bussen som går forbi Haukeland, gå av på busstoppet før tunnelen å følg bakken oppover til du ser Ulriksbanen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Det tar rundt en time å gå opp, avhengig av tempoet man velger. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen er vanskelig fordi den er ganske tung, men de fleste med normal kondis vil klare å gå turen. Den passer ikke for de aller minste og er uegnet for trillevogn og rullestol. Det er fremdeles mulig for alle å komme seg til toppen, ettersom Ulriksbanen er tilpasset rullestolbrukere. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;På sommerstid holder det med joggesko, men etter regnvær og hvis man planlegger å gå videre over Vidden bør man bruke gode fjellsko. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Ulriken er Bergens høyeste fjell med sine 643 moh. Fjellet gir en fantastisk utsikt over Bergen og er vel verd et besøk. Hvert år arrangeres motbakke løpet Ulriken Opp. Dette er et populært løp med klasser både for konkurranseløpere og mosjonister. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Det er servering i &lt;I&gt;Sky:skraperen&lt;/I&gt;, her serveres det god mat og restauranten er et populært selskapslokale. Det kan være vanskelig å få bord, så hvis man ønsker å reservere kan man ringe tlf 55 32 04 04.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;ÃËœnsker du å ta banen ned igjen er dette fult mulig. Ulriksbanen er åpen alle dager fra 09:00-21:00. Bane én vei koster 80 kroner for voksne og 40 kroner for barn. Bane tur-retur koster 145 kroner for voksne og 75 kroner for barn.&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4df860a085868.jpg> ;
+	sf_ont:image_credit		"""RUNE SÃâ€ VIG""" ;
+	dct:created				"""2011-06-15 09:34:56""" .

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route239>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/239> ;
+	<name>		"""Hjelme-HellesÃ¸y-RubbegarnstÃ¥a"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""6.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-03 09:02:01""" ;
+	<encoded_path>		"""gkdqJogh\kCGwGpFaC]uMhFwG}DyNLmGaIsEmG_@kCnAoIC_Bc@gA}A?QuB{@wAk@j@QdEGjEWr@@rEObFxApF^|ITzP[fR{FhCY}Aq@UWaDGmBCeBu@_GWgDLuBuCeBy@uBQkCoANuBvAqBnAc@y@oA{@y@\gEb@g@k@cBFc@{BmBgDy@wA}Cb@gCMsBp@gClByB\kA|DsBnDk@tBgA`AqA]fAb@~A}A`@}BlAwAfAqCLwAX}AbA{Ex@kC~A_BvBsEl@{BTeEf@_DBoDnCcIfBgDl@[`AG~@?x@{BbAe@xBtEx@lBp@dB|CnDjBlBv@jHp@e@tAj@|@MbAaAxAx@rIrCPG""" ;

@@ -1,0 +1,141 @@
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix ucum:		<http://purl.oclc.org/NET/muo/ucum/> .
+
+sf_ont:hike101                <-------- an activity
+	
+	owl-time:duration [
+		owl-time:minute					"""60""" ;
+	] ;
+	
+	sf_ont:Path [             <-------- a thing
+	
+		sf_ont:Google_encoded_path		"""e}dpJu}o_@OTOZBd@NXLZNJNVJZLVH`@H`@F`@J^LXJ\\LXNTNPLXSCSCSBQ@QIUCQAQGSAQDQDQHQNOPQLOVM\\I`@KXMXOXQLQLMTSNOLORMXQLOJOXMTMVOPOXOPOROTMXMTOTMVQROVMVOVMZMXMTK\\K`@Ib@UHIl@OXOXMb@MXOTORQNMVORQTORMXMXOZMVMZKZMTOPORQLM\\K\\I\\MVMZM\\KZIb@Af@I`@QRQJQNOPK\\Gj@K\\ONOTQPM\\G`@KZGb@M^QLOXMZOROJS@SBUBSFWTSNQJONOXQMQPMTQIOPOROTMVQGSEQAS?QKM[SAIa@Be@Ae@MYSBQ@QJOJS@SLK^O`@QH?e@G_@Gc@Ce@Ka@QMNQ?g@Cc@MYH_@Ek@@c@Ae@Ga@Cc@?e@Ec@Bg@?e@OQOSQKEg@OQQ?KXSDM[KYK]MQK[M[QISFS?QAOUQMQKI_@Ga@KYEg@Cc@OWQMQEQCS?QBQ?QKMVONQDQCQMK]Ea@SFMROVMVOXSKQKMVQFQOAH""" ;
+		
+		sf_ont:Length [
+			sf_ont:Kilometer			"""2.5""" ;
+		] ;
+		
+		sf_ont:minimumElevation [
+			ucum:meter					"""94.7445042805""" ;
+		] ;
+		
+		sf_ont:maximumElevation [
+			ucum:meter					"""484.149341852""" ;
+		] ;
+		
+		sf_ont:heightIncrease [
+			ucum:meter					"""25.7197524276""" ;
+		] ;
+		
+		sf_ont:heightDecrease [
+			ucum:meter					"""414.2001581891""" ;
+		] ;
+		
+		sf_ont:StartOf [
+			geo:lat						"""60.4123664333""" ;
+			geo:long					"""5.33805525""" ;
+			geo:altitude				"""379""" ;
+		] ;
+		
+		sf_ont:EndOf [
+			geo:lat						"""60.4123664333""" ;
+			geo:long					"""5.33805525""" ;
+			geo:altitude				"""379""" ;
+		] ;
+	] .
+	
+	
+	
+	
+	
+	
+Option 2	
+	
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix owl-time:	<http://www.w3.org/2001/sw/BestPractices/OEP/Time-Ontology#> .
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix ucum:		<http://purl.oclc.org/NET/muo/ucum/> .
+
+sf_ont:hike101
+	a								owl:Individual ;
+	a								geo:SpatialThing ;
+	
+	owl-time:duration [
+		owl-time:minute				"""60""" ;
+	] ;
+	
+	sf_ont:Length [
+		sf_ont:Kilometer			"""2.5""" ;
+	] ;
+		
+	sf_ont:minimumElevation [
+		ucum:meter					"""94.7445042805""" ;
+	] ;
+		
+	sf_ont:maximumElevation [
+		ucum:meter					"""484.149341852""" ;
+	] ;
+	
+	sf_ont:differenceInElevation [
+		ucum:meter					"""389.4048375715""" ;
+	]
+		
+	sf_ont:heightIncrease [
+		ucum:meter					"""414.2001581891""" ;
+	] ;
+		
+	sf_ont:heightDecrease [
+		ucum:meter					"""25.7197524276""" ;
+	] ;
+		
+	sf_ont:StartOf [
+		geo:lat						"""60.4123664333""" ;
+		geo:long					"""5.33805525""" ;
+		geo:altitude				"""379""" ;
+	] ;
+		
+	sf_ont:EndOf [
+		geo:lat						"""60.4123664333""" ;
+		geo:long					"""5.33805525""" ;
+		geo:altitude				"""379""" ;
+	] ;
+	
+	sf_ont:Path [
+	
+		sf_ont:GoogleEncodedPath	"""e}dpJu}o_@OTOZBd@NXLZNJNVJZLVH`@H`@F`@J^LXJ\\LXNTNPLXSCSCSBQ@QIUCQAQGSAQDQDQHQNOPQLOVM\\I`@KXMXOXQLQLMTSNOLORMXQLOJOXMTMVOPOXOPOROTMXMTOTMVQROVMVOVMZMXMTK\\K`@Ib@UHIl@OXOXMb@MXOTORQNMVORQTORMXMXOZMVMZKZMTOPORQLM\\K\\I\\MVMZM\\KZIb@Af@I`@QRQJQNOPK\\Gj@K\\ONOTQPM\\G`@KZGb@M^QLOXMZOROJS@SBUBSFWTSNQJONOXQMQPMTQIOPOROTMVQGSEQAS?QKM[SAIa@Be@Ae@MYSBQ@QJOJS@SLK^O`@QH?e@G_@Gc@Ce@Ka@QMNQ?g@Cc@MYH_@Ek@@c@Ae@Ga@Cc@?e@Ec@Bg@?e@OQOSQKEg@OQQ?KXSDM[KYK]MQK[M[QISFS?QAOUQMQKI_@Ga@KYEg@Cc@OWQMQEQCS?QBQ?QKMVONQDQCQMK]Ea@SFMROVMVOXSKQKMVQFQOAH""" ;
+		
+	] .
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Kva konklusjonar kan ein dra frå desse fakta?
+	type ting
+	vanskeligheisgrad
+	relevanse for den som leitar etter denne type ting
+	samanlikning av tinga
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+OBS! put 		a					geo:Point ;
+inn i ontologien på StartOf og EndOf.

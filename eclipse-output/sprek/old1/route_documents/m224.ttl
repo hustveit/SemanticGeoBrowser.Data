@@ -1,0 +1,30 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route224>
+	a	...Thing... ;
+	<name>		"""LaksevÃ¥g-DamsgÃ¥rdsfjellet"""@no ;
+	<ingress>		"""Kjapp og fin tur opp pÃ¥ DamsgÃ¥rdsfjellet."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved enden av Herman Grans vei pÃ¥ LaksevÃ¥g. FÃ¸lg veien helt til
+enden og ta inn pÃ¥ stien mellom to av husene. FÃ¸lg stien oppover i skogen pÃ¥
+venstre side av VÃ¥gedalen. I vÃ¥gedalen gÃ¥r det en parallell sti som man ogsÃ¥ kan fÃ¸lge for Ã¥
+komme til toppen. Stien et lett Ã¥ fÃ¸lge. Den gÃ¥r hele tiden i sÃ¸rlig retning. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;NÃ¥r man er kommet opp pÃ¥ toppen er det fint Ã¥ ta en liten rast fÃ¸r man gÃ¥r
+ned igjen. Man kan returnere lags samme trasÃ© eller velge Ã¥ gÃ¥ videre ned til Melkeplassen. Se:&lt;a href="http://tur.bt.no/tur/157"&gt; DamsgÃ¥rdsfjellet-Gravdalsfjellet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kan kjÃ¸re til LaksevÃ¥g senter og parkere her.Herfra mÃ¥ man gÃ¥ ti minutter pp til Herman
+Grans vei. Man kan ogsÃ¥ ta buss nr. 16 eller 17 fra sentrum til LaksevÃ¥g. GÃ¥ av pÃ¥
+busstoppet like fÃ¸r LaksevÃ¥g senter.&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt tre kvarter Ã¥ gÃ¥ opp.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen er uegnet
+for trillevogn og rullestol. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter vÃ¦ret. Man kan godt benytte fjellsko. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e300cdc15712.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-27 15:04:28""" ;

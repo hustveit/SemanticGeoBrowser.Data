@@ -1,0 +1,23 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route210>
+	a	...Thing... ;
+	<name>		"""Myrtveit-Brakstadfjellet """@no ;
+	<ingress>		"""Fin tur opp på Brakstadfjellet."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Myrtveit. Følg veien vestover og gå rundt bebyggelsen på venstre side. Ta til høyre i stiskille og følg veien opp til Sjurdalsleitet. Herfra går stien direkte opp til toppen (318 moh.). Den siste delen av stien er litt kronglete, men lett å følge. Fra toppen er det flott å raste mens man nyter utsikten. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Man kan gå ned flere veier. Har man bil er det best å returnere til Myrtveit, men det går også gode stier ned til Vollo og Sjurdal. Se &lt;a href="http://tur.bt.no/tur/209"&gt;Vollo-Brakstadfjellet&lt;/a&gt;.&lt;/p&gt;&lt;span style="font-family: 'Arial','sans-serif'; color: navy; font-size: 10pt;" lang="NO-NYN"&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Håtuft i Meland Kommune. Fra Håtuft kjører man inn til Myrtveit. Det er ingen parkeringsmuligheter på Myrtveit, så vær forsiktig når du parkerer. Man kan også ta buss nr. 320 fra Bergen sentrum til Flatøy. Så ta buss nr. 346 videre til Håtuft. Reiser man ved buss vil det ta litt over 1 time. Man må gå 15 minutter fra Håtuft til myrtveit.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1 time å gå opp. Nedturen går noe raskere. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste. Stien er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Gode fjellsko er anbefalt.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e281407de243.jpg> ;
+	<image_credit>		"""Tor Høvik""" ;
+	<created>		"""2011-07-21 13:54:21""" ;

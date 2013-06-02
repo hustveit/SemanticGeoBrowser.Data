@@ -1,0 +1,38 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route126>
+	a	...Thing... ;
+	<name>		"""LyslÃ¸ypen pÃ¥ FlÃ¸yen"""@no ;
+	<ingress>		"""Opplev nydelige tur og skimuligheter pÃ¥ byens tak!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;LyslÃ¸ypen
+pÃ¥ Midtfjellet pÃ¥ FlÃ¸yen er fem kilometer lang. Den nedre lÃ¸ypen er tre
+kilometer lang og gÃ¥r forbi Ã…sebu. Den Ã¸vre lÃ¸ypen er to kilometer lang og gÃ¥r
+forbi Brushytten. LyslÃ¸ypen er realisert gjennom Ã¥relang dugnadsinnsats utfÃ¸rt
+spesielt av idrettslagene Varegg og Viking, og eies av Bergen kommune. Fordi underlaget
+er godt preparert, trengs det lite snÃ¸ fÃ¸r lÃ¸ypen kan brukes. Husk imidletid at
+lyslÃ¸ypen er et idrettsanlegg for skilÃ¸pere, og man skal ha ski pÃ¥ beina nÃ¥r
+man bruker lÃ¸ypen vinterstid.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Hit
+kan du komme deg ved Ã¥ ta FlÃ¸ybanen og sÃ¥ spenne pÃ¥ deg skiene og gÃ¥ innover.
+Fra FlÃ¸yen fÃ¸lger du BlÃ¥mansvei mot Brushytten og deretter Halvdan Griegs vei.
+Det er ogsÃ¥ mulig Ã¥ komme hit fra nordsiden, for eksempel opp Skredderdalen
+eller Munkebotn. Hvis det er nok snÃ¸, er det mulig Ã¥ gÃ¥ opp Munkebotn pÃ¥ ski,
+mens opp Skredderdalen mÃ¥ man bÃ¦re skiene. Eller man kan gÃ¥ fra sÃ¸r, fra
+Svartediket. OgsÃ¥ her er det mulig Ã¥ gÃ¥ pÃ¥ ski dersom det er nok snÃ¸. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Mellom en halv og en time, avhengig av innsatsen og form.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;De
+aller fleste. Dette er en populÃ¦r treningstur, spesielt nÃ¥r det er snÃ¸. &lt;br&gt;&lt;b&gt;&lt;br&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Vanntett
+fottÃ¸y kan vÃ¦re en fordel hvis det har regnet en del. &lt;br&gt;&lt;br&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;Brushytten er Ã¥pen hver sÃ¸ndag hele Ã¥ret
+(brushytten.no). Den eies og drives av Skansens Bataljon. Hytten ble bygget i
+1931. I 2008 ble den gamle Brushytten erstattet av en ny og moderne hytte, med
+varmestue og toaletter. Ã…sebu
+i Halvdan Griegs er Ã¥pen for publikum hver dag hele Ã¥ret. Det
+er flott Ã¥ kunne gÃ¥ inn og raste i â€&#157;varmestuenâ€&#157; dersom vÃ¦ret er surt. Her er
+det ogsÃ¥ toaletter som er Ã¥pne hele tiden.&amp;nbsp;
+&amp;nbsp;&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;Kart: 1115 I
+Bergen (1:50 000), O-kart FlÃ¸ien ( 1:10 000), Tur- og Friluftskart Bergen ( 1:
+25&amp;nbsp;000), 7-fjellsturen turkart (1:25 000)&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4deb7be6c8c26.jpg> ;
+	<image_credit>		"""Jan M. LillebÃ¸""" ;
+	<created>		"""2011-06-05 13:19:17""" ;

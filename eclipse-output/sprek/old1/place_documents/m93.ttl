@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place93>
+	a	...Thing... ;
+	<name>		"""Livarden"""@no ;
+	<ingress>		"""Livarden er et fjell som ligger mellom gÃ¥rdene Lid, Unneland og Bontveit i Bergen. Toppen er 683 moh. Fjellet ligger i et hÃ¸ydedrag mellom Gulfjellet og Totlandsfjellet, og er om vinteren mye brukt """@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-06-05 22:32:06""" ;
+	<modified>		"""2011-06-05 22:32:06""" ;
+	<gowalla_name>		"""Livarden"""@no ;
+	<gowalla_description>		"""Livarden er et fjell som ligger mellom gÃ¥rdene Lid, Unneland og Bontveit i Bergen. Toppen er 683 moh. Fjellet ligger i et hÃ¸ydedrag mellom Gulfjellet og Totlandsfjellet, og er om vinteren mye brukt av skifolk pÃ¥ tur mellom Gulfjellet og Totland og Bontveit. Det er ogsÃ¥ perfekt Ã¥ sykle ned herfra."""@no ;

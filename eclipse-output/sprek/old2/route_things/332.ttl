@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route332>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/332> ;
+	<name>		"""Helgesæter ââ‚¬â€œ Nubbevatnet"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""2.3""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-02 13:20:23""" ;
+	<encoded_path>		"""ufjoJc_|_@_A@u@AgAk@_Ao@_@Ks@Cc@JIHDJ`@t@z@zArAzBh@z@Jb@Dj@G?II_@]c@c@a@Sk@Ei@?eALu@Is@YyAmA}@u@aAaAa@k@]aA_@mBa@gCIeAFc@RYb@?L?BE@QYU[KQIUKi@C]C]v@Sb@K?GYLoAVk@@UEIi@V_@J}@L_@?]?MMCKHWR?h@SPq@?a@GAm@LMBQCWQm@o@a@w@cAsAc@u@SUQQS?SCWc@YHy@rAYj@Qv@o@fAg@lBOFYH?XB`@SZQdAi@hAm@|AQn@q@n@w@dB[dBJ\ThAZXNHDf@Fr@^f@J\@l@i@JYBQDWJ[f@g@\WDQF]XSn@Af@""" ;

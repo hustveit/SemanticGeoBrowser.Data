@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route206>
+	a	...Thing... ;
+	<name>		"""Raudvatnet opp"""@no ;
+	<ingress>		"""Samnangers mest populÃ¦re motbakke! GÃ¥ eller lÃ¸p opp til nydelige Raudvatnet."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter pÃ¥ Raunekleiv, rett over veien ved BIR sin gjenbruksstasjon i Raunekleiva (Ã…rland). Veien opp til Raudvatnet begynner fra fv 7. FÃ¸lg veien nordover til du nÃ¥r Vatnet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;TrasÃ©en er mye brukt. Samnanger idrettslag arrangerer motbakke lÃ¸pet â€™Raudvatnet oppâ€™ her Ã¥rlig pÃ¥ sommerstid. LÃ¸ypen gÃ¥r langs en god sti. FÃ¸rste del gÃ¥r pÃ¥ skogsvei. Det er jevn stigning hele veien, sÃ¥ man fÃ¥r pulsen opp hvis man holder litt tempo. Turen har en stigning 425 hÃ¸ydemeter. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til Raunekleiv i Samnanger kommune. Det er ingen oppsatte parkeringsplasser, sÃ¥ ta hensyn nÃ¥r du parkerer. Det er sikkert mulig Ã¥ stÃ¥ pÃ¥ BRI sin gjenvinningsstasjon utenom arbeidstiden. Man kan ogsÃ¥ ta buss nr. 925 fra Bergen sentrum til Raunekleiv (Samnanger).&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar omtrent 1 time, men dette variere ut ifra tempoet man holder. Har du med barn mÃ¥ du beregne litt lenger tid. De aller raskeste lÃ¸per opp pÃ¥ rundt 20 minutter. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for alle, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti sÃ¥ den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter vÃ¦ret. Fjellsko kan vÃ¦re best Ã¥ bruke, men skal man lÃ¸pe bÃ¸r man ha joggesko.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e26b4ca14921.jpg> ;
+	<image_credit>		"""Samnanger idrettslag""" ;
+	<created>		"""2011-07-20 12:12:07""" ;

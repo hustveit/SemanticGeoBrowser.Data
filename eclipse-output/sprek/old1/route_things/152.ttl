@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route152>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/152> ;
+	<name>		"""Svartediket â€“ Isdalen â€“ Hauggjeldsvarden"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>		"""6.6""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-17 14:40:55""" ;
+	<encoded_path>		"""{{poJ{nv_@CEIFo@Xa@Fq@Lu@Cy@?iABo@Fy@Dg@Gg@[SMIOi@g@CCKQK[[_B]{@MKg@iAUoAc@gA}@_Bk@m@g@c@c@a@Y_@K[q@mBUqAc@{Af@qAa@}@UiBc@m@EEg@Wi@Mu@_@C?KCCA_@_@UQ_@cAIWIg@Ki@UqAEIMYGCGGWWSa@W]K?Go@OWSoAMIYAE[A_@BSN{@GOm@eAMOUO]w@Hs@@KAS?]VaAFi@?KCWIGo@yAO[WQQW{@[c@s@AQ?UD}@AUF_@Nc@Ge@QmAg@{@Ma@O_BKmA@In@kBb@eBJ{ADqAd@sAL_Ab@gANw@Ta@p@o@RkAAQESAKa@{AOeAGWKe@UgAI_@UgAIWQo@E]O[o@s@@o@N[IaBDYf@Yt@Kb@Ij@Y\Sx@_@n@a@TUx@o@d@Yf@?^EZVp@F^GZJz@Nt@h@t@j@z@t@l@d@j@|Av@jAp@`Ab@xAT~AJjBXxAj@fBb@vAz@|Aj@BFAC_@DQDQDGTW?Q?]BICMZk@Rk@VUNW?e@E]Lg@Pe@ACCUd@YVGDA@?@Mj@a@ZYZi@Xa@POFU?e@J_@LMF[He@Fi@RSH]H[Li@NWPWN[VOHKPm@Bc@Ba@`@w@ZkAXe@Vg@F_@b@e@n@s@Ho@Hq@NWPc@F{@Lq@R[ROR_@PKFUZo@Hy@A_@Ku@By@CSAQKYK[SYGHGKMIJi@C]GYDWAAG]Fc@AUBU@IHWG[N_@AS?QDGLc@LWLGFALMH[FQHC?G@ER_@FQ@GHSBW@]BWF]LSD[@OFLNWJQBAFc@?MFUFY@ABa@Bi@?ACOBo@T?TQFW@?Ic@AMBo@FKDOHYHWN@HOHg@H_@FO\QBWLJBUTKHe@@[HcAD_@?KFGDMPSPKFSDSBWH@A?@AC_@Ja@@CDERGPGNGRCFI?_@BIJDFGJ?Cg@JKBUZEJIB]CSNCB@REIW?WBAZDA??EEg@NSTKNIJOLINELMBIJYNCCWLCHQDQHONMJQNQJUP_@HO@ANYN_@Nc@?IBKBGTo@Ji@Nk@BIFK@ONk@BYH[?OPYDM@APKXAXQPGZc@BKV{@He@???A@?JD@AQWEEG@IUAAE?G@I?C?GBKCKCEGMOC?m@GKUg@Qe@KMEKIk@Om@Io@Ji@REFk@Ea@YQ?a@IKLAACKO_@GGMIICK@MJi@GKGGSIGBcAJmAFg@NOLi@Ns@JKJi@L}@L[BYB_@@s@DQJe@B?HKN]DOZ[HG`@q@Vg@@Ab@KFDd@IPCr@e@d@OHFJIRqA@QGi@Js@Tk@Ta@RYZ]F?PILc@B?Vi@@?Ra@DIDMJO?K?e@""" ;
+	<routes_spots>		"""http://__thing_place_uri__60""" ;

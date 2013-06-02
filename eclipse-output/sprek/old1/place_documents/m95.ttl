@@ -1,0 +1,20 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place95>
+	a	...Thing... ;
+	<name>		"""LandÃ¥sfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;LandÃ¥sfjellet (428 moh.)
+ligger sÃ¸r for Ulriken. Her kryr det av stier,&amp;nbsp;
+inkludert en lyslÃ¸ype. Ã˜st for toppen er det fin utsikt over
+Bergensdalen, nord ligger Nubbevannet og Baunehytten. LyslÃ¸ypen gÃ¥r fra
+Montana, Johan Blyttsvei/Skiveien til Natlandsfjellet. FÃ¸lger man eggen langs LandÃ¥sfjellet vil du kunne se en fantastisk utsikt. Det er utsikt mot NordÃ¥svannet, LandÃ¥s, sentrum, LÃ¸vstakken, Arna, Gullfjellet
+og Ulriken. Det hÃ¸yeste punktet pÃ¥ LandÃ¥sfjellet (428 moh.) er kalt Nobbane.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ad8ab4fca3.jpg> ;
+	<image_credit>		"""Christina Laastad""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e0db4dfe1932.jpg> ;
+	<trimtoppen_description>		"""Skiltet er plassert ved varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-06-16 13:36:59""" ;
+	<modified>		"""2011-07-11 13:04:11""" ;
+	<gowalla_name>		"""LandÃ¥sfjellet"""@no ;
+	<gowalla_description>		""" """@no ;

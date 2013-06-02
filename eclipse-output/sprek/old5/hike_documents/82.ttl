@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike82>
+	a	...Thing... ;
+	dct:title				"""Svartediket ââ‚¬â€œ Våkendalen ââ‚¬â€œ Tarlebøvannet"""@no ;
+	<ingress>		"""Lett og fin tur i historiske omgivelser. 
+
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Følg veien til enden av Svartediket, der man kommer til et kryss med skilting til blant annet Rundemanen. Her tar man opp til venstre og følger veien videre opp Våkendalen. Traseen er delvis den samme som den gamle bygdeveien som gikk til gårdene i området. Det er en bratt tur på bred og god grusvei. Ved toppen av Tarlebøvannet kan man fylle flaska, snu og gå tilbake igjen, man kan følge veien til venstre videre til Rundemanen eller man kan gå til høyre opp til Langlivannet og Såtene.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;div&gt;Startsted er Svartediksstemmen. Tarlebøveien langs Svartediket er stengt for motorisert ferdsel med bom. Det er best å gå, sykle eller ta buss til området, fordi det er begrenset med parkeringsmuligheter.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dette er en enkel tur som du fort kan unnagjøre på en times tid. Har du imidlertid barnevogn, tar det sikkert oppimot en halvtime å nå Tarlebøvannet.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hvis man holder seg på grusveien kan turen passe for barnevogn. Grusveien er såpass jevn at det kan gå å komme frem med rullestol, men på visse strekninger er det ganske bratt.&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Navnene Isdalen og Våkendalen er begge brukt om dalføret mellom Ulriken, Blåmanen og Vidden. Gårdsdriften her kan spores tilbake til 1200-tallet. Antall gårdsbruk i dalen har variert noe gjennom tidene. På det meste har det vært i alle fal 12 medregnet husmannsplassene. 
+
+Ivrige turgåere vil kjenne igjen steds ââ‚¬â€œ og gårdsnavnene Kobbeltveit, Tarlebø, Hardbakka og Garmannslund. Gårdene hadde store husmurer som vernet bygninger mot regn og vind. Uthus av stein, støttemurer, steingarder og et nett av hoved ââ‚¬â€œ og markaveier finnes overalt. 
+
+De fleste gårdene ble kjøpt ut av kommunen i perioden 1900-1930 for å hindre forurensing av vannet i Svartediket. 
+
+Hvis man ønsker å se de best bevarte restene etter gårdsdrift i Våkendalen, er et alternativ å  ta avstikkeren til høyre over broen midt i dalen og gå opp gårdsveien Kringlen til Tarlebø. Derfra kan man gå gjennom Gjeilen, en 500 meter lang fe-gate med steingjerder på begge sider.  En annen mulighet er å følge den gamle gårdsveien til Hardbakkahaugen og tilbake til Tarlebøtræet, før man fortsetter på stien mot Tarlebøvatnet. Spesielt ruinene på Hardbakkahaugen er verdt et besøk.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kart:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;O-kart Isdalen (1:10 000), 1115 I Bergen (1:50 000), Tur ââ‚¬â€œ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000)&lt;/div&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4da4523ea0baajpg> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-04-12 15:15:45""" ;

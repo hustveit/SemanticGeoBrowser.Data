@@ -1,0 +1,55 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike171>
+	dct:title				"""Gåssandââ‚¬â€œMøsnukenââ‚¬â€œUlven"""@no ;
+	sf_ont:ingress			"""En fin tur i variert natur ââ‚¬â€œ gjennom skogsterreng, småskog og over snaufjell til toppen med praktfull utsikt fra Møsnuken (640 m.o.h.)"""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør inn Gåssandveien til Hatleli i
+nordenden av Gåssandvatnet. Parkering ved Hatleli. Fortsett videre langs
+hovedveien. Man går gjennom et fint gårdstun og videre til det gamle sagbruket
+ved Gåssandvatnet. Ikke
+ta opp til venstre. Etter sagbruket
+fortsetter turen oppover på traktorvei i sørlig retning parallelt med Gåssandvatnet.
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved bekken fra Stokkedalen deler stien
+seg, følg den som går oppover langs bekken. Stigningens første del går gjennom
+tett skog. Utsikten åpner seg gradvis. Fortsett relativt bratt opp siste del
+over skoggrensen til toppen av Møsnuken. På fine dager er utsikten imponerende.
+I øst ser man over Fusafjorden, mot Folgefonna, i sør Bjørnefjorden, og i vest
+ser man havet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra toppen er flere returmuligheter:
+Tilbake til Gåssand, til Os sentrum (se: &lt;a href="http://tur.bt.no/tur/169" target="_blank"&gt;Os-Borgafjellet-Møsnuken&lt;/a&gt;) eller ned til Tøsdal/Ulvenskiftet
+(bussforbindelse). Får man transport til stistart er dette et flott alternativ.
+For å komme til Ulvenskiftet går man sørvestover langs med elven fra ÃËœvste
+Stemmedalen. Følg stien nedover til Tyssdal. Gå gjennom Tyssdal og kryss broen
+over Tyssdalsvatnet. Følg veien ned til Fagertun og ut til hovedveien ved
+Ulvenskiftet.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr.
+600 til Gåssandskiftet (Os).
+Kommer man i bil finnes det parkeringsmuligheter på
+Hatleli/Gåssand.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 5-6 timer, avhengig av rastetid og tempo. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste, men den er så pass lang at man bør være i
+grei form og ha litt erfaring med turer i fjellet. Turen går hovedsaklig på sti
+og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk å ta med nok mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veg- og turkart Os (1:25 000), 1215 IV Samnanger (1:50 000), 1215 III Fusa
+(1:50 000).&lt;/p&gt;
+
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e0db13365ed7.jpg> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-07-01 13:36:19""" .

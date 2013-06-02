@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place230>
+	
+	dct:title							"""Grimen"""@no ;
+
+	sf_ont:ingress						""" """@no ;
+	sf_ont:description					"""&lt;p&gt;&lt;br&gt;&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:image_credit					"""""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-11-03 13:07:27""" ;
+	sf_ont:modified						"""2011-11-03 13:12:39""" ;
+	sf_ont:gowalla_name					"""Grimen Villa """@no ;
+	sf_ont:gowalla_description			"""Susanne og Helene """@no .

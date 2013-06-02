@@ -1,0 +1,43 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike111>
+	dct:title				"""Lien - Hauglandshella"""@no ;
+	sf_ont:ingress			"""Flott tur på sti i skogsterreng, godt egnet som trilletur."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Stien er bred og fin, og egnet for både barnevogner
+og rullestoler (egnet for rullestol fra Lien og til Fjellvatn). Stien er omgitt
+av karakteristisk og lun furuskog. Følg denne veien opp fra Lien til Fjellvatn.
+Fjellvatn er et flott sted å nyte medbrakt lunsj. &amp;nbsp;Langs stien er det
+skiltet avstikker mot Storåsen, også kjent under navnet Dronninga. &lt;/p&gt;
+&lt;p&gt;Gå
+videre vestover mot Haugland. Stien går gjennom skogen før den kommer ut i et
+åpent område. Det er en god sti og det går fint å gå med barnevogn også her.&amp;nbsp; Så kommer du kommer ned til bebyggelse. Her er
+det mulig å ta buss fra Ravnanger terminal, holdeplass like ved Haugland skole.
+Det er også mulig å parkere ved skolen, om man ønsker å gå turen motsatt
+vei.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen er flott å starte fra Sparbutikken på Ask. Hit
+kan man komme med bil eller med buss nummer 485, som går fra Bergen busstasjon.
+Følg veien som går vestover forbi butikken, ned mot det flotte Tresvatnet og
+forbi Mølledammen ved Ask Dambruk. Følg så veien langs vannet og oppover mot
+Lien. Friluftsområdets start er ved bommen på toppen.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 2-3 timer om man tar seg god tid og sitter ned for en
+rast. &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fin både for joggere og for familier på tur med
+barnevogn og sykler. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Joggesko holder fint her. &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Fakta om turen: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+&amp;nbsp;turen går i et av Askøy sine mest brukte friluftsområder. Naturen her er
+fredelig, stiene er gode og området er lett tilgjengelig både fra vestsiden og
+østsiden av Askøy.&amp;nbsp; &lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4dd51e7535e5b.jpg> ;
+	sf_ont:image_credit		"""Christian Lura""" ;
+	dct:created				"""2011-05-11 14:38:48""" .

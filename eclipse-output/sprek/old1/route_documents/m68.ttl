@@ -1,0 +1,38 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route68>
+	a	...Thing... ;
+	<name>		"""Spelhaugen-TennebekktjÃ¸rna"""@no ;
+	<ingress>		"""Om sommeren er turen perfekt Ã¥ trimme fÃ¸rst, slik at man sÃ¥ kan avkjÃ¸le seg i et av tjernene."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;br&gt;&lt;/b&gt;FÃ¸lg veien Spelhaugen til ende, hvor det  gÃ¥r turvei innover til 
+TennebekktjÃ¸rna. Vannet er nÃ¥ tilrettelagt for bading og fiske, og 
+forvaltes av Bergen og omland
+FriluftsrÃ¥d. 
+
+Turen gÃ¥r gjennom et fint omrÃ¥de med storvokst skog â€“ hovedsakelig furu,
+ men med innslag av eik. Fortsett forbi TennebekktjÃ¸rna (her er er det 
+tilrettelagt som badeomrÃ¥de med parkeringsplass) og ta av pÃ¥ sti mot sÃ¸r
+ der veien dreier nordvestover i en krapp sving. Fra SvartatjÃ¸rna gÃ¥r 
+mange stier; hovedtraseen for denne turen gÃ¥r til KrokatjÃ¸rna og dreier i
+ Ã¸stlig retning mot Spelhaugen.&lt;br&gt;&lt;br&gt;Tennebekk er et mye brukt utgangspunkt for turer i Kanadaskogen.
+
+Kanadaskogen ligger som en grÃ¸nn lunge mellom bydelene Fyllingsdalen, LaksevÃ¥g og Loddefjord. &lt;br&gt;&lt;br&gt;Spelhaugen er ogsÃ¥ utgangspunkt for turer til Gravdalsfjellet og 
+DamsgÃ¥rdsfjellet.
+
+Turene gÃ¥r hovedsakelig i frodig, smÃ¥kupert terreng med mange 
+naturperler. Noen av disse er KrokatjÃ¸rna og SvartatjÃ¸rna, der det er et
+ yrende badeliv i sommerhalvÃ¥ret. Stedvis myrlendt.
+
+ &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Det er ogsÃ¥ mulig Ã¥ komme til rundturen rundt TennebekktjÃ¸rna fra LaksevÃ¥gsiden. KjÃ¸r da opp i Nipedalen og start turen fra parkeringsplassen rett ved badeplassen.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Ta linje 9 til endestoppet eller linje 31 til krysset Spelhaugen/Fyllingsdalsveien. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tidsbruk:&lt;/span&gt;&lt;br&gt;Rundturene fra Tennebekk og Spelhaugen gÃ¥r i den sÃ¸rlige delen av Kanadaskogen og er 5-6 km lange. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Passer for:&lt;/span&gt;&lt;br&gt;
+OmrÃ¥det er godt egnet som turterreng for trimmere og turgÃ¥ere pÃ¥ alle ambisjonsnivÃ¥. Det er ogsÃ¥ fint Ã¥ jogge denne lÃ¸ypen.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;PÃ¥ sommerstid holder det lenge med joggesko og vannflaske. Etter regnvÃ¦r kan det midlertidig vÃ¦re en fordel Ã¥ bruke vanntette sko.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Kart:&lt;/span&gt; &lt;br&gt;1115 I Bergen (1:50 000),
+Tur- og Friluftskart Bergen (1:25 000).
+
+
+
+
+
+
+
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d909299dcc33> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-03-28 15:48:43""" ;

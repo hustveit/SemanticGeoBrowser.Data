@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route321>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/321> ;
+	<name>		"""Kvamskogen ââ‚¬â€œ Strandebarm"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""14.9""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-01 12:50:17""" ;
+	<encoded_path>		"""}tmoJmlwc@ZETa@p@o@r@Uh@n@r@bC\|A?z@Nj@fAZzAjELd@H^^Zz@Ed@e@f@kAv@Qp@PP^lAJxE}@Rj@pA`G|@xCz@bCtAbB`ADlC}Af@NJj@?dF?j@pAfGYdENnCjAn@h@hCj@~ClAfBnAt@hCH|G`Ft@`HxCvHXj@DOZQt@Zr@Zl@`AlAlBxGtE|C|BbDzF|DlBxAhC|CpLtC|IzEfF|HbFlFnDzA?tAwBZgL`@}B`AYbMtLtA?zBmAzClAvFpFhANfIhIdHpFvFzGzDjD`Bt@n@?PkAe@uDp@O|At@~AOrA[p@yD\g@fD_@{@wBv@K_@cCzAaBX}BnCeE~AyHT}Az@gBnBiCTSbBeE`@yCvFcHrGiIhEkAfAwALoA\wAW?k@UCk@JcB~@eAAsBVsCDOjDa@r@kAlAw@vAeArBTtAg@nCsCtA}AdCeG\QdA}CxBw@~AkAlAH\Ob@UZObCsBpL?dAaAtAUdEaB~BeD~BmBfAIFkBJaBv@yBf@OrBEf@OVq@\gBd@gAjBe@zA[dDYjDd@pANn@O\?f@NzATlApArDlAb@wA^cBjAY`AkBbBeEv@y@vBsBf@mB`@i@VU~@r@lAdAf@x@Pv@x@`JT~ANPLXL\Bb@PFNTNPNPNTLTPHR?RXb@BdAs@l@[^g@R{@AmCDs@f@uDhAcIDm@jAgGx@eHPgArAkCdAoAr@{@vCuAj@UnBuBf@}@jEwLViCTyBd@eAt@iAXc@bB_BrCmB|BBpBq@vCk@`Bw@dEoAnE\dCUxCo@rD{AdBcBn@sBLGt@sBb@i@vAiCdAMbDPvB~C`@zAfBdBtAz@fAQlB]r@FhAnB?xAcB|BeB~C}@hCi@hD]`HF`ETnE~@xIxBpRx@|Hf@tD`AlAnA|B~BvG|AdFFrB?rC@dQFn@""" ;

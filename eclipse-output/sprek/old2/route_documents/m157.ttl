@@ -1,0 +1,33 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route157>
+	a	...Thing... ;
+	<name>		"""Damsgårdsfjellet ââ‚¬â€œ Gravdalsfjellet"""@no ;
+	<ingress>		"""Opplev Damsgårdsfjellet."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Nipedalen, Laksevåg. Følg stien opp til Lyngbønipa. Deretter går man rundt Nipetjørna på venstre side før man dreier nordover og går opp til Gravdalsfjellet (350 moh.). Vær obs på at det kan være noe bløtt rundt Nipetjørna. Man kan se Viggo hytten på høyre side når man går opp til Gravdalsfjellet. Fra Gravdalsfjellet går man videre nordover til Nygårdsnipa (300 moh.)&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Ned fra Nygårdsnipa følger man stien nord-øst, til man kommer til en kyssende sti hvor man vender sørover mot høyre og Nordnæshytten. Dette er et myrlendt parti, så det vil være bløtt å gå her etter regn. Ta til venstre før du kommer til Nordnæshytten, og gå opp Nordnæsdalen. Her vil man ha Olsokfjellet (354 moh.) på høyre side. Følg stien langs roten av Olsokfjellet og ta til venstre opp på Damsgårsdfjellet (310 moh.). Her er det fint å raste mens man nyter utsikten mot Laksevåg. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Følg samme vei ned fra fjellet. Gå gjennom Tverrdalen og ta til høyre ved stikrysset opp mot Olsokfjellet. Dette er den høyeste toppen på turen. Gå ned på Sørsiden av Fjellet og ta til venstre når du møter Nordnæsdalsveien. Følg veien ned til Melkeplassen. Det går busser fra Melkeplassen ned mot byen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Det er mange varianter av denne turen, og det er flere alternative start- og nedgangsmuligheter. Turen kan godt gå motsatt retning fra Melkeplassen og slutte i Nipedalen. Det er også mulig å gå direkte ned til Melkeplassen fra Damsgårsfjellet. Det er her 7 fjellsturen går, så stien er godt nedtråkket. Det er også mulig å gå ned til Kringsjå via Holafjellet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Ta linje 16 til Nipedalen. Kommer man i egen bil, må man se etter parkeringsplass langs veien. Det enkleste er å parkere ved Tennebekktjørnna badeplass. Parkerer man her, følger man stien østover opp til Nipetjørna fra boligområdet. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt tre timer, avhengig av tempo og raste tid.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Hvem passer turen for?&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne tuen passer for alle, men er uegnet for trillevogn og rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kle deg etter været, det er flere myrlendte områder så vanntette klær og sko kan anbefales etter regn. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;BR&gt;Damsgårsfjellet (317 moh.) er en del av 7 fjellsturen.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e0333c9c797d.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-23 09:30:41""" ;

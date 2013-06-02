@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route128>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/128> ;
+	<name>		"""Gullbotn-Gullfjelltoppen"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>		"""5.6""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-05 17:53:36""" ;
+	<encoded_path>		"""ijuoJmlla@dB`AdBj@fBnDuAj@Q`BZdDo@vBuA`BHbC~AzDDvA{B^kB_@uB?{BmA_AmCgCa@eB_@aDnEuAzDEjA`@bBtAjAnB`AvBHtCJjBt@n@?jCxB`Ca@~@?p@_@dBlB~@j@eB`AeB?e@Te@vB_@lBuAu@d@lCdA`@zBTt@j@~A`C^`AElAp@UXjAu@fG?v@ZvAd@`Bb@zE`AxDn@hHNvB?vAzAfH?nDUpAn@jAp@bBdA^x@`Aj@`@d@`ApCbCt@^~@bBz@vBxAv@jBt@dAc@n@`AdA`ApAvAr@j@jATn@j@p@`@dBtLnAzDjBxCvDbDjBlBfKzPD~Jn@zFd@nCnKvNzAbBpBxDjBdDjEdFh@lC""" ;

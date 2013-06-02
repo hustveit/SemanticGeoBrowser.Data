@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route191>
+	a	...Thing... ;
+	<name>		"""Fjell kirke-Kolltveitmarka, rundtur"""@no ;
+	<ingress>		"""I Kolltveitmarka ligger et nettverk av noen av Sotras fineste turstier. OmrÃ¥det er rikt pÃ¥ kulturminner, og tursystemet har koplet seg pÃ¥ eldre ferdselsveier."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kyrkjevegen mellom Fjell, Morland og FjÃ¦reide ble av folk pÃ¥ Morland brukt som hovedferdselsÃ¥re til skole og kirke til langt inn i forrige Ã¥rhundre. Utgangspunkt for turen er Fjell kirke. FÃ¸lg veien fra parkeringsplassens nordflanke nedover og nordover. Den gÃ¥r raskt over i Kyrkjevegen. Man ser restene av en gammel mÃ¸lle til venstre for stien pÃ¥ veien mot Kvernhaugen. Stien er godt oppbygget. Man passerer Liavatnet og Eidesvatnet hvor det er mulig Ã¥ bÃ¥de fiske og bade. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Mellom Eidesvatnet og Liavatnet passeres to stiskiller som leder mot Kolltveit. Ved utlÃ¸pet av Liavatnet ser man mot de massive demningene ved Halvgjevatnet. Stien fortsetter nordvestover til Morland. Fra Morland fÃ¸lges bilveien til hÃ¸yre i et T-kryss. Fortsett opp noen skarpe svinger til du kommer til en liten myr pÃ¥ hÃ¸yre side. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Den gamle arbeiderstien fra Morland til kornmÃ¸llen (senere hermetikkfabrikken) pÃ¥ Kolltveit kai gÃ¥r i Ã¸stlig retning over myren. Snart ser man den massive steinbrua over Storavatnet. Ã˜stenfor brua er ferdsel vanskelig pÃ¥ grunn av inngjerdinger. To stier tar av vestenfor broen. Den fÃ¸rste gÃ¥r gjennom vestnorsk brakeskog og forbi demningsrester. (Herfra kan man returnere til Kyrkjevegen ved Ã¥ dreie sÃ¸rvestover.) &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Denne turen fortsetter imidlertid pÃ¥ stien som gÃ¥r sÃ¸rover langs Storavatnets vestside. Vatnet ble oppdemmet ved forrige Ã¥rhundreskifte for Ã¥ gi mer vann til mÃ¸llen ved kaien. For Ã¥ komme tilbake til Fjell kirke, tar man opp sÃ¸rvestover like etter sÃ¸renden av vannet. Stien mÃ¸ter Kyrkjevegen, som fÃ¸lges tilbake til utgangspunktet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kommer man i privat bil, kan man parkere ved Fjell kirke. &amp;nbsp;Man kan ogsÃ¥ ta buss nr.450 fra Bergen sentrum til Fjell kirke.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar mellom 2-3 timer.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste som liker Ã¥ gÃ¥ i fjellet, men den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Gode tursko anbefales. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Kart:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;1115 IV Fjell (1:50 000).&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1d739fb5f1d.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-13 12:29:51""" ;

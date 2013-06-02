@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route345>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/345> ;
+	<name>		"""Spelhaugen ââ‚¬â€œ Eikelifjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-08 14:59:07""" ;
+	<encoded_path>		"""}bkoJ{pd_@c@pB}B~B_DbD}CvBgClBwBxBm@?]?e@a@J{@SgA?mC^cCe@k@eAaAeAe@[Oe@QeAOaAEa@D}@q@c@gBMwAQsCYUm@U}@e@""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route129>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/129> ;
+	<name>		"""HamlagrÃ¸ - Vending"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>		"""6.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-05 19:32:24""" ;
+	<encoded_path>		"""eykpJmobd@tAlAz@`A~@jAjBfFvCnE~A`BpAv@n@TDcBx@?z@JnBeE`Ba@dA`@pCk@jCvAx@vApB^t@TN`@`BvAtAlBnBHp@`@x@j@j@t@x@j@`BJn@HzAwAdCaBtAa@pBaA{@qGDyDt@}F~@qFt@eE~AyDpCgGvCmC~CyBrDyCtBeFjAmBd@_JTqFh@yCdAk@n@j@jBUjCIz@lBvD^`FJtCbCJvBjB`@tAmAdA`@tEtJhBHzAkAdCaAvCj@jA`BhA`@fC?~Aw@fC_@tBcBvEoDjCu@nOaAzD?jClBhAxDjAdEx@lCt@xBdAjAlGnDjDnC|FfI`E~H~A`BjBhHt@lB|H`MpCdETmB""" ;

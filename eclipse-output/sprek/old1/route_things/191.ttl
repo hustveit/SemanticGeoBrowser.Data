@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route191>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/191> ;
+	<name>		"""Fjell kirke-Kolltveitmarka, rundtur"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>		"""5.9""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-13 12:29:51""" ;
+	<encoded_path>		"""mefoJi_~]q@kC_@}IyEh@QjC}Bs@wB`AuAlB}C`IExFGrHgBbHq@j@q@r@y@TgBuBkJr@eAnEkBJo@mBeAvAwDk@_AdEaATi@jAkDzEaCnDuChJkBj@e@nCeAlCqEbCsFJaBnEuC^}G_@aCjAiAbBsBmAiAu@eATcL`AkB?u@cCkC{E{@oEgE{D\uBi@sBOsBe@eAo@sBYiDVcCn@cBr@eAf@e@x@iCr@w@AaA^UXo@r@ErA|AbAz@`AgANqAvAq@j@Dj@u@|BaAhCsBn@`Bp@T~AaBdAy@`BcBjB?fG_@dCa@tAj@t@`@~@lCt@?t@?t@^t@`@t@j@t@j@n@t@`@vARlB`@vAXlBt@`@t@Tt@^t@Tt@`@n@t@n@v@j@`Bp@t@AHAF?F""" ;

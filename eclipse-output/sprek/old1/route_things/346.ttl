@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route346>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/346> ;
+	<name>		"""Fyllingsdalen â€“ Olsokfjellet"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>		"""2""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-09 11:51:12""" ;
+	<encoded_path>		"""urloJqoh_@SEY@Q@e@LOAKHc@Da@HYFS@S@KCa@ESd@SXON[XWj@K?a@C_@CIEG[I?UOQKASG_@KES?SDUB_@Zw@\q@?]^UDGLSBSJgA^s@VYTu@dAkAb@_@NqAZyAEk@NY^U~C[vD]x@ST]b@Mr@ClBmAx@c@FqAr@@s@\oDCqFQeBMiAuAEiC|A{@U}@MqAGu@?|AgDbBuDpAyCp@iD`@wAH{B""" ;

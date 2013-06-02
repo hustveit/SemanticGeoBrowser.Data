@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route224>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/224> ;
+	<name>					"""Laksevåg-Damsgårdsfjellet"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>			"""1.4""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-27 15:04:28""" ;
+	<encoded_path>		"""ojqoJulh_@VnAFJGf@ChAVvBnBb@TcAr@GhBx@j@TT?Z[XTd@]r@x@T\bCCvDoAfBQvB{@f@PlBeCl@Yj@?h@mARj@lAk@Pc@dBF`A^XCTQfAd@b@VdAMdAsA@?r@LlAnAlBR""" ;

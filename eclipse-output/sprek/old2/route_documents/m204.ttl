@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route204>
+	a	...Thing... ;
+	<name>		"""Kapperdalen-Nepstad"""@no ;
+	<ingress>		"""Flott og rask tur langs den gamle ferdeveien mellom Kopperdalen og Nepstad. Fin utsikt fra Setersdalen (338 moh.)."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved enden av Søre Kopperdalen. Følg stien sørover. Ved stidelet, så&amp;nbsp;holder du&amp;nbsp;til høyre opp Svartedalen. Det er stigning opp til Setersdalen, som er midtpunktet på turen. Her er man 338 meter over havet. Det er fint å ta en liten rast her før man går videre mot Nepstad. Det er også mulig å gå innom Gladihaug (431 moh.) som ligger rett øst for Setersdalen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Veien ned til Nepstad er lett å følge, hold til høyre ved stidelet og gå ned i Røsterdalen. Man passerer også Bleiktudalen på veien nedover. I området er det mange tufter etter torvhus, som er imponerende byggverk i stein. Følg stien videre nedover til du kommer til Nepstad. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen kan også gå motsatt vei. Man kan også returnere samme vei eller snu i Setersdalen dersom man må tilbake til bilen.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Kopperdal i Lindås kommune. Det er ingen oppsatte parkeringsplasser, så ta hensyn når du parkerer. Man kan også ta buss nr. 320 fra Bergen sentrum til Knarvik, ta så buss nr. 300 videre til Vatne. Fra Vatne må man gå 15 minutter tilbake til Kopperdalen. Følg veien til Herland og ta derfra rett frem mot Kopperdalen.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Ettersom denne turen ikke returnerer til samme punkt kan det være en fordel å benytte buss eller, hvis man er flere, parkere en bil på Nepstad og en i Kopperdalen.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar omtrent 1,5 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Turen går på sti så den er ikke tilpasset for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Fjellsko anbefales. Lindåskartet er nyttig å ha med.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Lindås og Radøy Turkart, Sæbø 1116 II, Herdla 1116 III.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2681a12881d.jpg> ;
+	<image_credit>		"""Roar Christiansen""" ;
+	<created>		"""2011-07-19 15:41:17""" ;

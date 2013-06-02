@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route242>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/242> ;
+	<name>		"""Jordal-Rundemanen-Sandvikspilen"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""7.2""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-03 14:03:05""" ;
+	<encoded_path>		"""mdyoJsav_@rEeUrBcKxAqCVyFtAwFhDiIVkCxAoAxB}DT_BP}D~@iAdAuDb@aDh@wAjBuBn@UxAeGtCwAhDuRfC{Hb@tGnEpFPvAtAjCvAhNQvDl@tDpAhAXzBxBdBMhDnCaDZ\yAhNnCq@bBxHyAdMhErEbBjCJ~C}B~DyBZY\|@jHfAzB~CrClDZs@vDmB`DyCO}@~AMpCgAc@_AnDs@Z}Dy@aCs@aFbFgC?sDzBw@`GkBnDkArEMfG}AUg@|DvAzBdArEgD|Gq@fDqApAYrBcApA}AtDq@jCb@pCtG[fCQhDpC`B{AfAgAb@~BtBqC~EpKlEzEpApG[zEjDpCdCQ`BrCt@pK?~J""" ;
+	<routes_spots>		"""http://__thing_place_uri__34""" ;

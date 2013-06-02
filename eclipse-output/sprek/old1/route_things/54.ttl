@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route54>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/54> ;
+	<name>		"""Salhusvegen - HÃ¸gstefjellet"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>		"""2.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-22 09:40:34""" ;
+	<encoded_path>		"""mscpJuzk_@w@tD[BD{@G}A?kATmC?yBOkAM?GuD]yD?sAIqANe@CUa@DMk@u@{@u@g@gAgC_CoCw@TWlAk@pAoADsDoC@?BB@D@D@D@FBB??Qa@QKQNQROLKZI^QLQNONS?ORQBQKSCMXOLQNOTMVQXMXK\I`@MXQAQMSCQLOPSBQJOVK\MVI\K^I^?d@Eb@Cb@K`@QJOVOPOTQKQAOPGb@G^QROJQJQES@OPK\SIQCQFMTQJQLMXQDSAI_@MWSEQHQFQXE`@K^Gd@MZI\I`@K\I`@K\Gd@Cf@OTOPSBQ?OTQHSAQEQGK^G^KZK[QIK^ORQTG`@G`@OXMRMZCb@Cb@Eb@?h@MXEb@G`@I^OVQDQIQ?SDE`@Db@@d@I^MRI`@?d@Ab@Ad@@d@Eb@""" ;

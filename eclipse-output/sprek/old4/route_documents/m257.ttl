@@ -1,0 +1,32 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike257>
+	a	...Thing... ;
+	dct:title				"""Svartediket ââ‚¬â€œ Rundemanen"""@no ;
+	<ingress>		"""Svartediket- Rundemanen"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Rutebeskrivelse:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Følg veien til enden av Svartediket, der
+man kommer til et kryss med skilting til blant annet Rundemanen. Her tar man
+opp til venstre og følger veien videre opp Våkendalen. Traseen er delvis den
+samme som den gamle bygdeveien som gikk til gårdene i området. Det er en bratt
+tur på bred og god grusvei. Ved toppen av Tarlebøvannet kan man fylle flaska, og
+deretter fortsette opp mot Rundemanen, 568 moh. I dag er det plassert en 106 meter høy mast på toppen som ble reist i 1990.&lt;/span&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Tilkomst:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Startsted er Svartediksstemmen.
+Tarlebøveien langs Svartediket er stengt for motorisert ferdsel med bom. Det er
+best å gå, sykle eller ta buss til området, fordi det er begrenset med
+parkeringsmuligheter.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Passer for:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Dette er en middels tur som passer for
+de fleste. Det er en del stigning opp fra Tarlebøvatnet.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;Kart:&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;O-kart Isdalen (1:10 000), 1115 I Bergen
+(1:50 000), Tur ââ‚¬â€œ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart
+(1:25 000)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;,&amp;quot;serif&amp;quot;;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-10-04 14:54:28""" ;

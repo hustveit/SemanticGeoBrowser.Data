@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route217>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/217> ;
+	<name>		"""Ormhilleren friluftsområde"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""1.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-25 13:18:15""" ;
+	<encoded_path>		"""w~fpJsd`]vAjC`BpDr@n@d@n@Pr@`@^ZQ^Yn@IvAw@lBUlACLaAUyGCwEGkAZoCR}DKoE[wAu@f@g@f@a@g@e@M_@HqAFu@iA_@qCcAwAWLOlIiA~IaCvFgAlBZhA""" ;

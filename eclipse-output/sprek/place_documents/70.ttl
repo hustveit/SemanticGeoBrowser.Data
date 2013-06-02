@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place70>
+	
+	dct:title							"""Bergensbakken"""@no ;
+
+	sf_ont:ingress						"""Bergensbakken - ââ‚¬&#157;alle hoppbakkers morââ‚¬&#157;."""@no ;
+	sf_ont:description					"""&lt;p&gt;Bergensbakken var tidligere en hoppbakke i Byfjellene i Bergen. Hoppbakken ble bygd i 1936/37. Den ble brukt fram til 1948. Bakken ligger på toppen av &lt;span class="new"&gt;Tarlebødalen. Hoppbakken ligger &lt;/span&gt;på nordsiden av Rundemanen i et området kalt Hyttelien.&lt;/p&gt;&lt;p&gt;(Kilde: http://www.bergensbakken.com/)&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4de360da93fb4.jpg> ;
+	sf_ont:image_credit					"""Knut Strand""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e04553666064.jpg> ;
+	sf_ont:trimtoppen_description		"""Skiltet er plassert på toppen av bakken."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Hordaland Krins av Norges speiderforbund""" ;
+	dct:created							"""2011-05-02 19:05:28""" ;
+	sf_ont:modified						"""2011-06-28 14:12:11""" ;
+	sf_ont:gowalla_name					"""Bergensbakken"""@no ;
+	sf_ont:gowalla_description			""""""@no .

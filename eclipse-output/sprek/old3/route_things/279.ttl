@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route279>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/279> ;
+	<name>					"""Svinningen"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>			"""5""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 11:04:48""" ;
+	<encoded_path>		"""is~nJ_y{`@qAj@kB_@iAUgDwA{DaAkAkAeCwAaBmBqBmBo@mBi@mBmAoC_Au@_AK_@?qAwB{AIe@cBoAJkBcBe@mCOmBoA?aClB{@^oBbBqBbCeAHoBIwAa@o@UeA?u@j@_B`@qA^o@j@eAk@{A?{AaAiAaA{AmCeAa@aC?{DIgCa@_DUkAJaCk@uBK{A_@kA?eBk@gBj@{@?kBt@eBu@_AKqDyCkCkAkBmBy@w@e@i@k@KSaAu@wBk@k@u@U_A?eBk@aAKi@k@u@mB?yC_@cCe@wB_@cDKyCOyCTeDTeFb@wBImAi@aAqAaBeAaAeAoCk@UiAIaAwAyAwAqAmAeAaBkAcCoAk@_AwAgBv@iAj@aATo@vA_@H_@vBKlB?v@""" ;

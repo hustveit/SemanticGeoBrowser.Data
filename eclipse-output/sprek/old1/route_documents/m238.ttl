@@ -1,0 +1,69 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route238>
+	a	...Thing... ;
+	<name>		"""Arboretet, natursti"""@no ;
+	<ingress>		"""Ta med barna pÃ¥ natursti i arboretet!"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For Ã¥ komme inn pÃ¥ omrÃ¥det gÃ¥r man til venstre opp bakken
+fra Mildeveien rett etter busstoppet. FÃ¸lg veien oppover til man fÃ¥r
+GrÃ¸nneviken pÃ¥ hÃ¸yre side. Her er det fint Ã¥ bade. Det er ogsÃ¥ en hinderlÃ¸ype
+som barna kan prÃ¸ve seg i. PÃ¥ venstre side kan man gÃ¥ opp til Blondehuset, som
+er Ã¥pen lÃ¸rdager i mai-juni og sÃ¸ndager fra pÃ¥ske til september.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen fortsetter til venstre mot MÃ¸rkevatnet. Navnet har det fÃ¥tt etter boken
+â€™Bitre blomsterâ€™ av G. StÃ¥lesen. I den nordlige delen av Arboretet er det blitt
+etablert en natursti. Den starter ved gapahuken sÃ¸r for MÃ¸rkevatnet, og fÃ¸lger
+grusveier og stier gjennom furuskogen. Stien gÃ¥r gjennom samlingen med
+rhododendron og videre nord til omrÃ¥det med amerikanske trÃ¦r. Herfra gÃ¥r den
+sÃ¸rover mot Miniarboretet som ligger ved GrÃ¸nevika.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;LÃ¸ypen er ca. 1,5 km lang og har 17 poster. For hver post er det 3 - 4
+svaralternativer. MÃ¥let med naturstien er Ã¥ spre kunnskap om skogen. Det ligger lÃ¸ypekart og fasit i de to postkassene der naturstien starter. Husk Ã¥ ta
+med blyant.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Milde i Ytrebygda bydel. Parkering ved Dalsmyra (godt merket),
+MildevÃ¥gen og i Botanisk hage ved VÃ¥gelva. Funksjonshemmede har anledning til Ã¥
+parkere pÃ¥ parkeringsplassen ved GrÃ¸nevika. Man kan ogsÃ¥ ta buss nr. 51 fra
+Bergen sentrum til Milde. Bussen bruker omtrent 45 minutter.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 45 minutter, men det anbefales Ã¥ ta seg god tid for Ã¥ se seg
+godt omkring. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Veien er tilpasset for
+bruk av trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter vÃ¦ret. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Arboretet er et friluftsomrÃ¥det med nydelige hager og tilrettelagte
+turveier. Her kan man spasere i hagene, nyte en piknik med familien, bade i
+GrÃ¸nneviken og sove i telt. Det er mange turer&amp;nbsp; man kan gÃ¥ inne pÃ¥ omrÃ¥det.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Arboretet og Botanisk hage er en del av Bergen Museum, plassert pÃ¥ Milde 23
+km sÃ¸r for Bergen sentrum. OmrÃ¥det ligger vakkert til ved Fanafjorden i et
+smÃ¥kupert landskap med knauser, hauger, myrer, sÃ¸kk og vatn. Et arboret er en
+samling med levende trÃ¦r og busker. Arboretet ble opprettet i 1971 i utmarken
+til Store Milde hovedgÃ¥rd.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Arealet er ca 500 dekar, mest gammel furuskog, men ogsÃ¥ noe edellÃ¸vskog og
+kultivert mark. Det er opparbeidet veier og stier som de fleste kan bruke, ogsÃ¥
+rullestolbrukere. Det finnes ogsÃ¥ stier som krever stÃ¸rre fÃ¸rlighet og godt
+fottÃ¸y. BesÃ¸kende har fri adgang hele Ã¥ret.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Arboretet har Nordens stÃ¸rste rhododendronsamling med ca. 600 kultivarer og
+ca. 300 arter. Arboretet har ogsÃ¥ Norges stÃ¸rste rosesamling med over 500
+sorter. Her er eksotiske busker og trÃ¦r fra Nord-Amerika, Ã˜st- Asia og SÃ¸rlige
+halvkule, en fargerik lynghage og historiske hagevekster i Blondehushagen.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Bergen og omland friluftsrÃ¥d har 2 badeplasser inne pÃ¥ omrÃ¥det: GrÃ¸nevika og
+Sandholna. Det selges kaffe, vafler og is i Blondehuset fra pÃ¥ske og ut august
+hver lÃ¸rdag og sÃ¸ndag. Toaletter finnes i GrÃ¸nevika.&lt;/p&gt;
+&lt;p&gt;(Kilde: &lt;a href="http://www.kulturnett.no/institusjoner_og_kulturminner/institusjon_og_kulturminne.jsp?id=T396876&amp;amp;pageid=4"&gt;Kulturnett&lt;/a&gt;  og &lt;a href="http://www.uib.no/arboretet"&gt;Universitetet i Bergen&lt;/a&gt;)&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e37f17d2a2a0.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-08-02 14:45:49""" ;

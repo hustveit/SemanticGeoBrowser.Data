@@ -1,0 +1,21 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place68>
+	a	...Thing... ;
+	<name>		"""Orrtua"""@no ;
+	<ingress>		"""Fint utsiktspunkt i Begenhus."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;
+
+Orrtua (350 moh.) er et supert utsiktspunkt og en fin plass Ã¥ raste. Toppen er sentrumsnÃ¦r og ligger i Bergenhus bydel.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Stien opp til toppen er lett Ã¥
+fÃ¸lge, men er stedvis ganske bratt. VÃ¦r forberedt pÃ¥ litt klatring. Det er lagt opp
+tau og stiger for Ã¥ hjelpe turgÃ¥ere oppover. &lt;br&gt;
+ &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4dff2fb9d786c.jpg> ;
+	<image_credit>		"""BjÃ¸rn Erik Larsen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e11abf813a12.jpg> ;
+	<trimtoppen_description>		"""skiltet er plassert langs stien som passerer rett nedenfor toppen
+av Orretua."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-05-01 17:45:25""" ;
+	<modified>		"""2011-07-04 14:03:04""" ;
+	<gowalla_name>		"""Orrtua"""@no ;
+	<gowalla_description>		""" """@no ;

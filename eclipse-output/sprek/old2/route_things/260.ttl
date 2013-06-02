@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route260>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/260> ;
+	<name>		"""Dalatuva"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-11 09:47:28""" ;
+	<encoded_path>		"""""" ;

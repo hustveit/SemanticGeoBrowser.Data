@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route113>
+	a	...Thing... ;
+	<name>		"""Hjortland - Nordhytten - Vikinghytten"""@no ;
+	<ingress>		"""Kjekk familietur hvor man går innom Nordhytta og Vikinghytta."""@no ;
+	<description>		"""&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br style="font-weight: bold;"&gt;Turen starter fra parkeringsplassen på
+Hjortland. Følg skogsbilvegen til enden, her tar en av på stien nedover mot
+venstre. I bunnen av dalen rett etter broen over elven tar stien av til høyre.
+Vinterløypen går rett fram. Stien fortsetter oppover på venstre siden av
+dalen og etterhvert ser en Nordhytta rett i mot på en høg fjellknaus. Hytta er
+åpen for severing søndager.&lt;br&gt;&lt;br&gt;&lt;p&gt;Fra hytta forsetter en innover dalen og krysser
+etterhvert over og går opp skråningen på andre siden. Her kan stien være
+vanskelig å se, men det er bare å gå oppover under kraftlinjen til en kommer
+opp på ryggen og møter varderekken på Vardeggen. Denne følger en nordover og
+ned mot Vikinghytten. Oppå ryggen er det fast og fint å gå med flott utsikt i
+alle retninger.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Om vinteren er her oppe et flott skiterreng, og
+det er mulig å fortsette over Vidden mot Ulriken (se turen: Vidden, fra Fløyen til Ulriken), eller mot Rundemanen og
+Fløyen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Buss nr 4 til krysset
+Flakveitsvingane/Hjortlandsvegen. Her er det ca 2,5 km å gå langs
+Hjortlandsvegen&amp;nbsp; til turstart. Parkering langs veiene.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Tid opp ca 2 timer. De første to km langs
+skogsbilvegen er egnet for barnevogn.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Turen passer for mosjonister i alle aldre.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Det er flere bløte partier nede i dalen så
+gummistøvler eller gode fjellstøvler er å foretrekke i våte perioder.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dca92830e793.jpg> ;
+	<image_credit>		"""Jan M. Lillebø""" ;
+	<created>		"""2011-05-11 15:41:34""" ;

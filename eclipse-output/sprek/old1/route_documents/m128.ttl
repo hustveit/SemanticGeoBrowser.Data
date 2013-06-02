@@ -1,0 +1,35 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route128>
+	a	...Thing... ;
+	<name>		"""Gullbotn-Gullfjelltoppen"""@no ;
+	<ingress>		"""Nydelig tur bÃ¥de sommer og vinter."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Gullbotn friluftsomrÃ¥de (vis-Ã -vis turistheimen). Her er det parkering og busstopp. GÃ¥ inn turveien (lyslÃ¸ypen) og fÃ¸lg den lengste traseen av lyslÃ¸ypen mot hÃ¸yre. Alternativt kan sti langs bekken mellom&amp;nbsp; den korte og lange lyslÃ¸ypen velges. I Ã¸vre del av lyslÃ¸ypen, rett fÃ¸r bro over bekk, gÃ¥r det turvei opp til starten av varderekken. FÃ¸lg sti videre fra enden av turveien og videre oppover langs varderekken. FÃ¸lg varderekken i sÃ¸rvestlig retning, fÃ¸rst gjennom glissen skog, siden bratt oppover.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;OmrÃ¥det mellom Redningshytten og Gullfjellstoppen er mye brukt pÃ¥ ski om vinteren. Oppe pÃ¥ GullfjellsplatÃ¥et kan de ivrigste finne fine skiforhold til helt ut i mai. Fra Redningshytten er der flere valgmuligheter. Man kan fÃ¸lge varderuten til Osavatnet, Bontveit, Totland eller pÃ¥ sti ned mot Samdalen/Hauglandsdalen. Blant de vanligste turene i omrÃ¥det er ruten fra Osavatnet via Korketrekkeren til Gullfjellstoppen.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fra Bergen er du avhengig av bil eller rutebuss i retning Kvamskogen og
+Hardanger. Tilkomst via bil fra Bergen tar 30â€“45 minutter. Du kjÃ¸rer til
+Trengereid, der du tar av mot Kvamskogen i rundkjÃ¸ringen. Etter rundt en
+kilometer ser du parkeringsplasser bÃ¥de pÃ¥ hÃ¸yre og venstre side av riksveien.
+NÃ¥r du kommer fra Bergen ligger lÃ¸ypene til hÃ¸yre for veien. Parkeringsavgiften
+er pÃ¥ 50 kroner dagen og 30 kroner etter klokken 16:00.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Denne turen tar mellom 2-3 timer, avhegig av tempo.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Alle som er i normalt god form kan klare turen til Gullfjellstoppen, men
+er du helt uvant med fjellvandring bÃ¸r du kanskje starte med en litt 
+lettere topp. Spreke unger over syv Ã¥r klarer fint Ã¥ komme seg opp pÃ¥ 
+egne bein. Turen er ikke egnet for trillevog eller rullestol.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gullfjellet kan vÃ¦re barskt. PÃ¥ toppen kan det vÃ¦re atskillig kaldere og surere enn nede i dalen. 
+Husk derfor varmt og vindtett tÃ¸y. I dÃ¥rlig vÃ¦r og tÃ¥ke mÃ¥ man vÃ¦re pÃ¥passelig Ã¥ fÃ¸lge varderekken â€“ husk at pilen pÃ¥ hver varde peker mot den neste. PÃ¥ vinterstid kan det bli isete pÃ¥ toppen. Blir du overrasket av dÃ¥rlig vÃ¦r kan 
+det vÃ¦re lurt Ã¥ ha en GPS evt. kart og kompass i sekken. Flere steder i fjellet er 
+mobildekningen dÃ¥rlig. Husk mat og drikke. Gode fjellsko er ogsÃ¥ anbefalt. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gullfjellet er et meget populÃ¦rt turomrÃ¥de bÃ¥de sommer og vinter. Gullfjellstoppen, som rager 987 meter over havet, er hÃ¸yeste fjellet pÃ¥ BergenshalvÃ¸ya. Turen fra Gullbotn over toppen er en klassiker. OmrÃ¥det er velegnet for skibruk. 4-5 timer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gullfjellsvannverket Svartavatnet pÃ¥ Gullfjellet er hovedmagasin for Bergen kommunes nye hovedvannverk med uttak til LandÃ¥sâ€“Fantoftâ€“FjÃ¸sanger, Fyllingsdalen og Loddefjord. Vannet fra Svartavatnet fÃ¸res i rÃ¸r og tunneler over Arnadalen, gjennom Ulriken, over Bergensdalen, gjennom LÃ¸vstakken, Gravdalsfjellet og Lyderhorn.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hva er bra med denne turen?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Juni er perfekt for fjellturer i kystnÃ¦re omrÃ¥der. Mens snÃ¸en 
+fremdeles holder stand lenger inne i landet, er fjellene rundt Bergen 
+grÃ¸nne og frodige. Ruten fra Gullbotn til Gullfjellstoppen tar deg fort 
+og effektivt fra lavlandet til hÃ¸yfjellet. Den er godt merket hele veien
+opp. FÃ¸rste del av turen gÃ¥r gjennom lyslÃ¸ypene i Gullbotn. Deretter 
+tar de solide steinvardene over. I godt vÃ¦r er utsikten bÃ¥de underveis 
+og pÃ¥ toppen nydelig.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Gullfjellet Turkart (1:25 000), 7-fjellsturen turkart (1:25 000), 1215 IV Samnanger (1:50 000).&lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4deba6802afd7.> ;
+	<image_credit>		"""Marita Aarekol""" ;
+	<created>		"""2011-06-05 17:53:36""" ;

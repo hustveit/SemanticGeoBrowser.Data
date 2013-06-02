@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place174>
+	a	...Thing... ;
+	
+	dct:title				"""Spjeldsfjellet"""@no ;
+
+	<ingress>		""" """@no ;
+	<description>		"""&lt;P&gt;&amp;nbsp;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-08-24 13:55:05""" ;
+	<modified>		"""2011-08-24 13:55:05""" ;
+	<gowalla_name>		"""Spjeldsfjellet"""@no ;
+	<gowalla_description>		""" """@no ;

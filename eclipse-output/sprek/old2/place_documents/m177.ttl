@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place177>
+	a	...Thing... ;
+	<name>		"""Gullsteinen"""@no ;
+	<ingress>		"""Løvstakkens lillebror"""@no ;
+	<description>		"""&lt;P&gt;&amp;nbsp;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-08-29 14:13:07""" ;
+	<modified>		"""2011-08-29 14:13:07""" ;
+	<gowalla_name>		"""Gullsteinen"""@no ;
+	<gowalla_description>		"""Løvstakkens lillebror"""@no ;

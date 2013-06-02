@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike334>
+	dct:title				"""Helgesæter ââ‚¬â€œ Ulriken"""@no ;
+	sf_ont:ingress			""""""@no ;
+	sf_ont:description		"""&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Følg grusveien oppover fra Helgesæter. Denne grusveien går etter hvert over i sti. Man passer på oversiden av Nubbevatnet, men kan velge å følge stien til vannet om man ønsker det. Videre følger en stien over Landåseggen mot Ulriken. Stien går over eit parti med myrete område, så gode sko er en fordel. Stien er noenlunde godt merket hele veien.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Det er en god parkeringsplass rett etter Helgesæter.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn ca. 3 timer tur/retur&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en middels tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været og husk gode sko.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;1115 I Bergen (1:50 000), Tur- og Friluftskart Bergen (1:25.000), 7-fjellsturen turkart (1:25 000)."""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4eb14fcbc22fe.jpg> ;
+	sf_ont:image_credit		"""Martin Eilertsen""" ;
+	dct:created				"""2011-11-02 15:10:07""" .

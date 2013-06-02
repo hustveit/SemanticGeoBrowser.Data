@@ -1,0 +1,53 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route235>
+	a	...Thing... ;
+	<name>		"""HÃ¸glikampen, rundtur"""@no ;
+	<ingress>		"""Kjekk familietur som er mye brukt av bÃ¥de av lokale beboere pÃ¥ Drange og hyttefolket."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+begynner fra Langavatnet pÃ¥ Drange. FÃ¸lg traktorveien som gÃ¥r innover langs med
+Langavatnet mot Askvik. Like etter nordenden av vatnet gÃ¥r skogsveien over til
+en sti som gÃ¥r over stormyra. Her mÃ¥ man vÃ¦re obs pÃ¥ at det er blÃ¸tt. PÃ¥ andre
+siden av myren kommer man inn pÃ¥ skogsveien igjen. FÃ¸lg veien nesten helt frem
+til plastbÃ¥tfabrikken. Det er merket mot HÃ¸glikampen. FÃ¸lg stien Ã¸stover. Ved
+stidele kan man gÃ¥ begge veier, ettersom begge gÃ¥r opp til HÃ¸glikampen. Stien
+til hÃ¸yre gir best utsikt og er mindre bratt, men er en tanke lengre. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra
+toppen av HÃ¸glikampen (266 moh.) er de fin utsikt mot Ytre Drange, Lysefjorden
+og Krokeide. Her er det fint Ã¥ ta en liten rast fÃ¸r man gÃ¥r videre. Turen
+fortsetter mot i nordÃ¸stlig retning til Skiftehaugen. Langs stien kan man se et
+skilt merket â€™Tyskerhytteâ€™. Her kan man se rester etter en tysk
+observasjonspost og en forlegningshytte fra andre verdenskrig. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra
+Skifteshaugen gÃ¥r man i nordvestlig retning nedover Drangefjellet tilbake til
+Langavatnet. Her treffer man pÃ¥ stien man kom inn pÃ¥. FÃ¸lg denne tilbake til
+Drangeveien. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r
+til Drange i Lysefjorden, Os. Parkering ved inngangen til turen, rett ved
+Langavatnet. Man kan ogsÃ¥ ta buss nr. 62 fra Lagunen storsenter til Drange. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar rundt 2 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I
+hovedsak passer denne turen for alle, ta gjerne med barna. Turen er ikke egnet
+for trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyr:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Kle
+deg etter vÃ¦ret. Deler av turen gÃ¥r gjennom myr, sÃ¥ vanntette sko er Ã¥
+anbefale.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veg- og turkart for Os, Austevoll 1115 ll.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/i&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e37a23187a4c.jpg> ;
+	<image_credit>		"""Erlend Spurkeland""" ;
+	<created>		"""2011-08-02 08:29:04""" ;

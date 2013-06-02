@@ -1,0 +1,39 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route216>
+	a	...Thing... ;
+	<name>		"""Kvitursvika, rundtur om Flesland"""@no ;
+	<ingress>		"""Enkel og fin rundtur helt ytterst pÃ¥ Grimstad/Flesland."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter pÃ¥ Kvitursvika, helt ytterst pÃ¥ Grimstad i Ytrebydga bydel. Ta
+av pÃ¥ stien mot venstre rett etter det siste huset pÃ¥ venstre side. FÃ¸lg stien
+som strekker seg sÃ¸rover mot Flesland. Stien gÃ¥r pÃ¥ nedsiden av Flesland
+flyplass med havet pÃ¥ hÃ¸yre side. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hold til hÃ¸yre pÃ¥ ved stiskille og fÃ¸lg veien langs med havet. Her er
+terrenget myrlendt, sÃ¥ vÃ¦r obs pÃ¥ at det kan vÃ¦re blÃ¸tt. Turen fÃ¸lger stien
+frem til Botnanestet og enden av Fleslandsveien. Stien gÃ¥r sÃ¥ videre mot nord
+rundt HolarstÃ¸lsdalen og tilbake til stidelet. Her fÃ¸lger man samme stien
+tilbake til Kvitursvika.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r til Kvitursvika som ligger helt ytterst pÃ¥ Grimstad i
+Ytrebydga bydel. Det er ingen avsatte parkeringsplasser her, sÃ¥ vis hensyn
+dersom du kommer i bil. Man kan ogsÃ¥ komme ved buss. Ta buss nr. 50E fra Bergen sentrum til Dollviken terminal. Herfra
+tar man buss nr. 52 videre til Grimstadneset. Bussturen tar rundt 1 time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rundturen tar rundt 1 time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for de aller fleste, ta gjerne med barna. Stien er ikke tilpasset
+for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter vÃ¦ret. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2d319976156.jpg> ;
+	<image_credit>		"""Meyer Foto """ ;
+	<created>		"""2011-07-25 11:04:25""" ;

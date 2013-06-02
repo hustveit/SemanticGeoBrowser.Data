@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route341>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/341> ;
+	<name>					"""Breistein-Hetlebakksåta"""@no ;
+	<length_in_time>		"""45""" ;
+	<length_in_km>			"""1.7""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-11-08 10:49:37""" ;
+	<encoded_path>		"""ejdpJkd~_@R`An@N^vAo@dELXx@Ij@?^?|@{@\EP?XTHjAHfAb@d@x@`@z@Kd@ObAu@h@z@Rp@Vj@FTX`A^|BPlBQjAWZOt@RZRJl@`ALd@f@^l@d@^YdAcBr@eAd@k@dAmAtAkAd@a@n@e@~@aA`AgA`@u@j@e@vANTKnAf@b@Hd@Ut@Nx@o@Vw@Tk@^?p@Ed@Yv@QPk@FaAZo@Fk@GqA""" ;

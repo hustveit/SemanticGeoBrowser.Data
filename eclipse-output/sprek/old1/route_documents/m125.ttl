@@ -1,0 +1,36 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route125>
+	a	...Thing... ;
+	<name>		"""Lysekloster - Lyshornet"""@no ;
+	<ingress>		"""Fra toppen av Lyshornet er det nydelig utsikt mot Gullfjellet, Tysnes og Lysefjorden med Ole Bull sin villa pÃ¥ LysÃ¸ya."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter ved Lyseklosterruinene, en ekstra severdighet pÃ¥ veien. For Ã¥ komme til fjellroten gÃ¥r man gjennom en liten grind. GÃ¥ videre over en liten bro og fÃ¸lg stien frem til grusveien, hvor man tar til venstre. FÃ¸lg grusveien et lite stykke, ta fÃ¸rste til hÃ¸yre og begynn stigningen opp Lysehornet ved skogkanten. Stien opp til toppen er lett Ã¥ fÃ¸lge, men kan vÃ¦re noe bratt til tider. Det er nydelig utsikt fra toppen og man kan se langt utover Lysefjorden. GÃ¥ samme vei ned fra fjellet igjen.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Mesteparten av turen gÃ¥r gjennom gammel furuskog som gir ly for vÃ¦ret. Det er bratt stigning i starten som avtar midtveis, for sÃ¥ Ã¥ stige bratt mot slutten igjen.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Fra Bergen kan du kjÃ¸re over Fanafjellet eller du kan kjÃ¸re via Nesttun til SÃ¸fteland og ta av til Lysekloster over Langeskogen. Det gÃ¥r buss til Buena kai og herfra er det en kort spasertur til klosterruinene. Fra ruinene er det en godt merket grusvei som gÃ¥r over i en tydelig sti. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;De raskeste kan lÃ¸pe til topps pÃ¥ rundt 20 minutter. Tar du turen som en kombinasjon av trim og rekreasjon vil hele turen ta rundt to timer.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Turen passer for de aller fleste. Turen er en populÃ¦r treningstur i ukedagene, mens i helgene er det mange barnefamilier her. Det er nydelige rasteplasser pÃ¥ toppen. Turen er uegnet for trillevogn og rullestol.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Vanntett fottÃ¸y kan vÃ¦re en fordel hvis det har regnet en del. Flere smÃ¥ bekker passeres pÃ¥ veien. Har det vÃ¦rt tÃ¸rt, holder det med joggesko. I vintersesongen er det supert Ã¥ gÃ¥ med piggsko.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;BR&gt;Lyshornet er (404 moh). PÃ¥ Buena kai ligger det nÃ¦rbutikk som har Ã¥pent til klokken 20 pÃ¥ hverdager og til 18 pÃ¥ lÃ¸rdager. I sommersesongen har butikken sÃ¸ndagsÃ¥pent.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;Lysekloster&lt;/I&gt;&lt;BR&gt;Lenge fÃ¸r Lysekloster ble opprettet, lÃ¥ gÃ¥rden Lyse et stykke opp fra sjÃ¸en innerst i Lysefjorden. Den var i 1140-Ã¥rene eid av biskopen i Bergen, Sigurd. Under en Englands-tur ble han sÃ¥ fascinert av de fromme cisterciensermunkene at han tok noen av dem med hjem til Lyse. Klosteret ble bygget og overlatt til munkene.&lt;BR&gt;Da reformasjonen ble innfÃ¸rt i Norge i 1536, regnet danskekongen Christian III Lysekloster som statens eiendom, og det ble forvaltet av ulike danske adelsmenn. Etter hvert forfalt klosterhusene; kongen og adelsmennene brukte tÃ¸mmeret og steinene til andre praktbygninger. F.eks. finnes stein fra Lysekloster-murene bÃ¥de i RosenkrantztÃ¥rnet i Bergen og Kronborg slott i Danmark.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Da det ikke lenger var mulig Ã¥ bo i klosterhusene, fikk en av de danske fogdene i 1613 bygget nytt bolighus nÃ¦r den gamle Lyse-gÃ¥rden. I 1670 kom Lysekloster i privat eie. OgsÃ¥ skogen, fiskerettene og 200 gÃ¥rder i Os og andre bygder hÃ¸rte med til eiendommen. Etter hvert framsto Lysekloster igjen som et storgods. NÃ¥vÃ¦rende Lysekloster gÃ¥rd ligger der den gamle hovedbygningen sto. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;Klosterruinene &lt;/I&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Lysekloster-ruinene ble restaurert i 1930 og gir et godt inntrykk av hvordan anlegget har sett ut. PÃ¥ vestsiden av murene er det ogsÃ¥ stÃ¸pt en modell som viser hvilken funksjon de ulike rommene hadde. I klostergÃ¥rder pleier det Ã¥ vÃ¦re frodig vegetasjon; gjerne med sjeldne planter, og slik var det nok i Lysekloster ogsÃ¥. Av Â«klosterplanteneÂ» har akeleien spredd seg til flere steder. En gammel norsk flora nevner snÃ¸klokke og pinselilje som viltvoksende planter ved Lysekloster, ogsÃ¥ den sjeldne murtorskemunn. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Munkene var ogsÃ¥ sÃ¦rlig interessert i fruktdyrking. Lysekloster anla stor frukthage pÃ¥ Opedal i Ullensvang, og dette ble begynnelsen til fruktdyrkingen i Hardanger. For Ã¸vrig var munkene opptatt av Ã¥ verne fiskeretten sin i Osvassdraget. PÃ¥ slutten av 1200-tallet satte munkene laksegard tvers over elven, slik at ingen laks kom forbi klosterets laksekjer. Dermed begynte en laksestrid mellom Lysekloster og Os prestegÃ¥rd â€“ som ogsÃ¥ hadde fiskerettigheter â€“ som varte i ca. 50 Ã¥r fÃ¸r munkene omsider mÃ¥tte gi seg.&lt;BR&gt;(Kilde: Â«Se deg omkringÂ», Naturvernforbundet Hordaland)&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;B&gt;Kart: &lt;/B&gt;&lt;BR&gt;Austevoll 115 II.&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e16c02928584.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-06-03 10:24:20""" ;

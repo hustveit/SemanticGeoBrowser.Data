@@ -1,0 +1,59 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route179>
+	a	...Thing... ;
+	<name>		"""BÃ¥taleitet-Rispingen"""@no ;
+	<ingress>		"""Turen til Rispingen gÃ¥r langs en luftig fjellrygg med nydelig utsikt mot SÃ¸rfjorden."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved BÃ¥taleitet. FÃ¸lg hovedveien
+nordover rundt svingen. Her gÃ¥ man inn pÃ¥ stien som gÃ¥r mot hÃ¸yre pÃ¥ Ã¸stsiden
+av parkeringen. FÃ¸lg stien videre i nordlig retning. Den gÃ¥r i mykt og slakt
+terreng uten bratte stigninger inntil man skal opp pÃ¥ Olsnesnipa (532 m.o.h.) PÃ¥
+toppen av Olsensnipa flater terrenget ut igjen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Litt senere kommer man til et stiskille
+mot OlsnessÃ¥ta. Her fortsetter du imidlertid pÃ¥ den stien du er pÃ¥ videre
+nordover. Underveis passerer man mange fine vann og tjern. PÃ¥ toppen av
+Raudskredbruna ligger en to meter hÃ¸y varde. Herfra er det nydelig utsikt mot
+bl.a. Stanghelle, som ligger i en â€&#157;klÃ¸ftâ€&#157; der fjorden smalner inn i mot Dale.
+NÃ¥ dreier stien i nordvestlig retning og fÃ¸lger pÃ¥ Ã¸stsiden av BrunatjÃ¸rna. SÃ¥
+mÃ¥ man litt ned fÃ¸r siste stigningen opp til platÃ¥et ved Rispingen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Man kan ogsÃ¥ gÃ¥ til Rispingen fra
+Blomdalen lenger inne pÃ¥ Ã¸yen. Da kjÃ¸rer man forbi parkeringen pÃ¥ BÃ¥taleitet og
+fortsetter til veiskillet mellom Hakanes og Blomdalen. Hold til venstre og
+fortsett til parkering (liten) ved Blomdalen og ta opp mot Ã¸st og senere
+sÃ¸rover pÃ¥ eggen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta toget til Arna stasjon og buss nr. 200 videre til Kvisti (OsterÃ¸y), hvor en ny buss nr. 201 vil fÃ¸re deg til Bruvik.
+Kommer man i bil har BÃ¥taleitet
+stor p-plass.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar mellom 3 og 4 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste. Turen gÃ¥r hovedsaklig pÃ¥ sti og er
+derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;
+OsterÃ¸y er 330 kmÂ² stor og er Nord-Europas
+stÃ¸rste innlandsÃ¸y. Ã˜yens stÃ¸rrelse og topografi gjÃ¸r den sÃ¦rlig egnet for
+turutflukter, og mulighetene er mange. OsterÃ¸y har mange severdigheter for dem
+som har et vÃ¥kent Ã¸ye for Ã¸yens mangfold. Kvisti bru har gjort OsterÃ¸y lett tilgjengelig.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Rispingen ligger 742 m.o.h. og er en lett
+tilgjengelig og luftig fjellrygg langs SÃ¸rfjorden.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1215 IV Samnanger (1:50 000), 1216 III
+Stanghelle (1:50 000), Osterfjord fiske- og friluftskart (1:75 000).&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e15767d6bf91.jpg> ;
+	<image_credit>		"""Arnt Flatmo""" ;
+	<created>		"""2011-07-07 11:03:57""" ;

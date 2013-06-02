@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route80>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/80> ;
+	<name>					"""Fløyen-Skomakerdiket"""@no ;
+	<length_in_time>		"""15""" ;
+	<length_in_km>			"""0.8""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>				"""2011-04-11 15:45:34""" ;
+	<encoded_path>		"""{zroJ{st_@M_@]Me@d@g@nA]hBG~@CfCBz@DRtA~Ar@Uf@_@jBIPN^r@??w@tCu@~E_AhEEdAB`AGfAMr@@\Jd@J`Bb@lAAv@UdB??KdC""" ;
+	<routes_spots>		"""http://__thing_place_uri__30""" ;

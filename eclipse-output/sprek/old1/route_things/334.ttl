@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route334>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/334> ;
+	<name>		"""HelgesÃ¦ter â€“ Ulriken"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""4.4""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-02 15:10:07""" ;
+	<encoded_path>		"""ufjoJc_|_@_A@u@AgAk@_Ao@_@Ks@Cc@JIHDJ`@t@z@zArAzBh@z@Jb@Dj@G?II_@]c@c@a@Sk@Ei@?eALu@Is@YyAmA}@u@aAaAa@k@]aA_@mBa@gCIeAFc@RYb@?L?BE@QYU[KQIUKi@C]C]v@Sb@K?GYLoAVk@@UEIi@V_@J}@L_@?]?MMCKHWR?h@SPq@?a@GAm@LMBQCWQm@o@a@w@cAsAc@u@SUQQS?SCWc@YHy@rAYj@Qv@o@fAg@lBOFYH?XB`@SZQdAi@hAm@|AQn@q@n@w@dB[dBc@l@Q^Ef@KDUf@YVc@_BQ{@SIEUEYIYKWEQK[a@g@Ms@Gg@?YSRC\Wf@c@PIOQs@SK_@@M?k@LQMMA]KWQa@k@SQ[Ak@CUCY^a@f@O\GQI?KNY?q@R_@NOC[FKOUFEAQFk@BSFSNIRQj@[l@G@GPc@b@m@f@[LSKO@M`@_@^Gf@]\S?Zp@?TOPQMq@\k@ZmAz@w@ZO\o@Xc@Qc@C[K[IOc@Co@GQYHSJ]@k@j@IW[]o@Ym@UIPSNGV@TLj@?XYlAc@Zi@\{@^Yh@UT[LUHSf@QN[TK^Yj@UlAWt@i@l@_@r@w@TO\BL?|AW?[j@ERm@LYGMYUWu@DMIIOYn@Wd@E`AWt@CXSTI|Aa@lAc@rAe@t@S~@Ab@In@a@`A?ZVlARdA""" ;

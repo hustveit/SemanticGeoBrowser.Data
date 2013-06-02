@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place88>
+	a						...Thing... ;
+	<name>					"""Maritime Colours"""@no ;
+	<altitude>				"""100""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/2971681> ;
+	<gowalla_lng>			"""5.321858033""" ;
+	<gowalla_lat>			"""60.405769033""" ;

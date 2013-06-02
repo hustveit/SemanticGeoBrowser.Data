@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route332>
+	a	...Thing... ;
+	<name>		"""Helgesæter ââ‚¬â€œ Nubbevatnet"""@no ;
+	<ingress>		"""Lett tur på Landåsfjellet."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Dette er en enkel ettermiddagstur til Nubben/Nubbevatnet ââ‚¬â€œ et flott fjellvann og rasteplass på Landåsfjellet. Det er lett å komme seg hit, flott turterreng og flotte utsiktspunkter over "hele" Bergen like ved. Fra parkeringsplassen går det grusvei oppover til ca. 50-100 meter fra Nubbevatnet, der grusveien går over i steinete sti. Det er mulig å få med seg barnevogn helt opp til enden på grusveien, men det er bratt, så bæremeis er nok det beste om man ikke har skubbehjelp. Det er fint å bade her sommerstid.&lt;br&gt;&lt;b&gt;&lt;br&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Parkering ved parkeringsplassen rett etter man har passert Helgesæter.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Ca. 1 time tur/retur&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en lett tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4eb137ca1b2e2.jpg> ;
+	<image_credit>		"""BT""" ;
+	<created>		"""2011-11-02 13:20:23""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route52>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/52> ;
+	<name>		"""Bergheim - Kolbeinsvarden"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""2.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-03-21 14:45:40""" ;
+	<encoded_path>		"""suwoJcv{^????_@VSf@Yb@YV]d@Qj@[J]NSf@Qf@U^Ix@WVYp@Mp@BhAHr@It@?`ASf@Un@?z@Pz@Jr@Bx@Pn@XXHr@Dt@Wd@YRUb@U`@Ot@Uj@Ud@Kn@_@@[D[Ja@D[B[?YVW`@Qf@Wj@Sd@Sd@Sf@_@VYZ[@[L[L[L[IYI[I[@c@ZW\WV_@B[J[BSc@[_@]CYDYLYXU^YXYX[HYVYC[CYNYRYYQg@W[[_@W[YG[J]T[DYO[C_@?[QYMYUOo@Oo@Se@W\W\YN]R_@?Ub@[RUd@[LSb@]Ia@@YR[LYRYK[DWZ[FYRYR]AYG]^Sf@YZW\Sb@[J[L[?YLWVYL[PYRYE[DYVWXUf@Mp@Sh@Sb@Ub@Sh@Ub@Qf@U^YXOj@W^WTAx@Dv@@v@Gv@Ht@??""" ;

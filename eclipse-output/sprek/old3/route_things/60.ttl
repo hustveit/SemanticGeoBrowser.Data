@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route60>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/60> ;
+	<name>					"""Osavatn-Redningshytten-Gullfjellstoppen"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""9""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-03-23 10:25:18""" ;
+	<encoded_path>		"""}|ooJmru`@U}Au@{@}@e@aAmAiA}Ai@mDuEaKcBwGgAmB]}A_@cE?aFFw@^u@Rq@^sDOcCGwGk@oD?gBFsA~@aGg@Ie@t@a@k@c@gAa@k@aDmBq@o@Sq@c@mBWkA?mA_@}AEeA_AyC]e@e@sBg@cCm@kAWkDn@{Ad@g@^wAb@{@FsCH[JDn@pA`@{Ab@n@\qBf@}AdAsBrAmC`AgBRq@v@aAbBsCtAe@z@aAdA[dBaAbBKz@`@p@N|@fBtAlAfCjAvADdEmB~Aa@dBZjADbDk@`C{@lCUx@]nBwAnAs@X}AH]fAgAjBkCfAkArAwA|B_Ad@}ArAqBLsAnA}DLs@G}@@Y]c@@@d@H`@w@f@g@N}@Ey@RaA?sBCsBf@oC\cBx@y@jAaA`@Dj@s@Vi@j@Uj@]fAmAp@y@p@_Ah@a@`AkBj@iAl@g@v@yAz@mBx@_B?[BS?[Da@T_Ad@e@NMFSLSLGNQP?NK@WN]Li@Xw@F]]FOKKBSCYPo@PUQKISg@Ai@Fq@JeAF[?_AYAa@FIw@OaBDiAoBsHuAwAqBcCGMoCMuCl@mFIqDc@mF[_N`@cAeC}AMm@gAF{CZc@tBaAvBgBTmCYgD@C?FaB}DoBiQ_CwDuAuJkI_GgIjNiQ~CiDbFyBoAeDZqAwIkA_G{JyFiCcCkCoI""" ;
+	<routes_spots>		"""http://__thing_place_uri__125""" ;

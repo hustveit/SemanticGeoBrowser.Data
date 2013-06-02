@@ -1,0 +1,44 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike237>
+	a	...Thing... ;
+	dct:title				"""Stølane-Pyttane"""@no ;
+	<ingress>		"""Flott tur opp til Pyttane. Veien er asfaltert hele veien opp så det er fult mulig å ta med barnevognen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+begynner fra Stølane i Fjell kommune på Sotra. Ta av fra Erkhovdveien og ta av
+opp mot Nordre Stølane. Hele turen går på asfaltvei og er veldig lett å
+følge. Det er jevn stigning langs hele traseèn. Veien krysser Svartebekken som
+renner ned fra Stemmavatnet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Veien
+går videre opp til Dumpehaugen (180 moh.) før den strekker seg opp mot toppen
+av Pyttane. Her er det fint å ta en rast før man går ned igjen. Det er flott
+utsikt og man kan se bort på nabotoppen, Liatårnet (341 moh.).Returner via
+samme vei. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør
+til Stølane i Fjell kommune på Sotra. Det er ingen avsatt parkering, så utvis
+hensyn når du parkerer. Man kan også ta buss nr. 448 fra Bildøy bro til Liatårnvegen.
+Fra Liatårnvegen må man gå 5 minutter til Stølane.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen
+tar rundt 1 time. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer
+for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne
+turen passer for alle, ta veldig gjerne med barna. Turen går på asfaltert vei
+så den er særs godt egnet for bruk av trillevogn eller rullestol, men være obs
+på at turen har en del stigning. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle
+deg etter været. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e37d1b85b909.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-08-02 12:28:01""" ;

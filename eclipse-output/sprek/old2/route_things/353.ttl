@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route353>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/353> ;
+	<name>		"""Ulriken-Vidden-Svartediket"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>		"""12.1""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-12-05 12:04:25""" ;
+	<encoded_path>		"""qmooJ{az_@Ee@p@oACaAjBaFb@kCVwAb@cCr@k@Ly@v@eBXGb@_Bp@}Dx@gDHuBt@}DXiAKgA[T_@?y@qAQ}AM]cA?gAk@g@wAEwALgAGqA\eB^{B?k@Mc@h@_BLiAC{Bb@k@b@_BrAiCVoALwAj@}B?wAH[Bk@J{@KgAj@k@bAmEjAaFlAoGLq@W}BGsBgAiA_@}AIaAgA{@_@k@K{BUwAi@y@KAc@q@i@gBKk@g@MmB{B_AU[Uo@k@e@?Yi@kAa@_A?_@?KU_@Iu@?Y?uAHe@?_@JaA?e@a@Y_@u@?KKi@_@k@cBo@UkAk@i@?D`Aa@JC`Ak@vAi@`A{@^e@?e@jAe@TSJk@?kA`Ai@?u@Tq@Ho@v@_A?u@?{@Ki@Tq@?eAJy@?_@Hu@Te@Je@?e@a@i@?q@`@e@jAOJiATaAKo@UuAu@e@k@u@a@{@IeAUYMq@LO]W?o@Uc@Ni@?Ue@c@aA_@[c@?m@Dk@Um@Mc@Mk@Uc@]i@GY?WMa@FE?k@?k@Gq@FQ?_@Oc@UYk@c@aAc@[UUc@k@e@c@c@]YGUk@S?g@g@UE[{@_@e@IO?g@EOCaAe@?Se@_@[YCm@?Wa@[Oe@?u@?a@O[HUj@STU^_@?k@?_@?g@IS?Gj@i@HS`@O^YIm@?m@ToANU?aAv@o@t@gAz@{@j@o@v@w@pBUv@?t@Wp@STUbBWt@g@p@IHe@`AS`@c@pA{@vBc@vA_AbBa@jAYj@a@fAe@|BSfAg@t@]DqAnDm@nA_@vAcAb@g@`AGhAWvAo@DuBpFm@~Ay@zEY~CcChDc@?y@?qA|Ac@?m@TU?uA`AcCfGcBnDiBdEUNQD_@`Ak@Lm@fBMvAtBb@tAmB`BuBlBEfAb@jAwAfBwAf@FXU~@\bADjAzBx@vAp@|BZpCb@nI?hA_@vLTvAd@lB`Bj@fCbC`B`ACb@dBj@pAx@bAd@fBDXTzA?jCj@vBNfBOlA[n@?xAThAZfANfAx@rAb@?D|@@LIx@OT?\O`@c@j@IP@\JL?ZMb@m@\_@f@Od@c@ZQb@?@?d@DvANrA?l@e@dAk@bAaAv@e@TUdAKX?jACj@B`@`AJvAYfBFv@X`Af@?lAaANw@^kALDNTJj@O`Ak@z@a@fAKXw@~Cg@fBExCQfAaAvG?`Ap@nDn@tE|@jAl@bBh@dF?rBVz@^TVj@XvAnAzE|AnEx@p@NvAIj@Nj@pBHd@v@fA@dAvAF`Aa@`A?pAt@~Bx@xDrDbDbCbHhArCt@rClAp@tAZz@OZ[""" ;

@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place60>
+	a	...Thing... ;
+	
+	dct:title				"""Svartediket"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		""""""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""NULL""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		"""NULL"""@no ;
+	<trimtoppen_image_credit>		"""NULL""" ;
+	<created>		"""2011-04-12 15:12:34""" ;
+	<modified>		"""2011-04-12 15:12:34""" ;
+	<gowalla_name>		"""Bom Svartediket"""@no ;
+	<gowalla_description>		""" """@no ;

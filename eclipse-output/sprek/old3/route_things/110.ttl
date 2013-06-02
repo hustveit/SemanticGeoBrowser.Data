@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route110>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/110> ;
+	<name>					"""Flaktveit/Fossane - Storesåta"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""2.3""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-11 14:23:24""" ;
+	<encoded_path>		"""}l}oJs`u_@@o@Ib@MXQO@c@QHW@MVD`@@d@Eb@@f@Cd@?f@Fd@@b@?d@Af@Cb@J\@f@Cb@?d@F`@Bf@F\H^Db@Gb@Eb@OVI^@b@I^ORI\QPQDSHOJAd@I^ONSFQJQNOPONONKZOTOVQ@QPMTOTAf@JZJZOXOTMVOLOTKXK\I^ORSGSKQGS@OLQNQJSEK[K]M]I]K_@G_@OYI]?e@Ge@QCSCQBQESIOKM[QOQ@MTQHSDK\I\K^ORORIb@SBQESNOJOXI^G`@OXKXOPS?OLMZMTQNMWK]QJQHORQTSFOJSDQHQRORQJQPQHQHS@QGSCQ?QHSBONQDOPSJSKQASEQROPQHQHORQMQFQGQBS@QOK]MWSEAd@?b@Gf@M\ONQJJ^Bf@@b@OREf@E`@QLOTKXMZMVK\Cd@Ad@G`@SHOPEb@G`@QFI^SHQBQNS@QCSFSBS?SAQEEc@B]oCuP????OTIZ????""" ;

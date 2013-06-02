@@ -1,0 +1,38 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike158>
+	dct:title				"""Svartediket ââ‚¬â€œ Bergensbakken"""@no ;
+	sf_ont:ingress			"""Ta en tur tilbake i tiden. Hopprenn i Bergensbakken samlet 10.000 tilskuere. """@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter på Svartediksstemmen. Følg veien til enden av Svartediket. Her tar man opp til venstre og følger veien videre opp Våkendalen. Traseen er delvis den samme som den gamle bygdeveien som gikk til gårdene i området. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fortsett gjennom hele Våkendalen, frem til Tarlebøvatnet (377 moh.). Fra Tarlebøvannet følges nyrestaurert sti mot Rundemannen i drøye 500 meter. Da kommer du gjennom en lysning og kan ane hvor hopperne stoppet etter at de hadde hoppet. Skihoppet ligger til venstre i lien. Bergensbakken ligger i lien mellom Rundemannen og Tarlebøvannet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;En alternativ måte å komme seg til Bergensbakken på, er å gå fra Rundemannen. Da følger stien ned Hytteliten, i retning Vidden. Nederst i Hyttelien følger du veien som er skiltet videre mot Isdalen. Følg denne i ca 300 meter. Hoppbakken er da til høyre for deg.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Tarlebøveien langs Svartediket er stengt for motorisert ferdsel med bom. Det er best å gå, sykle eller ta buss til området, fordi det er begrenset med parkeringsmuligheter. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen tar mellom 2 og 3 timer å gå tur-retur.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen passer for de aller fleste. Det grusvei hele turen så det er mulig å benytte trillevogn og rullestol. Vær obs på at det er visse strekninger som er ganske bratt.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr og bruk av gode fjellsko er anbefalt.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Navnene Isdalen og Våkendalen er begge brukt om dalføret mellom Ulriken, Blåmannen og Vidden. Gårdsdriften her kan spores tilbake til 1200-tallet. Antall gårdsbruk i dalen har variert noe gjennom tidene. På det meste har det vært i alle fall 12 medregnet husmannsplassene. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ivrige turgåere vil kjenne igjen steds ââ‚¬â€œ og gårdsnavnene Kobbeltveit, Tarlebø, Hardbakka og Garmannslund. Gårdene hadde store husmurer som vernet bygninger mot regn og vind. Uthus av stein, støttemurer, steingarder og et nett av hoved ââ‚¬â€œ og markeveier finnes overalt. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Verdensmester Birger Ruud åpnet bakken i 1937. Under Bergensrennet 20.februar 1938 var det 10.000 tilskuere her. Det var stor stemning, men underveis i rennet skapte været vansker og BT skrev : ââ‚¬&#157;I annen omgang seg der inn en tett tåke. Man kunne en stund ikke se fra Redningshytten til hoppet og for dommerne på tribunen var det meget vanskelig å se helt til topps på fartsstillaset og helt til slutten av flaten.ââ‚¬&#157;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bergensbakken.com/"&gt;Les mer om Bergensbakken her.&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Isdalen (1:10 000), 1115 I Bergen (1:50&amp;nbsp;000), Tur ââ‚¬â€œ og Friluftskart Bergen (1:25 000), 7-fjellsturen turkart (1:25 000).&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e046d188337c.jpg> ;
+	sf_ont:image_credit		"""Jens Kleiven""" ;
+	dct:created				"""2011-06-24 12:53:12""" .

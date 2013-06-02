@@ -1,0 +1,28 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike114>
+	dct:title				"""Hjortland-Simsedalen-Vikinghytten"""@no ;
+	sf_ont:ingress			"""Ta turen opp til Vikinghytten på en søndag og nyt en kopp kaffe."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra parkeringsplassen på
+Hjortland. Følg skogsbilvegen til enden, her tar stien av oppover mot høyre. Stien går opp fjellsiden og treffer varderekken
+fra Rolland på toppen av ryggen. Denne følger en til Vikinghytten, som har servering på
+søndager. Partier opp fjellsiden kan være noe myrete,
+ellers er det fast og fint å gå. Den første delen er grusveg.&lt;/p&gt;
+&lt;p&gt;Går en på ski om vinteren er det bedre å ta til
+venstre ved enden av skogsbilvegen og følge Nauddalen opp i skaret ovenfor
+Nordhytten, og gå opp på ryggen herfra.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;
+Kjør til Hjortland. Bruk parkeringsplassen der traktorveien begynner, et
+ par hundre meter forbi den innerste Hjortlands-gården. Man kan også ta 
+buss nr 4 til Flaktveitsvingane/Hjortlandsvegen. Følg Hjortlandsvegen 
+innover til p-plassen hvor turveien starter. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Beregn en time på turen frem til Vikinghytten.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Velegnet for familieturer, samt alle som er i normalt bra form. Velegnet
+for skigåere. Hvis du går til fots, unngå for all del å tråkke i 
+skisporet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gode tursko er en fordel. Husk at været skifter fort. Vindtett tøy er nødvendig.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Kart:&lt;/span&gt; &lt;br&gt;Orienteringskart Hjortland 1:10.000
+Tur- og Friluftskart Bergen 1: 25.000
+Bergen 1:50 000
+&lt;/p&gt;
+"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4dca970608edc.jpg> ;
+	sf_ont:image_credit		"""Helge Sunde""" ;
+	dct:created				"""2011-05-11 15:51:17""" .

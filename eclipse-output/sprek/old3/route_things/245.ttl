@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route245>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/245> ;
+	<name>					"""Riple-Totlandsfjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3.1""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-08-04 13:52:09""" ;
+	<encoded_path>		"""cscoJosf`@RfAeEXlCxF^t@M`DYt@Mk@}Ao@k@q@Q?sBBc@POt@g@q@SvAOf@WHV`Ab@jC`@bCB`B{AtCEdAoAMoBkCkFk@gAk@kAeEqHcH}BwDmBoDwBq@kAaAiCT_BaA_@\aAOcCsBgAqA}Bq@cBmByBoDaAaAiAp@gGsEuBiCyB}ByATKoAgB_BsFuDCc@cC{@q@pAk@k@mAwA""" ;

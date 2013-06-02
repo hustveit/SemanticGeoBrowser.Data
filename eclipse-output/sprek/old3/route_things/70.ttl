@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route70>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/70> ;
+	<name>					"""Kjøkkelvik - Lyderhorn"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>			"""0.9""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-04-01 08:45:31""" ;
+	<encoded_path>		"""qeooJc~|^??ZaBb@_@XY^WRc@p@gAd@k@XWPs@Lu@Ri@T]V_@Zy@Zc@ZKVYV_@Rg@Tu@`@s@@_APk@Tq@`@i@XWZUTe@\w@Tc@JsAJmADy@Hq@Fy@Dw@L_A@w@WYYQYO]Fa@C]I[C[I]O]F[KYe@]C""" ;

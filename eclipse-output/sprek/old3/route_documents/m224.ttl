@@ -1,0 +1,30 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route224>
+	a	...Thing... ;
+	<name>		"""Laksevåg-Damsgårdsfjellet"""@no ;
+	<ingress>		"""Kjapp og fin tur opp på Damsgårdsfjellet."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved enden av Herman Grans vei på Laksevåg. Følg veien helt til
+enden og ta inn på stien mellom to av husene. Følg stien oppover i skogen på
+venstre side av Vågedalen. I vågedalen går det en parallell sti som man også kan følge for å
+komme til toppen. Stien et lett å følge. Den går hele tiden i sørlig retning. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Når man er kommet opp på toppen er det fint å ta en liten rast før man går
+ned igjen. Man kan returnere lags samme trasé eller velge å gå videre ned til Melkeplassen. Se:&lt;a href="http://tur.bt.no/tur/157"&gt; Damsgårdsfjellet-Gravdalsfjellet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kan kjøre til Laksevåg senter og parkere her.Herfra må man gå ti minutter pp til Herman
+Grans vei. Man kan også ta buss nr. 16 eller 17 fra sentrum til Laksevåg. Gå av på
+busstoppet like før Laksevåg senter.&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt tre kvarter å gå opp.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen er uegnet
+for trillevogn og rullestol. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter været. Man kan godt benytte fjellsko. &lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e300cdc15712.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-27 15:04:28""" ;

@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place132>
+	a	...Thing... ;
+	
+	dct:title				"""Skranevatnet"""@no ;
+
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-14 14:59:28""" ;
+	<modified>		"""2011-07-22 12:57:36""" ;
+	<gowalla_name>		"""Skranevatnet, Sandsli"""@no ;
+	<gowalla_description>		""" """@no ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route338>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/338> ;
+	<name>		"""Nipedalen-Gravdalsfjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-04 15:42:30""" ;
+	<encoded_path>		"""kpmoJelc_@bAqB\m@^mAEaAa@{BIc@IqE]qBo@aBcAwAy@eBy@uBCUtA}A|AyBh@qBdA_@Z_B?aAE_C@_CY}Cc@kDA[Ae@A}ABwG?i@gAdCw@bBqAx@g@f@q@ZiAd@y@?u@?sAp@eA^k@TYJs@T""" ;

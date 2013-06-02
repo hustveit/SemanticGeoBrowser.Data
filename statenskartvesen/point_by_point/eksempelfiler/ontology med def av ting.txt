@@ -1,0 +1,124 @@
+
+
+
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix rdf:		<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:		<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#Hike>
+	a						owl:Individual ;
+	a						geo:SpatialThing ;
+	
+	a						rdfs:Class ;
+	
+	rdfs:label				"""Hike"""@en ;
+	
+	sf_ont:characterizedBy	[
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		owl:Individual ;
+		] ;
+	
+		sf_ont:rdfTriple [
+			sf_ont:predicate	rdf:type ;
+			sf_ont:object		geo:SpatialThing ;
+		] ;
+		
+		sf_ont:rdfTriple [
+			sf_ont:predicate	sf_ont:Path ;
+		] ;
+		
+	] .
+
+
+* sf_ont:characterizedBy brukast for å sjå etter korleis ein kan finne tingen.
+
+* Over beskriv eg faktisk ein trippel i ein trippel... LOL! :D
+
+* Setter det over inn i denne ontologien: http://data.sognefjord.vestforsk.no/resource/tourism_ontology
+
+
+
+PREFIX  sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#>
+
+SELECT ?p ?o
+WHERE {
+	GRAPH <http://data.sognefjord.vestforsk.no/resource/tourism_ontology> {
+		sf_ont:Hike			?p ?o .
+	}
+}
+
+p 													o
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type 	http://www.w3.org/2000/01/rdf-schema#Class
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type 	http://www.w3.org/2002/07/owl#Individual
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type 	http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing
+http://www.w3.org/2000/01/rdf-schema#label 			"Hike"@en
+http://data.sognefjord.vestforsk.no/resource/ontology#characterizedBy 	nodeID://b25234
+
+
+
+
+
+## Spørjinga under spør etter alle ting av type individual og spatialthing, som har label og er karaktirisert (beskrivelse av eigenskapar).
+
+PREFIX sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#>
+PREFIX rdf:			<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:		<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:			<http://www.w3.org/2002/07/owl#>
+PREFIX geo:			<http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+SELECT
+	?thing_type_uri
+	?thing_type_label
+	
+	?triple_predicate
+	?triple_object
+WHERE {
+	GRAPH <http://data.sognefjord.vestforsk.no/resource/tourism_ontology> {
+		
+		?thing_type_uri
+		
+			rdf:type					owl:Individual ;
+			rdf:type					geo:SpatialThing ;
+			rdfs:label					?thing_type_label ;
+			sf_ont:characterizedBy		?char_blank_node .
+			
+		OPTIONAL {	?char_blank_node			sf_ont:rdfTriple				?triple_blank_node } .
+		OPTIONAL {	?triple_blank_node			sf_ont:predicate				?triple_predicate } .
+		OPTIONAL {	?triple_blank_node			sf_ont:object					?triple_object } .
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+--------- alt under er gammalt! (frå april 2012)
+
+
+@prefix sf_ont:		<http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix rdfs:		<http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#Hike>
+	a						geo:SpatialThing ;
+
+	rdfs:label				"""Hike"""@en .
+	
+	sf_ont:mustHavePredicate	[
+		sf_ont:Path [
+			sf_ont:shouldHavePredicate [
+				sf_ont:Google_encoded_path ;
+		] ;
+	] ;
+	
+	
+	

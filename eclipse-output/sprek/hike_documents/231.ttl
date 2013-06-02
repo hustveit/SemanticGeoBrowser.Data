@@ -1,0 +1,30 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike231>
+	dct:title				"""Indre Sædal-Turnerhytten-Landåsfjellet"""@no ;
+	sf_ont:ingress			"""Fin utsiktstur sør for Ulriken."""@no ;
+	sf_ont:description		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Indre Sædal. Følg grusveien fra Helgesæter nordover mot Vasstølen. Ta til høyre ned mot Gløvrevatnet. Følg stien som går rundt den nordlige delen av Gløvrevatnet. Etter hvert tar den tar en krapp sving mot venstre og går opp Soleibakkane. Følg stien nordover på Vasslifjellet frem til Haukelandstikkene og Turnerhytten. På Turnerhytten er det vanligvis servering på lørdager og søndager. Her er det fint å ta en liten rast før turen går videre. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra Turnerhytten følger man stien og vardene i vestlig retning. Stien går forbi Soria Moria-hytten. Stien man følger blir kalt Indianerstien av de lokale. Man følger Indianerstien et stykke før man går bratt ned til Vassdalsvatnet. Det er satt opp kjettinger langs de mest utsatte stedene. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Fra vannet går stien videre bortover til Glasberget som ligger øverst i Korketrekkeren. Her går stien sørover på Landsåsfjellet mot Baunehytten og Nubbevannet. Dette området er myrlendt, så være obs på at det kan være bløtt. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Baunehytten ligger idyllisk til ved nordenden av Nubbevannet. Her er det populært å bade om sommeren. Følg stien på vestsiden av vannet frem til man møter en grusvei. Følg grusveien nedover mot Nattlandsfjellet. Bakken er litt bratt så hvis man løper må man være forsiktig. Hold til høyre ved veiskillet og etter kort tid vil du være fremme på Nattlandsfjellet.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Kjør til Sædal. Det er mulig å parkere ved vannrenseanlegget, men husk at bommen kan stenges uten forvarsel så det er lurt å holde seg på riktig side. Man kan også ta buss nr. 62 fra sentrum til Sædal. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 4 timer. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste. Turen går hovedsaklig på sti og er derfor uegnet for bruk av rullestol og trillevogn. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;Kle deg etter været. Gode fjellsko er en fordel. Husk å ta med nok mat og drikke.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/I&gt;&lt;/P&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/routes/4e328e5211e4e.jpg> ;
+	sf_ont:image_credit		"""Bergens Tidene""" ;
+	dct:created				"""2011-07-29 12:39:31""" .

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="lonvia.de" version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+                 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+	<metadata>
+		<name>Test</name>
+		<link href="http://test.no">
+			<text>Test</text>
+		</link>
+	</metadata>
+
+	<trk>
+		<trkseg>
+			<trkpt lat="60.31027" lon="5.2091"/>
+			<trkpt lat="60.30926" lon="5.20984"/>
+			<trkpt lat="60.30885" lon="5.21033"/>
+			<trkpt lat="60.30823" lon="5.21081"/>
+			<trkpt lat="60.30773" lon="5.21084"/>
+			<trkpt lat="60.30738" lon="5.21101"/>
+			<trkpt lat="60.30615" lon="5.21081"/>
+			<trkpt lat="60.3055" lon="5.21026"/>
+			<trkpt lat="60.30498" lon="5.20929"/>
+			<trkpt lat="60.30429" lon="5.20861"/>
+			<trkpt lat="60.304" lon="5.20788"/>
+			<trkpt lat="60.30347" lon="5.20734"/>
+			<trkpt lat="60.30256" lon="5.20694"/>
+			<trkpt lat="60.30046" lon="5.2068"/>
+			<trkpt lat="60.3001" lon="5.20751"/>
+			<trkpt lat="60.29934" lon="5.20841"/>
+			<trkpt lat="60.30024" lon="5.20881"/>
+			<trkpt lat="60.30114" lon="5.20923"/>
+			<trkpt lat="60.30149" lon="5.21026"/>
+			<trkpt lat="60.30165" lon="5.21156"/>
+			<trkpt lat="60.30234" lon="5.21211"/>
+			<trkpt lat="60.30335" lon="5.21211"/>
+			<trkpt lat="60.30397" lon="5.21179"/>
+			<trkpt lat="60.30437" lon="5.21147"/>
+			<trkpt lat="60.30447" lon="5.21009"/>
+			<trkpt lat="60.30429" lon="5.20855"/>
+		</trkseg>
+	</trk>
+</gpx>

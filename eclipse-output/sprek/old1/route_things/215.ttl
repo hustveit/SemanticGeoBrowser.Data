@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route215>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/215> ;
+	<name>		"""Bildevatnet"""@no ;
+	<length_in_time>		"""40""" ;
+	<length_in_km>		"""1.2""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-25 10:01:29""" ;
+	<encoded_path>		"""owioJ_dc^pBu@^?pB|Bd@N|DwFjBqAEoDR_@XET^VD`DkFvDE^p@@dJt@jAn@JzAa@jB`AdCNdB`AxBDv@fA""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike264>
+	a	...Thing... ;
+	dct:title				"""Gjøvågsvarden"""@no ;
+	<ingress>		"""På utsiktstopp rett frå småbåthamna."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Fra gjestehamna følgjer ein bilvegen ca. 1 km opp til krysset mot Kaldafoss. Stien startar rett ovanfor krysset og er merkt med turskilt der han tek av frå hovudvegen. Første del av turen går på ein gamal veg frå slutten av 1800-talet. Der denne gamle vegtraseen kryssar ei lita elv, i starten på turen, er det ei gamal bru laga av store steinheller. Litt lengre inne svingar stien opp mot høgre, og ein stig raskt oppover til Ãâ€¦sen som ligg på ca. 200 m.o.h. Alt no har ein god utsikt mot vest og nord og over heile Gjøvåg. Stien er delvis tydeleg og er delvis merkt med raude merke.&lt;br&gt;&lt;br&gt;Fra Ãâ€¦sen flatar stien noko ut og ender på Gjøvågsvarden, 306 m.o.h. Her har du utsikt rundt i alle retningar og heilt til havs.&lt;br&gt;&lt;br&gt;Rett vest for varden, nokre titals høgdemeter lågare, kjem ein til det bratte berget ovanfor Uførene. Dette punktet er registrert som startpunkt for paraglidarflygning når det er vestavind. Ved nordvestvind bør ein starta lengre mot nord. Staden skal eigna seg godt til kveldsflygning.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Gjøvåg er einaste staden på vestsida av Reksteren der det er småbåthamn, og det kan vera eit godt utgangspunkt for ein tur opp på toppen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;1,5 time tur/retur&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Lett tur som passer for de fleste&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Gode joggesko eller fjellsko&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt; &lt;br&gt;Kartblad: Austevoll 1115 II&lt;br&gt;Turkart: Tysnes&lt;br&gt;&lt;br&gt;Turtipset er hentet fra boken Opptur Hordaland&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-10-11 10:07:34""" ;

@@ -1,0 +1,18 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place56>
+	a	...Thing... ;
+	<name>		"""Stendafjellet"""@no ;
+	<ingress>		"""Stendafjellet er (232 moh.) og ligger i RÃ¥dalen i Fana bydel."""@no ;
+	<description>		"""&lt;p&gt;Ved Stend jernbanestasjon stÃ¥r det en gammel togvogn som er Ã¥pen. Det 
+kan vÃ¦re spennende for barn Ã¥ gÃ¥ inn og titte. Det er ogsÃ¥ mulig Ã¥ 
+stikke innom Hordamuseet og kafeen der. Ved museet ligger ogsÃ¥ 
+badestranden Melkeviken.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ad72309447.jpg> ;
+	<image_credit>		"""Sturle Rasmussen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e1ad72309502.JPG> ;
+	<trimtoppen_description>		"""Skiltet er plassert pÃ¥ toppen ved benkene."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-03-31 10:15:56""" ;
+	<modified>		"""2011-07-11 12:57:39""" ;
+	<gowalla_name>		"""Stendafjellet"""@no ;
+	<gowalla_description>		""" """@no ;

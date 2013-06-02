@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route122>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/122> ;
+	<name>					"""Salhus - Nordgardsfjellet - Tellevikafjellet"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""3.5""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-05-24 18:42:16""" ;
+	<encoded_path>		"""yhhpJupc_@LZNNFc@Ec@NIJ[@e@?e@Ia@K_@Cc@?e@Da@Ha@Ia@QCVCNNFa@RRH^VINUPERMJYH_@@e@LSNTJg@N[XGP@H_@Ae@Dq@PGPIRMNSNSH_@Dc@LWLU?e@Bi@Ja@Dk@J_@R?VFPHNIVER?P@J^NPR?R@R?RIPGRKRKPEPMPEPKPMRKLUPQP@LYNQPHRBPFPCRAPFNPPJRFR@PEBd@?f@Ad@Cb@Ed@Cd@I^F`@Db@JXNXNLNPPLF`@PDPBRCPIRHH[PQNKRMPCPER?REPIPCPONUPGRKPANLPJPKPAPENSJ]Cc@?c@Bi@De@Da@?g@@e@J]PMP?PNRFPMPML[NWFc@Ae@Ae@Ja@NQPIPGPMRCP?PKDa@Fc@J[POJW@e@@c@Hc@H[De@Dc@PEPKR?PKJWEc@LYF_@Ac@Be@Bc@Be@Bc@Cg@Bk@Fa@Bc@Ae@MUGa@Ce@K[QOMWOSOWOQI_@Cc@Ae@Ea@Ee@K_@Ea@@c@Dc@Cc@K[Cc@Cg@QMQDQIIa@Ec@I]O]Ec@Ga@I_@Cc@?e@Fe@?e@Be@Ae@SMQLOJS@MUSBQJKZKZGa@I]Q@OSMWGa@K]OSQMOMQFSCQMGc@I]Ce@@e@Bc@@g@?e@Ce@Ac@Ei@Ce@Ia@@c@B_@ABOWDi@?e@OYI_@MUQOEa@Ga@OQ?e@Bc@@g@@c@H_@Fc@Fa@H_@?s@SXGb@SLOPQRKXI`@K^KZQBSCEa@SCQ@QCQKK^I\K\MXORSCQIQOK[SGSFQHOVSBQFQHSDQKQIQESKOPQGQLQHQDSCQDQJQHSBORM\KZOPI?""" ;
+	<routes_spots>		"""http://__thing_place_uri__58""" ;

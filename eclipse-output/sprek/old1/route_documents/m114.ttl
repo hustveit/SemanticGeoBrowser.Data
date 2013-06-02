@@ -1,0 +1,27 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route114>
+	a	...Thing... ;
+	<name>		"""Hjortland-Simsedalen-Vikinghytten"""@no ;
+	<ingress>		"""Ta turen opp til Vikinghytten pÃ¥ en sÃ¸ndag og nyt en kopp kaffe."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra parkeringsplassen pÃ¥
+Hjortland. FÃ¸lg skogsbilvegen til enden, her tar stien av oppover mot hÃ¸yre. Stien gÃ¥r opp fjellsiden og treffer varderekken
+fra Rolland pÃ¥ toppen av ryggen. Denne fÃ¸lger en til Vikinghytten, som har servering pÃ¥
+sÃ¸ndager. Partier opp fjellsiden kan vÃ¦re noe myrete,
+ellers er det fast og fint Ã¥ gÃ¥. Den fÃ¸rste delen er grusveg.&lt;/p&gt;
+&lt;p&gt;GÃ¥r en pÃ¥ ski om vinteren er det bedre Ã¥ ta til
+venstre ved enden av skogsbilvegen og fÃ¸lge Nauddalen opp i skaret ovenfor
+Nordhytten, og gÃ¥ opp pÃ¥ ryggen herfra.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;
+KjÃ¸r til Hjortland. Bruk parkeringsplassen der traktorveien begynner, et
+ par hundre meter forbi den innerste Hjortlands-gÃ¥rden. Man kan ogsÃ¥ ta 
+buss nr 4 til Flaktveitsvingane/Hjortlandsvegen. FÃ¸lg Hjortlandsvegen 
+innover til p-plassen hvor turveien starter. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Beregn en time pÃ¥ turen frem til Vikinghytten.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Velegnet for familieturer, samt alle som er i normalt bra form. Velegnet
+for skigÃ¥ere. Hvis du gÃ¥r til fots, unngÃ¥ for all del Ã¥ trÃ¥kke i 
+skisporet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Gode tursko er en fordel. Husk at vÃ¦ret skifter fort. Vindtett tÃ¸y er nÃ¸dvendig.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Kart:&lt;/span&gt; &lt;br&gt;Orienteringskart Hjortland 1:10.000
+Tur- og Friluftskart Bergen 1: 25.000
+Bergen 1:50 000
+&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dca970608edc.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-11 15:51:17""" ;

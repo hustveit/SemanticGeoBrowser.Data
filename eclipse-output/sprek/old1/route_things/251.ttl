@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route251>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/251> ;
+	<name>		"""BjÃ¸rkheim-Nordvikasetret"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""8.3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-08-05 13:25:01""" ;
+	<encoded_path>		"""owtoJil}a@q@OsAqCiBH{B}@{AgAu@AaAXeAZq@CeAzA}@Dw@m@}@sBSKoB[iBh@iBH}A_DqEsDaCeEqAk@_@qJCaElBoGxAsDvB_@f@s@Dk@a@{@o@}@Y{A[m@EiAYB[g@]j@MsAOQe@Ns@aBRiBz@a@Z{@BiAa@IcC|Bu@NoCK}AmAqBi@w@u@s@gBEiDuAqB?oDy@mBXiIMuD_AqByAkCOaAFuFF{Em@cE{ByC_BS{AcBm@s@aCt@aAsAg@_@g@q@U]w@kAGgATsAH_Bu@PcA|@_@RAyBCaBeAMyAB}@S_DqA{DlH{@~AoBRgAxA}BOiCxAw@y@m@qC_Aq@GsAEyG_AyE`@gFReEgAuDqAdAgBjFoBfFuAvGeB|BiBhA}Bl@u@Ds@_BwCfCcCKmAQkBjEsApCqBnAg@XYpCuBzFOfH}@xEYpFHzBhBm@dEWhC[`CyF\Gn@a@l@{Ar@Oj@w@dCr@lBSh@Xf@]bAeA^A~@?p@LpARTCl@SfAj@Pp@bADrB{@r@Gn@Vp@BRThAi@b@n@jDk@rE]lC{AfBgAbDU|CsFfB{@|CEf@iBVeAW{Bk@{AG}@""" ;

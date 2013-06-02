@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place43>
+	
+	dct:title							"""Geitanuken"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;Geitanuken ligger i Ãâ€¦sane bydel. Stien opp til Geitanuken er ikke opparbeidet, men godt tiltråkket. Utsikten fra Geitanuken er praktfull: Vestover mot Byfjorden, Askøy, Sotra, ÃËœygarden og videre ut i havet. Mot sør til Eidsvågneset og innover mot Byfjellene. Fra nord vinker de andre seks fjellene velkommen. Det majestetiske Høgstefjellet peker seg allerede ut som særlig attraktivt. Mot øst skuer man det nye Ãâ€¦sane med boligblokker og butikksentre. &lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1ad84f2822b.jpg> ;
+	sf_ont:image_credit					"""Helge Sunde""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/NULL> ;
+	sf_ont:trimtoppen_description		""""""@no ;
+	sf_ont:trimtoppen_image_credit		"""""" ;
+	dct:created							"""2011-03-09 13:27:19""" ;
+	sf_ont:modified						"""2011-07-11 13:02:39""" ;
+	sf_ont:gowalla_name					"""Geitanuken """@no ;
+	sf_ont:gowalla_description			""" """@no .

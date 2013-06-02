@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route319>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/319> ;
+	<name>					"""Furedalen ââ‚¬â€œ Tveitakvitingen"""@no ;
+	<length_in_time>		"""420""" ;
+	<length_in_km>			"""9.1""" ;
+	<difficulty>			"""4""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-31 14:50:27""" ;
+	<encoded_path>		"""mrnoJqnpc@LzBLj@RLX?z@U~AEfBTbBj@Vt@Z`DL~BJrA`@nA~@~AlAt@bAz@@`ABvBPn@f@b@z@`AZj@Hn@_@hALb@n@t@VhADrDg@xCEhCAhBTjAr@XPFt@|Cx@fAdA|@l@NjACT?|@g@|AaAjCe@bBN|CBvBf@hB^dAj@\NfB?r@Y`@s@VCzAj@~M`HTT|@jALXj@`@dAVzA?|@r@LXRC`@CTKh@BP?xBBR?^F`@Hl@wAb@QtAaB`@s@bAYt@?TYHwBlAk@bAY~AMdAOb@Mx@Tf@U~@LPd@j@f@b@BRf@RdBj@jCJZl@lBd@j@bA`AxAXd@]bGd@|A`A~AhBPL~@Xn@Cd@x@r@\t@bBd@|@NPZj@n@Lr@?b@Kf@Mz@?F\l@ZfAv@dALt@Mp@Cj@Ld@EZ]ZBTx@h@f@@r@Vf@D\ZtDTdAL^LhAxD`IvB|C|@nA~AbCh@b@d@\b@|@p@nAhA|APXlBtBSx@_@nA]j@Cj@Tr@CxC@l@@lA?n@@nBAxBBxDNbCL`FLrC^bG?lANT@fGOzCI~A?TVlAKhA?b@?n@N`Bd@bBf@hA`@xA\lCdB~I`AvDfAbCdApAnAXRPn@NHV@n@?j@i@`Ei@jCG^I`@u@nFAj@LrCF^`BbC`CjDjCzE|C`B~@r@`Af@vA|@j@f@Z?xAtCbBvBhCfCnC`AzBCjCXh@Pf@`@dACr@b@p@c@ZnAb@dE?b@?hDp@bKKnD?xBFtATrBP\?fAQd@^hEP`Dg@bH_AbKwB`NuBlJoC~Ks@xC""" ;

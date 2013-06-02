@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route79>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/79> ;
+	<name>		"""Skansemyren-Fløyen"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""1.6""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-04-11 14:27:28""" ;
+	<encoded_path>		"""krroJoar_@x@{GhAiD`@}Br@qAh@uBtBmDvAkEJe@J}A@}@IUMFMt@mBfGM@AWp@wBb@aCDo@EcAOs@w@oBMKG?EZFTX^@\IVuAFMKCM?iAm@gBC[PyA?]KSs@CURUr@GfBBbAE\Ol@i@`AUp@Dr@^rA?n@m@dA}@`@O^??i@n@y@l@eAxCKdCD\??CvE""" ;

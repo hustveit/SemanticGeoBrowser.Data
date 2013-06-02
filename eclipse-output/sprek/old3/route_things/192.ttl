@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route192>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/192> ;
+	<name>					"""Kolltveitmarka, rundtur"""@no ;
+	<length_in_time>		"""150""" ;
+	<length_in_km>			"""5.9""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-14 09:03:23""" ;
+	<encoded_path>		"""kqkoJ}k_^dAj@^vAd@vAt@Kt@?t@?n@v@t@?j@aAt@?r@a@t@It@Ut@Ht@j@t@Tt@k@t@Ut@?t@?t@Jt@^t@j@n@`An@v@z@Kt@_@t@Ut@Tt@Ht@Ut@Jt@Tt@^t@j@n@`At@j@t@j@n@t@n@v@j@`Ah@jAj@lAh@jAj@`ANlBHlB?vBDlBTlBHlBSlBq@v@i@vAu@Tu@U{@KVJu@a@uAk@eC`@gG^kB?aBbBeAx@_B`Bq@Uo@aBiCrB}B`Ak@t@k@EwAp@OpAaAfAcA{@sA}As@DYn@_@T@`As@v@y@hCg@d@s@dAo@bBWbCXhDn@rBd@dANrBh@rB]tBfEzDz@nEjCzEt@bCjB?bLaAdAUhAt@rBlAhAcB`CkA|G^tC_@`BoErFKpEcCdAmCd@oCjBk@tCiJ`CoDA@w@eDkAmBiBmBkAy@}@MiATa@aA{@mE_@qC}@aAwFcCuA]q@}A""" ;

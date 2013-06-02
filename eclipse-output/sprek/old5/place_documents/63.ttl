@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place63>
+	a	...Thing... ;
+	
+	dct:title				"""Veten, Eldsfjellet"""@no ;
+
+	<ingress>		"""290 moh."""@no ;
+	<description>		""""""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-04-26 12:34:17""" ;
+	<modified>		"""2011-05-02 18:57:24""" ;
+	<gowalla_name>		"""Veten, Eldsfjellet"""@no ;
+	<gowalla_description>		"""290 moh."""@no ;

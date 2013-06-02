@@ -1,0 +1,18 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place74>
+	
+	dct:title							"""Eidsvågsfjellet"""@no ;
+
+	sf_ont:ingress						""""""@no ;
+	sf_ont:description					"""&lt;p&gt;Eidsvågsfjellet (208 moh.) er et fjell ligger nærmt sentrum av Bergen mot Ãâ€¦sane bydel. Fjellet blir særlig benyttet av menneskene i nærområdet.&lt;br&gt;&lt;/p&gt;"""@no ;
+	sf_ont:image						<http://turcache.bt.no/webroot/img/spots/4e1ad9f2c3a52.jpg> ;
+	sf_ont:image_credit					"""Helge Sunde""" ;
+	sf_ont:trimtoppen_image				<http://turcache.bt.no/webroot/img/spots/4e046fad4c357.jpg> ;
+	sf_ont:trimtoppen_description		"""Skiltet står like ved stien nær det høyeste punktet på Eidsvågfjellet."""@no ;
+	sf_ont:trimtoppen_image_credit		"""Bjarte Eikanger""" ;
+	dct:created							"""2011-05-07 16:31:37""" ;
+	sf_ont:modified						"""2011-09-05 11:40:15""" ;
+	sf_ont:gowalla_name					"""ÃËœrneberget(Eidsvågsfjellet)"""@no ;
+	sf_ont:gowalla_description			""" """@no .

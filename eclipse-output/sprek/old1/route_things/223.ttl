@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route223>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/223> ;
+	<name>		"""Svartediket â€“ Ulriken"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""4.8""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-27 13:24:30""" ;
+	<encoded_path>		"""{{poJ{nv_@CEIFo@Xa@Fq@Lu@Cy@?iABo@Fy@Dg@Gg@[SMIOi@g@CCKQK[[_B]{@MKg@iAUoAc@gA}@_Bk@m@g@c@c@a@Y_@K[q@mBUqAc@{Af@qAa@}@UiBc@m@EEg@Wi@Mu@_@C?KCCA_@_@UQ_@cAIWIg@Ki@UqAEIMYGCGGWWSa@W]K?Go@OWSoAMIYAE[A_@BSN{@GOm@eAMOUO]w@Hs@@KAS?]VaAFi@?KCWIGo@yAO[WQQW{@[c@s@AQ?UD}@AUF_@Nc@Ge@QmAg@{@Ma@O_BKmA@In@kBb@eBJ{ADqAd@sAL_Ab@gANw@Ta@p@o@RkAAQESAKa@{AOeAGWKe@UgAI_@UgAIWQo@E]O[o@s@@o@N[IaBDYf@Yt@Kb@Ij@Y\Sx@_@n@a@TUx@o@d@Yf@?^EZVp@F^GZJz@Nt@h@t@j@z@t@l@d@j@|Av@jAp@`Ab@xAT~AJjBXxAj@fBb@vAz@|A?Af@dCHh@O`EbBjLhDnId@lBzAhLnAt@lE\jAB|EiAxBLjBWrA{@hCmFlBkDlAsA`D{Ah@_@JeBHaACwAdAUTUb@Lj@Ux@ITSJkA""" ;

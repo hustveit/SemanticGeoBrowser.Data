@@ -1,0 +1,12 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route155>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/155> ;
+	<name>					"""Varderekken Rolland ââ‚¬â€œ Vikinghytten ââ‚¬â€œ Ulriken"""@no ;
+	<length_in_time>		"""420""" ;
+	<length_in_km>			"""14.6""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-06-22 11:36:23""" ;
+	<encoded_path>		"""kr~oJclp_@EkAAIh@q@l@a@l@_@n@OdBn@xA?^Jr@U`@e@b@E`@a@v@Cp@Ud@a@f@?XUt@u@x@g@p@kBlAmBVcBh@Z|@[ZmBXqATaBVmBX}@`@wABsC{AaA{CfBm@i@wAHW^c@YIaA[mAIe@VgATYP[Cq@S_EAuELwAPgA@wBNgBGk@PQMkAFsB@qAGwF?e@kBgBi@?HuA^eEn@IbBsBvBeFNw@`@IdAgA`BeFnBgGgBgM~GwGnBoD`B}F?wA^{AN}@d@qAKaBZ?S}Ad@OZwAzBwG|DwFbA}BrATfByCz@mCb@UdB}AzAmC?w@j@gBLa@fA?n@eAd@q@r@w@xB{F|@k@pAgBtA_Dd@{@r@a@Vu@z@Ud@O`@gB?}Aj@mA`DqGbBoEZEZ{@~CoCl@D`AqAnAwArBpBRJhA_@d@a@hCt@v@OxAoD~@oEd@_DtAgCbCaF|FgLtBcCnAyDfCcDjCkJlImNfEyOpFyMfAmG|FcNjCuJ`BeEtCeFdCsHzBeEfBwAzFuLtDeEnCuBx@MxAe@rCr@hBb@jA?`BF~AhArBUbAnApAjHT~AxDzEzDdMxAwDxAkCrAyEbCeEx@aDZk@EUt@oD~BqBjBwBzBkAdDa@fBwA~B?fCaBzC^`ElAExCpAjA`EbDzCdEd@lAjEUnDt@jBv@dATdAT~@t@tAJpCj@zCj@zBlBzAt@dCUdAmBt@_@t@j@j@j@lGmBbBUjA^`FaApAkAxA?zAcC`CcBtAaB?cBd@UtCxBz@`Ad@?jB`BtE_@lCj@jCKb@lAjAHfClAjCnEnC|Gp@dEj@j@d@lBxAvB`@zF{BvLkCtIKvBo@zFo@fFaDdF?xDk@xB?`AYlC[lACxDn@nCd@`At@Kh@j@Tj@j@lB^Hh@?Dj@Hv@S`Au@dFeAfGu@nD{BbDeAzDu@bDq@zDiAlC_@lCe@nD""" ;
+	<routes_spots>		"""http://__thing_place_uri__29""" ;

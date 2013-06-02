@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike274>
+	a	...Thing... ;
+	dct:title				"""Hamre ââ‚¬â€œ Klokkarvik"""@no ;
+	<ingress>		"""Oppom høgste toppen i Sund."""@no ;
+	<description>		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Frå gamalt av var det kyrkjeveg over fjellet frå Hamre til Sund kyrkje i Klokkarvik. Denne turen tek ein liten omveg oppom Veten som er høgste toppen i Sund, 284 m.o.h.&lt;br&gt;&lt;br&gt;Første del av løypa følgjer ein gardsveg fram til Hamravatnet. Stien går på nordsida av vatnet og opp gjennom skogen. Snart møter ein på stiar som kjem frå Steinsland og frå Stranda skule. Eit skilt med Rindane viser veg vidare.&lt;br&gt;&lt;br&gt;Oppe på Rindane, over skogen, går stien over ei stor lyngslette. I enden av sletta ligg Fadrabordet, ei stor steinhelle. Herifrå går det merkt sti opp til Veten, 284 m.o.h. Utsyn til sju kyrkjesogn er omkvedet som gjeld utsynet i godt vêr.&lt;br&gt;&lt;br&gt;I staden for å gå tilbake til Fadrabordet for å følgja spora til kyrkjestien vidare, kan ein gå rett ned frå Veten og koma inn på Norsjøløypa att ved Nyatrævatnet. Herifrå går løypa vidare skrått ned austhellinga til nordsida av Førdesvatnet, vidare forbi eit fint tun med vakre steinbygningar og i skogsterreng til Børnesvatnet. Siste stykket er opp Skautakleiva og fram til kyrkja.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Løypa er no merkt som Nordsjøløype og startar på Hamre, som ligg langs rv. 555, om lag 50 m sør for krysset til Torferøy.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;3 timer&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en litt lengre tur som passer for folk i normal form.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været. Gode tursko anbefales.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;Kartblad: Austevoll 1115 II&lt;br&gt;Marstein 1115 III&lt;br&gt;&lt;br&gt;Turtipset er hentet fra boken Opptur&amp;nbsp; Hordaland&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/> ;
+	<image_credit>		"""""" ;
+	<created>		"""2011-10-11 10:53:38""" ;

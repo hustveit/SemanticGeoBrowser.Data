@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route63>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/63> ;
+	<name>					"""Montana-Skiveien-Ulriken"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>			"""3.3""" ;
+	<difficulty>			"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-03-23 13:01:45""" ;
+	<encoded_path>		"""ymooJq`z_@Fw@Lo@Re@Nq@No@Lq@Js@Rg@Tg@Rk@No@Dy@@w@Lo@Rg@Ri@Ti@Pi@Nm@No@V[V_@Tc@Pm@Pi@Po@Po@Hq@Lo@Pm@Jo@Po@Js@Js@Ls@Ls@Ju@Vc@Tc@A{@Fw@`@UVYVa@V]XQPg@X]VUZUVWZUT]X_@VYRe@X[ZOZKXSXSXYX[XUVa@ZMZMXM\GZG\B\JZIZ?ZDZLV\LP[JG~@@v@Bx@Bt@XRXVBz@Ev@?v@Tf@T`@Td@ZHZBXVZF\\Jp@Fv@Hp@Nl@VVV^XVVVJp@YR[LYL[JKt@WZUz@Ol@Op@Qn@Qn@Sf@Bv@Bv@A~@Gt@Ht@?v@It@Ct@Cv@Et@Ft@@bASh@Sl@Mp@Sj@YT[VYRU`@[HYV[H]J[P[JYRYZU^W^Sh@XZX?\?ZFZPXR`@Vp@`A^H^HZLXXLp@Qr@Uf@W`@Sr@Or@Or@Bx@Az@?x@Ev@Ex@Ax@Qf@Ur@Sx@Wf@Wd@Qj@Mr@Op@_@|Aa@jB[nBUl@uAvCqBnDc@ZYTc@~A?x@??""" ;

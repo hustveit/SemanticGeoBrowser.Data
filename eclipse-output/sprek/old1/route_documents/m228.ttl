@@ -1,0 +1,42 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route228>
+	a	...Thing... ;
+	<name>		"""Sildaberget-Lyderhorn"""@no ;
+	<ingress>		"""Tur med flott usikt pÃ¥ veien opp til Lyderhorn."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Sildaberget nÃ¦rt Vestkanten kjÃ¸pesenter. Stien tar av
+nordover omtrent midt pÃ¥ Sildabergs Ã¸verste vei. Stien gÃ¥r inn pÃ¥ hÃ¸yre side av
+et hvit hus. FÃ¸lg stien nordover mot Storehelleren. Herfra fortsetter stien opp pÃ¥
+Skarpafjellet (180 moh.). Deretter fÃ¸lger man stien nordover ned i GrÃ¸vedalen fÃ¸r
+stien igjen gÃ¥r oppover i nordligretning mot toppen av Lyderhorn. Hold til hÃ¸yre i de to neste stidelene. Man
+har SmÃ¥-Lyderhorn (270 moh.) pÃ¥ venstre side. Like fÃ¸r toppen tar man til
+venstre i stidelet og fÃ¸lger stien opp til toppen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;PÃ¥ toppen er der fantastisk utsikt og fint Ã¥ raste. Man kan returnere samme
+vei, eller gÃ¥r ned til Gravdal, SkÃ¥levik eller KjÃ¸kkelvik. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Man kjÃ¸rer til Sildaberget i Loddefjord. Det er ingen avsatte parkeringsplasser
+her sÃ¥ utvis hensyn nÃ¥r du parkerer. Det er ogsÃ¥ mulig Ã¥ parkere ved Vestkanten
+kjÃ¸pesenter. Herfra tar det ti minutter Ã¥ gÃ¥ til startpunktet fra Sildaberget. Det
+gÃ¥r ogsÃ¥ flere busser fra Sentrum til Loddefjord terminal. Man kan for eksampel
+ta buss nr. 40, 44, 32 og 42.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det tar rundt 1,5 timer Ã¥ gÃ¥ opp. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste. Stien er ganske bratt, sÃ¥ hvis man har med
+seg smÃ¥ barn vil jeg heller anbefale Ã¥ gÃ¥ turen opp fra Gravdal/NUTEC. StÃ¸rre
+barn kan fint gÃ¥ denne ruten. Turen er uegnet for bruk av rullestol og
+trillevogn. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Kle deg etter vÃ¦ret. Gode fjellsko er en fordel. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;br&gt;
+Tur- og friluftskart for Bergen 1:25 000.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e315ac785701.jpg> ;
+	<image_credit>		"""Bjarne Ludvigsen """ ;
+	<created>		"""2011-07-28 14:49:11""" ;

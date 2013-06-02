@@ -1,0 +1,59 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike167>
+	a	...Thing... ;
+	dct:title				"""Storåsen (Dronninga), rundtur"""@no ;
+	<ingress>		"""Turen går gjennom skogområdet mellom Ask på østsiden og Ravnanger på
+vestsiden av Askøy."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Start ved Haugland skole ca. 7 km fra
+Kleppestø. Følg Asskaret veien innover dalen i nordøstlig retning til
+Krabbetjørna. Her er det fremdeles demninger fra den tiden elven ble brukt til
+fløting. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det neste vannet man passerer er Fjellvatn,
+turen går langs vestsiden. Vannet er oppdemmet. Sammen med Tranetjørn ble det brukt
+til å drive en liten kraftstasjon for Ask Tricotasjefabrik, som derfra hadde strøm
+allerede tidlig på 1900-tallet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stien dreier vestover på venstre side av Tranetjørn.
+Følg elveleiet oppover, til venstre for Koladalen. Man går gjennom skog av ulik
+alder, opp til Storåsen/Dronninga. Herfra har man storslått utsikt mot vest utover
+ÃËœygarden og nordover Askøy mot Herdla. Turen tilbake går på sti i vestlig retning
+mot Ravnanger, men går etter hvert over til traktorvei. Følg
+Rispeiletveien ned til hovedveien. Kryss Ravnangerveien og gå til venstre mot
+Haugland skole. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er mulig å gå denne turen annerledes, i
+motsatt retning for eksempel. En annen mulighet er å gå opp til
+Storåsen/Dronninga fra Ravnanger, snu på toppen og følge samme vei ned igjen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Buss nr. 499 og 495 går til Haugland skole. Man
+kan parkere ved Haugland skole i helgene. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Rundturen tar mellom 3 og 4 timer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste, ta gjerne med barna. Turen går hovedsaklig
+på sti og er derfor ikke egnet for barnevogner eller rullestoler. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Kle deg etter været, vær obs på at det kan være bløtt etter regn. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Storåsen er av lokalbefolkningen på Askøy mest kjent
+som Dronninga. Dronninga var en gammel, stor og flott furu som sto 250 meter
+nord for toppen, men fikk sitt endelige hogg av et lynnedslag. Omkring finnes
+fremdeles furutrær fra samme tiden. Stedet er turmål for Askøyfolk både fra øst
+og vest.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;O-kart Storåsen (1:15 000), 1115 I Bergen (1:50
+000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e0c5862debc2.jpg> ;
+	<image_credit>		"""Tanja Rygg Dyrrdal""" ;
+	<created>		"""2011-06-30 13:03:58""" ;

@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place39>
+	a						...Thing... ;
+	<name>					"""Lyderhorn"""@no ;
+	<altitude>				"""397""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/823641> ;
+	<gowalla_lng>			"""5.2421092987""" ;
+	<gowalla_lat>			"""60.3736936096""" ;

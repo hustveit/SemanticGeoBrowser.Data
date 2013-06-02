@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place209>
+	a						...Thing... ;
+	<name>					"""Herdla kyrkje """@no ;
+	<altitude>				"""NULL""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/2119932> ;
+	<gowalla_lng>			"""4.951621317""" ;
+	<gowalla_lat>			"""60.568248683""" ;

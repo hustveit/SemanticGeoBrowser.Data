@@ -1,0 +1,24 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route241>
+	a	...Thing... ;
+	<name>		"""Munkebotn-Sandvikspilen"""@no ;
+	<ingress>		"""Fin trimtur opp på Sandvikspilen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Utgangspunktet for turen kan være Sandviken sykehus i Helleveien eller Fjellveien/Munkebotnsveien. Munkebotnsveien er stengt for motorisert ferdsel der bebyggelsen slutter. Følg dalen til Munkebotsvatnet (145 moh.). Videre rett fram kommer man til Eidsvåg. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For å komme til Sandviksfjellet tar man av til høyre over demningen og går oppover Munkebotsdalen til Storevatnet (374 moh.). Deler av stigningen er relativt bratt (og et gøyalt, men utfordrende nedrenn vinterstid). Ved Storevatnet går sti til høyre mot Stoltzekleiven og Sandvikspilen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er fint å nyte utsikten før man går ned igjen. Man kan returnere via samme sti eller gå videre til Fløyen eller innover på vidden. Det anbefales ikke å gå ned&amp;nbsp;stien til Stoltzekleiven, ettersom denne er ââ‚¬&#157;enveiskjørtââ‚¬&#157;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det går mange busser til Sandviken sykehus, for eksempel buss nr. 3, 9, 20 og 24. &amp;nbsp;Kommer man via bil kan man benytte parkeringsplassen på sykehuset. Derfra går det en avstikker til svingene opp mot Munkebotn.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 1 time.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;Passer for:&lt;/b&gt;&lt;br&gt;Denne turen passer for de fleste, men er ikke egnet for barnevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Om sommeren går det fint å gå med joggesko. Når det er vått og snø, anbefales det å bruke fjellsko. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e39340ce9bc4.jpg> ;
+	<image_credit>		"""Bjørn Erik Larsen """ ;
+	<created>		"""2011-08-03 13:42:04""" ;

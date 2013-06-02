@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#place135>
+	a	...Thing... ;
+	
+	dct:title				"""ÃËœygarden, Toft"""@no ;
+
+	<ingress>		"""Leike- og fritidsplass i naturen. Tilrettelagt med bord og bålplass. """@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-15 13:40:20""" ;
+	<modified>		"""2011-07-22 12:55:12""" ;
+	<gowalla_name>		"""Pardalsmyra"""@no ;
+	<gowalla_description>		"""Leike- og fritidsplass i naturen. Tilrettelagt med bord og bålplass. """@no ;

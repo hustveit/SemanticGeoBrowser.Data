@@ -1,0 +1,10 @@
+@prefix sf_ont: <http://data.sognefjord.vestforsk.no/resource/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://data.sognefjord.vestforsk.no/resource/ontology#hike345>
+	dct:title				"""Spelhaugen ââ‚¬â€œ Eikelifjellet"""@no ;
+	sf_ont:ingress			"""En av mange turer i et populært område."""@no ;
+	sf_ont:description		"""&lt;p&gt;&lt;br&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Kort tur til Eikelifjellet som ligger nordøst for Vestlund og Løvåsen i Fyllingsdalen. Det går mange stier til topps på Eikelifjellet. De fleste benytter seg av en av stiene fra Tennebekktjernet/Kanadaskogen, men man kan også gå opp fra Fyllingsdalen. Denne ruten starter fra Spelhaugen. Man følger sti i retning mot nord og Tennebekktjørna, og tar av på stien mot øst for å komme opp til Eikelifjellet. Turen kan gjerne forlenges mot Nipetjørna, Viggohytten og Gravdalsfjellet, der man kommer lengre opp i høyden med bedre utsikten.&lt;br&gt;&lt;br&gt;I nærheten av toppen av Eikelifjellet 256 m.o.h., ligger det en stor stein og ââ‚¬&#157;balansererââ‚¬&#157; på fjellet. Her er det fint å ta seg en pause. Er du tøff kan du klarte opp på steinen, men husk at du også skal ned igjen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;Start fra parkeringsplassen i Spelhaugen.&lt;br&gt;&lt;br&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;br&gt;Beregn en times tid tur/retur.&lt;br&gt;&lt;br&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;Dette er en kort tur som passer for de fleste.&lt;br&gt;&lt;br&gt;&lt;b&gt;Utstyrbehov:&lt;/b&gt;&lt;br&gt;Kle deg etter været og husk gode tursko.&lt;/p&gt;"""@no ;
+	sf_ont:image			<http://turcache.bt.no/webroot/img/> ;
+	sf_ont:image_credit		"""""" ;
+	dct:created				"""2011-11-08 14:59:07""" .

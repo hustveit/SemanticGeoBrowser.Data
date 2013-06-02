@@ -1,0 +1,17 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place89>
+	a	...Thing... ;
+	<name>		"""Tellevikafjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Tellevikafjellet (391 moh.) ligger i nÃ¦rheten av Salhus i Ã…sane bydel. PÃ¥
+toppen av Tellevikafjellet er det flott utsikt mot vest over HolsnÃ¸y og utover mot NordsjÃ¸en
+pÃ¥ dager med god sikt. &lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ad8e5368a8.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e087d5666269.jpg> ;
+	<trimtoppen_description>		"""Skiltet stÃ¥r ved oppgangen til varden."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-05-23 15:52:50""" ;
+	<modified>		"""2011-07-11 13:05:09""" ;
+	<gowalla_name>		"""Tellevikafjellet"""@no ;
+	<gowalla_description>		""" """@no ;

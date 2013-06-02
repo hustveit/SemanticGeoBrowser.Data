@@ -1,0 +1,47 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route195>
+	a	...Thing... ;
+	<name>		"""Frotveit â€“ Solbakkefjellet"""@no ;
+	<ingress>		"""Solbakkefjellet er navnet pÃ¥ fjellryggen som ligger mellom Bontveitvegen og Hauglandsdalen. OmrÃ¥det er lite kjent, sÃ¥ mange vil derfor bli positivt overrasket over denne turen."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Like fÃ¸r Frotveitvatnet (265 moh.)
+ligger en stor driftsbygning pÃ¥ venstre side av veien. Stien starter bak
+bygningen og er litt svak i begynnelsen. Den gÃ¥r gjennom et lite skogholt, en
+grind i et gjerde, og herfra blir stien godt synlig og lett Ã¥ fÃ¸lge oppover
+fjellryggen i sÃ¸rlig retning. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Terrenget flater ut etter hvert som man
+kommer opp i hÃ¸yden. Oppe strekker den flate ryggen seg flere kilometer i
+sÃ¸rvestlig retning. Her oppe har man nydelig utsikt fra Folgefonna i Ã¸st til
+havet i vest. HÃ¸yeste punkt er 457 moh. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra toppvarden forsetter turen i
+sÃ¸rvestlig retning. Et par hundre meter lenger fremme deler stien seg, hold til
+hÃ¸yre. Stien strekker seg nedover Kjerringaskaret. Strekningen gjennom
+GrÃ¸ndalen gÃ¥r gjennom skog i myrlendt terreng som kan vÃ¦re noe blÃ¸tt i
+regnvÃ¦rsperioder. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Denne turen kan gÃ¥s begge veier. Det gÃ¥r
+buss til Frotveit pÃ¥ hverdager. Dersom man vil bruke bil, er det en lÃ¸sning Ã¥
+slÃ¥ seg sammen med andre og sette en pÃ¥ Frotveit og en pÃ¥ Kalandseidet. Man kan
+ogsÃ¥ snu pÃ¥ toppen og returnere til utgangspunktet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dette er en topp som gjÃ¸r det litt tungvint Ã¥ velge noe annet enn bilen. Fra Bergen kjÃ¸rer du over Vallaheiene til Kalandsvannet og tar til venstre mot Bontveit. SÃ¥ kjÃ¸rer du i rundt seks kilometer inn til Frotveit (250 moh.). Der kan du parkere ved en gÃ¥rd. Stopp nÃ¥r du ser et hÃ¸nsehus pÃ¥ hÃ¸yre side og en dobbel rÃ¸d garasje pÃ¥ venstre side. Start her eller evt litt lenger nede ved skilÃ¸ypen. Ikke sÃ¥ lett Ã¥ finne starten, men spÃ¸r folk i nÃ¦rheten. De hjelper deg gjerne. Du kan ogsÃ¥ stoppe ved Gimmeland og gÃ¥r turen opp derfra. Det er omtrent like langt. Begge ruter er godt merket, men det gjelder Ã¥ starte pÃ¥ riktig sted. &lt;br&gt;&amp;nbsp;Man kan ogsÃ¥ ta buss nr. 73 fra Kaland til Frotveit.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar en knapp time hver vei hvis du er kjapp pÃ¥ foten. En familie kan fint bruke halv dagen hvis de stopper og koser seg underveis. Litt bratt i begynnelsen, men ellers fint og nesten flatt frem mot toppen. For dem som trener hardere er det jo perfekt Ã¥ sykle inn, gÃ¥ kjapt opp pÃ¥ Solbakkefjellet for deretter Ã¥ sykle hjem igjen. Du vet du er pÃ¥ toppen nÃ¥r du ser den store varden der oppe. Den er relativt gjenkjennelig. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen passer for sÃ¥ godt som alle. Kanskje litt langt for de aller minste, men overkommelig for de fleste. Barnevogn er ikke noe alternativ pÃ¥ denne turen. Husk at mobildekningen innover her kan vÃ¦re dÃ¥rlig&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Lette turklÃ¦r, men husk at det er blÃ¸tt i terrenget i begynnelsen, sÃ¥ ta med noe kraftigere enn joggesko. Skal du ha mat pÃ¥ turen, ta med matpakke. Ikke en kiosk pÃ¥ mils omkrets her.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gullfjellet turkart( 1:25 000), O-kart
+Solbakkefjellet (1:15 000), FANA ILs o-kart Frotveit (1:15 000), 1115 I Bergen
+(1:50 000), 1215 IV Samnanger (1:50 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1ff53c420da.jpg> ;
+	<image_credit>		"""Pensjonistgruppen Bergen Turlag""" ;
+	<created>		"""2011-07-15 10:07:24""" ;

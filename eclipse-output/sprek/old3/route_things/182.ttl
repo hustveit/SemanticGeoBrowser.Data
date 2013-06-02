@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route182>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/182> ;
+	<name>					"""Buena kai-Lyshornet"""@no ;
+	<length_in_time>		"""180""" ;
+	<length_in_km>			"""3.8""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-08 10:20:35""" ;
+	<encoded_path>		"""srpnJq`{_@IsA[iAo@xAKl@Ar@P~ATpAMf@WHc@EWz@HfBLhA?pASzBQj@c@yAKY?aBo@_AYs@oA}@gAsAgBc@uCNsA`@_AIeA}AwBaH?Aw@{@_Bq@w@CeA_AeBk@qAwA]eAy@]_D`@q@{AScCBqCcBzAu@jBqArG{@zEc@PiDVg@yBgDwDcBiBu@mA_CaBq@K[_@aDaAi@Ai@iB_@sBi@}@qA?s@YKcB[_AKmBi@gCcAmAgAe@g@aACmGu@{AwFyB}C_DQcFIy@yAgDcAyFsBqCQy@lEaAh@aAi@}O""" ;

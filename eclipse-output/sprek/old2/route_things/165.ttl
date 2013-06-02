@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route165>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/165> ;
+	<name>		"""Nordnæsdalen ââ‚¬â€œ Damsgårdsfjellet"""@no ;
+	<length_in_time>		"""120""" ;
+	<length_in_km>		"""1.3""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-06-29 13:55:37""" ;
+	<encoded_path>		"""{`noJw~g_@LnAQfCKnAWj@c@D]rACpAR^[PqAdAi@@}@n@HiAZmCDqB?uCGsAo@iB}@@gAj@eBx@gACi@]uAFuACWeAi@oEiAgAq@gAWcEuB|DmBUsBgBaAnA""" ;

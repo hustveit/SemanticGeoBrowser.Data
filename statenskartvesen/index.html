@@ -1,0 +1,190 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Demo: Layout with StackContainer</title>
+		<link rel="stylesheet" href="demo.css" media="screen">
+		<link rel="stylesheet" href="style.css" media="screen">
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/dojo/1.6/dijit/themes/claro/claro.css" media="screen">
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+		<script type="text/javascript" charset="UTF-8" src="script1.js"></script>
+		
+		<!-- load dojo and provide config via data attribute -->
+		<script src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js"
+				data-dojo-config="isDebug: true, parseOnLoad: true">
+		</script>
+		<script>
+			dojo.require("dojo.parser");
+			dojo.require("dijit.layout.BorderContainer");
+			dojo.require("dijit.layout.StackContainer");
+			dojo.require("dijit.layout.StackController");
+			dojo.require("dijit.layout.ContentPane");
+			
+			dojo.require("dijit.form.TextBox");
+			dojo.require("dijit.form.Button");
+			dojo.require("dojo.io.script");
+			//dojo.require("dojox.xml.parser");
+			dojo.require("dojo.DeferredList");
+			
+			dojo.ready(function(){
+				
+				//
+				// Execute button
+				//
+				new dijit.form.Button({
+					onClick: function(){
+	
+	// #1. Lag query
+	console.debug("#1. START");
+	dojo.when(
+		create_sparql_query_url_1(),
+		function(sparql_query_url_1) {
+			console.debug(sparql_query_url_1);
+			console.debug("#1. END");
+	
+	
+	// #2. Kjøyr query
+	console.debug("#2. START");
+	dojo.when(
+		read_cross_domain_data(
+			"query_sparql_endpoint",
+			sparql_query_url_1
+		),
+		function(reply_2) {
+			console.debug(reply_2);
+			console.debug("#2. END");
+		
+		
+	// #3. For kvar ting i svar
+	console.debug("#3. START");
+	dojo.when(
+		for_each_thing_in_reply_2(reply_2),
+		function(reply_3) {
+			console.debug(reply_3);
+			console.debug("#3. END");
+						
+						
+
+						
+							// Lag query --> create_sparql_query_url_2()
+							
+							// Kjøyr query
+						
+							// Dersom tingen har google path
+							
+								// Decode google path og lag .GPX dokument
+								
+								// Lagre .GPX dokument med PHP skript
+							
+							
+		}
+	); //END dojo.when() #3.
+		}
+	); //END dojo.when() #2.
+		}
+	); //END dojo.when() #1.
+
+						
+						
+						
+						
+						
+						/*
+						var url = "http://openwps.statkart.no/skwms1/wps.elevation?request=Execute&service=WPS&version=1.0.0&identifier=elevationChart&datainputs=[gpx=http://sognefjord.vestforsk.no/test1.gpx]&callback=jsonCallback";
+						
+						read_cross_domain_data(
+							//url,
+							"ask_statkart_api_to_find_this"
+						);
+						*/
+			
+			
+			
+					},
+					label: "Execute"
+				}, "execute_button_id"); //END dijit.form.Button()
+				
+				//
+				// Execute button 2
+				//
+				new dijit.form.Button({
+					onClick: function(){
+	
+	// Dersom feltet gpx_url har verdi i seg.
+	if(dijit.byId('gpx_url').get('value').length > 0){
+		
+		var thing_name = dijit.byId('gpx_url').get('value');
+		var gpx_file_url = "http://sognefjord.vestforsk.no/gpx_output/" +
+		thing_name
+		+ ".gpx";
+		
+		dojo.when(
+			generate_route_graph(gpx_file_url),
+			function(graph_url) {
+				console.debug(thing_name);
+				console.debug(graph_url);
+		
+		dojo.when(
+			save_route_graph(
+				thing_name,
+				graph_url
+			),
+			function(saved_if_true) {
+				if (saved_if_true == true) {
+					console.debug("graph file is saved");
+				}
+			}
+		); //END dojo.when()
+			}
+		); //END dojo.when()
+	}
+	else {
+		alert("Putt url til .gpx fil inn i gpx_url feltet..");
+	} //END if()
+					},
+					label: "Execute 2"
+				}, "execute_button_id_2"); //END dijit.form.Button()
+				
+				new dijit.form.TextBox({
+					placeHolder: "gpx_url"
+				}, "gpx_url");
+				
+			}); //END dojo.ready()
+		</script>
+	</head>
+	<body class="claro">
+		<div id="appLayout" class="demoLayout" data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design: 'sidebar'">
+			<div class="centerPanel" data-dojo-type="dijit.layout.StackContainer" data-dojo-props="region: 'center',id: 'contentStack'">
+				<div data-dojo-type="dijit.layout.ContentPane" data-dojo-props="title: 'Group 1'">
+					<h4>Group 1 Content</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				</div>
+				<div data-dojo-type="dijit.layout.ContentPane" data-dojo-props="title: 'Group Two'">
+					<h4>Group 2 Content</h4>
+				</div>
+				<div data-dojo-type="dijit.layout.ContentPane" data-dojo-props="title: 'Long Tab Label for this One'">
+					<h4>Group 3 Content</h4>
+				</div>
+			</div>
+			<div class="edgePanel" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region: 'top'">Header content (top)</div>
+			<div class="edgePanel" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region: 'bottom'">
+				<div data-dojo-type="dijit.layout.StackController" data-dojo-props="containerId:'contentStack'"></div>
+			</div>
+			<div id="leftCol" class="edgePanel" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region: 'left', splitter: true">
+				Sidebar content (left)
+				<p>
+					<form name="form_search_settings" action="">
+					<button id="execute_button_id"></button>
+					</form>
+				</p>
+				<p>
+					<form name="form_search_settings_2" action="">
+					<label for="gpx_url">gpx_url</label>
+					<input type="text" name="gpx_url" id="gpx_url">
+					<button id="execute_button_id_2"></button>
+					</form>
+				</p>
+			</div>
+		</div>
+	</body>
+</html>

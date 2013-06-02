@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route186>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/186> ;
+	<name>		"""Myrdalen, rundtur"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""4.2""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-07-12 10:58:17""" ;
+	<encoded_path>		"""}bcoJqey_@K_@|@qBRCW_BNy@|@cDj@aBzB@h@?n@b@Z?p@FrCyCz@{AhAoFDaDUyIcAaJi@kKIkIAyCKy@EqCEyFF_COu@BmAIuDOgEF}BXuAz@_DZmB@aAIi@Si@aAQc@}Ae@cDa@eBq@sEU}DmAqG}BsHWwBmBkG{@aAg@aG]cBgAaC{@uAqGA??a@Ew@c@g@k@QK]@y@{@WEK@e@Gg@VWN[Ze@RU@e@Rq@^a@\u@d@e@N[PmAc@g@Is@f@e@jAL\Hr@L`BBj@Wj@KTIj@Kx@f@`@d@FPnAD^b@\V?TM\?PHVj@r@IfAPh@Gz@M~@BNCVBZ|@XnAVhBRnAh@~@Jb@Br@JZd@GB_@f@s@b@y@h@eAp@}AdAmA`AiBfAaBv@eAdAc@ZHhALBE""" ;

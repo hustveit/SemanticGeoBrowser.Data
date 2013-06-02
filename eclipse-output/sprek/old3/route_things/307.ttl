@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route307>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/307> ;
+	<name>					"""Torefjell"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""5""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-20 10:39:17""" ;
+	<encoded_path>		"""esqoJwand@[lAWVY`@[v@a@j@Wr@O`ACNDvAFtB?tBOpA[t@a@bB]\KPg@p@w@Vo@Ng@`@i@Ne@VUnAQnBEhBAhBHhAT`CHr@HnBT~A\dBJ`BLz@f@Bj@H^V^t@R~@b@Jl@B\h@Jz@T|@|@HX@JJNd@V|BDz@UpCGdAKnBIbCG|@]bC?hBBnAAj@QnCAXCx@c@lAo@Zu@@e@NW~@uBrBYL}@?aABu@@m@x@DxA^pD^xARx@`@rCJ`AJxAA~@QfAQe@Yc@_@_@IV?r@OMENGAUEUNYNK@IXYAQs@Im@WIYQYGO?g@I[JSKUc@[IO[WSWUQIGk@Km@O_AOm@Qo@I_@?o@Qa@Ee@Sc@Q[Cl@SVSu@[s@Q?Kz@MH]d@Q@KI_@CYQM_A_@_ASs@]k@[c@GQYCEOHqA?]GY]TOh@QIOUSM]BWQWHIm@ESGu@[c@K?Uc@ASa@c@II}@@M^UH[?COOPWIKTi@\UZIQc@J[USo@MW[q@GASPYGQAa@ZYb@a@NSO[M[r@Ub@K?MRKPSVSd@KBWAc@E[IKKCWOK[ECQSa@K[ICY?K@MOYQK@OAIGACQWWDM[UKWEOIKDWQ[f@c@a@KSIEI]SOQg@UAQGSDG^W\I@KSUEIXI_@WUOMKEQVSDKGMOKGMm@UcAGWCs@Yg@Ii@Ck@ScAIk@CSKKIg@S[[_@Ga@@KO_@Q}@[{AKYIc@Ge@Mq@OOUiAIu@]_@YO_@wAQa@COOQOs@Mu@MaA[{@MKIs@U]U[Ys@QQMg@CG?i@M{@O}AYoDS{B""" ;

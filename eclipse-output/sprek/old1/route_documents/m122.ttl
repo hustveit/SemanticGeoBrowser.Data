@@ -1,0 +1,31 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route122>
+	a	...Thing... ;
+	<name>		"""Salhus - Nordgardsfjellet - Tellevikafjellet"""@no ;
+	<ingress>		"""Dette er klassikeren for turer pÃ¥ Salhusfjellet."""@no ;
+	<description>		"""&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;BR&gt;Turen starter litt oppe i Salhussvingen, et skilt viser veien til turstien. Det gÃ¥r bratt oppover og snart er vi pÃ¥ Rundhaugen. Her ligger den fÃ¸rste av stemmene pÃ¥ Salhusfjellet. De var bygget for Ã¥ gi drikkevann til Salhus og vann til fabrikkene. Stien fortsetter oppover skogen og snart kommer en til neste demning, Store JÃ¼rgenstemma. Denne ble bygget under siste verdenskrig for Ã¥ gi vann til Salhus VÃ¦verier. De siste Ã¥rene har denne stemma vÃ¦rt tom for vann. Stien mot venstre gÃ¥r til Lille JÃ¼rgenstemma. Denne stien er en alternativ rute mot Salhusskaret, men da gÃ¥r man glipp av utsikten.&lt;BR&gt;&lt;BR&gt;
+&lt;P&gt;Ta heller til hÃ¸yre over demningen pÃ¥ Store JÃ¼rgenstemma og fortsett til venstre oppover og fÃ¸lg kammen rundt mot Tellevikafjellet. Her er det en fantastisk utsikt mot Bergen og Byfjellene i sÃ¸r, over Byfjorden, AskÃ¸y, Herdlafjorden og HolsnÃ¸y i vest, til FlatÃ¸y og Nordhordlandsbrua over Salhusfjorden i nord. PÃ¥ klare dager er det mulig Ã¥ se langt ut i NordsjÃ¸en, og med en god kikkert kan det vÃ¦re mulig Ã¥ skimte oljeplatformer ute i havet. Stien fortsetter fra Nordgardsfjellet og ned mot Salhusskaret. Her ligger Nornabakken som er godt synlig.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;I Salhusskaret er det stidele og det er mulig Ã¥ gÃ¥ til venstre ned Miladalen til Salhus, eller til hÃ¸yre mot Baugtveit. Denne turen fortsetter rett frem oppover mot toppen pÃ¥ Tellevikafjellet. Her er det igjen flott utsikt i alle retninger. Nede i dalen mot Salhus ligger Milastemma som ble bygget for Ã¥ forsyne Salhus Tricotagefabrik med vann. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Det er stort sett faste og fine stier, men kortere strekninger med myr kan vÃ¦re blÃ¸te etter regnvÃ¦r. Ã˜nsker man Ã¥ returnere til Salhus en annen rute, fÃ¸lger man stien til Milastemma og fortsette nedover dalen mot Slettebakken. Hvis man ikke mÃ¥ tilbake til Salhus, kan turen videre mot HÃ¸gstefjellet anbefales, og derfra gÃ¥ ned til Nyborg.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Parkering i Salhus ved Salhushallen eller pÃ¥ kaien. Buss nr 260 (ikke sÃ¸ndag) eller nr 3 som har enkelte avganger til og fra Salhus, sÃ¦rlig sÃ¸ndag. GÃ¥ av pÃ¥ Langeland, det siste fÃ¸r endestoppet.&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;B&gt;Tidsbruk: &lt;/B&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen tar rundt 1,5 time Ã¥ gÃ¥ opp.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen passer for de fleste, men det er ikke mulig Ã¥ benytte barnevogn eller rullestol. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Vanlig turutstyr. Kan vÃ¦re noe blÃ¸tt etter regnvÃ¦r, sÃ¥ bruk gjerne gode, vanntette fjellsko.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Hvorfor gÃ¥ turen:&lt;/B&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Dette er klassikeren for turer pÃ¥ Salhusfjellet. Navnet Salhusfjellet finnes kanskje ikke pÃ¥ noen kart, men det blir brukt av folk i Salhus som en felles betegnelse pÃ¥ hele fjellmassivet mellom Tellevik, SÃ¦tre, Baugtveit, MjÃ¸lkerÃ¥en og Salhus. Noen entusiaster har ryddet stiene for busker og trÃ¦r, og har satt opp skilt ved de fleste stideler. Etter mange sin mening er dette det fjellet i nordre del av Bergen kommune som har den flotteste utsikten.&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Fakta om turen:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;I Nornabakken var det mulig Ã¥ hoppe 30 meter pÃ¥ ski. Salhusfolk har alltid vÃ¦rt ivrige med sport og idrett. Under krigen ble det avholdt en rekke konkurranser pÃ¥ fjellet for Ã¥ komme unna tyskerne som ikke likte slike arrangement. &lt;BR&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4ddbe0285cb87.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-05-24 18:42:16""" ;

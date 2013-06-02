@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route212>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/212> ;
+	<name>					"""Holmane-Kikedalen"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""2.7""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-22 10:03:06""" ;
+	<encoded_path>		"""_rioJelob@qGj@wBj@sETyCbC{DtDaAM{@r@_G`AkFe@yATwAvAwH|B[_AHaBNu@eAK_At@uBwCqCkJeCk@wAJo@KqDcC_AbCcH{Fo@vBaDkAmAhBQxDrAwApAz@?dEh@zEW|D@dE\pH""" ;

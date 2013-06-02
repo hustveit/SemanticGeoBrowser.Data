@@ -1,0 +1,66 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route173>
+	a	...Thing... ;
+	<name>		"""Totland â€“ RambjÃ¸rvatnet â€“ Bontveit"""@no ;
+	<ingress>		"""Fin sÃ¸ndagstur i flott terreng. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter pÃ¥ Nedre Totland. FÃ¸lg
+veien langs Loaneelven. Rett etter at veien har krysset elven tar man inn pÃ¥
+stien til venstre som fortsetter langs elven. FÃ¸lg turvei fra Fanahytten i
+Ã¸stlig retning, ikke ta ned til hÃ¸yre ved noen av stidelene som kommer. Fortsett
+forbi Pittagjeldet pÃ¥ venstre side. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved stidelene fÃ¸r Mjelkebakkane holder
+man til venstre. Fortsett videre i nordlig retning opp stien til Sverinden. Ved
+stidelet ta til hÃ¸yre inn mot en hytte, fortsett videre nordover lien etter
+lÃ¸ypestolpene. PÃ¥ lÃ¸ypens hÃ¸yeste punkt Â«LÃ¸ypedeleÂ» gÃ¥r en avgrening av lÃ¸ypen
+inn forbi Stutabotn og Krokavatnet, som ligger ved varderekken over Livarden.
+Skal man til Bontveit fÃ¸lger man lÃ¸ypestolpene i nordÃ¸stlig retning ned mot Bontveit.
+Stien tar deg forbi GunlatjÃ¸rna og Korkvatnet pÃ¥ hÃ¸yre side. Stien tar en sving
+i Ã¸stlig retning fÃ¸r man kommer til RambjÃ¸rvatnet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;OmrÃ¥det rundt Rundhaugane og ned mot
+Langemyrskaret er myrlendt, sÃ¥ her kan det vÃ¦re noe blÃ¸tt. PÃ¥ veien ned til
+Bontveit ser man flere hus og hytter. NÃ¥r man er kommet til Bontveit gÃ¥r stien
+over til en vei man kan fÃ¸lge helt ned til hovedveien.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen kan ogsÃ¥ gÃ¥es motsatt vei, og kan fint gÃ¥es pÃ¥ ski om vinteren.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr. 71 fra Nesttun til Totland. Det
+er ogsÃ¥ mulig Ã¥ komme med bil da det er parkering
+ved Fanahytten (avgift) og langs veier i omrÃ¥det.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 3-4 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de aller fleste, ta gjerne med barna. Turen gÃ¥r hovedsaklig
+pÃ¥ sti og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;br&gt;Nest etter Byfjellene var Totland byens mest populÃ¦re utfartssted i Ã¥rene 
+1920 - 1940. PÃ¥ Totland ble det ogsÃ¥ 
+arrangert langrenn og hopprenn. Fra 1912 gikk Bergensrennet av stabelen 
+her; et Ã¥rvisst, landskjent arrangement hvor mange av landets beste 
+skilÃ¸pere deltok. Her var et yrende hytteliv; blant annet hadde SK Brann
+lagshytte her. Folk tok skiene pÃ¥ nakken og gikk fra Nesttun stasjon 
+til skibakkene pÃ¥ Totland.
+&lt;br&gt;&lt;br&gt;Fana Idrettslag  driver Fanahytten, som er utgangspunkt for 
+langturer til for eksempel Livarden, og som overnattingssted for 
+helgesamlinger. I samarbeid med Frotveit Skianlegg driver Fana IL 
+lyslÃ¸yper pÃ¥ Frotveit og Totland. Disse stedene er nÃ¥ koblet sammen med 
+ny skogs-/turvei over GrindÃ¥sen. Her er det 10 km med skilÃ¸yper 
+tilgjengelig for alle. 3,3 km av disse er lyssatte.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;I omrÃ¥det er det 
+ogsÃ¥ mange fine ski- og akebakker med forskjellig vanskelighetsgrad, 
+lite snÃ¸krevende og ypperlig nÃ¥r ungene skal fÃ¥ trent skiferdigheter i 
+trygge omgivelser. Det er ogsÃ¥ turveiforbindelse om Myrdalsvatnet til 
+Totland og Riple skole.&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gullfjellet turkart (1:25 000), 1115 I
+Bergen (1:50 000), 1215 IV Samnanger (1:50 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e116af5261a5.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-01 15:38:16""" ;

@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route288>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/288> ;
+	<name>		"""Sotra pÃ¥ tvers"""@no ;
+	<length_in_time>		"""240""" ;
+	<length_in_km>		"""0""" ;
+	<difficulty>		"""3""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-10-12 11:29:43""" ;
+	<encoded_path>		"""""" ;

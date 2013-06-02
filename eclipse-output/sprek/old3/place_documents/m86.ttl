@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place86>
+	a	...Thing... ;
+	<name>		"""Toppenipa"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Toppenipa er en fjelltop sørøst for Toppe i Ãâ€¦sane. På toppen er det flott utsikt utover Byfjorden og mot Askøy. Toppenipa ligger nærmt Toppefjellet og Geitanuken.&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ad91cf213d.jpg> ;
+	<image_credit>		"""Odd Mehus""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e087e7d7d5e4.jpg> ;
+	<trimtoppen_description>		"""Skiltet står på toppen, nær den røde og hvite markøren. """@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-05-11 15:15:17""" ;
+	<modified>		"""2011-07-11 13:06:04""" ;
+	<gowalla_name>		"""Toppenipa"""@no ;
+	<gowalla_description>		""" """@no ;

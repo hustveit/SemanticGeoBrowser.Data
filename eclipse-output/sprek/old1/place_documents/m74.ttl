@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place74>
+	a	...Thing... ;
+	<name>		"""EidsvÃ¥gsfjellet"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;EidsvÃ¥gsfjellet (208 moh.) er et fjell ligger nÃ¦rmt sentrum av Bergen mot Ã…sane bydel. Fjellet blir sÃ¦rlig benyttet av menneskene i nÃ¦romrÃ¥det.&lt;br&gt;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e1ad9f2c3a52.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/spots/4e046fad4c357.jpg> ;
+	<trimtoppen_description>		"""Skiltet stÃ¥r like ved stien nÃ¦r det hÃ¸yeste punktet pÃ¥ EidsvÃ¥gfjellet."""@no ;
+	<trimtoppen_image_credit>		"""Bjarte Eikanger""" ;
+	<created>		"""2011-05-07 16:31:37""" ;
+	<modified>		"""2011-09-05 11:40:15""" ;
+	<gowalla_name>		"""Ã˜rneberget(EidsvÃ¥gsfjellet)"""@no ;
+	<gowalla_description>		""" """@no ;

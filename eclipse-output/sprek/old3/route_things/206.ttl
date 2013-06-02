@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route206>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/206> ;
+	<name>					"""Raudvatnet opp"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>			"""3.6""" ;
+	<difficulty>			"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-07-20 12:12:07""" ;
+	<encoded_path>		"""g`soJoexa@wB~FgEeB}@`Aq@]XcCaCgGy@yHqByCo@Fw@wAyAOoBeBaFoAeDkCwD`A{DnD}G|GuCHaBnD{Bv@uBHaCaAgE`@uAKwFxB{Ak@iDa@oCv@qDlBwBH{B`@_BHo@_@eCa@{@aBkCoDaCaAoA?qBa@yAk@gC_@eDT}DcBoAaBkA?_B^qCI[t@""" ;

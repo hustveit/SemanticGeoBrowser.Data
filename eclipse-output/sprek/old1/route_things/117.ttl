@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route117>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/117> ;
+	<name>		"""MC App test 2"""@no ;
+	<length_in_time>		"""5""" ;
+	<length_in_km>		"""0.1""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-20 12:16:37""" ;
+	<encoded_path>		"""e{toJion_@s@z@gAX""" ;

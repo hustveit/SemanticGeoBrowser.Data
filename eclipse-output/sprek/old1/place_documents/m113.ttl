@@ -1,0 +1,19 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place113>
+	a	...Thing... ;
+	<name>		"""Bruviknipa"""@no ;
+	<ingress>		"""Nydelig fjordutsikt!"""@no ;
+	<description>		"""&lt;p&gt;Bruviknipa, eller BrÃ¸knipa som den blir kalt av de lokale
+pÃ¥ OsterÃ¸y, er det mest brukte turmÃ¥let bÃ¥de sommer og vinter. Det er flere
+turer opp til toppen, men en av de mest brukte gÃ¥r fra BÃ¥taleitet. Fra toppen
+er det en spektakulÃ¦r fjordutsikt alle burde fÃ¥ med seg.&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/spots/4e37b3b4eeab3.jpg> ;
+	<image_credit>		"""Karl H Olsen""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-06 13:14:48""" ;
+	<modified>		"""2011-08-02 10:22:12""" ;
+	<gowalla_name>		"""Bruviknipa"""@no ;
+	<gowalla_description>		""" """@no ;

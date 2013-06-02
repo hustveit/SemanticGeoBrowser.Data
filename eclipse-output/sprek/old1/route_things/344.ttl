@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route344>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/344> ;
+	<name>		"""Tennebekk â€“ Eikelifjellet"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""1.8""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-11-08 14:34:15""" ;
+	<encoded_path>		"""yzloJcfa_@hAwAx@{@b@Un@Ur@{@@a@?_@Ua@y@wAe@_AMk@?ULsAd@_@b@e@ZiBP{@?kAJmAJ{@Fq@Rk@Lu@ZmBXU`AqA?e@Gg@e@o@Q}@_@eA[UWUGg@EU\wCx@cCtAuCp@_Ab@a@d@gAPk@HUnA_@v@a@tA{@lAq@Vk@BU?_AQa@C{@?gA?aA\q@a@{@i@k@k@YaAa@cA_@o@EkA?]?_Aq@UqAQaA[eDG_@UOi@e@k@Qq@I""" ;

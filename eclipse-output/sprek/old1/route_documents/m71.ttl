@@ -1,0 +1,42 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route71>
+	a	...Thing... ;
+	<name>		"""NÃ¸ttveit rundt SmÃ¸rÃ¥sen"""@no ;
+	<ingress>		"""Flott turomrÃ¥de for barn, godt tilrettelagt med turveier og rasteplasser. 
+"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;br&gt;Fra NÃ¸ttveitvegen fÃ¸lg turvei mot BjÃ¸rnevatnet og videre mot Vardamyra og Torneberget og ByledstÃ¸len. 
+
+&lt;br&gt;&lt;br&gt;SmÃ¸rÃ¥sen er en fredelig plett i Fana bydel. OmrÃ¥det er nÃ¥ 
+tilrettelagt med blant annet turveier og benker rundt BjÃ¸rnevatnet.
+
+SmÃ¸rÃ¥sen har alltid vÃ¦rt et populÃ¦rt turomrÃ¥de i Fana. Det ligger 
+sentralt og er velegnet for ettermiddagsturer eller oppdagelsesferd med 
+de minste. Sommerstid kan man bade i BjÃ¸rnevatnet. Terrenget er skogkledd og idyllisk.&lt;br&gt;&lt;br&gt;Det er tre ulike lÃ¸ypealternativer. Denne turen fÃ¸lger det 
+lengste alternativet. FÃ¸lg hovedlÃ¸ypen, en gammel mililtÃ¦rvei, nÃ¥r du 
+tar sÃ¸rover fra BjÃ¸rnevatn. Etter drÃ¸ye 500 meter kan du ta av til 
+Syningom hvor du har flott utsikt over Fanafjorden. Herfra fÃ¸lger du 
+Ytrestien, en lengre tur rundt SmÃ¸rÃ¥sen pÃ¥ god sti. 
+
+HÃ¸yeste topp er Hamrefjellet, 280 moh. sÃ¸rÃ¸st for BjÃ¸rnevatnet. BÃ¥de 
+herfra, og fra Prestningshaugen (Syningom) mot sÃ¸rvest, er det fin 
+utsikt. &lt;br&gt;I hovedlÃ¸ypen kan man bruke joggesko. Utenfor opparbeidede 
+stier er terrenget blÃ¸tt. 
+
+Langs hovedlÃ¸ypen er det mange gode rasteplasser som er tilrettelagt for
+ de smÃ¥. Her er Eventyrskogen med SmÃ¸rÃ¥sheksen og SmÃ¸rÃ¥strollet, og 
+Vallebu med Vallekoen og SmÃ¸rÃ¥shuldra. 
+
+&lt;br&gt;&lt;br&gt;Mer om SmÃ¸rÃ¥sen og flere turforslag kan du finne pÃ¥ nettsiden til SmÃ¸rÃ¥sfjellets venner: &lt;a href="http://smoraasfjellet.no/"&gt;smoraasfjellet.no&lt;/a&gt;.
+&lt;br&gt;&lt;b&gt;&lt;br&gt;Tilkomst:&lt;/b&gt;&lt;br&gt;For Ã¥ komme seg hit kan man ta buss fra Nesttun til SmÃ¸rÃ¥s eller parkere ved parkeringsplassen til krysset ved NÃ¸ttveit gÃ¥rd.  Det er ogsÃ¥ en liten parkeringsplass i NÃ¸ttveitvegen. Man kan ogsÃ¥ gÃ¥ inn i omrÃ¥det fra gÃ¥rdene nesten Ã¸verst i SmÃ¸rÃ¥svegen, Turvei opp Stemmedalen gÃ¥r forbi gÃ¥rdene pÃ¥ hÃ¸yre side ved snuplassen. Her er ikke
+tilrettelagt parkering.
+
+&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Tidsbruk:&lt;br&gt;&lt;/b&gt;Turen er 3,5 km lang, og tar ca. 2 timer.&lt;b&gt;&lt;br&gt;&lt;br&gt;Passer for:&lt;/b&gt;&lt;br&gt;Deler av omrÃ¥det er tilrettelagt for turer med barnevogn.
+
+&lt;br&gt;&lt;br&gt;
+&lt;b&gt;Kart:&lt;/b&gt; &lt;br&gt;O-kart SmÃ¸rÃ¥sen (1:15 000),
+1115 I Bergen (1:50 000)
+
+&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4d9b148c51366jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-01 11:46:06""" ;

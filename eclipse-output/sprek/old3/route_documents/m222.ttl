@@ -1,0 +1,52 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route222>
+	a	...Thing... ;
+	<name>		"""Bjørndalen-Ulriken"""@no ;
+	<ingress>		"""En fin tur opp til Ulriken."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter i Bjørndalen som ligger bak Haukeland skole. Følg Bjørndalsveien
+til enden. Her går det en sti opp i skogen. Følg stien sørøstover mot toppen.
+Stien et lett å følge. Hold til høyre ved stidelet slik at man møter på stien
+som går opp fra Montana via kammen. Følg kammen videre i nordøstlig
+retning til toppen. Den siste delen av turen er den bratteste. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Når man har nådd toppen av Ulriken, er det fint å ta seg en liten rast. Man
+kan ha med egen matpakke eller kjøpe mat på kafeen. På toppen er det nydelig
+utsikt utover Bergen sentrum. Man kan returnere via samme trasé. Det er også mulig gå
+videre over vidden mot Fløyen, gå opp til Hauggjeldsvarden eller ned til
+sentrum via en av de mange andre traséene.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kjør til Bjørndalen som ligger bak Haukeland skole. Her kan må parkere
+utenom skoletid. Det letteste er kanskje å ta bussen, det går flere busser fra
+sentrum til Odontologen. Man kan ta buss nr. 2, 31 eller 29.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Beregn ca. 1 time på turen opp.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Passer for:&lt;/b&gt;&lt;br&gt;
+Denne turen passer for de fleste med normal kondis. Oppstigningen er litt
+bratt, så turen passer ikke for de aller minste barna. Større barn kan gå fint
+gå turen. Turen er uegnet for bruk av trillevogn eller rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;br&gt;
+Gode fjellsko anbefales.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ulriken er Bergens høyeste fjell med sine 643 moh. Fjellet gir en fantastisk
+utsikt over Bergen og er vel verd et besøk. Hvert år arrangeres motbakke løpet
+Ulriken Opp. Dette er et populært løp med klasser både for konkurranseløpere og
+mosjonister. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Det er servering i Sky:skraperen, her serveres det god mat og
+restauranten er et populært selskapslokale. Det kan være vanskelig å få bord,
+så hvis man ønsker å reservere kan man ringe tlf 55 32 04 04.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;ÃËœnsker du å ta banen ned igjen er dette fult mulig. Ulriksbanen er åpen alle
+dager fra 09:00-21:00. Bane én vei koster 80 kroner for voksne og 40 kroner for
+barn. Bane tur-retur koster 145 kroner for voksne og 75 kroner for barn.&lt;/p&gt;&lt;p&gt;
+(Kilde: &lt;a href="http://www.ulriken643.no/"&gt;Ulriken 643&lt;/a&gt;).&lt;br&gt;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e2fef5aee9b1.jpg> ;
+	<image_credit>		"""LEIF GULLSTEIN""" ;
+	<created>		"""2011-07-26 15:40:42""" ;

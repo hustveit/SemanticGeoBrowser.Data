@@ -1,0 +1,54 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route171>
+	a	...Thing... ;
+	<name>		"""GÃ¥ssandâ€“MÃ¸snukenâ€“Ulven"""@no ;
+	<ingress>		"""En fin tur i variert natur â€“ gjennom skogsterreng, smÃ¥skog og over snaufjell til toppen med praktfull utsikt fra MÃ¸snuken (640 m.o.h.)"""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KjÃ¸r inn GÃ¥ssandveien til Hatleli i
+nordenden av GÃ¥ssandvatnet. Parkering ved Hatleli. Fortsett videre langs
+hovedveien. Man gÃ¥r gjennom et fint gÃ¥rdstun og videre til det gamle sagbruket
+ved GÃ¥ssandvatnet. Ikke
+ta opp til venstre. Etter sagbruket
+fortsetter turen oppover pÃ¥ traktorvei i sÃ¸rlig retning parallelt med GÃ¥ssandvatnet.
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ved bekken fra Stokkedalen deler stien
+seg, fÃ¸lg den som gÃ¥r oppover langs bekken. Stigningens fÃ¸rste del gÃ¥r gjennom
+tett skog. Utsikten Ã¥pner seg gradvis. Fortsett relativt bratt opp siste del
+over skoggrensen til toppen av MÃ¸snuken. PÃ¥ fine dager er utsikten imponerende.
+I Ã¸st ser man over Fusafjorden, mot Folgefonna, i sÃ¸r BjÃ¸rnefjorden, og i vest
+ser man havet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fra toppen er flere returmuligheter:
+Tilbake til GÃ¥ssand, til Os sentrum (se: &lt;a href="http://tur.bt.no/tur/169" target="_blank"&gt;Os-Borgafjellet-MÃ¸snuken&lt;/a&gt;) eller ned til TÃ¸sdal/Ulvenskiftet
+(bussforbindelse). FÃ¥r man transport til stistart er dette et flott alternativ.
+For Ã¥ komme til Ulvenskiftet gÃ¥r man sÃ¸rvestover langs med elven fra Ã˜vste
+Stemmedalen. FÃ¸lg stien nedover til Tyssdal. GÃ¥ gjennom Tyssdal og kryss broen
+over Tyssdalsvatnet. FÃ¸lg veien ned til Fagertun og ut til hovedveien ved
+Ulvenskiftet.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ta buss nr.
+600 til GÃ¥ssandskiftet (Os).
+Kommer man i bil finnes det parkeringsmuligheter pÃ¥
+Hatleli/GÃ¥ssand.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar 5-6 timer, avhengig av rastetid og tempo. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for de fleste, men den er sÃ¥ pass lang at man bÃ¸r vÃ¦re i
+grei form og ha litt erfaring med turer i fjellet. Turen gÃ¥r hovedsaklig pÃ¥ sti
+og er derfor uegnet for trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales. Husk Ã¥ ta med nok mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Veg- og turkart Os (1:25 000), 1215 IV Samnanger (1:50 000), 1215 III Fusa
+(1:50 000).&lt;/p&gt;
+
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e0db13365ed7.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-01 13:36:19""" ;

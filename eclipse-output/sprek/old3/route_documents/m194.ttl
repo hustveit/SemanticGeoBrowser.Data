@@ -1,0 +1,51 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route194>
+	a	...Thing... ;
+	<name>		"""Skranevatnet, rundtur"""@no ;
+	<ingress>		"""Lett ettermiddagstur i fine omgivelser. """@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter ved Skranevatnet skole.
+Det er parkeringsplasser ved Sandsli hallen som ligger rett ved siden av. Følg grusveien
+ned til vannet bak Volleyball banen. Ta til høyre og følg grusveien langs med
+Skranevatnet. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Når man kommer til vestsiden av vannet
+kommer man opp i et boligområdet, Skraneflaten. Følg veien frem til
+Dolvikveien, hvor man tar til venstre. Følg Dolvikveien et par meter og ta inn
+til venstre ved første mulighet.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Følg veien nedover til du kommer til en
+kort, men bratt nedover bakke. Etter denne tar man til høyre mot Sandslihovden
+og parkeringsplassen. Gå over denne og opp til rundkjøringen. Her fortsetter
+turen nedover mot venstre. Følg veien ned til grusveien igjen. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ta til venstre ved veiskille og fortsett
+mor vannet. Herfra er det bare å følge grusveien tilbake til utgangspunktet ved
+Skranevatnet skole. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kommer man via bil er det lett å parkere
+ved Sandsli hallen. Man kan også ta buss nr.50 &amp;nbsp;fra Bergen sentrum til Sandsli.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar omtrent 30 minutter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer for alle, ta gjerne med barna. Turen
+går på asfalt og grusvei så den er tilpasset for bruk av trillevogn eller
+rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kle deg etter været. Det holder med joggesko.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;På vinterstid er
+isen på vannet trygg å benytte. Skranevatnet og denne rundturen er mye benyttet
+av de som bor i området. Alt fra joggere, syklister og turgåere. Idrettsklubben
+Gneist og Skranevatnet skole benytter seg også av den fine joggerunden. Om
+sommeren er det mange barn og unge som bader i vannet. Det er også kjekt å mate
+endene. &amp;nbsp;&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e1eea58117ba.jpg> ;
+	<image_credit>		"""ALFHEIM, PER GUNNAR """ ;
+	<created>		"""2011-07-14 15:08:40""" ;

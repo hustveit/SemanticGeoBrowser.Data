@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route109>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/109> ;
+	<name>		"""Kokstad - Storrinden"""@no ;
+	<length_in_time>		"""30""" ;
+	<length_in_km>		"""1.5""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-10 19:10:00""" ;
+	<encoded_path>		"""c{aoJek`_@\z@TtA@l@Qn@MHe@CiB}AeAeDY}AQiBAsBKg@qD{BOa@E[Bq@TYb@B|@ZzAURMDWEg@a@k@CQFg@bAe@bAiAJUFWK_BDeBp@{BpBwFZwAzAgCX}@H{@JmGHkAPkAn@iCDa@AUQs@Ck@bBaJXgD""" ;

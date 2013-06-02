@@ -1,0 +1,27 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route91>
+	a	...Thing... ;
+	<name>		"""Hjortland - Vindalseggen- Vikinghytten"""@no ;
+	<ingress>		"""Ta turen til Hjortland! En kort avstikker fra kjÃ¸pesentre og stÃ¸yende motorvei ligger et bynÃ¦rt tureldorado.
+
+"""@no ;
+	<description>		"""&lt;span style="font-weight: bold;"&gt;Rutebeskrivelse:&lt;/span&gt;&lt;br&gt;Fra Hjortland er det flere stialternativer mot
+Vikinghytten. Dette er trolig den fineste siden man kommer fortere opp i hÃ¸yden
+og fÃ¥r utsikt. Turen er ikke egnet pÃ¥ ski, da er det bedre Ã¥ fÃ¸lge
+skogsbilvegen innover og gÃ¥ opp via Norhytten.&lt;br&gt;&lt;br&gt;&lt;p&gt;Turen starter fra parkeringsplassen pÃ¥
+Hjortland. Rett etter grinden ved starten pÃ¥ skogsbilvegen, tar man oppover
+marken til hÃ¸yre. Stien kan vÃ¦re litt utydelig i starten. I skogskanten er det
+en ny grind, og her fortsetter stien oppover i skogen. Etter en tid kommer man
+ut av skogen og opp i Vinddalskaret. Her
+mÃ¸ter man varderekken fra Rolland, og fÃ¸lger denne videre mot Vikinghytten. Fra
+Vinddalseggen er det luftig utsikt ned mot gÃ¥rdene i Vinddalen. Etterhver som man kommer hÃ¸yere er det panoramautsikt i alle retninger, fra Gullfjellet i Ã¸st,
+OsterÃ¸y, Nordhordland, det meste av Ã…sane, Ã˜ygarden, Byfjorden, Rundemanen og
+mye mer. Hytten man ser i horisonten nÃ¥r en gÃ¥r oppover er ikke Vikinghytten (den ligger like bak denne hytten). &lt;br&gt;&lt;/p&gt;
+&lt;span style="font-weight: bold;"&gt;&lt;br&gt;Tilkomst:&lt;/span&gt; &lt;br&gt;KjÃ¸r til Hjortland. Bruk parkeringsplassen der traktorveien begynner, et par hundre meter forbi den innerste Hjortlands-gÃ¥rden. Man kan ogsÃ¥ ta buss nr 4 til Flaktveitsvingane/Hjortlandsvegen. FÃ¸lg Hjortlandsvegen innover til p-plassen hvor turveien starter. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Tidsbruk:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Regn med Ã¥ bruke et sted mellom en og to timer pÃ¥ turen opp til Vikinghytten. Hvis du ikke disponerer bil, mÃ¥ du beregne opptil en ekstra time pÃ¥ turen til og fra holdeplassen ved Flaktveitsvingane/Hjortlandsvegen (linje 4).&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Passer for:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Velegnet for familieturer, samt alle som er i normalt bra form. Velegnet for skigÃ¥ere. Hvis du gÃ¥r til fots, unngÃ¥ for all del Ã¥ trÃ¥kke i skisporet. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Utstyrsbehov:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Gode tursko er en fordel. Husk at vÃ¦ret skifter fort. Vindtett tÃ¸y er nÃ¸dvendig. Tar du lengste ruten opp via Skitnedalen, er du nesten 650 meter over havet. Her kan det blÃ¥se friskt og i tÃ¥ke eller ruskevÃ¦r blir sikten fort dÃ¥rlig. &lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Fakta om turen:&lt;/span&gt;&lt;br style="font-weight: bold;"&gt;Vikinghytten er Ã¥pen sÃ¸ndager. Her er det mulig Ã¥ fÃ¥ kjÃ¸pt drikke og sjokolade.
+&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Kart:&lt;/span&gt; &lt;br&gt;Orienteringskart Hjortland 1:10.000
+Tur- og Friluftskart Bergen 1: 25.000
+Bergen 1:50 000
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4db7c812b4b09.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-04-27 09:15:18""" ;

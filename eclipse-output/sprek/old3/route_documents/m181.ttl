@@ -1,0 +1,65 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route181>
+	a	...Thing... ;
+	<name>		"""Bahus-Lysekloster-Røykeneset"""@no ;
+	<ingress>		"""Kombiner turopplevelsen med et interessant besøk på ruinene av det første cistercienserklosteret i Norge, grunnlagt i 1146."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter på Bahus. Ta av mot
+sørvest på lett sti opp Bahusdalen. Høyt oppe dreier stien mot vest og siden
+sør mot toppen av Vesle Lyshornet. Herfra på sti ned Lyshornskaret. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hvis man her ønsker å forlenge turen med
+å gå opp Lyshornet, er belønningen en spesielt vakker utsikt mot Lysefjorden
+med alle dens små og store holmer og øyer. Det går en tydelig sti opp til toppen. Se: &lt;a href="http://tur.bt.no/tur/125"&gt;Lysekloster-Lyshornet&lt;/a&gt; for
+nærmere turbeskrivelse.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Turen fortsetter videre til Lysekloster.
+Følg skaret fra Vesle Lyshornet og følg stien som etter hvert går over til å bli
+en skogsvei. Følg skogsveien sørover fram til klosterruinene. Her er det fint å
+raste, samt bruke litt tid til å se på ruinene. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stien fra Lysekloster gjennom Rennadalen
+til Søfteland ble bygget av munkene og kalles Munkestien. Det første stykket av
+stien munkene anla er i dag skogsvei. Følg denne i nordøstlig retning innover
+dalen. På nordvestsiden av dalbunnen, ca. 50 meter fra veien, ligger et gammelt
+steinbrudd hvorfra munkene skal ha hentet kleberstein til klosterbygningene. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Munkestien fortsetter nordøstover som en
+fortsettelse av veien. Man kan fremdeles se trappetrinnene som munkene bygde for
+omkring 800 år siden. Returens høyeste punkt er myren sør for Blåheiane. Vær
+obs på at det kan det være bløtt her. Nedstigningen går på skogsvei som dreier
+nordlig før den ender på Osvegen ved Røykenes.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ta buss nr. 600 fra Bystasjonen til Bahus. Kommer man via bil følger man hovedveien
+E39 mot Osøyro. Bahus ligger rett før Søfteland. Det mulig å parkere ved Bahus,
+men det er begrenset med plasser. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen tar rundt 4 timer. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Det er en relativt
+lett tur som passer for de aller fleste. Turen går hovedsaklig på sti og er derfor uegnet for
+trillevogn og rullestol.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vanlig turutstyr. Gode fjellsko anbefales, ettersom det kan være noe
+bløtt på dele av turen. Husk å ta med mat og drikke.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Både Bahus og Kismul er mye benyttede
+utgangspunkter for tur til Lyshornet (405 m.o.h.). Fra Kismul kan man delvis
+følge grusvei. Turen går på bra stier, men stedvis kan det være noe bløtt
+ettersom turen går gjennom myrområder. Når utgangspunktet er Bahus, kan ruten
+om Lysekloster fungere som rundtur. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Lysekloster&lt;/i&gt;&lt;br&gt;Lenge før Lysekloster ble opprettet, lå gården Lyse et stykke opp fra sjøen innerst i Lysefjorden. Den var i 1140-årene eid av biskopen i Bergen, Sigurd. Under en Englands-tur ble han så fascinert av de fromme cisterciensermunkene at han tok noen av dem med hjem til Lyse. Klosteret ble bygget og overlatt til munkene.&lt;br&gt;Da reformasjonen ble innført i Norge i 1536, regnet danskekongen Christian III Lysekloster som statens eiendom, og det ble forvaltet av ulike danske adelsmenn. Etter hvert forfalt klosterhusene; kongen og adelsmennene brukte tømmeret og steinene til andre praktbygninger. F.eks. finnes stein fra Lysekloster-murene både i Rosenkrantztårnet i Bergen og Kronborg slott i Danmark. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Da det ikke lenger var mulig å bo i klosterhusene, fikk en av de danske fogdene i 1613 bygget nytt bolighus nær den gamle Lyse-gården. I 1670 kom Lysekloster i privat eie. Også skogen, fiskerettene og 200 gårder i Os og andre bygder hørte med til eiendommen. Etter hvert framsto Lysekloster igjen som et storgods. Nåværende Lysekloster gård ligger der den gamle hovedbygningen sto. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Klosterruinene &lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lysekloster-ruinene ble restaurert i 1930 og gir et godt inntrykk av hvordan anlegget har sett ut. På vestsiden av murene er det også støpt en modell som viser hvilken funksjon de ulike rommene hadde. I klostergårder pleier det å være frodig vegetasjon; gjerne med sjeldne planter, og slik var det nok i Lysekloster også. Av Â«klosterplanteneÂ» har akeleien spredd seg til flere steder. En gammel norsk flora nevner snøklokke og pinselilje som viltvoksende planter ved Lysekloster, også den sjeldne murtorskemunn. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Munkene var også særlig interessert i fruktdyrking. Lysekloster anla stor frukthage på Opedal i Ullensvang, og dette ble begynnelsen til fruktdyrkingen i Hardanger. For øvrig var munkene opptatt av å verne fiskeretten sin i Osvassdraget. På slutten av 1200-tallet satte munkene laksegard tvers over elven, slik at ingen laks kom forbi klosterets laksekjer. Dermed begynte en laksestrid mellom Lysekloster og Os prestegård ââ‚¬â€œ som også hadde&lt;br&gt;fiskerettigheter ââ‚¬â€œ som varte i ca. 50 år før munkene omsider måtte gi seg.&lt;br&gt;(Kilde: Â«Se deg omkringÂ», Naturvernforbundet Hordaland)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kart:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1215 IV Samnanger (1:50 000), 1216 III
+Stanghelle (1:50 000), Osterfjord fiske- og friluftskart (1:75 000).&lt;/p&gt;
+"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e16ade8c2314.jpg> ;
+	<image_credit>		"""Jan Petter Svendal """ ;
+	<created>		"""2011-07-07 15:08:50""" ;

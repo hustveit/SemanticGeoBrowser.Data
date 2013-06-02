@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route68>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/68> ;
+	<name>		"""Spelhaugen-Tennebekktjørna"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""4""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""1""" ;
+	<created>		"""2011-03-28 15:48:43""" ;
+	<encoded_path>		"""_bkoJ_td_@??Gv@Kr@Ub@Op@Ql@WVY\[R[D[DYTYTYZSb@W\YXS`@WZYX[LYTYVY\YPUd@c@PWV[R[VW^YZYL[F[MYSYKYX????AB[@[F[F[D[L]BWXUp@[HYVWX[E[@YC[?[N[L[B[NY@YL[RYVYVYH[@[SYOYQ_@_@YQ[U[Q[A_@@]?[FYL[H_@?]@[F_@@a@PUh@Ub@E`AAx@Sh@Ub@Qj@Cv@Et@Jp@ZRNh@Ht@Oh@Kp@Ql@Kn@Gt@Q~@Mn@Y^[N[T]L]LWb@_@B[B?~@b@^Vt@\[T]ZVZJXL\BV^Tb@Rn@@x@Dv@Jr@Lr@Ht@Jn@XVZBZHXBVV\BZFXOXOTe@V_@V]ZKZKXKXU^O\WZE?v@Sh@Kp@F|@Gt@G`APk@Rg@X]Xg@\g@Ju@Jw@C{@?w@Hs@Hs@Rw@Ry@H{@Pk@Pq@Vc@Ze@V[Rm@?{@Qk@]AWWQe@Qm@Ue@YSIq@?y@Ls@Pg@Lm@Lq@Vm@Ra@V_@Vu@Xi@\a@XYZa@Vc@Po@Rm@ZY\@XDZQVY^KV_@\Q`@MZOXS\?XTZLXA^YX]ZWXUZWZYXS\[V_@\SZU^]`@[VYX]XSXW\W^UVa@XWX[X]XQXOVo@No@Fw@Dw@Ko@??""" ;

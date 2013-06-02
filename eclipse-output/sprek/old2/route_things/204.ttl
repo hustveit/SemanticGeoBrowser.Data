@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route204>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/204> ;
+	<name>		"""Kapperdalen-Nepstad"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""4.2""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-07-19 15:41:17""" ;
+	<encoded_path>		"""m~rpJawn_@{B`Eg@g@JaBBk@eAvA_@gBMq@VwAAmA]?w@p@KfAgAjAwB~BoAlDqCpEeBj@o@jAsBfB_C`E}@gAeC|AeA`Ac@a@_ANcAbBw@p@kAdAs@vAcCv@IUPcCUyBiBf@o@aA{AKgAv@k@q@{@qAgBk@sAlB_BvAoBzF}BnEm@?e@`@QpAIj@{BnD}@t@s@|A_@rCWhCsAhDi@zDC`A}AjA_@KyA`A_FTyAzEwAfBk@^YlA_A`AoChDuBpBcAaA_BDiC|AkHxIqCfA_@g@yBrAqB?IbCUz@m@lBcFdEu@z@y@nDo@|Bq@^""" ;

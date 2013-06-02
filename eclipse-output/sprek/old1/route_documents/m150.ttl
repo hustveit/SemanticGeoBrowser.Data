@@ -1,0 +1,25 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route150>
+	a	...Thing... ;
+	<name>		"""Stendafjellet fra Stend """@no ;
+	<ingress>		"""Kjekk og lett familietur med nydelig utsikt til Fanafjorden."""@no ;
+	<description>		"""&lt;p&gt;&lt;b&gt;Rutebeskrivelse:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Turen starter fra Stend stasjon, fÃ¸lg grusveien oppover. Stien er fin og lett Ã¥ fÃ¸lge. Etter omtrent 700 meter mÃ¸ter du et stiskille, fÃ¸lg stien til venstre mot StendsÃ¥sen. Her kan det vÃ¦re noe myrlendt og vÃ¥tt, sÃ¦rlig etter regnvÃ¦r. FÃ¸lg stien videre mot venstre i neste stiskille. NÃ¥r toppen er nÃ¥dd er det bare Ã¥ nyte rasten og utsikten mot Fanafjorden, fÃ¸r man fortsetter hjemover. Man kan velge Ã¥ gÃ¥ samme vei ned igjen, eller fortsette videre pÃ¥ stien sÃ¥ man gÃ¥r en liten rundtur. Ved stiskillet tar man til hÃ¸yre og fÃ¸lger veien ned til man kjenner igjen veien. Da er det bare Ã¥ fÃ¸lge grusveien nedover til man ser parkeringsplassen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tilkomst:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Stendafjellet ligger Ã¸st for bossplassen i RÃ¥dalen. KjÃ¸r av til venstre mot Titlestadveien hvis du kommer fra retning Lagunen. Det er parkeringsmuligheter ved gamle Stend stasjon i Titlestadveien. Det gÃ¥r ogsÃ¥ flere busser forbi: 60, 61, 62 og 64.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tidsbruk:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Hele turen tar rundt tre kvarter, avhengig av tempo og rastetid. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Passer for:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Denne turen passer godt for familier. Turen kan lett kombineres med et spennende besÃ¸k pÃ¥ Hordamuseet eller en badetur i Melkeviken. Det er mulig Ã¥ benytte trillevogn pÃ¥ grusveien, men vÃ¦r obs pÃ¥ at det er natursti opp mot toppen, sÃ¥ det kan vÃ¦re en fordel med bÃ¦remeis.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Utstyrsbehov:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;PÃ¥ sommerstid holder det med joggesko, men etter regnvÃ¦r kan det vÃ¦re greit Ã¥ bruke gummistÃ¸vler eller andre vanntette sko.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fakta om turen:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ved Stend jernbanestasjon stÃ¥r det en gammel togvogn som er Ã¥pen. Det kan vÃ¦re spennende for barn Ã¥ gÃ¥ inn og titte. Det er ogsÃ¥ mulig Ã¥ stikke innom Hordamuseet og kafeen der. Ved museet ligger ogsÃ¥ badestranden Melkeviken.&amp;nbsp;&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4dfb106da3891.JPG> ;
+	<image_credit>		"""Sturle Rasmussen""" ;
+	<created>		"""2011-06-15 13:14:34""" ;

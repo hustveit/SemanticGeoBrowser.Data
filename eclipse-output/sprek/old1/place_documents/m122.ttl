@@ -1,0 +1,15 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place122>
+	a	...Thing... ;
+	<name>		"""Myrdalen"""@no ;
+	<ingress>		""""""@no ;
+	<description>		"""&lt;p&gt;Initial content&lt;/p&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<image_credit>		"""""" ;
+	<trimtoppen_image>		<http://turcache.bt.no/webroot/img/NULL> ;
+	<trimtoppen_description>		""""""@no ;
+	<trimtoppen_image_credit>		"""""" ;
+	<created>		"""2011-07-12 10:50:05""" ;
+	<modified>		"""2011-08-01 08:09:38""" ;
+	<gowalla_name>		"""Myrdalsskogen"""@no ;
+	<gowalla_description>		""" """@no ;

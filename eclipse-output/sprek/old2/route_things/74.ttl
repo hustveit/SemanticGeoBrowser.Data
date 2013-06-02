@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route74>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/74> ;
+	<name>		"""Stendafjellet rundt"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>		"""5.9""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-04-06 09:22:07""" ;
+	<encoded_path>		"""ql_oJmnp_@IW?AAEDG@CDEb@`@RVJHPD\Y`@Yj@MLINSDF^F\Aj@GXBb@@NCDATIRIZe@?A`@J?j@CFUTUj@@d@Rb@RUVOb@QNLDBd@DT?VYb@WXWHBV[h@_@TU^SHAN@VQBE?Bh@Rn@cA]RMR?EQEBNIaALKIMTIf@]~@c@JQVc@b@h@p@k@Mf@XUVIFDf@QHIQHRJj@HFGf@i@RF@WTONM\BP`@FCVRDXFV`@Db@[FANM??\MLBh@QHu@b@gAPWJ[FQV[b@m@C[Pe@PSPAP\@Db@\BP\PdA?n@Mb@E`@Kf@I^SZSLULVJEJNB@RTRd@Hd@PVf@`AXJP]Rg@^WPVRp@NNZI^[Ve@h@g@R_@Xk@^uANg@LYBMR[Nc@@@^FVRDXVn@Zb@F^?`AIj@Nx@RjARPXAVHb@Jf@d@h@AT?^EPHXZDRTf@j@~@RPX?TSLQFEBGRWl@SBA^O@AJc@BMBq@@a@?CAU?]H}@Ps@FFBA`@OB?NNVf@Xf@PLd@`@VXh@^Xd@Tx@DFRD@@LBJJHHLDVPFJFFLPXd@\RRj@B?Tp@RVPH??DZFh@P|@H^J~@?H?AKlA?b@ABKdAMFUPMA?BUZ_@TURYPQLY\[Pc@REB?LMP[HEBe@d@QR[h@[TUTONWb@OXSVEFQPWJYP]d@_@Ni@v@ABKD[FYV[f@[Ra@f@e@Ae@L_@g@m@Mc@Le@Hq@p@G?UHc@d@UTYFYJWF?@ACUR[Ri@Ik@MO?c@?aA?}@GGEm@Qm@]k@o@]e@e@]e@W[XY?sAaAy@t@i@p@k@Xg@FMFc@Q]Ce@i@CEc@a@WAAD[BUDW^MVQXa@`@e@VQFSHA?BE[A_@Ea@K_@@WOOT[i@O_@OUUu@Yy@]}@YQUM]Ok@Me@K_@IA@a@?MHYDi@H_@P_@h@[l@AJOh@Kf@QvAKv@WzAc@`@YOMEc@[YL]ZMdASJ_@]OCa@k@_@aACAWq@Ym@i@qAOk@OqAGWIk@QoAK}@M{@]cAk@gAe@w@SAg@g@]k@Ms@GMGo@""" ;

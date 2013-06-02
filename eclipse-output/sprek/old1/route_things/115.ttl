@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route115>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/115> ;
+	<name>		"""Gyldenpris â€“ Melkeplassen â€“ LÃ¸vstakken"""@no ;
+	<length_in_time>		"""60""" ;
+	<length_in_km>		"""3""" ;
+	<difficulty>		"""2""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-15 13:57:24""" ;
+	<encoded_path>		"""_fpoJqvl_@??Ft@Bt@@v@?z@Az@@|@?v@?v@Bv@Nj@Rd@Rf@Fv@G`AMn@Ev@FdAV\XNXV^W^DZ?b@B`@OXQXNXPZLZKXPV^ZCZAZCXI\EZAZAXNZRXKZC^UXUZe@Ri@Nk@Pg@Vk@XWZYXa@XYZc@`@U^MXC\i@Nm@\SRq@Xc@`@I^EXYZAXB\TXAXUVVVb@V\X@ZBXOZBX?ZOZHZET]XUXQXOTa@Rg@Ta@XSTa@XKV[Ri@X[Pi@V]No@ZGVWTa@ZGT_@Lq@Pk@Fu@Hs@Re@N}@V]ZSXSXQXSXOXYZILw@AgAEy@O_ACaAMo@Lq@ZOZF^`@V[Z?ZFXQXS?BFu@Cu@Hs@Bu@XULm@Rk@Fs@Lq@XXBw@No@Pg@`@EXQZLZQXMZ?XSZHZ@XDZDZ?ZFZKXUVWZ?XMZKVRLp@Ll@Rf@Rh@d@RT^T`@XNNl@XNTb@Tb@VZRh@T`@Xc@Lo@ZKXRT^XQZH??""" ;

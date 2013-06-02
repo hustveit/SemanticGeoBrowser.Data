@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route281>
+	a						...Thing... ;
+	<sameAs>				<http://tur.bt.no/tur/281> ;
+	<name>					"""Flornes og Ãâ€¦nuglo"""@no ;
+	<length_in_time>		"""90""" ;
+	<length_in_km>			"""3""" ;
+	<difficulty>			"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>				"""2011-10-11 14:07:32""" ;
+	<encoded_path>		"""yyulJq}ma@UqAZgAb@aAJqAPwAp@kBl@Gb@iA~@qCb@iAEsBYaAXcCVmBXiAZqCLwATaAp@q@`@?Pb@v@Op@gA\Mf@iAbAc@t@]v@Gr@}A@cCf@e@|@d@V?p@Gr@]@k@Sy@CgAx@e@^UZc@t@?~@?jAMfAe@j@}Ad@_BfALrAk@\y@PiCLgBb@k@Z{Bj@eBp@k@p@Gf@b@p@TFr@PdBh@T|@d@d@ZNhAD`APpC^bCPnAt@lBJ`AC`AT~Ap@fDh@zBt@|Bt@jBxA|B^p@r@vAp@bCC~ABxCV~CCtBMpCItBLhCl@hA`AbCZb@P|B?|AFx@PT""" ;

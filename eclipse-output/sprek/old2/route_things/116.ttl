@@ -1,0 +1,11 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route116>
+	a	...Thing... ;
+	<sameAs>		<http://tur.bt.no/tur/116> ;
+	<name>		"""Apptest rute, MC til Torget"""@no ;
+	<length_in_time>		"""20""" ;
+	<length_in_km>		"""1.7""" ;
+	<difficulty>		"""1""" ;
+	<stroller_friendly>		"""0""" ;
+	<created>		"""2011-05-19 16:25:44""" ;
+	<encoded_path>		"""c}toJsln_@hBw@vB|FdCQrCq@vAbAxAtC@rDfAzIlAqCbAv@xEw@xAkBr@Bt@~AT{EpEaMxKmYx@]`HhC""" ;

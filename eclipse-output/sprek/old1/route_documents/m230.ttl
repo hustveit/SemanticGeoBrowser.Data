@@ -1,0 +1,29 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#route230>
+	a	...Thing... ;
+	<name>		"""Nordgardsfjellet-Tellevikfjellet-HÃ¸gstefjellet"""@no ;
+	<ingress>		"""Kjekk tur som gÃ¥r fra topp til topp i Ã…sane."""@no ;
+	<description>		"""&lt;P&gt;&lt;B&gt;Rutebeskrivelse:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen starter fra Baugtveit. FÃ¸lg Baugtveitsveien 100 meter til man ser skiltet som viser veien til Nordgardsfjellet, gÃ¥ til venstre i nordvestlig retning. Stien er merket og lett Ã¥ fÃ¸lge gjennom skogen. FÃ¸lg stien opp til toppen av Nordgardsfjellet (355 moh.). Her er flott utsikt mot Bergen sentrum og havet. Man kan ogsÃ¥ se HÃ¸gstefjellet pÃ¥ andre siden av Baugtveit. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Turen gÃ¥r videre i nordÃ¸stlig retning mot Tellevikfjellet. Stien gÃ¥r litt ned i Salhusdalen fÃ¸r den strekker seg oppover til toppen av Tellevikfjellet (391 moh.). Turen gÃ¥r videre et lite stykke i nordÃ¸stlig retning fÃ¸r den dreier sÃ¸rover ned i skaret. Her er det mulig Ã¥ avslutte turen og fÃ¸lge Baugtveitstemma ned til Baugtveit. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;For Ã¥ fortsette til HÃ¸gstefjellet fortsetter man sÃ¸rover langs eggen frem til HÃ¸gstefjellet (464 moh.). PÃ¥ toppen er det fantastisk utsikt, Herlafjorden i vest, Trollfeltet ut i havet, Nordhordalandsbroen og Gulen i Sogn i nord og i nordÃ¸st kan man se Hamreneset pÃ¥ OsterÃ¸y.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Den siste delen av turen gÃ¥r i sÃ¸rlig retning over HÃ¸gstefjellet frem til Midtfjellet og Husaberget fÃ¸r den gÃ¥r ned igjen til Baugtveitveien og parkeringsplassen. Det er en del hjort i omrÃ¥det sÃ¥ hvis man er heldig vil man kanskje se et par langs turen. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tilkomst: &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;KjÃ¸r til Baugtveit i Ã…sane. Baugtveit ligger i nÃ¦rheten av Salhus. Ta av fra motorveien mot Gullgruven/Ã…sane Kirke og inn pÃ¥ Salhusveien (rv. 564) etter 3,5 km er det skilting til Baugtveit. Man kan parkere pÃ¥ parkeringsplassen etter svingene forbi Hintland. Man kan ogsÃ¥ ta buss nr. 3 eller 260 til StÃ¸botn. Herfra mÃ¥ man Ã¥ gÃ¥ langs Baugtveitveien til turstart. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Tidsbruk:&amp;nbsp;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Turen tar rundt 2,5 timer. &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Passer for:&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;Denne turen passer for de fleste, ta gjerne med barna. Turen gÃ¥r pÃ¥ sti og er derfor uegnet for bruk av rullestol og trillevogn. &lt;/P&gt;
+&lt;P&gt;&lt;B&gt;&lt;/B&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;B&gt;Utstyrsbehov:&lt;/B&gt;&lt;BR&gt;Kle deg etter vÃ¦ret. Gode fjellsko er en fordel.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;I&gt;Turtipset er hentet fra "Opptur Hordaland" (2007) utgitt av Selja forlang og Bergen Turlag.&lt;/I&gt;&lt;/P&gt;"""@no ;
+	<image>		<http://turcache.bt.no/webroot/img/routes/4e3276a3b22d0.jpg> ;
+	<image_credit>		"""Helge Sunde""" ;
+	<created>		"""2011-07-29 09:21:22""" ;

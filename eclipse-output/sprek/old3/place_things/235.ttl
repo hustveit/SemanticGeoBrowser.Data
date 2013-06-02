@@ -1,0 +1,9 @@
+@prefix sf_thing: <http://..../> .
+<http://data.......vestforsk.no/resource/ontology#place235>
+	a						...Thing... ;
+	<name>					"""Eikelifjellet"""@no ;
+	<altitude>				"""256""" ;
+	<serving>				"""0""" ;
+	<sameAS_gowalla_id>		<http://gowalla.com/spots/3165442> ;
+	<gowalla_lng>			"""5.273043655""" ;
+	<gowalla_lat>			"""60.36150067""" ;
